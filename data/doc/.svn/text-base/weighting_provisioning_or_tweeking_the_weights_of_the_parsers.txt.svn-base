@@ -1,0 +1,31 @@
+*** Weighting provisioning - Tweeking the weights of the parsers ***
+
+Steps for doing the Weighting provisioning:
+	
+	Pre-requirements:
+	- know what are the installed cronjobs and where are the correspondent config files and template files.
+	
+	Steps:
+	1- ask Manish which are the weights that he wants to change in the Config files, this is, what are the weights for each Parser.
+	2- ask Manish which are the weights that he wants to change in the Html Tag Template files, this is, what are the weights for each HTML TAG in the crawler template.
+	3- change the correspondent weights in the config and template files, so the next time that the cronjobs run, will have the new weights.
+	4- go to the db and execute the following query: (Basically make all objects expired)
+		update objects set expired=NOW() where object_type=<value from the config file>;
+	5- disable the cronjobs
+	6- run all the following modules manually:
+		+ unique log parser module
+		+ url category parser module
+			* from alchemy categorization => for the browser urls (object_type=1)
+					and
+			* from internal categorization (crawler + semantic + object_category modules) => for the profile urls (object_type=4)
+		+ user category parser module
+		+ user to user parser module
+		+ user group module
+		+ digital persona module
+		
+		(You can create a service in the CP which executes all these modules sequentially)
+	7- after you be sure that all these modules were executed by order above, check if the data is correct in the DB.
+	8- enable the cronjobs again.
+	9- let Manish know that the process already finish and he can see the results.
+	
+	
