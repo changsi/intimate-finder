@@ -1,0 +1,173 @@
+<?php
+/*
+Contains functions for:
+- entity/sn/facebook/login.php
+- entity/sn/facebook/logout.php
+- script/start_fetching_facebook_user_data.php */
+
+require getLibFilePath("sn.platform.facebook.facebook");
+
+
+class SNFacebookService {
+	public $user;
+	private $fbconfig;
+	private $facebook;
+	
+	public function __construct() {
+		$this->fbconfig['appid' ]     = '209332149157812';
+    		$this->fbconfig['secret']     = '3949bdbfb4459e561174d33f62fc8e9c';
+    		$this->fbconfig['baseurl']    = 'http://skyweaver.com/facebook_app/app/sn/facebook/login/';
+    		$this->facebook = new Facebook(array(
+      		'appId'  => 	$this -> fbconfig['appid'],
+      		'secret' => 	$this -> fbconfig['secret'],
+      		'cookie' => true
+	    	));
+    		//$this->user = $this->facebook->getUser();// You cannot do this
+    		
+	}
+	
+	public function setDBDriverForCorePlatform($DBDriver) {
+		
+	}
+	
+	public function setDBDriverForLiveSystem($DBDriver) {
+		
+	}
+	
+	public function setAccessToken($data){
+		$this->facebook->setAccessToken($data['access_token']);
+		$this->user = $this->facebook->getUser();
+	}
+	
+	/* START OTHERS FUNCTIONS */
+	
+	//$data = ?
+	//To be used by entity/sn/facebook/login.php
+	public function login() {
+		$para = array(
+                'scope'         => 'read_stream,user_birthday,user_education_history,user_activities,offline_access,user_relationships,user_relationship_details,user_work_history,user_interests,',
+                'redirect_uri'  => 'http://skyweaver.com/facebook_app/app/sn/facebook/login/'
+            );
+		$loginUrl   = $this->facebook->getLoginUrl($para);
+		
+		return $loginUrl;
+		
+		//TODO
+	}
+	
+	//$data = ?
+	//To be used by entity/sn/facebook/logout.php
+	public function logout($data) {
+		$logoutUrl  = $this->facebook->getLogoutUrl();
+		//TODO
+	}
+	
+	/* START GET FUNCTIONS */
+	
+	//$data = [ "user_id" => 123456 , "limit" => 100]
+	//To be used by script/start_fetching_facebook_user_data.php
+<<<<<<< .mine
+	public function getUserFeeds($data) {
+		//TODO
+=======
+	public function getUserFeeds($data) {
+>>>>>>> .r749
+		if($this->user){
+			$user_feed = $this->facebook->api('/'.$data["network_user_id"].'/feed', array("limit" => $data['limit']));
+			return $user_feed;
+		}else{
+			$user_feed = $this->facebook->api('/me/feed','GET', $data);
+			return $user_feed;
+		}
+		return false;
+	}
+	
+	//$data = [ "limit" => 100]
+	//To be used by script/start_fetching_facebook_user_data.php
+<<<<<<< .mine
+	public function getUserFriends($data) {
+		//TODO
+=======
+	public function getUserFriends($data) {
+>>>>>>> .r749
+		if($this->user){
+			$user_friends = $this->facebook->api('/me/friends', array("limit" => $data['limit']));
+			return $user_friends['data'];
+		}else{
+			$user_friends = $this->facebook->api('/me/friends','GET',$data);
+			return $user_friends['data'];
+		}
+	}
+	
+<<<<<<< .mine
+	public function getFriendFeeds($data, $token){
+		if($this->user){
+			$user_feed = $this->facebook->api('/'.$data.'/feed');
+			return $user_feed;
+		}
+		else{
+			$user_feed = $this->facebook->api('/'.$data.'/feed', 'GET', $token);
+			return $user_feed;
+		}
+	}
+	
+	//$data = ?
+=======
+	//$data = ["network_user_id" => "45154"]
+>>>>>>> .r749
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserProfile($data) {
+		if($this->user){
+			$user_profile = $this->facebook->api('/'.$data["network_user_id"]);
+			return $user_profile;
+		}
+	}
+	
+	//$data = ?
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserFeedsUrls($data) {
+		//TODO
+		
+	}
+	
+	public function getAccessToken() {
+		if($this->user){
+			$access_token = $this->facebook->getAccessToken();
+			return $access_token;
+		}
+		
+	}
+	
+	//$data = ["network_user_id" => 1232]
+	//get the user name of a user
+	public function getUserName($data) {
+		if($this->user){
+			$result = $this->getUserProfile($data);
+			return $result['name'];
+		}
+		
+	}
+	
+	//$data = ["network_user_id" => 1232]
+	//get the user pseudo (aka username) of a user
+	public function getUserPseudo($data) {
+		if($this->user){
+			$result = $this->getUserProfile($data);
+			return $result['username'];
+		}
+	}
+	
+	public function getUserId() {
+		if($this->facebook->getUser()){
+			$this->user = $this->facebook->getUser();
+			return $this->user;
+		}
+		return false;
+	}
+	
+	//$data = ?
+	public function publishPostInUserWall($data) {
+		//TODO
+	}
+}
+?>
