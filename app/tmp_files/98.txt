@@ -1,0 +1,108 @@
+subclassing
+209
+
+codedom
+209
+a framework which can be used to create an (abstract) expression tree representing real code structures (e.g. classes, statements, etc.) in a language independent way. This means if you con…
+textfile
+208
+
+web-app
+208
+
+xerces
+208
+a collection of software libraries for parsing, validating, serializing and manipulating XML
+flashdevelop
+208
+a popular, free and open source IDE for ActionScript and haXe.
+functor
+208
+An object that can be invoked or called as though it were a function.
+2d-array
+208
+An array which stores values with 2 indices
+mode
+208
+
+pipeline
+208
+a sequence of functions (or the equivalent thereof), composed so that the output of one is good input for the next, in order to create compound transformation. Famously, in shell syntax …
+sql-developer
+208
+a free IDE (Integrated development environment) for working with SQL in Oracle databases. It is written in Java.
+rebol
+208
+a modern interpreted language where code is data.  It isn't object oriented, but has objects.  It isn't a functional language but behaves like one.  There are virtually no syntax rules or imm…
+radiobuttonlist
+208
+
+slidedown
+207
+
+firefox4
+207
+Version 4.0 of the Mozilla Firefox browser, which was released on 22 March 2011. This version was supported until 21 June 2011.
+intranet
+207
+
+hdfs
+207
+the primary storage system used by Hadoop applications. HDFS creates multiple replicas of data blocks and distributes them on compute nodes throughout a cluste…
+identifier
+207
+
+windows-shell
+207
+Windows Explorer. Shell programming deals with Start menu shortcuts, file associations and shell extensions.
+virtuemart
+207
+Open source ecommerce extension designed to work with Joomla! CMS
+coldfusion-8
+207
+For issues relating to using ColdFusion, version 8.
+core-foundation
+207
+Core Foundation provides the fundamental data types and essential services that underlie both the Cocoa and Carbon environments on Mac OS X.
+boost-spirit
+207
+a set of C++ libraries for parsing and output generation implemented as Domain Specific Embedded Languages (DSEL) using Expression templates and Template Meta-Programming. The Spirit l…
+xlib
+207
+a library used to communicate with X11 servers. This is the library that widget toolkits like GTK+, Qt, and Motif use to draw their graphics, and it's considered to be low-level.
+zooming
+207
+Zooming refers to issues relating to scaling viewed areas in a graphical user interface.
+battery
+207
+
+base
+207
+
+isapi
+206
+The Internet Server Application Programming Interface (ISAPI) is an N-tier API of Internet Information Services (IIS).
+sidebar
+206
+is to be used for issues relating to displaying or rendering information to the side of an application.
+selected
+206
+
+sample
+206
+
+primitive
+206
+a data type provided by a programming language as a basic building block.
+requirejs
+206
+a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
+multiplayer
+206
+typically refers to a feature of games software where more than one user can interact with the same instance of the software, often to participate in the same play session or to co…
+mysql-workbench
+205
+a visual database design tool that is developed by MySQL. It is the successor application of the DBDesigner4 project.
+outer-join
+205
+

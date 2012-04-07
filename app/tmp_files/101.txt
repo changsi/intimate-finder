@@ -1,0 +1,112 @@
+wcf-rest
+200
+
+circular-dependency
+200
+
+chm
+200
+the fileformat of Microsofts first attempt at a html help format, htmlhelp1. 
+
+While htmlhelp2 and 3 exist, these mostly are limited to MSDN as delivered with Visual Studio.
+
+While Microsoft di…
+controllers
+200
+
+gitignore
+200
+a file, which lists files and directories that Git should not include as part of a repository.
+keylistener
+200
+an implementation of the Observer pattern which is created specifically for handling keyboard events.
+jaas
+200
+the Java Authentication and Authorization Service found in the JRE (1.4+).
+iis5
+200
+
+ms
+200
+usually used to denote Microsoft, but is usually useless, please don't use it.
+ontouchevent
+200
+
+standard
+200
+
+samba
+199
+the standard Windows interoperability suite of programs for Linux and Unix.
+s#arp-architecture
+199
+An architectural foundation for rapidly building maintainable web applications leveraging the ASP.NET MVC framework with NHibernate.
+pid
+199
+In computing, the process identifier (normally referred to as the process ID or just PID) is a number used by most operating system kernels (such as that of UNIX, Mac OS X or Microsoft Windows) to (te…
+fluent-interface
+199
+Refers to a practice of coding object-oriented APIs with the aim of improving readability of the interface, normally implemented using method chaining. The phrase was first coined by Eric Evans and Ma…
+externalinterface
+199
+The ActionScript ExternalInterface class enables communication between ActionScript and the SWF container. For example, ExternalInterface can be used to call an ActionScript function in Flash, from Ja…
+crash-reports
+199
+Crash reports covers anything related to obtaining any data related to an application failure.
+ankhsvn
+199
+a Subversion Source Control Provider for Microsoft Visual Studio
+adhoc
+199
+a solution designed for a specific problem or task, non-generalizable, and not intended to be able to be adapted to other purposes
+ddms
+199
+
+antivirus
+198
+
+amf
+198
+a binary format used to serialize ActionScript objects. It is used primarily to exchange data between an Adobe Flash application and a remote service, usually over the i…
+bitmapdata
+198
+
+statemachine
+198
+a model for designing systems which change based upon their current state and what input they receive.
+fatal-error
+198
+Any question related to a fatal error regardless of programming language.
+emgucv
+198
+a cross-platform .NET wrapper to the Intel OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The w…
+dlr
+198
+The Dynamic Language Runtime (DLR) from Microsoft is an ongoing effort to bring a set of services that run on top of the Common Language Runtime (CLR) and provides language services for several differ…
+homebrew
+198
+a package manager for Mac OS X.
+memcpy
+198
+C Programming Language function - "Copy block of memory"
+pojo
+198
+an acronym for Plain Old Java Object. The name is used to emphasize that a given object is an ordinary Java Object, not a special object, and in particular not an Enterprise JavaBean.
+movie
+198
+
+modularity
+198
+Modularity describes the degree to which a systemâs components may be separated and recombined.   It refers to both the tightness of coupling between components, and the degree to which the ârulesâ of…
+sendmessage
+198
+
+shuffle
+198
+
+modelbinders
+197
+
+pixels
+197
+In digital imaging, a pixel, or pel,[1] (picture element[2]) is a single point in a raster image, or the smallest addressable screen element in a display device; it is the smallest unit of picture tha…

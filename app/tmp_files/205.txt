@@ -1,0 +1,108 @@
+setattribute
+65
+
+security-roles
+65
+
+saving-data
+65
+
+rxtx
+65
+
+rejection
+65
+
+rbac
+65
+short for Role Based Access Control, an authorization and access control model in which access to restricted resources is granted or denied based on whether the requester's identity is associa…
+.net-3.0
+65
+.NET Framework 3.0, formerly called WinFX was released on 21 November 2006. There are no major architectural changes included with this release; .NET Framework 3.0 uses the Common Language Runtime of …
+django-fields
+65
+
+django-1.3
+65
+For issues relating to using Django, version 1.3.
+ejs
+65
+Embedded JavaScript templates for node - Express compliant
+duplication
+65
+
+exchange-2003
+65
+
+glew
+65
+The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are su…
+google-account
+65
+a user account that provides access to Google-owned services.
+fat32
+65
+
+fan
+65
+
+forgot-password
+65
+
+liquid-layout
+65
+
+lsp
+65
+The Liskov Substitution Principle (LSP) states that an instance of type T should be replacable with an instance of a subtype of T.
+loose-coupling
+65
+
+measure
+65
+
+mdiparent
+65
+
+mdm
+65
+Mobile Device Management
+meego
+65
+Open Source Operating System primarily for the mobile devices and developed by Nokia and Intel.
+keyvalue
+65
+
+layoutparams
+65
+
+ip-camera
+65
+
+iso8601
+65
+the International Standards Organization's standard for representing time as a string. It covers dates, times, timezones, durations, and many other things.
+in-array
+65
+
+inbox
+65
+
+history.js
+65
+A JavaScript library implementing the HTML5 History APIs for backwards compatibility with legacy browsers.
+high-load
+65
+
+hotlinking
+65
+
+heartbeat
+65
+
+http-server
+65
+
+android-adapter
+65
+

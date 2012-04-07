@@ -1,0 +1,108 @@
+manual
+131
+
+memoization
+131
+an optimization technique used primarily to speed up computer programs by having function calls avoid repeating the calculation of results for previously-processed inputs.
+heatmap
+131
+a graphical representation of data where the individual values contained in a matrix are represented as colors.
+ics
+131
+iCalendar-format files that communicate information about calendar events. They are used as a platform-independent, industry standard way to share calendar information among users of di…
+httpconnection
+131
+
+ampersand
+131
+
+aptana3
+131
+Refers to version 3 of the Aptana IDE (Integrated Developer Environment)
+boto
+131
+boto:  Python interface to Amazon Web Services
+castle-dynamicproxy
+131
+
+tuning
+131
+
+teradata
+131
+a massively parallel processing system running a shared nothing architecture.
+visualsvn-server
+131
+
+xargs
+131
+a command on Unix and most Unix-like operating systems used to build and execute command lines from standard input.
+unbind
+131
+
+stocks
+130
+
+ccsprite
+130
+ccsprite represents all the characters in a cocos2d game.
+configurationmanager
+130
+In the .Net framework, ConfigurationManager is a built-in object that provides access to configuration files.
+conditional-compilation
+130
+Compilation of certain parts of source code will be included/excluded. This can be often reached by pre processing the source code in some way. Including/Excluding parts of the source may be controlle…
+heredoc
+130
+a special syntax of writing literal strings in sourcecode, used by different programming languages.
+infinite
+130
+
+marketplace
+130
+
+generic-programming
+130
+
+full-text-indexing
+130
+
+facebook-sharer
+130
+
+formatter
+130
+
+qtableview
+130
+a Qt class providing a default model/view implementation of a table view.
+scrollable
+130
+A scrollable control affords the user the ability to slide text, images or video across a monitor or display, usually to conserve screen real estate.
+speech
+129
+involving applications such as text-to-speech (TTS) and speech synthesis
+prototypal-inheritance
+129
+Prototypical-based inheritance reuses behavior by cloning existing objects that serves as prototypes. JavaScript is a very good example of prototypical-based inheritance.
+relation
+129
+any subset of S1 x S2 x ... x SN, where 'x' denotes the Cartesian product. In other words, a relation over N sets is any set of ordered N-tuples over the N sets.
+objective-c-runtime
+129
+a runtime support library provided with an implementation of the Objective-C language. Its API allows dynamically creating and configuring classes at runtime, as well as int…
+opensocial
+129
+
+pmd
+129
+PMD scans Java source code and looks for potential problems like possible bugs, dead code, suboptimal code , overcomplicated expressions and duplicate code.
+fluid-layout
+129
+
+face-detection
+129
+a computer technology that determines the locations and sizes of human faces in arbitrary (digital) images. It detects facial features and ignores anything else, such as buildings, t…
+addition
+129
+

@@ -1,0 +1,109 @@
+retry
+50
+
+rhel5
+50
+Red Hat Enterprise Linux version 5
+skins
+50
+
+sitemapprovider
+50
+ASP.NET System.Web.SiteMapProvider class that provides a common base class for all site map data providers, and a way for developers to implement custom site map data providers that can be used with t…
+size-t
+50
+
+so
+50
+
+socialengine
+50
+a PHP-based white label social network platform.
+splitcontainer
+50
+a object that allows the user to split a page/form in multiple sections with each section being resizable.
+shallow-copy
+50
+
+natural-sort
+50
+
+nicedit
+50
+a Lightweight, Cross Platform, Inline Content Editor to allow easy editing of web site content on the fly in the browser
+network-drive
+50
+
+mql
+50
+Freebase's Metaweb Query Language or ForEx Metatrader Query Language
+personalization
+50
+Personalization involves using technology to accommodate the differences between individuals, such as greeting the user by name or varying content according to what you know about the user's interests…
+pcl
+50
+about questions pertaining to PCL. PCL or Printer Control Language has been developed by Hewlett Packard and is now the de-facto standard for printer languages (laser and ink).
+pia
+50
+
+owasp
+50
+The Open Web Application Security Project (OWASP) is an organization that wants to inform people about application security. Website at http://owasp.org.
+p3p
+50
+The Platform for Privacy Preferences Project, or P3P, is a protocol allowing websites to declare their intended use of information they collect about browsing users.
+ora-00933
+50
+SQL command not properly ended. Cause: You tried to execute an SQL statement with an inappropriate clause.
+oom
+50
+
+onerror
+50
+
+object-database
+50
+
+opc
+49
+Open Connectivity stands for industrial standard of standardized acquisition of processing data.
+osmf
+49
+a free, open source, development framework for building video experiences on the web and desktop. OSMF is a pure ActionScript3.0 based framework and is created by…
+ppp
+49
+
+mpmediapickercontroller
+49
+
+mpich2
+49
+a freely available, portable implementation of the MPI-1 and MPI-2 Message Passing Interface standards.
+midp-2.0
+49
+a revised version of the MIDP 1.0 specification.
+Includes new features such as an enhanced user interface, multimedia and game functionality, greater connectivity, over-the-air (OTA) prov…
+modalpopups
+49
+
+nested-queries
+49
+
+navigator
+49
+The Navigator object contains information about the visitor's browser name, version, and more.
+nsscanner
+49
+
+nstimezone
+49
+
+self-teaching
+49
+
+spock
+49
+a testing and specification framework for Java and Groovy applications.
+small
+49
+

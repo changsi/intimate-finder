@@ -1,0 +1,108 @@
+serial
+512
+
+sap
+512
+SAP (Systemanalyse und Programmentwicklung) is a product based company based in Germany AG. The company's best known products are its SAP ERP & BusinessObjects.
+permutation
+511
+
+multilingual
+511
+Refers to the use of more than one (natural) language.  This does not refer to the use of multiple programming languages.
+jira
+511
+an enterprise-class issue- and project-tracking system.
+jdk
+510
+a set of tools that Oracle, formerly Sun Microsystems, provides for developing Java applications.
+lotus-notes
+510
+Tag for programming questions related to Lotus Notes & Domino
+scaling
+510
+Scaling refers to the image manipulation function of re-sizing an image. For issues to do with handling increasing workload gracefully in software or network components, see "scalabilty".
+designer
+510
+
+android-camera
+509
+refers to programmatic access to the camera in Android devices
+javascript-framework
+509
+a library of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies.
+hidden
+509
+
+fields
+509
+
+uibarbuttonitem
+508
+UIBarButtonItem class represents bar button item in Apple iOS.
+crud
+507
+The four basic operations for a data management system : Create, Read, Update, Delete
+atl
+507
+a set of C++ template classes that is used to create COM objects.
+difference
+507
+another word for (perhaps absolute) subtraction, but most existing uses refer to the discouraged meta meaning of comparison.
+fadein
+507
+
+gson
+507
+a Java-to/from-JSON processing library, for serializing and deserializing Java data structures to and from JSON.
+nuget
+507
+a free, open source developer focused package management system for the .NET platform.
+valgrind
+506
+a dynamic analysis tool for Linux systems. It can be used for profiling, finding memory leaks, race conditions, and threading errors.
+language-features
+505
+a distinct aspect of a programming language, such as binding rules, lexical design, or facets of the type system.
+gac
+504
+is for issues relating to the global assembly cache.
+education
+504
+Specific to instruction, learning or teaching of, or by programmers
+adb
+504
+a tool that comes with the Android SDK that allows you to control and interface with your Android device.
+domdocument
+503
+DOMDocument refers to a class encapsulating the DOM (Document Object Model).  Various languages and technologies use the name DOMDocument for this PHP, COM, C++, ActiveX
+virtualenv
+503
+a tool that creates sandboxed Python environments.
+diagram
+503
+a two-dimensional geometric symbolic representation of information according to some visualization technique.
+legal
+502
+
+idisposable
+502
+an interface within the Microsoft .NET Framework's Base Class Library (BCL). It is intended to provide a generic, deterministic method of releasing unmanaged resources within .NET appli…
+file-permissions
+501
+
+nokia
+501
+a Finnish multinational communications corporation. Nokia is engaged in the manufacturing of mobile devices and in converging Internet and communications industries. It is the wor…
+mime
+501
+Multipurpose Internet Mail Extensions (MIME) is an Internet standard that extends the format of email to support: text in character sets other than ASCII, non-text attachments, message bodies with mul…
+racket
+501
+an extensible multi-paradigm programming language descended from Scheme.
+where-clause
+501
+A syntactic form in functional languages used to bind a value to a name in a local scope.  Similar, but not identical to, `let`.
+cycle
+500
+

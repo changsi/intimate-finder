@@ -1,0 +1,109 @@
+quiz
+118
+
+project-organization
+118
+
+pycurl
+118
+
+sscanf
+118
+A function used in many languages to parse data from a string that matches a given pattern.
+servicemix
+118
+an open source ESB (Enterprise Service Bus) that combines the functionality of a Service Oriented Architecture (SOA) and an Event Driven Architecture (EDA)  to create an agile, en…
+service-layer
+117
+A Service Layer represents one application boundary and consists of set of available operations from the perspective of interfacing client layers. It encapsulates the application's business logic, con…
+setfocus
+117
+
+sanitize
+117
+
+sigsegv
+117
+the signal sent to a process when it makes an invalid memory reference, or segmentation fault.
+rich-internet-application
+117
+
+openoffice-calc
+117
+related to OpenOffice.org Calc, a spreadsheet application which is similar to Microsoft Excel.
+oracle-xe
+117
+Oracle Database Express Edition (Oracle Database XE) is an entry-level, small-footprint database, free to develop, deploy, and distribute; fast to download; and simple to administer.
+out-of-browser
+117
+A general term describing applications which use client side web-standard technologies to create a desktop application.  Synonyms include [tag:RIA].
+poll
+117
+
+post-commit
+117
+
+nsmenuitem
+117
+The NSMenuItem class from AppKit.framework in Mac OS, defines objects that are used as command items in menus.
+django-celery
+117
+Django-celery provides Celery integration for Django.
+docking
+117
+arranged inside a container. Each docked panel is attached to another panel or a side of the container.
+file-rename
+117
+rename-file means changing name of a file
+finite-automata
+117
+a mathematical description of an algorithm capable of parsing regular languages. FAs have no external memory, and as such can only take into account a fixed number of previo…
+facebook-iphone-sdk
+117
+
+feedparser
+117
+
+hierarchicaldatatemplate
+117
+a subclass of DataTemplate that allows you to bind directly to a hierarchy of objects.
+istream
+117
+
+mdf
+117
+
+copy-protection
+117
+
+boilerplate
+117
+the term used to describe sections of code that have to be included in many places with little or no alteration.
+zen-cart
+117
+Free open source shopping cart software written in PHP, originally as a fork of osCommerce
+yahoo-api
+117
+covers open webservices and APIs provided by Yahoo!
+begininvoke
+117
+
+sudoku
+117
+Sudoku (æ°ç¬ sÅ«doku?, ããã©ã) English pronunciation: /suËËdoÊkuË/ soo-doh-koo is a logic-based,combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, e…
+user-management
+117
+
+unordered-map
+117
+
+unique-key
+117
+
+uifont
+117
+The UIFont class provides the interface for getting and setting font information. Available in iOS 2.0 and later.
+delphi-5
+117
+a specific version of Delphi. It was released in August 1999.
+Use this tag for issues related to development in Delphi, version 5.

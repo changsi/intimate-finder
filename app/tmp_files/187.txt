@@ -1,0 +1,110 @@
+jsessionid
+76
+the name of the tracking parameter defined by the Java servlet API.
+iequalitycomparer
+76
+a .NET framework interface that allows the implementation of customized equality comparison for collections. That is, you can create your own definition of equality, and specify t…
+hotkeys
+76
+Hotkeys provide quick access to user interface application or system actions via combinatorial key presses.
+javacc
+76
+a popular parser generator for Java.
+linguistics
+76
+
+max-width
+76
+http://www.w3.org/TR/CSS2/visudet.html#propdef-max-width
+mbeans
+76
+managed beans, Java objects that represent resources to be managed.
+maxlength
+76
+
+member-functions
+76
+
+file-management
+76
+
+external-process
+76
+
+fsm
+76
+acronym for Finite State Machine
+acs
+76
+short for Windows Azure Access Control Service
+dnd
+76
+
+ecma262
+76
+
+relational-algebra
+76
+an offshoot of first-order logic and of the algebra of sets that deals with relations (sets of tuples). In Computer Science, Relational Algebra is commonly used when dealing with…
+regex-greedy
+76
+
+regasm
+76
+
+sending
+76
+
+settext
+76
+
+screencasts
+76
+
+scatter-plot
+76
+
+scintilla
+76
+a free source code editing component. It includes features especially useful when editing and debugging source code.
+seam2
+76
+a powerful open source development platform for building rich Internet applications on a JEE 5 stack. Seam integrates technologies such as Asynchronous JavaScript and XML (AJAX), JavaServer …
+scriptlet
+76
+
+ruby-1.8
+76
+For issues relating to developing in Ruby, version 1.8.
+sparc
+76
+SPARC(Scalable Processor Architecture) Sun Microsystems's specific CPU.
+slim
+76
+* A RESTful micro framework for PHP 5 inspired by Sinatra.
+* A Ruby template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
+* Simple List Invocation Method…
+message-passing
+76
+
+netcat
+76
+
+onitemclicklistener
+76
+
+openvpn
+76
+
+pdb-python
+76
+an interactive source code debugger for Python programs.
+pci-dss
+76
+The Payment Card Industry Data Security Standard is a worldwide information security standard assembled by the Payment Card Industry Security Standards Council (PCI SSC).
+pfx
+76
+a file format containing public key together with the private key for encription and chain of trust certificates attached to the public key if such a chain exists. Pfx files are protected by a …
+performancepoint
+76
+covers two products: PerformancePoint Server 2007, which was an addition to SharePoint 2007, and PerformancePoint Services, which is integrated with SharePoint 2010.

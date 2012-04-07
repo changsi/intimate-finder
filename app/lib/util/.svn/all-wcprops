@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/signalsiq/!svn/ver/791/trunk/client/facebook_app/app/lib/util
+END
+AffinityHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/util/AffinityHelper.php
+END
+Stemmer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/util/Stemmer.php
+END
+util.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/signalsiq/!svn/ver/791/trunk/client/facebook_app/app/lib/util/util.php
+END
+StringHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/util/StringHelper.php
+END

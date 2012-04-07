@@ -1,0 +1,108 @@
+antialiasing
+235
+The technique of minimizing the distortion artifacts when representing a high-resolution image at a lower resolution
+dataview
+234
+
+w3c-validation
+234
+used to validate HTML and CSS, to make sure the language syntax is correct and error free. Correct use of this tool solves 90% of HTML problems.
+team-build
+234
+
+cqrs
+234
+Command-Query Responsibility Segregation (CQRS) is a principle of separating commands (that change the data) from queries (that read the data). See 'about cqrs tag' for more details and references to …
+caml
+234
+CAML (Collaborative Application Markup Language) is an XML based markup language used with the family of Microsoft SharePoint technologies (Windows SharePoint Services and Office SharePoint Server). F…
+bool
+234
+
+hlsl
+234
+a proprietary shading language developed by Microsoft for use with the Microsoft Direct3D API
+webos
+234
+HP/Palm webOS for smartphones and tablets.
+good-design
+234
+Good Design uses practices which result in efficient and easy to maintain code.
+flush
+234
+
+qtip
+234
+an advanced tooltip plugin for the jQuery JavaScript framework.
+public-key-encryption
+234
+An cryptographic scheme which uses two mathematically related keys; a public and a private key where a message encrypted with public key can only be decrypted with the private key and vice-versa.
+nsnumber
+234
+a subclass of NSValue that offers a value as any C scalar (numeric) type
+nexus
+234
+a Maven Repository Manager. Repository managers serve two purposes: they act as highly configurable proxies between your organization and the public Maven repositories and they also provide a…
+multidimensional
+233
+
+phpbb
+233
+Free and open source forum software written in PHP
+google-checkout
+233
+Online payment processing service provided by Google
+fpdf
+233
+A PHP class which allows to generate PDF files with pure PHP without using the PDFlib library.
+addeventlistener
+233
+
+cufon
+233
+a JavaScript font replacement technique which is an alternative to WebFonts and sIFR
+weka
+233
+an open source machine learning library written in Java.
+wall
+232
+
+icalendar
+232
+a widely-used data format for representing and exchanging calendaring and scheduling information independent of any particular calendar service or protocol.
+httpd.conf
+232
+Apache configuration questions
+mousewheel
+232
+
+privacy
+232
+
+protected
+231
+
+ranking
+231
+
+permalinks
+231
+a URL that points to a specific blog or forum entry after it has passed from the front page to the archives.
+image-resizing
+231
+the downscaling or upscaling of an image. Dozens of algorithms exist, all with performance vs. quality tradeoffs.
+aggregation
+231
+
+wpf-usercontrols
+231
+
+cloud-hosting
+231
+hosting a service, commonly a website, on multiple distributed servers. Like a server farm, this provides greater performance (through load balancing) and availability than using a si…
+dalvik
+230
+the virtual machine used by Google's Android operating system.
+autoit
+230
+a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting.

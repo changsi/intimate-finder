@@ -1,0 +1,108 @@
+nested-function
+22
+
+null-terminated
+22
+
+nspanel
+22
+
+nsurlcredential
+22
+
+npruntime
+22
+
+n-layer
+22
+
+minimized
+22
+one that has been replaced with an object that can restore the original when selected.
+mmo
+22
+A massively multiplayer online game (also called MMO and MMOG) is a multiplayer video game which is capable of supporting hundreds or thousands of players simultaneously. By necessity, they are played…
+metatag
+22
+
+microsoft-reporting
+22
+
+msbuild-propertygroup
+22
+
+mpdf
+22
+a PHP class which generates PDF files from UTF-8 encoded HTML. It is based on FPDF and HTML2FPDF, with a number of enhancements.
+movieplayer
+22
+
+movies
+22
+
+motorola-emdk
+22
+Motorola's Enterprise Mobility Development Kit, available for Java, .NET and C
+multiple-languages
+22
+
+mupdf
+22
+a lightweight, fast PDF and XPS viewer capable to run on multiple platforms, including Android and iOS. It also includes its own `fitz` rendering library.
+multi-friend-selector
+22
+
+mud
+22
+MUDs (historically Multi-User Dungeon, with later variants including Multi-User Dimension and Multi-User Domain) are a broad category of multi-user virtual world systems -- usually text-based, usually…
+msgbox
+22
+
+msflexgrid
+22
+Microsoft FlexGrid control displays and operates on tabular data.
+pearson
+22
+
+pci-bus
+22
+
+phonetics
+22
+a branch of linguistics that comprises the study of the sounds of human speech, orâin the case of sign languagesâthe equivalent aspects of sign.
+php6
+22
+the working name for the current version of PHP under development.
+phpass
+22
+a portable public domain password hashing framework for use in PHP applications.
+photo-upload
+22
+
+periodic
+22
+
+pox
+22
+
+predicates
+22
+
+preconditions
+22
+
+pop-ups
+22
+
+popup-balloons
+22
+
+pos-tagger
+22
+
+pitch-tracking
+22
+
+phptal
+22
+a templating engine for PHP5 that implements the brilliant Zope Page Templates syntax.

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/signalsiq/!svn/ver/942/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe
+END
+get_tribe_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/source/signalsiq/!svn/ver/918/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/get_tribe_categories.php
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/signalsiq/!svn/ver/791/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/list.php
+END
+get_related_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/source/signalsiq/!svn/ver/862/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/get_related_users.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/signalsiq/!svn/ver/942/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/update.php
+END
+insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/signalsiq/!svn/ver/823/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/insert.php
+END
+get_related_dps.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/source/signalsiq/!svn/ver/818/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/get_related_dps.php
+END
+get_tribe_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/source/signalsiq/!svn/ver/918/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/tribe/get_tribe_users.php
+END

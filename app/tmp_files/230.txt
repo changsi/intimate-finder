@@ -1,0 +1,108 @@
+authsub
+54
+Google AuthSub authentication for google endpoints.
+bpmn
+54
+Business Process Model & Notation
+boundary
+54
+
+buildbot
+54
+a software development continuous integration tool which automates the compile/test cycle required to validate changes to the project code base.  -Wikipedia
+browserfield
+54
+
+cardlayout
+54
+
+ddply
+54
+
+decimal-point
+54
+
+dbx
+54
+a source-level debugger, product of Oracle Coporation (formally Sun Microsystem) used to control the execution of a program (step by step, breakpoints, ...) and inspect the content of the memor…
+datasynchronization
+54
+
+delivery
+54
+
+directive
+54
+
+dexterity
+54
+a content type framework for CMF applications, with particular emphasis on Plone. It can be viewed as an alternative to Archetypes that is more light-weight and modular
+diagrams
+54
+
+8051
+54
+a Harvard architecture, single chip microcontroller (µC) which was developed by Intel in 1980 for use in embedded systems.  The 8051 family of microcontrollers and derivatives continue to …
+android-inflate
+54
+
+android-lvl
+54
+Android licensing verification library
+ami
+54
+Amazon Machine Image
+apachebench
+54
+
+api-key
+54
+
+application-cache
+54
+The Application Cache (or AppCache) allows a developer to specify which files the browser should cache and make available to offline users. Your app will load and work correctly, even if the user pres…
+hp-ux
+54
+
+htmldocument
+54
+
+httponly
+54
+a flag in the cookie header, indicating that the browser should hide this cookie from JavaScript and only use it for http and https requests.
+ihttpmodule
+54
+
+javacard
+54
+Java Card refers to a technology that allows Java-dd applications (applets) to be run securely on smart cards and similar small memory footprint devices.
+ios-frameworks
+54
+
+indices
+54
+
+inference
+54
+
+information-extraction
+54
+
+image-segmentation
+54
+In computer vision and image processing, segmentation is the process of partitioning a digital image into multiple sets of pixels.
+jsonresult
+54
+
+kdevelop
+54
+a IDE for C++ and Qt supporting cmake, qmake and custom makefiles.
+jvisualvm
+54
+a Java Virtual Machine Monitoring, Troubleshooting, and Profiling Tool.
+mage
+54
+
+magic-quotes
+54
+

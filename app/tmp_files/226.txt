@@ -1,0 +1,108 @@
+splitter
+56
+
+ssd
+56
+a flash disk and so similar to a thumb drive, but much faster and with a hard-disk interface, typically SATA.
+singly-linked-list
+56
+
+rules-engines
+56
+software components that allow application developers to externalize business rules and manage their lifecycle independently from the application code. They typically use a higher le…
+movabletype
+56
+a weblog publishing system developed by Six Apart, Ltd.  It was initially released in 2001.
+music-player
+56
+
+midl
+56
+
+navigation-properties
+56
+
+mysql-num-rows
+56
+
+post-increment
+56
+For issues relating to defining or performing post increment operations.
+pjsip
+56
+Open source implementation of necessary VoIP protocols SIP, RTP, NAT Traversal suitable for desktop and smartphones. Dual-licensed under GPL and proprietary.
+partial-specialization
+56
+
+panoramas
+56
+
+palm-pre
+56
+
+openrowset
+56
+
+office365
+56
+a commercial software plus services offer from Microsoft Corporation that includes the Microsoft Office suite of desktop applications plus hosted versions of Microsoft's Server…
+omnicomplete
+55
+the name of the Vim feature which provides smart autocompletion. A popup menu offers word completion choices that may include struct and class members, system functions, and more. It i…
+objdump
+55
+
+observable
+55
+
+openid-provider
+55
+
+organizer
+55
+
+ora-01722
+55
+ORA-01722: invalid number Cause: The attempted conversion of a character string to a number failed because the character string was not a valid numeric literal. Only numeric fields or character fields…
+phtml
+55
+
+mysql-error-1111
+55
+Error: 1111 - Invalid use of group function
+net-http
+55
+
+nexus-one
+55
+Mobile phone manufactured by HTC Corporation and using Android as operating system
+nhibernate-3
+55
+for Nhibernate version 3.x series specific question.
+nsinvocation
+55
+
+nsfilehandle
+55
+
+mpmediaitem
+55
+
+sage
+55
+a suite of open-source applications for mathematics
+shopify
+55
+an online platform for creating e-commerce sites.
+sizzle
+55
+a JavaScript CSS selector engine.
+sqlite3-ruby
+55
+
+springsource
+55
+
+recompile
+55
+The act of compiling something again.

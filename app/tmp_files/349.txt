@@ -1,0 +1,108 @@
+sparklines
+25
+
+spatialite
+25
+a library extending the basic SQLite core in order to get a full fledged Spatial DBMS.
+spreadsheetml
+25
+
+sqltransaction
+25
+
+rolling
+25
+
+rpn
+25
+Reverse Polish notation
+roundedcorners
+25
+
+resharper-4.5
+25
+
+real-world-haskell
+25
+Questions about the Real World Haskell Book by O'Sullivan, Goerzen & Stewart
+reentrant
+25
+
+redo
+25
+
+ray
+25
+
+rdbms-agnostic
+25
+
+reliable
+25
+
+propertydescriptor
+25
+
+proxypass
+25
+
+profanity
+25
+A sacrilegious word, or more generally an offensive word. In the SO context, a word that may be filtered out of forum postings etc.
+pyro
+25
+a library that enables you to build applications in which objects can talk to each other over the network, with minimal programming effort.
+python-extensions
+25
+
+qt3
+25
+For issues relating to using Qt, version 3.
+qsub
+25
+a job submission command for high performance computing jobs.
+qlikview
+25
+a tool that provides fast, powerful and visual in-memory business analysis
+qdockwidget
+25
+a class from the Qt framework which represents a widget which can be docked inside a QMainWindow or floated as a top-level window in the desktop. Instances of this class are also called…
+qbasic
+25
+a general-purpose interpreted programming language derived from QuickBasic 4.5. QBasic replaced GWBasic starting from MSDOS 5. It became populair, because it had a quite advanced IDE with a …
+quantization
+25
+
+querydsl
+25
+a framework which enables the construction of type-safe SQL-like queries for multiple backends including JPA, JDO and SQL in Java.
+rad-studio-2009
+25
+
+ramaze
+25
+a simple, light and modular open-source web application framework written in Ruby.
+equalizer
+25
+
+error-detection
+25
+
+epic
+25
+EPIC - Eclipse Perl Plugin (IDE)
+enterprise-manager
+25
+a web-based interface for controlling an Oracle database.
+end-of-line
+25
+
+emulate
+25
+
+embeddable
+25
+
+dtf
+25
+a rich set of .NET class libraries and related resources that together bring the Windows deployment platform technologies into the .NET world. It is designed to gr…

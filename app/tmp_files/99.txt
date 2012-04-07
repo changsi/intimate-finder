@@ -1,0 +1,108 @@
+pretty-print
+205
+the application of any of various stylistic formatting conventions to text, source code, markup, and other similar kinds of content. These formatting conventions usual…
+similarity
+205
+
+filemaker
+205
+a cross-platform (Mac OS X and Windows) database development environment.
+django-template-tags
+205
+
+bugzilla
+205
+a Web-based bug tracking application.
+callstack
+205
+
+ctags
+205
+a program that generates an index (or tag) file of names found in source and header files of various programming languages.
+virtual-directory
+205
+
+visual-studio-lightswitch
+205
+a rapid application development tool for creating data centric Silverlight applications.
+vb6-migration
+205
+for questions about migrating existing applications, or legacy code, from Visual Basic 6 to a more modern platform. Unfortunately migration is usually a tricky task. The most common target…
+wrapping
+205
+
+template-specialization
+205
+
+abap
+205
+the programming language of the SAP R/3 system.
+arcgis
+205
+a suite consisting of a group of geographic information system (GIS) software products produced by ESRI. Many of these products can be interacted with via programming langauges, such as VBA,…
+arel
+205
+a Relational Algebra for Ruby. It simplifies the generation complex of SQL queries and it adapts to various RDBMS systems. Arel is included in version 3 of Rails framework. More info on https:…
+android-mediaplayer
+204
+
+tex
+204
+a typesetting system, where the output is defined by command-sequences. Note that http://tex.stackexchange.com is specifically dedicated to TeX questions.
+avd
+204
+a virtual instance of the target device (phone/tablet) which can be run in the Android emulator for simulation.
+findbugs
+204
+A program which uses static analysis to look for bugs in Java code.
+google-docs-api
+204
+The Google Documents API allows client applications to programmatically access and manipulate user data stored with Google Documents.
+key-bindings
+204
+
+jtextpane
+204
+A Java Swing text component that can be marked up with attributes that are represented graphically.
+ram
+204
+
+nsfetchrequest
+204
+on Mac OS X, an instance of NSFetchRequest describes search criteria used to retrieve data from a persistent store
+modem
+204
+
+microsoft-surface
+204
+a tabletop multitouch device released by Microsoft in 2008. Applications for Surface is developed in .NET using either WPF or XNA for the graphical interfaces.
+itemtemplate
+203
+
+image-uploading
+203
+
+google-chrome-devtools
+203
+a set of developer tools integrated into Google's Chrome browser. Use this tag for questions related to the usage of Chrome's Developer Tools.
+forward-declaration
+203
+Forward declarations allow statically-typed programs to indicate the type and name of a symbol without actually defining it.
+flashbuilder
+203
+the Flex 4.0 replacement IDE for Adobe's FlexBuilder.
+ajax4jsf
+203
+part of the RichFaces framework. It helps to add Ajax behaviour to JSF pages.
+bittorrent
+203
+a peer-to-peer file-sharing protocol.
+subscription
+203
+
+temporary-tables
+202
+
+xfbml
+202
+eXtended FaceBook Markup Language

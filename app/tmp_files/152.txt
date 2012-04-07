@@ -1,0 +1,111 @@
+auto
+106
+
+choice
+106
+
+maintainability
+106
+
+ls
+106
+A utility in \*nixes used for listing files and directories.
+ipa
+106
+an iPhone application archive file which stores an iPhone application.
+gyroscope
+106
+
+hosts
+106
+
+financial
+106
+
+experience
+106
+
+google-search-api
+106
+
+django-piston
+106
+A mini-framework for Django for creating RESTful APIs.
+emulation
+106
+
+stage
+106
+
+python-2.5
+106
+For issues relating to development in Python, version 2.5.
+packagemaker
+106
+a utility for creating installer packages to be used with Mac OS X, and is supplied with Apple's Xcode development system.
+ofstream
+106
+
+office-2010
+106
+
+perfmon
+106
+
+pharo
+106
+an open-source Smalltalk environment. It is a derivative of Squeak and is MIT licensed with some original Apple parts remaining under the Apache 2.0 license.
+networkx
+106
+a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. Use this tag for questions about how to install or use the package…
+motion
+106
+
+ms-project
+105
+a tool to help manage projects.
+multi-touch
+105
+multi-touch refers to a touch sensing surface's (trackpad or touchscreen) ability to recognize the presence of two or more points of contact with the surface (Wikipedia)
+modelstate
+105
+
+polynomial-math
+105
+
+portrait
+105
+
+oledbconnection
+105
+
+onfocus
+105
+
+overhead
+105
+
+quaternion
+105
+a mathematical representation of transformations in 3D. They have 4 dimensions (one real and 3 imaginary) and can be represented as follows:
+a + i b + j c + k d
+
+or in terms of axis…
+robot
+105
+Questions related to physical robots in general should use this tag. For other topics, please use one of the more specific tags listed in the wiki of this tag, if appropriate.
+stanford-nlp
+105
+Suite of Java libraries for natural language processing (NLP) from Stanford University.
+sbcl
+105
+Steel Bank Common Lisp: an open-source compiler and runtime implementation of ANSI Common Lisp.
+ethics
+105
+
+all
+105
+
+aidl
+105
+a special language that allows a server and a client to establish interface for Inter Process Communication (IPC).

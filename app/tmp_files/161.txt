@@ -1,0 +1,108 @@
+xquery-sql
+97
+
+z-order
+97
+an ordering of overlapping two-dimensional elements in a graphical user interface.
+bignum
+97
+
+azure-web-roles
+97
+way to deploy ASP.net Website or Web Application in Azure Cloud.
+boost-mpl
+97
+a general-purpose, high-level C++ template metaprogramming framework of compile-time algorithms, sequences and metafunctions. It provides a conceptual foundation and an extens…
+calculated-columns
+97
+
+catiledlayer
+97
+
+control-flow
+97
+
+coroutine
+97
+a general control structure whereby flow control is cooperatively passed between two different routines without returning.
+coderush
+97
+a refactoring and productivity tool by DevExpress that extends the functionality of Microsoft Visual Studio 2002, 2003, 2005, 2008 and 2010.
+testdriven.net
+97
+a Visual Studio plugin which makes it easy to run unit tests from within the IDE.
+wndproc
+97
+
+xap
+97
+an XML-based declarative framework for building, deploying and maintaining rich, interactive Ajax powered web applications.
+vfp
+97
+a database and IDE from Microsoft.
+jquery-sortable
+97
+
+dbpedia
+97
+a community effort to extract structured information from Wikipedia and to make this information available on the Web.
+decisiontrees
+96
+a decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one wa…
+des
+96
+a cryptographic block cipher algorithm.
+discovery
+96
+
+android-video-player
+96
+
+android-library
+96
+
+arrow
+96
+
+apostrophe
+96
+
+apt-get
+96
+
+web-site-project
+96
+
+white
+96
+a framework for automating rich client applications based on Win32, WinForms, WPF, Silverlight and SWT (Java) platforms.
+template-meta-programming
+96
+a meta-programming technique in which templates are used by a compiler to generate temporary source code, which is merged by the compiler with the rest of the source code …
+triangulation
+96
+
+typoscript
+96
+a descriptive language which defines how a website in the CMS TYPO3 is rendered. Typoscript mainly defines configuration values that are passed to the systems php code. It is object-base…
+turing-machines
+96
+an idealized model of computation consisting of a finite-state control, an infinite tape holding information, and a read head positioned somewhere over the tape.  Turing machines a…
+subdirectory
+96
+a directory that is contained inside another directory.
+subtraction
+96
+
+commenting
+96
+
+libjpeg
+96
+a widely-used free software library written in C which implements JPEG decoding and encoding functions alongside various utilities for handling JPEG images. This library is maintained by th…
+logarithm
+96
+
+hierarchical
+96
+For issues relating to arranging data and/or resources in a hierarchy.

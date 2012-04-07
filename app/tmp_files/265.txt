@@ -1,0 +1,110 @@
+zendx
+42
+
+yard
+42
+YARD stands for "Yay! A Ruby Documentation tool".  It is considered an alternative to the rdoc tool with more features.
+yahoo-messenger
+42
+
+boost-lambda
+42
+
+brew
+42
+an application framework for mobile phones. BREW was created by Qualcomm in 2001 and has evolved through several versions.
+
+According to Qualcomm's BREW website, there are over 250 million BRE…
+caldav
+42
+CalDAV (Calendaring Extensions to WebDAV) is an Internet standard allowing a client to access scheduling information on a remote server.
+digit
+42
+
+digraphs
+42
+
+dispatchevent
+42
+
+deleted
+42
+
+decompress
+42
+
+detail
+42
+
+asp.net-webpages
+42
+
+android-wake-lock
+42
+
+appcmd
+42
+
+application-lifecycle
+42
+
+application-loader
+42
+a tool to help to prepare the applications for sale in the App Store.
+android-compat-lib
+42
+an optional API available to Android application developers to create tablet-compatible user interfaces.
+jshint
+42
+a community-driven tool to detect errors and potential problems in JavaScript code and to enforce coding conventions.
+installutil
+42
+
+input-file
+42
+
+implicit-cast
+42
+
+informatica
+42
+a UI based ETL tool used in data warehouse setup.
+irrlicht
+42
+a free open-source cross-platform real-time 3D engine written in C++. The engine is free for open source and commercial use under the zlib/libpng license.
+ipp
+42
+Internet Printing Protocol _OR_ Intel Integrated Performance Primitives
+illegal
+42
+
+ico
+42
+
+html-anchor
+42
+
+hierarchyid
+42
+
+hardlink
+42
+
+hdd
+42
+
+literate-programming
+42
+A literate program embeds source code in an essay documenting the program.
+listpicker
+42
+
+lzma
+42
+an compression algorithm which uses a dictionary compression. Is a default 7-zip algorithm.
+localtime
+42
+
+mars
+42
+Multiple Active Result Sets

@@ -1,0 +1,109 @@
+facebook-timeline
+84
+a special view of Facebook data aggregating all Open Graph events related to you from birth until now. Facebook describes this as: Tell your life story with a new kind of profile.
+extreme-programming
+84
+a Software Development Methodology from the '90s, nowadays considered a subclass of Agile Programming. It involves typical features such as pair programming, YAGNI, and very ite…
+facebook-android-sdk
+84
+
+ejb-2.x
+84
+
+end
+84
+
+documentum
+84
+an enterprise content management platform, now delivered by EMC Corporation, as well as the name of the software company that originally developed the technology.
+routed-events
+84
+
+rpy2
+84
+
+psd
+84
+the default file extension of the proprietary file format of Adobe System's Photoshop program.
+puppet
+84
+a configuration management system primarily for Unix and Linux systems
+prerequisites
+84
+
+selectedindexchanged
+84
+
+mvcsitemap
+84
+
+microchip
+84
+Questions related to the microchip PIC family of microcontrollers.  Where possible please specify the specific microcontroller.
+microformats
+84
+
+outline
+84
+a property in CSS, that is used to draw a line around the element.
+Question that has the problem related to outline property of CSS.
+order-of-evaluation
+84
+
+osdev
+83
+a tag for operating system development, which means the kernel and supporting operating system utilities (e.g. the shell, networking, etc.).
+param
+83
+
+open-graph-protocol
+83
+
+phonon
+83
+
+philosophy
+83
+
+persist
+83
+
+ndepend
+83
+a static analysis tool for .NET managed code.
+sendgrid
+83
+
+scoping
+83
+
+searchlogic
+83
+
+sift
+83
+an algorithm in computer vision to detect and describe local features in images.
+proc-sql
+83
+an embedded SQL programming language used by Oracle Database and Sybase SQL Server database management systems.
+ranges
+83
+
+pypy
+83
+a fast, very compliant, self-hosting implementation of the Python language.
+rrdtool
+83
+RRDtool (acronym for round-robin database tool) aims to handle time-series data like network bandwidth, temperatures, CPU load etc.
+rights
+83
+
+reddit
+83
+a social news ranking website.
+regsvr32
+83
+
+repeating
+83
+

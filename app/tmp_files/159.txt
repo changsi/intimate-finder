@@ -1,0 +1,108 @@
+boost-graph
+99
+
+circular
+99
+
+chef
+99
+an open source systems integration framework built to bring the benefits of configuration management to your entire infrastructure. You write source code to describe how you want each part of …
+cognos
+99
+an IBM business intelligence and performance management product.
+custom-error-pages
+99
+
+switching
+99
+
+sunspot-rails
+99
+Sunspot Rails Plugin
+wsimport
+99
+a command-line tool to generate client and service artifacts from WSDL.  The utility is part of the JAX-WS standard and began shipping with the Java platform starting with version 6.
+wpf-4.0
+99
+
+usb-drive
+99
+
+unset
+98
+
+undo-redo
+98
+For issues relating to undo and/or redo operations.
+www-mechanize
+98
+a Perl module for stateful programmatic web browsing, used for automating interaction with websites.
+wine
+98
+Wine lets you run Windows software on other operating systems. With Wine, you can install and run these applications just like you would in Windows.
+webtest
+98
+
+suggestions
+98
+
+stringtemplate
+98
+A templating language which strictly enforces model/view separation
+timertask
+98
+
+tibco
+98
+Enterprise information bus.
+datagridtemplatecolumn
+98
+
+datagram
+98
+
+cropping
+98
+Cropping refers to the removal of the outer parts of an image to improve framing, accentuate subject matter or change aspect ratio.
+create-table
+98
+
+convention
+98
+
+bold
+98
+an advanced Object Relational Mapper (ORM) and application framework.
+year
+98
+
+xml-documentation
+98
+
+lockscreen
+98
+
+lightweight
+98
+
+jcr
+98
+an acronym for Java Content Repository: a hierarchical database mainly used by content management systems.
+hoverintent
+98
+a very small jQuery plugin that helps to determine the user's intent. Using jQuery's hover in the background, gives much flexible control over 'hover'.
+inject
+98
+
+fuzzy
+98
+
+fileoutputstream
+98
+
+f#-interactive
+98
+the REPL (read-eval-print-loop) for the F# programming language.
+fftw
+98
+FFTW, "The Fastest Fourier Transform in The West", is a C library which implements discrete Fourier Transforms. It is licensed under the GNU GPL.

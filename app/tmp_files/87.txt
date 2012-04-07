@@ -1,0 +1,108 @@
+eager-loading
+248
+a way to find objects of a certain class and a number of named associations
+hive
+248
+a data warehouse infrastructure built on top of Hadoop that provides tools to enable easy data summarization, adhoc querying and analysis of large datasets data stored in Hadoop files
+guidelines
+248
+rules or instructions that show or tell how something should be done
+init
+247
+May refer to Linux Init - the parent of all processes, which primary role is to create processes from a script stored in the file /etc/inittab. Or abbreviation of initizlization - giving variables a "…
+relative
+247
+
+mmap
+247
+a POSIX-compliant Unix system call that maps files or devices into memory.
+bonjour
+247
+Apple's implementation of Zeroconf, a service discovery protocol. It can be used to find services on a network and also to publish services to be found by other Zeroconf clients.
+cas
+247
+Central Authentication Service, a trusted system to authenticate a user
+application-settings
+247
+
+zend-db-table
+246
+
+worksheet-function
+246
+for Excel or other spreadsheet questions where the question or answers involve an in-the-cell worksheet function, as opposed to VBA or other code mechanism.
+windows-phone
+246
+Microsoft's mobile operating system and software development platform.
+strtotime
+246
+PHP function for parsing about any English textual datetime description into a Unix timestamp
+projection
+246
+
+htc
+246
+HTC Corporation, formerly High Tech Computer Corporation, is a Taiwan-based manufacturer of smartphones.
+maximum
+246
+an extreme value in a given function or dataset.
+email-validation
+246
+
+java-7
+245
+the latest release of the Java Standard Edition Platform.
+method-overloading
+245
+the concept of multiple methods with the same name, but different signatures.
+nslog
+245
+Logs an error message to the Apple System Log facility.
+culture
+245
+
+criteria-api
+245
+for questions related to the Java Persistence Criteria API (from JPA 2.0) which is used to define queries through the construction of object-based query definition objects, rather than use…
+application-pool
+245
+
+ado.net-entity-data-model
+244
+
+autosuggest
+244
+an UI feature provided by applications, where the program predicts and shows a list of possible options that the user wants to choose from without the user actually typing it in complet…
+ws-security
+244
+
+unsigned
+244
+
+sqlclr
+244
+technology for hosting of the Microsoft .NET common language runtime engine within SQL Server. The SQLCLR allows managed code to be hosted by, and run in, the M…
+double-click
+244
+the act of pressing a computer mouse button twice quickly without moving the mouse.
+gsm
+244
+an abbreviation for "Global System for Mobile Communication"
+extern
+244
+
+.net-assembly
+243
+A group of classes and name-spaces compiled into an exe or a dll file, written in a .Net specific language like C# or VB.Net.
+japanese
+243
+the spoken and written language of Japan.
+maintenance
+243
+
+android-xml
+243
+Android projects use XML in a few ways, mainly for building layouts and specifying rescources for the project.
+amazon-simpledb
+242
+Highly available schema-less attribute database that is part of the Amazon Web Services offering. Enables storage and retrieval of named items consisting of one or more key/value string pairs organize…

@@ -1,0 +1,113 @@
+kiss
+21
+
+ldd
+21
+a unix command-line tool to print shared library dependencies 
+for an executable or shared library.
+libsndfile
+21
+a cross platform library for reading and writing common file formats like WAV, AIFF, AU, as well as FLAC and Ogg/Vorbis.
+jwindow
+21
+
+kernighan-and-ritchie
+21
+
+jsonreader
+21
+
+jsr330
+21
+
+job-queue
+21
+
+jooq
+21
+jOOQ stands for Java Object Oriented Querying. It combines these essential features:
+
+Code Generation, Active records, Typesafe SQL, SQL standard, Vendor-specific feature support
+
+jOOQ effectively…
+location-href
+21
+
+logged
+21
+
+log4php
+21
+logging framework for PHP at the Apache Software Foundation (ASF), sponsored by the Apache Logging Services project.
+lingo
+21
+Adobe Director scripting language.
+linked-tables
+21
+
+llvm-clang
+21
+
+litespeed
+21
+
+maven-eclipse-plugin
+21
+An Eclipse plug-in for generating Eclipse IDE files, like .classpath, .project, etc. Often confused with M2Eclipse.
+maybe
+21
+a predefined type that encapsulates an optional value of a specific type. It is often used as a simple way to deal with errors when an operation can fail but need not provide addi…
+mdns
+21
+
+httpruntime.cache
+21
+
+hyperjaxb
+21
+
+hunchentoot
+21
+a HTTP server written in Common Lisp and at the same time a toolkit for building dynamic websites. As a stand-alone web server, Hunchentoot is capable of HTTP/1.1 chunking (both directi…
+hxt
+21
+
+ierrorhandler
+21
+
+image-editor
+21
+
+ildasm
+21
+
+idle-timer
+21
+
+ida-pro
+21
+
+homography
+21
+an invertible transformation from the real projective plane to the projective plane that maps straight lines to straight lines.
+helpermethods
+21
+
+hindi
+21
+
+hdmi
+21
+a compact audio/video interface for transmitting uncompressed digital data.
+headphones
+21
+
+gwt-2.4
+21
+
+guice-servlet
+21
+
+gumbo
+21
+

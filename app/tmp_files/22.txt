@@ -1,0 +1,110 @@
+radio-button
+1462
+elements used in forms. They let a user select exactly one one of a limited number of choices.
+slider
+1458
+A graphical widget in a GUI with which a user may set a value by moving an indicator.
+queue
+1455
+an ordered, first-in-first-out data structure. Typical implementations of queues support pushing elements to the back and popping them off the front position.
+msi
+1455
+The Windows Installer, better known as MSI, is the deployment technology built into Windows for applications. See the MSI SDK for more information.
+doctrine2
+1455
+a PHP (5.3.0+) ORM. While Doctrine 1.2 uses the Active Record pattern, Doctrine 2.0 uses the Data Mapper pattern. The Doctrine project is a collection open source libraries and tools f…
+web-design
+1454
+a broad term used to encompass the way that content is delivered to an end-user through the World Wide Web, using a web browser or other web-enabled software to display the content. The …
+pdf-generation
+1453
+the process of creating an PDF document using various tools or libraries.
+pyqt
+1450
+a set of Python bindings for Nokia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux.
+devexpress
+1449
+a component vendor for a variety of controls across different technologies.  They allow for more customization than the standard-issue controls.
+memory-allocation
+1448
+Reservation of a chunk of memory on heap or on stack. Stack memory allocations are usually hidden in high-level languages while heap allocations should be performed explicitly but can be freed (unallo…
+internet-explorer-9
+1445
+Windows Internet Explorer 9 (abbreviated as IE9) is the current version of the Internet Explorer web browser from Microsoft.
+swf
+1443
+a file format for multimedia, vector graphics and ActionScript in the Adobe Flash environment. Note: for Spring WebFlow, please use "spring-webflow" tag instead.
+jtable
+1441
+a Java Swing component used to display and edit regular two-dimensional tables of cells.
+nsarray
+1439
+An immutable, integer indexed, array of objects from Apple Foundation framework.
+nested
+1437
+
+couchdb
+1431
+a document-oriented database that can be queried and indexed in a MapReduce fashion. It exposes a pure restful API, making interaction possible from any language with the ability to …
+serial-port
+1430
+a physical interface through which data is transferred (uni- or bidirectionally) one bit at a time. Largely superseded in the consumer market by USB, serial connections are still comm…
+video-streaming
+1425
+The process of delivering a video from a server to a client, different from the download in that the client is able to watch the video while it's being downloaded.
+ejb
+1419
+a managed, server-side component architecture for modular construction of enterprise applications. The EJB specification is one of several Java APIs in the Java EE specif…
+forms-authentication
+1419
+a built-in and extensible system for authenticating users in an ASP.Net application that also maintains that authenticated session via a ticket (often stored as a cookie or que…
+language
+1418
+
+prolog
+1416
+the most commonly used logic programming language. It supports non-deterministic programming through backtracking and pattern matching through unification.
+nhibernate-mapping
+1415
+XML .NET object to database mappings for NHibernate, open source object-relational mapper (ORM) for the .NET framework.
+cakephp-1.3
+1414
+relates to the 1.3.x branch of CakePHP MVC framework.
+polymorphism
+1411
+a programming language feature that allows values of different data types to be handled in a uniform manner.
+primefaces
+1410
+a JSF component library. It was one of the first which supports JSF 2.0 from top to bottom. It ships with a large set of rich components which utilizes jQuery and YUI libraries under the…
+imagemagick
+1410
+an open source[1] software suite for displaying, converting, and editing raster image files. It can read and write over 100 image file formats.
+core-graphics
+1409
+Apple's framework for low-level drawing operations on Mac OS X ([osx]) and iOS ([iphone]/[ipad]).
+
+The term âCore Graphicsâ can actually apply to multiple frameworks. If your question…
+form-validation
+1408
+Form validation refers to the validation of user-entered data in an HTML form. For other types of validation, please use the all-inclusive "validation" tag.
+fancybox
+1406
+a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+cross-domain
+1406
+Cross-domain refers to web applications that communicate outside of their hosting domain / web server.  This can be in the form of network requests to other servers or sharing data with DOM components…
+dropdown
+1404
+something which is used to select a value from a given set of options. A dropdown list can be something from which you can pick only one option or multiple options. In case you can …
+client-server
+1403
+a centralized model, in which a server performs a specialized service (such as HTTP, SMTP, etc.) for multiple clients on request.
+word
+1402
+a string of characters. A `word` may also be a fixed size group of bits, generally in multiples of 8, that are handled as a unit by a processor architecture. Questions regarding Microsoft Wo…
+authorization
+1400
+the process of determining whether a user, program or device is allowed to access a protected resource in a particular way. Authorization is a key theme in computer security practices…
+extjs4
+1395
+the fourth major version of JavaScript library for building Rich Internet Applications (RIA) with MVC architecture and no need to use plugins as we did in ExtJS3.

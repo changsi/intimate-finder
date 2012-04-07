@@ -1,0 +1,108 @@
+deb
+74
+the extension of the Debian software package format. Debian packages are standard Unix ar archives that include two gzipped tar archives: one that holds the control information and another that…
+datefield
+74
+
+dfa
+74
+a deterministic finite automaton, a simple model of computation that decides membership in regular languages.  Each DFA consists of a set of states and a transition function between those sta…
+amazon-sqs
+74
+Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly scalable, hosted queue for storing messages as they travel between computers.
+android-2.1
+74
+For issues relating to developing with the android SDK, version 2.1.
+android-3.0
+74
+API level 11 of the mobile operating system developed by Google. This version is an adaptation for larger screens to better support tablets.
+illegalstateexception
+74
+
+htmltidy
+74
+an html formatter used to pretty print existing markup.
+import-from-excel
+74
+
+inline-code
+74
+
+lifetime
+74
+the time during which the variable is bounded to a specific memory location. The life time starts when the variable is allocated and ends when it is deallocated.
+joystick
+74
+
+jtds
+74
+open source JDBC driver for MS SQL Server
+keyboard-layout
+74
+
+finally
+74
+
+fileuploader
+74
+
+firewatir
+74
+
+flying-saucer
+74
+Flying Saucer (also called XHTML renderer) is a pure Java library for rendering XML, XHTML, and CSS 2.1 content.
+facebook-fbml
+74
+Facebook FBML was an HTML like markup language for rendering Facebook specific data in a page.  FBML will be fully deprecated June 1st, 2012.  http://developers.facebook.com/docs/reference/fbml
+garbage
+74
+
+gcc4
+74
+
+django-class-based-views
+74
+Since version 1.3, Django uses class-based views instead of the traditional function-based ones.
+evolutionary-algorithm
+74
+inspired by the biological model of evolution and natural selection. In the natural world, evolution helps species adapt to their environments. Evolutionary algorithm…
+empty-string
+74
+
+dynamic-forms
+74
+Dynamic PDF forms can re-render on the client depending on user interaction (adding or deleting controls, changing layout and colors). They were first introduced in Adobe Reader 7.0 and can be interac…
+rackspace
+74
+
+project-structure
+74
+
+rowcount
+74
+
+report-viewer2010
+74
+Microsoft Report Viewer 2010
+raw-input
+74
+The raw input API provides a stable and robust way for applications to accept raw input from any HID (Human Interface Devices), including the keyboard and mouse.
+semicolon
+74
+often used to separate multiple statements (for example, in Perl, Pascal, PL/I, and SQL). In other languages, semicolons are called terminators and are required after every statement …
+sim
+74
+
+navbar
+74
+
+memset
+74
+
+min-height
+74
+Minimum height of an element element.
+offline-mode
+74
+

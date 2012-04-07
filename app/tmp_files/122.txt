@@ -1,0 +1,108 @@
+acts-as-taggable-on
+149
+a Ruby on Rails gem for handling generic tagging.
+email-client
+149
+An email client, email reader, or more formally mail user agent (MUA), is a computer program used to manage a user's email.
+endpoint
+149
+
+equinox
+149
+
+fsockopen
+149
+
+macruby
+149
+an implementation of the Ruby 1.9 programming language in ObjC for Mac OSX
+jbpm
+149
+a flexible Business Process Management (BPM) Suite. http://www.jboss.org/jbpm
+items
+149
+
+importerror
+149
+
+hpricot
+149
+a Ruby library intended for parsing HTML. Until the release of Nokogiri, a competing HTML and css parser, Hpricot was the defacto HTML parser for the ruby community.
+zero
+149
+a unique number and along with 1 is one of the two binary numbers.  Zero plays an important role in Mathematics and Computing.  This Tag is for discussions of zero within various programming l…
+beta
+149
+
+autocompletetextview
+149
+
+cuda-kernel
+149
+a function/subprocedure which defines the SIMT instructions which are scheduled on the GPU. A kernel is scheduled as a two-dimensional Grid of three-dimensional Blocks of Threads. Con…
+stripes
+149
+an open source web application framework based on the model-view-controller pattern.
+vtk
+149
+an open-source, freely available software system for 3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several interp…
+words
+149
+
+updates
+149
+Updates can refer to the modification of data or configuration by an application, process, or service, or can refer to the modification of software by a process.
+viewdata
+148
+
+windows-media-player
+148
+
+swc
+148
+a package of precompiled Flash symbols and ActionScript code that allows a Flash or Flex developer to distribute classes and assets, or to avoid recompiling symbols and code that …
+treemap
+148
+An implementation of a mapping (dictionary) using a tree. This tag is also used for treemapping, an information visualization method for displaying hierarchical data with nested rectangles.
+concat
+148
+
+clipping
+148
+
+calculate
+148
+
+bytebuffer
+148
+
+discrete-mathematics
+148
+
+anonymous-class
+148
+a local class without a name. An anonymous class is defined and instantiated in a single succinct expression using the new operator.
+android-contentprovider
+148
+
+high-availability
+148
+
+icu
+148
+the International Components for Unicode, cross platform open source C/C++ and Java libraries for Unicode and globalization support
+insert-update
+148
+
+iso-8859-1
+148
+part of the ISO/IEC 8859 series of ASCII-based standard character encodings, first edition published in 1987.
+labels
+148
+a UI Element used for displaying text
+load-data-infile
+148
+
+git-merge
+148
+

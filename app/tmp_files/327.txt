@@ -1,0 +1,112 @@
+accelerate-framework
+29
+a set of high-performance numerical libraries provided by Apple for iOS and OS X.  It provides APIs for signal and image processing, linear algebra, and mathematical operat…
+development-server
+29
+
+device-admin
+29
+
+director
+29
+
+capacity-planning
+29
+the science and art of estimating the space, computer hardware, software and connection infrastructure resources that will be needed over some future period of time.
+bulksms
+29
+a mobile messaging service that allows to send high or low volumes of non-premium SMS quickly and efficiently.
+bullets
+29
+
+cellular-automata
+29
+
+cdma
+29
+
+cdo.message
+29
+
+cassandra-0.7
+29
+a highly scalable, eventually consistent, distributed, structured key-value store.
+blocked
+29
+
+bound
+29
+
+braintree
+29
+
+broken-pipe
+29
+
+broker
+29
+
+browser-support
+29
+
+bake
+29
+
+autofixture
+29
+an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests. Its primary goal is to allow developers to focus on what is being tested rather than how t…
+becomefirstresponder
+29
+
+binder
+29
+Android's lightweight remote procedure call mechanism designed for high performance when performing in-process and cross-process calls.
+z80
+29
+an 8-bit CPU designed by Zilog to be compatible with the Intel 8080 but with an enhanced instruction set. It has been in continuous wide use since 1976 and was formerly popular in microcomp…
+zbuffer
+29
+
+y-combinator
+29
+a higher-order function that allows a function that does not know its own name to call itself. It is the fundamental basis of recursion.
+xmlrpcclient
+29
+
+data-extraction
+29
+
+data-driven
+29
+
+ctype
+29
+
+custom-event
+29
+
+cursorloader
+29
+
+content-negotiation
+29
+
+cortex-a8
+29
+based on the ARMv7 architecture and has the ability to scale in speed from 600MHz to greater than 1GHz. The Cortex-A8 processor can meet the requirements for power-optim…
+changed
+29
+
+clips
+29
+CLIPS means "C Language Integrated Production System". 
+
+This is a rules-based programming framework designed for building expert system. It is is written in C and can interact with C language.
+
+I…
+clsid
+29
+a globally unique identifier that identifies a COM class object.
+comobject
+29
+

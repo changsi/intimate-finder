@@ -1,0 +1,108 @@
+content-management
+139
+
+bookmark
+139
+
+carriage-return
+139
+
+text-mining
+139
+a process of deriving high-quality information from unstructured (textual) information.
+tile
+139
+
+writing
+139
+
+wordpress-loop
+138
+
+voting
+138
+
+thunderbird
+138
+
+bada
+138
+Samsungs's platform for mobile devices
+code-injection
+138
+
+iphone-sdk-3.2
+138
+Refers to the iPhone software development kit, version 3.2.
+linear
+138
+
+large-data
+138
+
+gitolite
+138
+software to manage a collection of Git repositories on a server accessible by SSH, without creating local accounts for the users. It provides per-branch control over read, write, and rewin…
+gprs
+138
+GPRS refers to the 2G/3G data services provided by the mobile operators over GSM network.
+selenium-grid
+138
+a component of the Selenium project that helps running your tests in parallel across multiple machines.  It provides both environment management and resource allocation as it dispatch…
+segue
+138
+
+shift
+138
+
+scrollbars
+138
+
+qtkit
+138
+an Objective-C framework (QTKit.framework) with an API for manipulating time-based media.
+pylab
+138
+
+ocx
+138
+
+outlook-2010
+138
+the release of Microsoft's popular Outlook platform that debuted in July 2010. New features in this edition include ribbon interfaces in all views, a programmatically accessi…
+pop
+138
+
+monkeypatching
+138
+Monkeypatching in late-bound languages refers to modifying run-time behavior by replacing program elements with new program elements
+nstask
+137
+
+points
+137
+
+plupload
+137
+a Javascript library licensed under GPLv2 that allows you to upload files using HTML5, Gears, Silverlight, Flash, BrowserPlus or normal forms, providing some unique features such as upload…
+qwidget
+137
+the base class of all the user interface elements in the Qt framework.
+sha256
+137
+
+self-tracking-entities
+137
+
+sql-management-studio
+137
+
+silverlight-oob
+137
+
+facebook-canvas
+137
+
+isset
+137
+

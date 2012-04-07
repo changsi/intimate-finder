@@ -1,0 +1,110 @@
+ioexception
+238
+
+graph-algorithm
+238
+a sequence of well-defined steps that will solve a problem related to Graph Theory, where a Graph in this context is a collection of vertices ("nodes") and edges that connect thes…
+akka
+238
+a framework that provides Actor model concurrency to Java and an alternative Actor model implementation to Scala.
+screen-resolution
+238
+
+repaint
+238
+Repaint refers to issues relating to re-rendering or redrawing user interface screens or portions of those screens.
+openfiledialog
+238
+
+office-2007
+237
+For issues relating to Microsoft Office, version 2007.
+src
+237
+
+iis-express
+237
+a developer version of IIS 7.5 that doesn't require Administrator rights to run.
+jet
+237
+the SQL database engine used by Microsoft Windows.
+It is also used by Microsoft Access; Jet databases are more commonly known as "Access databases".
+jmf
+237
+JMF stands for the Java Media Framework.
+jinja2
+237
+a fast, full-featured template engine for Python.
+chinese
+237
+a language family of logosyllabic written scripts, and many spoken regional dialects.
+dimensions
+237
+
+ast
+236
+an abbreviation for Abstract Syntax Tree. (Use "abstract-syntax-tree" tag instead of AST tag, please).
+watir-webdriver
+236
+Watir  (Web Application Testing in Ruby) implementation built on WebDriver's Ruby bindings.  Used for web browser automation, this tool allows you to code in Ruby using the friendly Watir API but get …
+sysadmin
+236
+a person responsible for maintaining the running health of a system (usually an electronic computer).
+swfupload
+236
+A JavaScript/Flash library for uploading files to a server
+keyword
+236
+special words used as identifiers by a language. They are reserved words accepted by a compiler or interpreter, and thus can't be used as a variable or function name.
+html-entities
+236
+HTML entities provide a method of entering characters that cannot be expressed in the document's character encoding or that cannot easily be entered on a keyboard.
+eventmachine
+236
+a fast, reactor pattern library for Ruby programs. It provides non-blocking IO APIs with transparent internal buffers and standard reactor features (such as defer, next_tick and timers…
+gtk#
+236
+a c# binding of the Gtk+ widget library.
+percentage
+236
+a ratio or fraction of a quantity that shows the ratio from whole part of quantity. Percentage demonstrate how much part is there out of 100.
+mms
+235
+an extension of SMS which allows for multimedia to be passed in messages.
+spam-prevention
+235
+
+sonar
+235
+an open source quality management platform, dedicated to continuously analyze and measure technical quality, from the project portfolio to the class method.
+http://www.sonarsource.org/
+semantic-markup
+235
+used to indicate the meaning and relationships between data items, in a manner formal enough to support automated reasoning. This is in contrast to the presentation-oriented markup …
+self
+235
+
+results
+235
+the output of a function performed on a body of data.
+foxpro
+235
+a database and IDE from Microsoft.
+django-authentication
+235
+
+ifstream
+235
+
+tokenizing
+235
+
+uibinder
+235
+The UiBinder framework allows you to build your apps as HTML pages with GWT widgets sprinkled throughout them.
+uitouch
+235
+a class from UIKit framework in Apple iOS. A UITouch object represents the presence or movement of a finger on the screen for a particular event.
+vb.net-2010
+235
+Microsoft's Visual Basic .Net for Visual Studio 2010

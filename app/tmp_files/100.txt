@@ -1,0 +1,108 @@
+buffering
+202
+
+cabal
+202
+a package distribution and build system for the Haskell programming language.
+bbcode
+202
+a lightweight markup language used to format posts in many message boards
+alter-table
+202
+
+equation
+202
+
+dreamhost
+202
+
+easymock
+202
+a mocking framework for Java.
+glob
+202
+
+goto
+202
+
+low-level
+202
+
+link-to
+202
+
+mesh
+202
+
+nsnotificationcenter
+202
+
+pcap
+202
+pcap (packet capture) consists of an application programming interface (API) for capturing network traffic
+photo-gallery
+202
+
+pushviewcontroller
+202
+
+repl
+202
+the most common model for an interactive interpreter - it Reads input, Evaluates it, Prints it, and Loops back to the beginning.
+smartcard
+202
+a card with an embedded chip that may store cryptographic keys and/or perform cryptographic functions.  Smartcards are often use as employee ID badges or in contactless credit/debit car…
+recordset
+201
+
+pie-chart
+201
+a circular representation of data divided into sections by the drawing of radii.
+mybatis
+201
+a framework for mapping objects to relational databases with an emphasis on simplicity. XML descriptors couple the objects to SQL statements or stored procedures.
+mod-python
+201
+
+mkannotationview
+201
+part of Apple's Map Kit framework for developing iOS applications. MKAnnotationView class is responsible for presenting annotations visually in a map view.
+multipart
+201
+
+mailto
+201
+
+eclipse-pdt
+201
+an integrated development environment for PHP.  Eclipse PDT offers code completion and templates, integration with Zend Debugger and XDebug, etc.
+area
+201
+
+autohotkey
+201
+an open-source automation software utility (for Microsoft Windows) which allows users to create macros, hotkeys, automate keyboard and mouse input, create GUIs, and automate other repeti…
+xml-deserialization
+201
+
+bitbucket
+201
+a free code hosting site for software development projects that use Mercurial and Git distributed version control systems.
+boolean-logic
+201
+An algebraic system developed by George Boole. Uses operations such as "And", "Or" and "Not" on Binary True/False values. It may be used to accomplish complex tasks.
+cursors
+201
+
+color-scheme
+201
+
+unsafe
+201
+In c# unsafe keyword marks code able to work directly with the memory pointers, bypassing .NET's safety checks.
+viewdidload
+200
+Method in UIViewController class (Apple iOS SDK) for managing the view. Called after the controllerâs view is loaded into memory.
+wallpaper
+200
+the background image on one's "desktop" or "home screen."

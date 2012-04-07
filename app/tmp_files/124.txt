@@ -1,0 +1,108 @@
+google-search
+146
+
+scrape
+146
+
+refactor-my-code
+146
+
+rails-migrations
+146
+
+nskeyedarchiver
+146
+a sub class of NSCoder. Provides a way to encode and persist objects in files. Belongs to the Foundation framework for Cocoa and Cocoa Touch.
+playframework-2.0
+146
+the next major revision of Play, a Rails alike framework for the Java platform. The new mouture introduces several cutting edge features such as the use of Scala language, Akka a…
+splitting
+145
+
+sms-gateway
+145
+a way of sending a text message with or without using a mobile (cell) phone. Specifically, it is a device or service offering SMS transit, transforming messages to mobile network tra…
+google-closure
+145
+a framework for writing large-scale applications in Javascript. It includes a large library of components, a Javascript compiler, and a templating system for generating output.
+fifo
+145
+Any structure in which the First object In is the First object Out. Synonyms include queue, and pipe.
+docbook
+145
+DocBook provides a system for writing structured documents using SGML or XML. It is particularly well-suited to books and papers about computer hardware and software, though it is by no means limited …
+idl
+145
+IDL, short for Interface Description Language, is a language used to describe a software component's public interface in a programming-language-independent manner.
+lag
+145
+
+createprocess
+145
+
+crosstab
+145
+A cross tab, also known as a "pivot table", is a method of summarizing data in tabular form.   Typically, these have a category column in the left hand side, and multiple summary columns to the right.…
+converting
+145
+
+syslog
+145
+a standard for logging program messages.
+tcplistener
+145
+
+stdlib
+145
+a collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself, and which provides a number of conveniences.
+upnp
+145
+a set of networking protocols that permits networked devices to seamlessly discover each other's presence on the network and establish functional network services for…
+delphi-prism
+145
+a rapid application development tool for the Microsoft .NET Framework and Mono, developed by RemObjects Software and distributed by Embarcadero Technologies. is based on the Oxygene la…
+accessors
+145
+
+jquery-tmpl
+145
+Used for composition of templates. Renders one or more nested template items within the rendered output of the parent template.
+android-sensors
+144
+Android-sensors tag unites questions that are connected with different hardware sensors that are embedded into Android devices (barometer, accelerometer, magnetometer, microphone, camera and so on)
+android-2.2
+144
+a minor platform release including user features, developer features, API changes, and bug fixes.
+swiftmailer
+144
+Swift Mailer integrates into any web app written in PHP 5, offering a flexible and elegant object-oriented approach to sending emails with a multitude of features.
+coordinate-systems
+144
+
+cryptoapi
+144
+Cryptography API: Application programming interface that enables application developers to add authentication, encoding, and encryption to Windows-based applications. The API are oriented on the devel…
+like-operator
+144
+
+algebra
+144
+the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them, including terms, polynomials, equations and al…
+embedded-jetty
+144
+
+enterprise-development
+144
+
+file-sharing
+144
+
+galaxy
+144
+Line of mobile devices by Samsung running on Google's Android platform
+safari-extension
+144
+a way to develop and distribute additional functionality for Apple's Safari web browser.
+sapi
+144
+Microsoft's Speech API which is used to provide text-to-speech (TTS) and speech recognition functionality to applications

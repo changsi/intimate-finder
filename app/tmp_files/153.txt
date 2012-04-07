@@ -1,0 +1,108 @@
+google-picasa
+105
+With Picasa and Picasa Webalbums from Google a user can manage digital photo's offline (Picassa) and online (Picasa Webalbums).
+gadget
+105
+
+explicit
+105
+
+firmware
+105
+one of the most often used terms to denote the fixed programs and/or data structures that internally control an electronic device.
+jai
+105
+The Java Advanced Imaging provides powerful collection of methods for image processing and image analysis for Java.
+interbase
+105
+a SQL standard database system for server, desktop and embedded applications, for installation on Windows, Linux, Solaris and Mac OS X. It is currently marketed by Embarcadero Technologie…
+jquery-event-binding
+105
+
+jquery-isotope
+105
+An exquisite jQuery plugin for magical layouts. A Jquery plugin to allow dynamic relayouts of elements on a page using CSS and jQuery transformations.
+joomla-template
+105
+an open source content management system for web sites which includes a powerful template system.
+childwindow
+105
+
+computed-columns
+105
+
+codesign
+105
+
+crawl
+105
+
+cyrillic
+105
+
+tty
+105
+For questions related to terminal drivers and the behaviour of terminals for Unix and related systems.
+tika
+105
+a toolkit for detecting and extracting metadata and structured text content from various documents using existing parser libraries. It is written in Java, but includes a command line ve…
+tcpdump
+105
+
+tabbarcontroller
+105
+
+uicontrol
+105
+a class from UIKit.framework in Apple iOS. UIControl is the base class for control objects such as buttons and sliders that convey user intent to the application.
+x.509
+105
+a format for encoding digital certificates used in public key cryptography. It is encoded using Abstract Syntax Notation One (ASN.1).
+depth
+105
+
+android-browser
+104
+
+wia
+104
+the still image acquisition platform in the Windows family of operating systems starting with Windows Millennium Edition (Windows Me) and Windows XP.
+window.location
+104
+
+string-replacement
+104
+
+tree-traversal
+104
+
+clip
+104
+
+clisp
+104
+GNU CLISP implements the ANSI Common Lisp standard with many extensions.
+xorg
+104
+the display server used in most Unix and Linux distributions.
+brightness
+104
+
+cd
+104
+
+jconsole
+104
+A Java debugging aid that redirects any `System.{out,err}` to a console window.
+jce
+104
+Java Cryptographic Extension : a pluggable cryptography framework where various providers can bring the desired functionality
+latitude
+104
+In geography, the latitude of a location on the Earth is the angular distance of that location south or north of the Equator. The latitude is an angle, and is usually measured in degrees.
+light
+104
+
+linqdatasource
+104
+

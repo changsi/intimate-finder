@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/signalsiq/!svn/ver/791/trunk/client/facebook_app/app/layer/presentation/src/entity/dp
+END
+get_users_by_dp.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/signalsiq/!svn/ver/791/trunk/client/facebook_app/app/layer/presentation/src/entity/dp/get_users_by_dp.php
+END
+get_friends_dps.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/signalsiq/!svn/ver/753/trunk/client/facebook_app/app/layer/presentation/src/entity/dp/get_friends_dps.php
+END
+get_user_dps.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/signalsiq/!svn/ver/753/trunk/client/facebook_app/app/layer/presentation/src/entity/dp/get_user_dps.php
+END
+get_dp_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/signalsiq/!svn/ver/703/trunk/client/facebook_app/app/layer/presentation/src/entity/dp/get_dp_categories.php
+END

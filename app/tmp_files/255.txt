@@ -1,0 +1,111 @@
+equals-operator
+45
+
+event-propagation
+45
+
+event-delegation
+45
+a concept of listening to specific events on some element (eg. the whole document) to catch these events being fired on any of the child elements, even the ones that…
+domready
+45
+
+dollar-sign
+45
+
+document-root
+45
+
+django-flatpages
+45
+a build-in extension that allows to store âflatâ HTML content in a database and handles the management for you via Djangoâs admin interface and a Python API.
+activate
+45
+
+ganymede
+45
+the code name for the annual release of Eclipse projects in 2008.
+gcj
+45
+the GNU compiler for the Java programming language. It can compile Java source code to Java bytecode, or directly to native code.
+geotools
+45
+an open source Java library that provides tools for geospatial data (http://geotools.org).
+formsauthentication
+45
+
+expat
+45
+
+extended
+45
+
+fips
+45
+The term "fips" commonly refers to the Federal Information Processing Standards Publication 140 (FIPS 140), a document published by the National Institute of Standards and Technology (NIST), a U.S. go…
+fog
+45
+fog describes itself as 'the Ruby cloud services library'. It is available at http://fog.io
+localizable.strings
+45
+
+loopback
+45
+
+loginview
+45
+
+man
+45
+
+marklogic
+45
+MarkLogic Server, a commercial, NoSQL-style document database with realtime search, ACID transactions, and XQuery engine.
+mappoint
+45
+both a technology ("MapPoint Web Service," previously known as MapPoint .NET) and a specific software program created by Microsoft that allows users to view, edit and integrate m…
+maf
+45
+
+medical
+45
+
+jvm-crash
+45
+
+heap-corruption
+45
+
+hdl
+45
+a Hardware Description Language, a programming language used to design chips.  The two major ones are Verilog and VHDL.
+hgrc
+45
+
+html4
+45
+HTML Version 4.0 was published in Dec '97 by the W3C. 
+ It offers three variations: Strict, in which deprecated elements are forbidden,
+ Transitional, in which deprecated elements are allowed,
+ Fra…
+hresult
+45
+
+image-loading
+45
+
+invitation
+45
+
+ixmlserializable
+45
+
+java-libraries
+45
+
+infopath-forms-services
+45
+
+apr
+45
+The Apache Portable Runtime (APR) library provides a variety of services masking the differences between different operating systems with a uniform, platform-neutral interface.

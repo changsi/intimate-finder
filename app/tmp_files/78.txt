@@ -1,0 +1,110 @@
+glibc
+289
+used as the C library in the GNU system and most systems with the Linux kernel. It defines the "system calls" and other basic facilities such as open, malloc, printf, exit, etc.
+selecteditem
+289
+
+rpm
+289
+a powerful and mature command-line driven package management system capable of installing, uninstalling, verifying, querying, and updating Unix software packages. Each sof…
+cobol
+289
+COBOL (COmmon Business Oriented Language) was the product
+of a US Department of Defense initiative to develop a standard and portable programming
+language for business applications. COBOL celebrated…
+truncate
+289
+
+training
+288
+
+windows-7-x64
+288
+
+uml-modeling
+288
+
+data-migration
+288
+
+crawler
+288
+Questions about or related to web crawler programs.
+blur
+288
+a JavaScript event that fires when a UI element is clicked away from or is no longer the active element. The reverse of this event is focus.
+metrics
+288
+quantitative data related to software.
+osx-leopard
+288
+the code name of Mac OS X version 10.5, the Apple's desktop and server operating system for Macintosh computers.
+exif
+288
+a standard for storing images and metadata from digital cameras
+acrobat
+287
+a family of applications developed by Adobe in order to view, create, manipulate, print and manage files in Portable Document Format (PDF).
+start
+287
+
+children
+287
+
+wampserver
+287
+Specific release of the WAMP stack for windows, found at www.wampserver.com/en/
+vector-graphics
+286
+the use of geometrical primitives such as points, lines, curves, and shapes or polygon(s), which are all based on mathematical equations, to represent images in computer graphics. I…
+resx
+286
+resource lists used in .NET applications.
+requirements
+286
+
+ada
+286
+a structured, statically typed, imperative, wide-spectrum, and object-oriented high-level computer programming language, extended from Pascal and other languages.
+executable-jar
+286
+A Jar file which can be executed similar to an .EXE in windows or .bin in linux.
+facebook-iframe
+286
+
+file-transfer
+286
+Is a generic term for the act of transmitting files over a computer network or the Internet.
+logcat
+286
+the command to view and filter information from the Android logging system, but more often the name is used as a synonym for the Android logging system itself.
+httpcontext
+286
+
+http-status-code-500
+285
+one of the status codes, defined by the HTTP protocol, a web server can return to a client application when processing a request. 500 is defined as Internal Server Error
+instance-variables
+285
+
+filepath
+285
+
+fixed
+285
+
+getelementbyid
+285
+an essential method used in Javascript and other places to retrieve a particular node in a HTML or XML document by its ID.
+unzip
+285
+
+volatile
+285
+
+copyright
+285
+is for issues relating to the creation and/or display of copyright information.
+zope
+284
+an open source application server written in the Python programming language. It features a transactional object database (ZODB) which can store not only content and custom data, but also dyna…

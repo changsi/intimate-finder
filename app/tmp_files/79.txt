@@ -1,0 +1,108 @@
+back
+284
+
+fstream
+284
+
+iterate
+284
+
+legacy
+284
+
+projects
+284
+
+pseudocode
+284
+a compact and informal high-level description of a computer programming algorithm.
+setuptools
+284
+Setuptools builds on Pythonâs distutils to provide easier building, distribution, and installation of libraries and applications.
+paste
+283
+is to be used for issues relating to the paste portion of copy/paste operations.
+multiline
+283
+considered "multiline".  Concerns about wrapping, spacing, techniques and best practices.
+nvidia
+283
+An American global technology company based in Santa Clara, California, best known for its graphics processors (GPU's).
+nsoperation
+283
+an abstract class you use to encapsulate the code and data associated with a single task
+keystore
+283
+a repository of security certificates, either authorization certificates or public key certificates
+image-gallery
+283
+
+alarm
+283
+
+yield
+283
+
+swipe
+283
+Quick motion gesture across the touchscreen.
+word-vba
+282
+Visual Basic for Applications (VBA) for Microsoft Word
+wordpress-plugin-dev
+282
+For issues related to Wordpress plugin development
+collaboration
+282
+
+exchange-server
+282
+Refers to the Microsoft product Exchange Server.
+fluent
+282
+
+gxt
+282
+a dual licensed component framework that seeks to provide similar functionality to ExtJs for Google Web Toolkit (GWT) applications.
+sanitization
+282
+
+social
+282
+
+semantic-web
+281
+Extension of the World Wide Web architecture giving well defined meaning to data, thus enabling machines to reason on data and use them more effectively.
+performancecounter
+281
+
+openxml-sdk
+281
+The Open XML SDK 2.0 for Microsoft Office is built on top of the System.IO.Packaging API and provides strongly typed part classes to manipulate Open XML documents.
+large
+281
+
+fixtures
+281
+
+autoload
+281
+
+ui-automation
+281
+programmatic/scripted interaction with a graphical user interface, typically for the purpose of testing or accessibility assistance.
+vimscript
+281
+the scripting language built into the text editor Vim and is based on the ex editor language of the original vi editor.
+android-imageview
+281
+Displays an arbitrary image, such as an icon.
+jquery-tools
+280
+a lightweight JS Library based on jQuery. It provides well documented and rich featured user-interface components for all kind of websites. The webpage provides a lot of examples, css …
+xmlreader
+280
+
+cluster-computing
+280
+A computer cluster consists of a set of loosely connected computers that work together so that in many respects they can be viewed as a single system. Cluster computing refers to the activity of compu…

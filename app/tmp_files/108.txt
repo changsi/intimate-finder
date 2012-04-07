@@ -1,0 +1,108 @@
+gtkmm
+182
+the official C++ interface for the popular GUI library GTK+.
+fpga
+182
+an chip that is configured by the customer after manufacturingâhence "field-programmable".
+hebrew
+182
+written right to left (RTL), much like Arabic and Farsi, requiring special handling when mixing Roman numerals and Latin characters in order to maintain correct flow.
+mbunit
+182
+a Generative Unit Test Framework for the .NET Framework.
+sendkeys
+182
+A method that sends one or more keystrokes to the active window as if they were typed at the keyboard.
+sigabrt
+182
+a Unix signal sent when a program abnormally stops, often leading to a crash.
+reachability
+182
+
+processor
+182
+
+robotics
+181
+the branch of technology that deals with the design, construction, operation, structural disposition, manufacture and application of robots. Robotics is related to the sciences of electron…
+mex
+181
+dynamically linked subroutines produced from C, C++ or Fortran source code that, when compiled, can be run from within MATLAB® in the same way as MATLAB functions or built-in functions.
+mysql-connector
+181
+provides standards-based drivers for JDBC, ODBC, and .Net enabling developers to build database applications in their language of choice. In addition, a native C library allows developers to embed MyS…
+maven-assembly-plugin
+181
+primarily intended to allow users to aggregate the project output along with its dependencies, modules, site documentation, and other files into a single distributable…
+joptionpane
+181
+JOptionPane makes it easy to pop up a standard dialog box that prompts users for a value or informs them of something.
+facebook-fanpage
+181
+
+alphablending
+181
+a convex combination of a translucent foreground color with a background color allowing for transparency effects.
+asyncsocket
+181
+Asynchronous sockets allow for multiple simultaneous non-blocking socket connections.
+angle
+181
+
+storekit
+181
+an iOS framework that provides classes which allow an application to request payment from a user for additional functionality or content that an iOS app delivers.
+toad
+181
+a database query tool from Quest Software. There are versions of TOAD that can query Oracle, SQL Server, MySQL, PostgreSQL and more. It provides query editing & reporting, debuggers, performan…
+chaining
+181
+an object-oriented programming technique where methods return the object on which they were called so that another method may be called on the same object, thus forming a method chain.
+buffer-overflow
+181
+Usually occurs when you attempt to copy data into a buffer without checking for sufficient space, causing data to be overwritten in neighboring cells.
+avr
+181
+AVR refers to two families of either 8- or 32-bit RISC microcontrollers
+azure-storage-tables
+181
+Relational like semi-structured storage repository which can scale massively in storage. It is row indexed and the combination Row-Key and Partition-Key determines the rows un…
+blobstore
+180
+
+compress
+180
+
+cpu-registers
+180
+small, fast memory storage used by processors to hold data that is being immediately worked with.
+strategy
+180
+
+sweave
+180
+a system for interspersing S (or R) code with LaTeX. It is an implementation of Donald Knuth's Literate Programming concept.
+svm
+180
+a set of related supervised learning methods that analyze data and recognize patterns, used for classification and regression analysis.
+webrick
+180
+a zero configuration http server stack chiefly used as the web server for the ruby-on-rails framework development and test environments.
+debug-symbols
+180
+
+delegation
+180
+
+fibonacci
+180
+the sequence defined by F(0) = 0, F(1) = 1, F(n + 2) = F(n) + F(n + 1).  The first few terms are 0, 1, 1, 2, 3, 5, 8.
+gsoap
+180
+an open source C and C++ software development toolkit for SOAP/XML Web services and generic (non-SOAP) C/C++ XML data bindings.
+lazy
+180
+
+return-type
+180
+

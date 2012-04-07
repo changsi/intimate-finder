@@ -1,0 +1,108 @@
+jquery-ui-droppable
+75
+
+arp
+75
+
+assign
+75
+
+async-await
+75
+This covers the asynchronous programming support added to C# and VB in VS11. This includes the `async` and `await` keywords.
+affiliate
+75
+
+declare
+75
+
+avr-gcc
+75
+a suite of executable software development tools for Atmel AVR RISC processors
+awtrobot
+75
+used to programmatically trigger input events, such as keypresses and mouse actions.
+bigdata
+75
+For questions relating to problems arising for large data sets.  Questions may tend to be related to infrastructure, algorithms, statistics, and data structures.
+baseadapter
+75
+
+xserver
+75
+
+zend-server
+75
+
+comma-separated
+75
+
+completion
+75
+
+customer
+75
+
+urlfetch
+75
+
+uicomponents
+75
+
+uielement
+75
+
+user-authentication
+75
+
+turbogears
+75
+TurboGears, another open source MVC-style Web application framework based on Python.
+subsonic2.2
+75
+
+tapi
+75
+the telephony API in the Microsoft Windows operating system.
+tfs-sdk
+74
+a Microsoft product, tightly integrated with its Visual Studio product and aimed at helping teams of .net developers work togther, with an integrated Wiki, Work item tracker,…
+termination
+74
+
+templatefield
+74
+
+windows-firewall
+74
+[windows-firewall] should be used when referring to the firewall that comes with Windows. Other firewalls that run on Windows should contain the two tags [windows][firewall]
+worksheet
+74
+
+x509certificate2
+74
+.Net Class for handling X.509 Certificates
+cx-freeze
+74
+a set of scripts and modules for freezing Python scripts (.py) into executable files (.exe) for either Windows or Linux.
+combo
+74
+
+codefirst
+74
+a technique used by Microsoft's Entity Framework (an Object-Relational Mapper) to model data objects by writing code classes.
+xuggle
+74
+A free open-source library for Java developers to uncompress, manipulate, and compress recorded or live video in real time. http://www.xuggle.com/
+autocompletebox
+74
+
+bson
+74
+a computer data interchange format used mainly as a data storage and network transfer format in the MongoDB database.
+built-in
+74
+
+cartesian-product
+74
+The cartesian product, named after René Descartes, of two sets A and B is the set of all ordered pairs ab, where a is element of A and b is element of B.

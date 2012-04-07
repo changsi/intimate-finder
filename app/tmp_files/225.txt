@@ -1,0 +1,110 @@
+lastfm
+56
+a music website that also provides an API, allowing others to build their own programs using Last.fm's music data.
+kannel
+56
+Open Source WAP and SMS gateway - http://www.kannel.org/
+jmenu
+56
+
+jca
+56
+The Java Connector Architecture (JCA) defines a standard architecture for connecting the Java EE platform to heterogeneous Enterprise Information Systems (EIS). Examples of EISs include Enterprise Res…
+manifest.mf
+56
+
+maven-cargo
+56
+
+macbookpro
+56
+
+lyx
+56
+a multi-platform document processor that serves as a frontend to the LaTeX typesetting environment.
+low-latency
+56
+
+gdlib
+56
+
+functionality
+56
+
+glreadpixels
+56
+
+glyph
+56
+The shape of a character as rendered (e.g in a font)
+gpx
+56
+a light-weight XML data format for the interchange of GPS data. 
+
+Source: http://www.topografix.com/gpx.asp
+expert-system
+56
+
+firstresponder
+56
+
+dynamic-jasper
+56
+an open source free library that hides the complexity of Jasper Reports.
+evaluate
+56
+
+embedded-systems
+56
+
+django-mptt
+56
+an implementation Modified Preorder Tree Traversal for handling trees of Django Model instances.
+getting-started
+56
+The term "Getting-Started" in used by those who are new to a specific programming language & wants to find a door to enter.
+django-syncdb
+56
+
+dma
+56
+a feature of modern computers and microprocessors that allows certain hardware subsystems within the computer to access system memory for reading and/or writing independe…
+dml
+56
+
+document-database
+56
+
+downcasting
+56
+
+ajp
+56
+
+rad-controls
+56
+a suite of UI controls (buttons, grids, menus, charts, windows, input controls, etc.) created by Telerik.  There are version of the suite for Silverlight, ASP.Net, WPF, WinForms and Win…
+qt-quick
+56
+a framework that provides a declarative way of building custom, highly dynamic user interfaces with fluid transitions and effects, which are becoming more and more common especially in mob…
+qpixmap
+56
+
+procfs
+56
+a virtual filesystem through which kernels of Unix-like operating systems, including Linux, expose process and kernel information.
+resttemplate
+56
+
+roman-numerals
+56
+an ancient way of representing numbers. The most common symbols are I, V, X, L, C, D, M.
+reportviewer2008
+56
+
+redemption
+56
+a library which works around the security limitations introduced in Outlook 2002. It also provides some additional features which are not accessible using the Outlook object mode…
+redmine-plugins
+56
+a flexible project management web application written using Ruby on Rails framework.

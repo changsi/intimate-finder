@@ -1,0 +1,108 @@
+kml
+542
+an XML schema used for expressing geographic annotation and visualisations. The KML file format used to display geographic data in various applications.
+globalization
+542
+The process of making an application suitable for use for a world-wide audience, regardless of culture.
+apk
+542
+An .apk file extension denotes an Android Package (APK) file. This file format, a variant of the JAR format, is used for distributing and installing bundled components onto the Android operating syste…
+nspredicate
+541
+used in Mac OS X development to define logical conditions used to constrain a search either for a fetch or for in-memory filtering.
+cluster
+540
+
+wcf-client
+539
+
+openlayers
+539
+an open source Javascript web mapping library for creating web map applications.
+rabbitmq
+539
+an open source robust messaging for applications. It is easy to use, fit for purpose at cloud scale and supported on all major operating systems and developer platforms.
+asp.net-webforms
+538
+a part of the ASP.NET web application framework. It is one of several programming models one can use to create ASP.NET web applications.
+vimrc
+537
+the primary configuration file for the VIM text editor
+connect
+537
+
+acl
+537
+An access control list (ACL), with respect to a computer file system, is a list of permissions attached to an object.
+resolution
+536
+Questions about image resolution.
+flv
+535
+a container file format used to deliver video over the Internet using Adobe Flash Player versions 6â11. Flash Video content may also be embedded within SWF files.
+jdo
+534
+a Java specification for accessing, persisting, and managing data between Java objects / classes and a datastore. Unlike the JPA specification, JDO is applicable to *all* ty…
+session-cookies
+533
+Session Cookies enable a server and a browser to establish an identified connection (though cookies) and communicate though it.
+sas
+533
+a 4GL that underpins the SAS system, a suite of products centered around data processing and statistical procedures.
+visual-sourcesafe
+533
+Source code control software from Microsoft.
+stdin
+532
+Standard input (stdin, file descriptor 0) is the input stream to a program.
+aspectj
+532
+Some aspects of system implementation, such as logging, error handling, standards enforcement and feature variations are notoriously difficult to implement in a modular way. The result is that code is…
+appdomain
+532
+an isolated environment in which Microsoft .NET assemblies can be sandboxed, granted specific permissions or PermissionSets and executed.
+selenium2
+532
+Version 2 of Selenium Browser Automation Framework
+rename
+532
+
+jquery-autocomplete
+532
+Enhances input element to quickly select a value from a list or add your own. Comes with various options and hooks for customizing and extending. Powered by jQuery.
+leak
+531
+A memory leak occurs when a program consumes memory that is not or cannot be later released to the operating system.
+dllimport
+531
+The System.Runtime.InteropServices.DllImportAttribute class allows managed .NET code to reference a Windows DLL through the magic of Platform Invocation (P/Invoke for short). The System.Runtime.Intero…
+doxygen
+531
+a multilanguage documentation generation application for C++, C, Java, Objective-C, Python, IDL, Fortran, VHDL, PHP  and C# that supports a wide variety of output formats including RTF, HTM…
+bing-maps
+531
+an online mapping service provided as a part of Microsoft's Bing suite of search engines. A suite of APIs facilitate programmatic access in a number of languages.
+speech-recognition
+530
+the technology that is used to convert spoken words to text.
+cakephp-2.0
+529
+relates to the 2.0.x branch of the CakePHP MVC framework.
+title
+528
+
+nio
+527
+Java 'New I/O' introduced in 1.4, providing non-blocking and multiplexed network I/O; 'direct' (native) buffers; file locks and mapped files; and character set codecs.
+fastcgi
+526
+a protocol for interfacing interactive programs with a web server. FastCGI is a variation on the earlier Common Gateway Interface (CGI); FastCGI's main aim is to reduce the overhead associa…
+google-charts
+525
+A free API from Google that provides interactive charts and data tools.  The API allows users to embed and customize charts, populate charts with local data, or fetch data from another site.
+itunesconnect
+525
+
+move
+525
+

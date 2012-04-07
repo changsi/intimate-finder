@@ -1,0 +1,111 @@
+getaddrinfo-a
+6
+
+ghosts-in-the-machine
+6
+
+gexperts
+6
+a free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE.  GExperts is developed as Open Source software and we enc…
+getwindowlong
+6
+
+getsystemmetrics
+6
+
+ditto
+6
+
+dist-zilla
+6
+a Module development and release toolkit for the Perl Programming Language, which utilizes plugins to make mundane tasks easy to automate.
+distribution-list
+6
+
+document-imaging
+6
+
+do.call
+6
+
+dnsbl
+6
+
+dom4
+6
+
+dogfood
+6
+
+eggdrop
+6
+an IRC robot that is scripted using Tcl.
+ed
+6
+a text editor for Unix.
+eclipse-project-file
+6
+
+dynamic-splash-screen
+6
+
+dynamic-sizing
+6
+
+eclipse-gemini
+6
+
+eclipse-europa
+6
+
+eclipse-api
+6
+
+ebean
+6
+an open source Object Relational Mapping tool.
+
+It's goal is to provide a simpler alternative to JPA (Java Persistence API) implementations
+such as Hibernate and Eclipselink.
+ebxml
+6
+
+drupal-search
+6
+Topics related to the Search module, and the API it exposes to other modules.
+drupal-cache
+6
+Questions about the cache mechanism implemented in Drupal.
+drupal-comments
+6
+Questions about the Comment module, and the comments created using it.
+drupal-feeds
+6
+Questions about the Feeds module.
+drive-mapping
+6
+
+drawingcontext
+6
+
+drawtobitmap
+6
+
+dynamic-import
+6
+
+dspace
+6
+
+d-star
+6
+a search algorithm, capable of planning paths in unknown, partially known, and changing environments in an efficient, optimal, and complete manner. It is of particular interest in mobile robotic…
+event-hooking
+6
+
+event-stream
+6
+
+eventsetter
+6
+

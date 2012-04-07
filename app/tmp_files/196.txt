@@ -1,0 +1,108 @@
+tlf
+70
+Adobe's open source Text Layout Framework. It supports rich text, many writing modes (both vertical and horizontal!), multi-column layouts, text editing, and typographic niceties such as kerning, liga…
+unlink
+70
+
+udid
+70
+
+underscore
+70
+The underscore, Unicode Character 'LOW LINE' (U+005F).  For questions about Underscore.js, please use the `underscore.js` tag.
+uitextfielddelegate
+70
+
+user-permissions
+70
+
+vertex-shader
+70
+executable programs that execute as part of the programmable geometry pipeline in modern graphics APIs such as e.g. Direct3D or OpenGL. Vertex shaders are usually hardware accelerat…
+vertex-buffer
+70
+
+week
+70
+
+vs-extensibility
+70
+the ability to develop extensions to Microsoft Visual Studio
+vs-macros
+70
+
+custom-routes
+70
+
+cs3
+70
+
+database-deadlocks
+70
+
+complextype
+70
+
+axes
+70
+Axes - plural of axis
+automata
+70
+In theoretical computer science, automata theory is the study of abstract 'mathematical' machines or systems and the computational problems that can be solved using these machines. These abstract mach…
+xlrd
+70
+
+zend-translate
+70
+
+delayed-execution
+70
+
+abi
+70
+The (Application Binary Interface) specifies the low level interface between the programs, libraries and the operating system. E.g. which registers are used to pass function parameters.
+android-menu
+70
+a common user interface component in many types of applications.
+aspnet-compiler
+70
+
+jscript
+70
+a scripting language based on the ECMAScript standard, created by Microsoft and implemented in a range of environments.  You would expect this tag to accompany questions regarding these env…
+latin1
+70
+
+jprogressbar
+70
+a Java Swing component that visually displays the progress of some task.
+jdk1.5
+70
+For issues relating to setting up or using the Java Development Kit (JDK), version 1.5.
+logical
+70
+
+locked
+70
+
+freeware
+70
+
+favorites
+70
+
+fbo
+70
+an OpenGL object type that allows rendering to textures or other user-allocated image buffers. Versions of OpenGL older than 3.0 can access an extension version of this fun…
+filesystemobject
+70
+
+entry-point
+70
+
+eclipse-jdt
+70
+The JDT project provides the tool plug-ins that implement a Java IDE supporting the development of any Java application, including Eclipse plug-ins.
+activereports
+70
+a reporting framework for Visual Studio programmers designed and marketed by GrapeCity. It uses a banded report design metaphor for creating reports like Microsoft Access or Crystal R…

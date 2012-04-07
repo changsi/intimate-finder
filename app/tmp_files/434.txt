@@ -1,0 +1,111 @@
+hook-form-alter
+16
+
+hierarchical-clustering
+16
+
+hibernate.cfg.xml
+16
+the name of the default config file used by Hibernate.
+hextiles
+16
+
+identity-management
+16
+broad term used for authentication and authorization systems
+ie8-browser-mode
+16
+
+ical4j
+16
+a Java API that provides support for the iCalendar specification as defined in RFC2445.
+
+  [1]: http://ical4j.sourceforge.net
+  [2]: http://tools.ietf.org/html/rfc2445
+id3v2
+16
+the second version of the ID3 metadata container specification. It is largely unrelated to ID3v1.
+icustomtypedescriptor
+16
+
+icloud-api
+16
+
+html-safe
+16
+
+http-content-length
+16
+The Content-Length header specifies the length (in bytes) of the content, both for requests and responses.
+hypervisor
+16
+
+mci
+16
+a high-level API providing standard commands for playing multimedia devices and recording multimedia resource files.
+mediacenter
+16
+
+melt
+16
+a web application framework written in PHP.
+meego-harmattan
+16
+Nokia's MeeGo "Harmattan" mobile operating system for N9 and N950 devices. Ships Qt4, some libraries from Intel's MeeGo, but core system and package manager (DEB) is from Maemo 6.
+memory-access
+16
+
+memorycache
+16
+
+memory-consumption
+16
+
+membershipuser
+16
+
+maven-tomcat-plugin
+16
+
+mbcs
+16
+
+match-against
+16
+
+mail-server
+16
+
+machine-language
+16
+
+machine-instruction
+16
+
+macfuse
+16
+
+manual-testing
+16
+
+markupbuilder
+16
+
+live-cd
+16
+
+linq-to-sharepoint
+16
+
+list-definition
+16
+
+listcellrenderer
+16
+
+logistics
+16
+
+long-click
+16
+In touch based user interfaces a long-click (aka long-press and tap-and-hold) refers to pressing a control for a prolonged time in order to achieve additional functionality.

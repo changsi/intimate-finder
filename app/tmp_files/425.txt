@@ -1,0 +1,108 @@
+accdb
+17
+
+abstract-type
+17
+
+displaylist
+17
+
+jscience
+17
+a comprehensive Java library for scientific computing.
+c++-cx
+17
+a set of high-level language extensions for C++ to conveniently work with Windows Runtime (WinRT).
+calculated
+17
+
+canexecute
+17
+
+carrier
+17
+
+carrot
+17
+
+cdecl
+17
+
+boost-gil
+17
+a C++ library for abstract image representation and processing. It extends concepts of the STL to image processing and is part of the Boost C++ library collection.
+boost-multi-index
+17
+
+bounds-checker
+17
+detect the inappropriate usage of memory regions.
+boss
+17
+
+bpython
+17
+a fancy interface to the Python interpreter for Unix-like operating systems.
+builtins
+17
+
+build-dependencies
+17
+
+build-agent
+17
+
+buckminster
+17
+
+autoindent
+17
+
+avahi
+17
+a free zeroconf implementation - A service discovery protocol. It can be used to find services on a network and also to publish services to be found by other Zeroconf clients.
+azimuth
+17
+
+axwebbrowser
+17
+
+berkeley-sockets
+17
+The Berkeley sockets API comprises a library for developing applications in the C programming language that perform inter-process communication, most commonly for communications across a computer netw…
+bare-metal
+17
+
+bapi
+17
+
+batching
+17
+
+basm
+17
+BASM = Borland/Codegear/Embarcadero's Built-In Assembler, the Delphi inline assembler
+bcmath
+17
+
+xp-mode
+17
+
+xml-dom
+17
+
+zest
+17
+
+zfs
+17
+a combined file system and logical volume manager designed by Sun Microsystems. -Wikipedia
+zotonic
+17
+
+autobean
+17
+
+zurb-foundation
+17
+a cross-device CSS framework for building both prototypes and production code.

@@ -1,0 +1,93 @@
+<?php
+/*Contains functions for:
+- entity/sn/facebook/login.php
+- entity/sn/facebook/logout.php
+- script/start_fetching_facebook_user_data.php
+*/
+class SNFacebookService {
+	$user_profile;
+	$user_feed;
+	
+	public function __construct() {
+		$fbconfig['appid' ]     = "209332149157812";
+    		$fbconfig['secret']     = "3949bdbfb4459e561174d33f62fc8e9c";
+    		//$fbconfig['baseurl']    = "http://skyweaver.com/skyweaver_test";
+    		$facebook = new Facebook(array(
+      		'appId'  => $fbconfig['appid'],
+      		'secret' => $fbconfig['secret'],
+      		'cookie' => true,
+    		));
+	}
+	
+	public function setDBDriverForCorePlatform($DBDriver) {
+		
+	}
+	
+	public function setDBDriverForLiveSystem($DBDriver) {
+		
+	}
+	
+	/* START OTHERS FUNCTIONS */
+	
+	//$data = ?
+	//To be used by entity/sn/facebook/login.php
+	public function login($data) {
+		$user       = $facebook->getUser();
+		$loginUrl   = $facebook->getLoginUrl(
+            array(
+                'scope'         => 'email,offline_access,publish_stream,user_birthday,user_likes,user_location,user_work_history,user_about_me,user_hometown,read_stream,
+                				friends_about_me,friends_likes,read_friendlists',
+                'redirect_uri'  => $fbconfig['baseurl']
+            )
+    		);
+		if ($user) {
+			return $loginUrl;
+		}
+		//TODO
+	}
+	
+	//$data = ?
+	//To be used by entity/sn/facebook/logout.php
+	public function logout($data) {
+		$logoutUrl  = $facebook->getLogoutUrl(array('next' => 'www.skyweaver.com'));
+		//TODO
+	}
+	
+	/* START GET FUNCTIONS */
+	
+	//$data = ?
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserFeeds($data) {
+		//TODO
+		if($user){
+			$user_feed = $facebook->api('/me/feed');
+		}
+	}
+	
+	//$data = ?
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserFriends($data) {
+		//TODO
+	}
+	
+	//$data = ?
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserProfile($data) {
+		//TODO
+		if($user){
+			$user_profile = $facebook->api('/me');
+		}
+	}
+	
+	//$data = ?
+	//To be used by script/start_fetching_facebook_user_data.php
+	public function getUserFeedsUrls($data) {
+		//TODO
+	}
+	
+	//$data = ?
+	public function publishPostInUserWall($data) {
+		//TODO
+	}
+}
+?>

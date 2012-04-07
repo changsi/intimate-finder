@@ -1,0 +1,109 @@
+spring-webflow
+360
+a Spring MVC extension that allows you to define Controllers using a domain-specific-language. This language is designed to model user interactions that require several requests…
+software-tools
+359
+
+nsmanagedobject
+359
+a generic class that implements all the basic behavior required of a Core Data model object.
+explorer
+359
+
+game-center
+358
+
+midp
+358
+a set of Java ME specifications. Known versions are 1.0 (JSR 37), 2.0 and 2.1 (JSR 118) and 3.0 (JSR 271)
+popen
+358
+a way to communicate with subprocesses using a file-like interface. It originated in C, but has been ported to other languages (via extensions) such as Python.
+tablesorter
+358
+a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes.
+urllib
+358
+Python module providing a high-level interface for fetching data across the World Wide Web,
+predecessor to urllib2
+coldfusion-9
+358
+a server-side rapid application development platform, from Adobe. The latest version, ColdFusion 9.0.1, was released on July 2010.  The next version, ColdFusion 10,  was released by [Ado…
+zsh
+358
+a shell designed for interactive use, although it is also a powerful scripting language.
+carrierwave
+357
+A modern ruby gem for file uploads in Rails and other frameworks, similar to paperclip and attachment_fu
+comment
+357
+
+mp4
+357
+a multimedia container format standard with the file extension .mp4. It can be used to store digital audio/video streams, in addition to other multimedia.
+alpha
+357
+An alpha channel determines the transparency of an image or view.  Lower values are more transparent, and higher values are more opaque
+iqueryable
+357
+.NET Framework Interface, providing functionality to evaluate queries against a specific data source wherein the type of the data is not specified.
+excel-2003
+356
+is used for referencing the Excel Version 2003 spreadsheet application from Microsoft. The version independent Tag is "excel". If your question is about VBA then also tag it VBA. If…
+folders
+356
+
+online
+356
+
+xslt-1.0
+356
+for questions specific to XSL Transformations version 1.0
+operator-keyword
+355
+
+myisam
+355
+a non-transactional storage engine for MySQL. It provides high-speed storage and retrieval, as well as fulltext searching capabilities. Also, is the default storage engine type for version p…
+qml
+355
+a declarative language designed to describe the user interface of a program: both what it looks like, and how it behaves. In QML, a user interface is specified as a tr…
+file-format
+355
+a particular way that information is encoded for storage in a computer file.
+infinite-loop
+355
+The term "infinite loop" refers to any execution instance of a loop in which the loop's exit criteria are never satisfied; such a loop would perform a potentially infinite number of iterations of the …
+loader
+355
+Adobe® Flash® ActionScript® 3.0  Loader class, used to load SWF files or image (JPG, PNG, or GIF) files
+kerberos
+354
+a network authentication protocol designed to allow nodes, communicating over a non-secure network, to prove their identity to one another in a secure manner.
+gnome
+354
+an open source desktop environment. It is composed of many API which form the GNOME Platform, and a set of official applications.
+basic-authentication
+354
+a method for a web browser or other client program to provide a user name and password when making a request.
+uniqueidentifier
+353
+With reference to a given (possibly implicit) set of objects, a unique identifier is any identifier which is guaranteed to be unique among all identifiers used for those objects and for a specific pur…
+wizard
+353
+a user interface type that presents a user with a sequence of dialog boxes that lead the user through a series of well-defined steps. Tasks that are complex, in…
+kill
+353
+an operation of removing an object or process from memory so that other processes/variables can use them.
+html-email
+353
+create emails
+embedded-linux
+352
+the use of Linux in embedded computer systems such as mobile phones, personal digital assistants, media players, set-top boxes, and other consumer electronics devices, networking equ…
+webrequest
+352
+
+offset
+352
+The relational position of an entity, when compared to another entity with fixed position. Typically used, for example, to define location within a file or byte buffer from which information should be…

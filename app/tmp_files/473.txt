@@ -1,0 +1,110 @@
+webchromeclient
+13
+An Android class to intercept Javascript dialogs, loading progress, and other events.
+web-farm-framework
+13
+the name of the framework for IIS 7 for web server clustering. It is user for distributing the load of requests accross the multiple servers, i.e. load balancing of web traffic.
+aggregators
+13
+
+air2
+13
+
+google-index
+13
+
+google-goggles
+13
+
+gldrawpixels
+13
+
+gkpeerpickercontroller
+13
+
+global.asa
+13
+
+graffiticms
+13
+
+graphite
+13
+a highly scalable real-time graphing system, specifically built to visualize numeric time-series data. The data can be visualized through graphite's web interfaces.
+
+Graphite is Apache 2…
+graphedit
+13
+
+gridex
+13
+a commercial grid control for .NET developed by Janus Systems. It offers advanced editing, sorting, filtering, grouping, and formatting features that may appeal to users seeking an alternati…
+groovy++
+13
+statically typed extension of Groovy programming language.
+gridviewrow
+13
+
+greensock
+13
+
+gud
+13
+
+gruff
+13
+
+garmin
+13
+
+gdr
+13
+GDR - General Distribution Release (Microsoft)
+genericsetup
+13
+a Zope/cmf-based toolkit for managing site configuration. It allows you to specify through xml files various tweaks needed by your site at the time of installation.
+gen-fsm
+13
+
+genericdao
+13
+
+geotargetting
+13
+
+geopy
+13
+
+git-gc
+13
+used to perform housekeeping in a Git repository, run automatically by certain other Git operations, or manually.
+github-for-mac
+13
+a mac-client for the Github social coding community. It also offers integration with local non-github git repositories.
+fulltrust
+13
+
+fullname
+13
+
+function-points
+13
+
+ftpwebresponse
+13
+
+foxit
+13
+
+formmail
+13
+
+forward-compatibility
+13
+a quality of software written to run on newer, as-yet-unreleased versions of its dependencies, i.e. newer operating systems, newer libraries, etc.
+freescale
+13
+
+freeradius
+13
+

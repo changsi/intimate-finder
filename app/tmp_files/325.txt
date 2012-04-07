@@ -1,0 +1,108 @@
+eaccelerator
+29
+
+dynamicobject
+29
+
+dynamicquery
+29
+
+doctrine-odm
+29
+built for PHP 5.3.2+ and provides transparent persistence between PHP objects and either MongoDb, CouchDb or PHPCR
+django-sphinx
+29
+
+double-submit-prevention
+29
+
+gio
+29
+
+django-paypal
+29
+
+distributed-objects
+29
+
+algorithmic-trading
+29
+a technique of trading financial assets through an algorithm which has been fully or partially automated into a computer program.
+activiti
+29
+a workflow and Business Process Management (BPM) engine. Its core is a BPMN 2 process engine for Java. It's open-source and distributed under the Apache license.
+weblogic8.x
+29
+Oracle WebLogic Server 8.X
+google-api-client
+29
+
+gnat
+29
+
+global-assembly-cache
+29
+
+gtk2hs
+29
+a GUI library for Haskell based on Gtk+. Gtk+ is an extensive and mature multi-platform toolkit for creating graphical user interfaces.
+greek-characters
+29
+
+google-talk
+29
+
+fqdn
+29
+Fully Qualified Domain Name
+fossil
+29
+a distributed version control system.
+git-reset
+29
+Sets the current Git repo head to a specified commit and optionally resets the index and working tree to match.
+external-library
+29
+
+filedescriptor
+29
+
+factorization
+29
+
+formclosing
+29
+
+flyout
+29
+
+focusmanager
+29
+
+fixeddocument
+29
+
+language-detection
+29
+
+language-interoperability
+29
+the ability of code to interact with code that is written using a different programming language. Language Interoperability can help maximize code reuse and, therefore, im…
+lcov
+29
+a graphical front-end for GCC's coverage testing tool gcov
+jtoolbar
+29
+
+jsx
+29
+
+lwuit-resource-editor
+29
+
+logrotate
+29
+
+longjmp
+29
+a non-local jumping function that can jump across functions.

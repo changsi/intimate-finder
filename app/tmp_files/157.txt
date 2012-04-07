@@ -1,0 +1,108 @@
+grant
+101
+a SQL standard command that authorizes one or more users to perform an operation or a set of operations on an object.
+htmlentities
+101
+the equivalent of escape sequences to generate Unicode character in markup.
+hyper-v
+101
+
+background-position
+101
+
+zebra-printers
+101
+generally thermal bar code label and receipt printers which can understand ZPL, EPL, CPCL, or KPL languages
+building
+101
+
+contentcontrol
+101
+
+couchapp
+101
+JavaScript and HTML5 applications served directly from CouchDB.
+touchesbegan
+101
+
+user-defined-types
+101
+
+wx
+101
+a C++ library that lets developers create applications for Windows, OS X, Linux and UNIX on 32-bit and 64-bit architectures as well as several mobile platforms including Windows Mobi…
+digest
+101
+
+dev-c++
+100
+bundled with the *very* obsolete GCC 3.4 by default. **Do not use**
+adorner
+100
+
+decoupling
+100
+
+dbnull
+100
+
+article
+100
+
+android-4.0
+100
+Android 4.0 (codename Ice Cream Sandwich) is API level 14 of the mobile operating system developed by Google. This version delivers a refined, unified UI for phones and tablets and introduces innova…
+winhttp
+100
+a HTTP library provided by Microsoft as part of Windows
+webusercontrol
+100
+
+technology
+100
+
+tabindex
+100
+
+crt
+100
+For issues relating to utilizing the c runtime library.
+clean-urls
+100
+
+bit.ly
+100
+an URL-shortening service
+yui-compressor
+100
+a utility that can minify/compress JavaScript and/or Cascading Style Sheets to reduce the file payload size for web pages. Available in Java and .NET.
+zend-validate
+100
+
+zend-gdata
+100
+
+hmvc
+100
+The HMVC (Hierarchical-Model-View-Controller) pattern decomposes the client tier into a hierarchy of parent-child MVC (Model-View-Controller) layers.
+implode
+100
+
+gprof
+100
+a GNU tool used for code profiling.
+fcgi
+100
+a protocol for interfacing interactive programs with a web server. FastCGI is a variation on the earlier Common Gateway Interface (CGI); FastCGI's main aim is to reduce the overhead associa…
+facebook-login
+100
+
+ext.net
+100
+a an open-source ASP.NET Component framework that integrates the Sencha Ext JS JavaScript framework. It allows the ExtJS user interface to be built declaratively using ASP.NET tag based mar…
+episerver
+100
+an ASP.NET-based CMS (Content Management System).
+dsn
+100
+

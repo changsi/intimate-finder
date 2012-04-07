@@ -1,0 +1,108 @@
+file-monitoring
+9
+
+finagle
+9
+a network stack for the JVM that you can use to build asynchronous Remote Procedure Call (RPC) clients and servers in Java, Scala, or any JVM-hosted language.
+filmstrip
+9
+
+flash-8
+9
+
+flac
+9
+an acronym for Free Lossless Audio Codec. The codec uses a compression scheme that was designed specifically for audio, resulting in a fast, good compression ratio with no loss of quality. FLA…
+firefox-9
+9
+Version 9.0 of the Mozilla Firefox browser, which was released on December 20, 2011.
+key-generator
+9
+
+kotlin
+9
+a statically-typed JVM-targeted programming language developed by JetBrains
+ko.observablearray
+9
+
+kohana-3.0
+9
+
+kissxml
+9
+
+knox
+9
+
+language-packs
+9
+
+libgosu
+9
+
+lf
+9
+
+limesurvey
+9
+
+like-keyword
+9
+
+lda
+9
+a generative model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar.
+lexicon
+9
+
+level-of-detail
+9
+
+jquery-calculation
+9
+
+karel
+9
+an introductory programming language in which one controls a simulated robot.
+kernel-density
+9
+
+jxtaskpane
+9
+
+jxtreetable
+9
+
+jwt
+9
+
+jmesa
+9
+a Java library used to create dynamic HTML tables that can be sorted, filtered, paginated, edited and exported as PDF, Excel or CSV. It can be used as a JSP tag library or called from a Servl…
+j-interop
+9
+
+joyent
+9
+
+jpa-1.0
+9
+for questions about the version 1.0 of the Java Persistence API. JPA 1.0 is the first version of the Java Persistence API specification.
+jotm
+9
+an open source JTA transaction manager.
+joomfish
+9
+
+jprobe
+9
+An enterprise class Java profiler by Quest Software.  The current version is 8.3 (January 2010).
+jcreator
+9
+an open source integrated development environment (IDE) with a moderate to small user base. It is only used for Java development, though many prefer it to other IDE's because it's ability …
+jcalendar
+9
+a Java date chooser bean for selecting a date.
+jcanvas
+9
+a little jQuery plugin written entirely in JavaScript that makes working with jQuery, and thereby HTML5â²s canvas element, a lot easier. Web developers will get a lot of benefit out of using…

@@ -1,0 +1,109 @@
+relevance
+66
+
+response.write
+66
+
+resharper-6.0
+66
+is a refactoring and productivity extension by JetBrains that extends native functionality of Microsoft Visual Studio 2003, 2005, 2008 and 2010. Version 6.0 provides various improvements over previous…
+rgba
+66
+
+schema-design
+66
+
+setuid
+66
+
+sharedobjects
+66
+
+sql-view
+66
+a stored query. Its output automatically updates as underlying table data changes.
+square
+66
+
+soql
+66
+the Salesforce Object Query Language.
+multiple-columns
+66
+
+nunit-2.5
+66
+For issues relating creating and running unit tests using NUnit, version 2.5.
+paradox
+66
+Paradox was created, by Borland, as an integrated database management system and application development language for desktops and servers. It ran orignally under DOS and later under Windows. It is a …
+outlook-object-model
+66
+the hierarchy of objects, methods and properties exposed by Outlook and available through VBA. This tag pertains to questions having to do with this hierarchy as well as it…
+onmousedown
+66
+
+pci
+66
+are only for questions related to the PCI Local Bus standard which is a computer bus for attaching hardware devices in a computer.
+partial-page-refresh
+66
+
+phpdocumentor
+65
+
+postgresql-9.1
+65
+
+portfolio
+65
+
+ownership
+65
+
+pair-programming
+65
+an agile software development technique in which two programmers work together at one work station
+null-coalescing-operator
+65
+
+norm
+65
+a MongoDB driver for .Net designed to provide access to strongly/statically-typed documents and collections. See https://github.com/atheken/NoRM for more details.
+meta-search
+65
+
+modelbinding
+65
+
+mkoverlay
+65
+part of Apple's Map Kit framework for developing iOS applications.
+The primary purpose of MKOverlay is to add one or more visual overlays to an existing MKMapView (base map). There are d…
+mixins
+65
+
+sifr3
+65
+
+side-effects
+65
+
+simpleadapter
+65
+
+simplexml-load-string
+65
+
+sl4a
+65
+Scripting Layer for Android, a library for executing scripting languages on Android
+sqldependency
+65
+
+splash
+65
+
+shelve
+65
+

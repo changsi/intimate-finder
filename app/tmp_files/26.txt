@@ -1,0 +1,115 @@
+label
+1176
+a placeholder for text and other UI elements
+log4net
+1174
+a logging framework for .NET, initially ported from the log4j project.
+override
+1171
+Method overriding, in object oriented programming, is a language feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its s…
+mediaplayer
+1168
+Software or hardware device designed to play audio/video files.
+edittext
+1168
+a thin veneer over TextView that configures itself to be editable.
+coffeescript
+1167
+a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScrip…
+windows-installer
+1167
+From the MSDN documentation:
+
+
+  Microsoft Windows Installer is an
+  installation and configuration service
+  provided with Windows. The installer
+  service enables customers to provide
+  better corpo…
+malloc
+1166
+The malloc function performs dynamic memory allocation in C and is part of the standard library.
+machine-learning
+1166
+Machine learning provides computer algorithms that automatically discover patterns in data and make intelligent decisions from them.
+gallery
+1165
+a collection of photos in a software system
+metaprogramming
+1164
+the capability to reprogram ones programming environment, as with macros or metaclasses.
+gzip
+1160
+both the name for a compressed data format and any of several software applications implementing this format. It is commonly used to compress HTTP requests and responses, and combined wit…
+content
+1159
+'Content' refers to items of substance, usually visible, which are placed in containers for consumption by a client entity, such as an end-user.
+project
+1152
+a collaborative enterprise, frequently involving research or design, that is carefully planned to achieve a particular aim.
+compare
+1149
+
+mapreduce
+1148
+a framework for processing huge datasets on certain kinds of distributable problems using a large number of nodes
+contextmenu
+1147
+a menu in a graphical user interface that appears upon user interaction, such as a right mouse click or middle click mouse operation.
+hardware
+1145
+The physical components of a computer.  Please specify the model of your hardware in your question.
+embed
+1142
+to place a software module, object, or application into your own application, webpage, or hardware device.
+plist
+1142
+"Property List" file
+global-variables
+1141
+In computer programming, a global variable is a variable that is accessible in every scope (unless shadowed). Interaction mechanisms with global variables are called global environment (see also globa…
+conditional
+1140
+Conditional has various meanings for various languages and probably should be avoided as a tag.
+iis-7.5
+1138
+IIS (Internet Information Services) Version 7.5 â is a web server application and a set of feature extension modules created by Microsoft for use with Microsoft Windows.
+action
+1137
+
+ckeditor
+1136
+a JavaScript based WYSIWYG editor created for use within web pages. It is open source and plugin based making it both customizable and extensible. It has a rich JavaScript API, comes AJAX …
+tooltip
+1135
+a GUI (Graphical User Interface) element which typically pops up when the mouse pointer is hovering over an item in the GUI and provides some contextual information or clarification.
+prism
+1134
+Microsoft's Composite Application Guidance for WPF and Silverlight
+mobile-safari
+1132
+A mobile version of Appleâs Safari web browser.
+ejb-3.0
+1131
+used for question related to the session bean and message-driven bean component types of the EJB 3.0 programming model. For questions about the persistent entities defined in the document …
+facebook-c#-sdk
+1130
+The Facebook C# SDK helps .Net developers build web, desktop, and phone applications that integrate with Facebook.
+mongoid
+1130
+an Object-Document-Mapper (ODM) for MongoDB written in Ruby.
+django-views
+1129
+MVC views; they control rendering (typically through templates), and the data displayed.
+actionscript-2
+1127
+a scripting language used by the Adobe Flash software, introduced in Flash MX.
+metadata
+1126
+defined as data providing information about one or more aspects of the data.
+animate
+1125
+
+sql-server-2008-r2
+1123
+for questions specific to the 2008 R2 version of Microsoft's SQL Server.

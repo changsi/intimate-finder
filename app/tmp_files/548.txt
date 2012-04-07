@@ -1,0 +1,109 @@
+jform-designer
+9
+
+jide
+9
+a Swing component library developed by Jide Software. It has an open source part 
+called "Jide common layer" licensed under the GPL with classpath exception and several commercial component c…
+jdk6
+9
+For issues relating to setting up or using the Java Development Kit (JDK), version 6.
+luntbuild
+9
+
+lwuit-textfield
+9
+Allows in place editing using a lightweight API without necessarily moving to the external native text box.
+l-systems
+9
+
+loupe
+9
+
+login-system
+9
+
+logos
+9
+
+linestyle
+9
+
+listobject
+9
+
+listview-adapter
+9
+
+loadimage
+9
+
+loaderinfo
+9
+
+maml
+9
+
+makumba
+9
+a framework for creating scalable and robust data-driven web-applications.
+magazines
+9
+
+mappath
+9
+
+markov-models
+9
+
+maximo
+9
+
+max-size
+9
+
+maven-wagon-plugin
+9
+a plugin for Apache Maven 2 for deploying files, supporting SCP, FTP, file copy and a variety of other mechanisms. This is a tag for Maven related questions that are specific…
+maven-resources-plugin
+9
+The Maven Resources Plugin handles the copying of project resources to the output directory.
+maven-compiler-plugin
+9
+used to compile the sources of your project. The default compiler is javac and is used to compile Java sources.
+mathematica-7
+9
+For questions specific to version 7.0.x of Wolfram Mathematica, or not applicable to versions 6 or earlier.
+matchers
+9
+
+mde
+9
+
+mdbg
+9
+
+mcimagemanager
+9
+
+mdpi
+9
+
+mediarss
+9
+
+http-protocols
+9
+
+http-status-code-307
+9
+307 Temporary Redirect -- HTTP status code introduced in HTTP 1.1
+ia64
+9
+
+iaccessible
+9
+
+hwndhost
+9
+

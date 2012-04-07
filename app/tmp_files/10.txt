@@ -1,0 +1,110 @@
+input
+3477
+usually related to the user input, i.e. to the data that user effectively supply to the running application. In many systems this input is considered to be potentially dangerous and needs to …
+sdk
+3473
+A set of development tools that allows for the creation of applications for a certain software package.
+ide
+3456
+IDEs (Integrated Development Environment) are computer programs that facilitate efficient software development by providing features beyond those of a simple text editor.
+air
+3455
+Adobe Integrated Runtime (AIR), also known as Adobe AIR, is a cross-platform runtime environment developed by Adobe Systems for building applications targeting desktop, mobile and television systems u…
+ruby-on-rails-3.1
+3422
+a specific version of Ruby on Rails. It was released on  August 30th, 2011. Use this tag for issues related to development in Ruby on Rails version 3.1.
+programming-languages
+3399
+an artificial language designed to express computations that can be performed by a machine, particularly a computer.
+vector
+3384
+A one-dimensional resizable array
+process
+3380
+about operating system processes. A *process* is an instance of a computer program being executed. Many operating systems let multiple processes run concurrently. The operating system take…
+resources
+3365
+Assets (like memory, disk space, CPU power or alike) necessary for effective operation.
+map
+3364
+Map, sometimes also called "dictionary" or "associative array" (in computer science) is a data structure which stores the relations between keys and values and allows the retrieval of the value using …
+msbuild
+3347
+an XML-based build platform from Microsoft.
+if-statement
+3335
+a control structure in many programming languages that lets program change execution flow depending on some condition.
+parameters
+3333
+a special kind of variables, used in a subroutine to refer to one/more of the pieces of data provided as input to the subroutine
+build
+3321
+The process of converting source code files into standalone software artifact(s) that can be run on a computer
+joomla
+3312
+an open-source CMS written in PHP and powered by an MVC-oriented framework. Over 9,100 extensions are available and can be installed through the admin interface.
+f#
+3310
+a succinct, expressive and efficient functional and object-oriented language for .NET which helps you write simple code to solve complex problems.
+
+For more information about F#, visit the F# …
+internet-explorer-8
+3307
+a web browser developed by Microsoft, released on 19 March 2009 for Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and Windows 7.
+dependency-injection
+3283
+Design pattern to reduce coupling between components, by dynamically injecting into a software component dependencies that it needs to function.
+casting
+3280
+a process where an object type is explicitly converted into another type if the conversion is allowed.
+character-encoding
+3264
+Representing characters as a series of bytes
+model
+3260
+Part of the MVC pattern, the Model manages the behavior and data of the application.
+oauth
+3254
+a specification for client applications to access protected resources on behalf of a user. It was developed as an alternative to users handing out their login credentials…
+menu
+3250
+a user interface mechanism that provides the user a means to view and execute application operations.
+autocomplete
+3230
+a UI feature provided by applications, where the program predicts a word or phrase that the user wants to type in without the user actually typing it in completely.
+transactions
+3218
+A set of interrelated operations that must all succeed in order for any of them to succeed.  Failure of any operation results in a rollback of all operations in the transaction.
+static
+3211
+a term used in some programming languages to define a function or data storage area (field) that is not bound to any specific object instance.
+android-intent
+3200
+a facility in the Android Operating System for performing late runtime binding.
+fluent-nhibernate
+3193
+Fluent NHibernate lets you write NHibernate mappings in strongly typed C# code. This allows for easy refactoring, improved readability and more concise code.
+uiwebview
+3192
+You use the iOS SDK UIWebView class to embed web content in your application.
+uiviewcontroller
+3189
+The UIViewController class provides the fundamental view-management model for iPhone applications. The basic view controller class supports the presentation of an associated view, support for managing…
+jboss
+3173
+a free software/open-source Java EE-based, Cross-platform Application Server.
+https
+3163
+Hypertext Transfer Protocol Secure (HTTPS) is a combination of the Hypertext Transfer Protocol with the SSL/TLS protocol to provide encrypted communication and secure identification of a network web s…
+colors
+3163
+The property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.
+fonts
+3155
+an electronic data file containing a set of glyphs, characters, or symbols such as dingbats. Although the term font first referred to a set of metal type sorts in one style and size, since t…
+google-maps-api-3
+3133
+Google Maps JavaScript API Version 3 lets you embed the functionality of Google Maps into your own website.  Version 3 provides greatly improved support for mobile devices.
+website
+3123
+A collection of related web pages containing images, videos or other digital assets.

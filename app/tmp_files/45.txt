@@ -1,0 +1,110 @@
+fql
+609
+Facebook Query Language, or FQL, enables you to use a SQL-style interface to query the data exposed by the Graph API.
+self-improvement
+608
+does NOT belong on real concrete programming questions, where Stack Overflow is all about. Other kinds of questions are off-topic and likely to be closed. If you can writ…
+user-input
+608
+data that the user inputs into the program.  It generally takes the form of a String, but may also be an integer, floating-point number, etc.
+httphandler
+607
+classes that implement the IHttpHandler and IHttpAsyncHandler interfaces. This section describes how to create and register HttpHandlers and provides examples of a synchronous handler…
+photo
+606
+
+payment-gateway
+605
+A service for authorizing payments for an e-commerce website, an online retailer or a traditional business.Payment gateways usually employ security mechanisms to pass the payment related information f…
+html5-canvas
+605
+part of HTML5 and allows for dynamic, scriptable rendering of 2D shapes and bitmap images. It is a low level, procedural model that updates a bitmap and does not have a built-in …
+input-validation
+604
+the process of ensuring that a program operates on clean, correct and useful data.
+javascript-library
+604
+a library of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies.
+dates
+603
+
+apache-poi
+602
+a Java library for reading and writing various Microsoft file formats, especially Office related ones, based on OLE2 and OOXML, such as XLS and DOCX.
+monodroid
+601
+an implementation of Mono that runs on the Android platform, allowing you to write Android applications in C# using native Android libraries as well as using the .NET BCL (Base Cla…
+sitemap
+601
+a list of pages of a web site accessible to crawlers and users.
+oauth-2.0
+599
+an open protocol to allow secure API authorization in a simple and standard method from desktop and web applications.
+
+OAuth 2.0 is the second version of the OAuth prot…
+nstableview
+599
+an Apple object that displays data for a set of related records, with rows representing individual records and columns representing the attributes of those records
+twitter-bootstrap
+599
+a toolkit from Twitter designed to kickstart development of webapps and sites. Among other things, it includes base CSS and HTML for typography, forms, buttons, tables, grids, and navigat…
+code-first
+599
+a software implementation approach that favors programming against an API over other approaches that may rely more heavily on visual tools or require the presence of some external source…
+textfield
+598
+
+odata
+598
+a Web protocol for querying and updating data. It enables rich relational data that is accessible from nearly any platform by using web standards such as REST, AtomPu…
+datacontext
+596
+used in WPF, Silverlight and various other .NET technologies. When used with WPF or Silverlight, a DataContext is an object holding the data that the form (or page in case of Silverli…
+flash-cs4
+595
+
+drag
+595
+
+guice
+594
+Google's lightweight dependency injection framework for Java 5 and above.
+portlet
+594
+Java-technology-based web component, managed by a portlet container that processes requests and generates dynamic content.
+config
+594
+
+data.frame
+593
+one of the basic data structures in the [tag:r] language.  Data frames are lists of variables each with the same number of rows, similar to a table in a data base.  Unlike matrices in …
+wildcard
+593
+any character that can be used to substitute for any other character or characters in a string.
+expression-trees
+593
+an abstract representation of code in a tree structure where each node of the tree represents a programming construct (conditional, assignment, method call, etc.)
+exe
+592
+a common filename extension for an executable file (a program) in Microsoft Windows and other operating systems (e.g. DOS, OpenVMS, Symbian, and OS/2).
+lxml
+592
+a full-featured, high performance Python library for processing XML and HTML.
+openmp
+592
+a crossplatform multi-threading API which allows fine-grained task parallelization and synchronization using special compiler directives. OpenMP offers easy access to multithreading without …
+nsdata
+592
+an apple class for holding generic data. Often used when reading/writing from and to files, and the internet.
+quartz-scheduler
+592
+a Java-based open-source job scheduling service.
+accelerometer
+592
+a device that measures the proper acceleration of the device.
+delphi-xe
+591
+a specific version of Delphi. Delphi XE was released in August 2010, and is available as a standalone product or as part of RAD Studio XE.
+texture
+591
+

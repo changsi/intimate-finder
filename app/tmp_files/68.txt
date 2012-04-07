@@ -1,0 +1,108 @@
+tostring
+346
+
+carousel
+346
+
+conventions
+346
+
+statusbar
+345
+an area typically found at the bottom of Graphical User Interfaces that provide information about the computer, the application or other applications.
+web2py
+345
+a open-source full-stack web framework written in Python 2.x.
+playback
+345
+
+session-timeout
+345
+
+scala-2.8
+345
+Version 2.8 of the Scala language for the JVM.
+has-many-through
+345
+In Ruby on Rails, a has_many :through association is often used to set up a many-to-many connection with another model. This association indicates that the declaring model can be matched with zero or …
+introspection
+345
+A capability of some object-oriented programming languages to determine the type of an object at runtime.
+etl
+345
+an acronym for Extract, Transform, and Load. It refers to a process of extracting data from source systems, transforming the data in some way (manipulating it, filtering it, combining it with o…
+documentation-generation
+345
+
+gstreamer
+345
+a versatile open-source multimedia framework.
+fxcop
+345
+Microsoft's free static analysis tool for analyzing .NET managed code assemblies.
+kinect
+344
+A hardware device from Microsoft that combines video and depth cameras allowing developers to create unique controller-free applications. The Kinect works with the XBox 360 gaming console and Windows …
+sizeof
+344
+sizeof refers to the Standard C operator returning the size of an expression or type. The result is of type size_t, which is guaranteed to be an unsigned type.
+mockito
+344
+a mocking framework for Java. It is inspired by EasyMock but aims to simplify mock creation even further.
+jquery-templates
+344
+
+dbi
+344
+a database access module for the Perl programming language. It defines a set of methods, variables, and conventions that provide a consistent database interface, independent of the actual d…
+apache-camel
+343
+a powerful open source integration framework based on known Enterprise Integration Patterns with powerful Bean Integration
+typo3
+343
+an Open Source Enterprise Web Content Management System (CMS). Written in PHP it is typically combined with a MySQL database and runs on many Unixes and Windows.
+scrollviewer
+343
+a user interface construct that provides a scrolling area to any control(or hierarchy of controls) that is placed within it.
+proguard
+343
+a tool to shrink, optimize, obfuscate, and preverify Java classes. It is included in the Android SDK.
+itemrenderer
+343
+Questions pertaining to creating and using a custom ItemRenderer to display bound data in Flash constrols such as List and DataGrid.
+has-many
+343
+has_many indicated a master-detail relationship
+grails-plugin
+343
+a self-contained bundle of functionality that can be installed into a Grails application.
+dump
+343
+
+distributed-computing
+342
+A field of computer science that studies distributed systems
+remote-desktop
+342
+
+runtime-error
+342
+detected after or during the execution of a program.
+sensor
+341
+Sensors convert physical stimuli into signals, which can be sampled by other subsystems.  They let the rest of the system to collect information about the physical world.
+primes
+341
+integers greater than 1 which are divisible only by themselves and 1: i.e. 2, 3, 5, 7, 11, ...
+actionlistener
+341
+probably the easiest and most common event handlers to implement. Implement an ActionListener to define what should be done when the user performs a certain operation.
+ghc
+340
+a state-of-the-art, open source compiler and interactive environment for the functional language Haskell.
+editing
+340
+
+excel-formula
+340
+for Microsoft Excel questions where the question or answers involve Excel formula, as opposed to VBA or other code mechanism.

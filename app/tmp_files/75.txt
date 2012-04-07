@@ -1,0 +1,108 @@
+media-queries
+307
+Media queries enable the conditional application of CSS styles based on media types, such as screen and print, and the conditions of media features, such as viewport and device height and width. They …
+ld
+307
+The ld (linker or loader) program combines object files, archive files and (referencs from) shared libraries, relocates their data and addresses together with symbol references. Linking is usually the…
+example
+307
+
+find-and-replace
+307
+For issues relating to search/find and replace operations.
+nltk
+307
+a Python library for computational linguistics.
+params
+306
+
+android-activity
+306
+On the Android platform, an Activity represents a screen with certain Views, which is displayed to the user.
+array-sorting
+306
+
+custom-action
+305
+
+methodology
+305
+
+msdn
+305
+Microsoft Developer Network  http://msdn.microsoft.com/
+multicast
+304
+Multicast refers to one-to-many network transmission options, where packets will be automatically propagated just to those nodes wishing to receive them. IP-based multicast is the common case, though …
+n-tier
+304
+Multi-tier architecture (often referred to as n-tier architecture) is a clientâserver architecture in which the presentation, the application processing, and the data management are logically separate…
+concepts
+304
+
+average
+304
+
+titanium-mobile
+304
+A JavaScript based platform for developing mobile applications produced by Appcelerator.
+jquery-ui-draggable
+304
+
+ads
+303
+
+streamreader
+303
+
+autotools
+303
+a suite of programming tools (mainly autoconf, automake, and libtool) designed to assist in making source-code packages portable to many Unix-like systems.
+common-table-expression
+303
+defined within the execution scope of a single SELECT, INSERT, UPDATE, DELETE, or CREATE VIEW statement.
+scrapy
+303
+a fast open-source high-level screen scraping and web crawling framework written in python, used to crawl websites and extract structured data from their pages. It can be used for a wide ran…
+saas
+303
+Software as a service (SaaS), or "on-demand software," is a software delivery model in which software and its associated data are hosted centrally and are typically accessed by users using a thin clie…
+scheduler
+302
+
+plpgsql
+302
+the default procedural language for the PostgreSQL database system. Questions about PL/pgSQL should probably be tagged "PostgreSQL" as well.
+oracle9i
+302
+a relational database management system (RDBMS) product. Specific releases of the product are known as Oracle9i, Oracle 10g and Oracle 11g. Generally there are two releases within each major…
+fontsize
+302
+
+facebook-social-plugins
+302
+dedicated to questions regarding the implementation of Facebook social plugins like fb:like in both XFBML and iframe.
+interrupt
+302
+
+blackberry-jde
+302
+Blackberry Java Development Environment
+biginteger
+301
+an arbitrary-precision arithmetic type in Java, C#, and other languages. It behaves like a signed integer whose size is limited only by available memory.
+xmlserializer
+301
+
+abstraction
+301
+a computer science concept in which an implementation is separated from its interface.
+dateformat
+301
+
+item
+301
+
+manipulation
+301
+

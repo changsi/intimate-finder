@@ -1,0 +1,110 @@
+windows-server-2003
+786
+Windows Server 2003 (sometimes referred to as Win2K3) is a server operating system produced by Microsoft, introduced on 24 April 2003. An updated version, Windows Server 2003 R2, was released to manuf…
+unique
+786
+
+whitespace
+785
+often used to refer to any combination of spaces, tabs, and new lines which create blank space between text, either horizontally or vertically.
+response
+785
+
+mxml
+784
+an XML-based declarative language similar to CFML
+modal
+782
+
+return-value
+782
+the result of evaluation of a return statement.
+default
+782
+
+inline
+781
+In various versions of the C and C++ programming languages, an inline function is a function upon which the compiler has been requested to perform inline expansion. In other words, the programmer has …
+honeycomb
+780
+the codename for version 3.0+ of the Android OS.
+visualization
+780
+any technique for creating images, diagrams, or animations to communicate a message.
+poco
+779
+Means Plain Old CLR Object, a simple object that does not follow any object model, convention or famework.
+binary-trees
+778
+a tree data structure in which each node has at most two child nodes, left and right. Nodes with children are parent nodes and the node without a parent is the root node.
+linq-to-objects
+777
+a version of the Linq query engine for in-memory object collections. You use Linq to Objects to query a list of objects based on their properties.
+gis
+777
+A geographic information system (GIS), geographical information system, or geospatial information system is any system that captures, stores, analyzes, manages, and presents data that are linked to lo…
+wrapper
+776
+An OOP technique where an object encapsulates (wraps) another object, hiding/protecting the object and controlling all access to it.
+executable
+774
+An executable file causes a computer "to perform indicated tasks according to encoded instructions," as opposed to a data file that must be parsed by a program to be meaningful.
+git-svn
+774
+a bidirectional bridge between Git and SVN.
+overloading
+774
+The terms overloading and overloaded may refer to:
+
+  - Constructor and method overloading, a type of polymorphism where different functions with the same name are invoked based on the data types of…
+background-image
+773
+
+msmq
+772
+a message queuing implementation developed by Microsoft and deployed as part of its Windows platform since 1996. MSMQ is included on most versions of Windows but it…
+reportviewer
+772
+Microsoft Report Viewer control enables applications that run on the .NET Framework to display reports designed using Microsoft reporting technology.
+manifest
+772
+a file containing metadata about an application, data file or assembly.
+implementation
+771
+a realization of a technical specification or algorithm as a program, software component, or other computer system through programming and deployment.
+flex4.5
+771
+an iteration of the ActionScript and MXML based RIA SDK that focused on expanding support for mobile / tablet platforms
+bundler
+771
+a system that attempts to manage a ruby application's gem dependencies across multiple developers and environments.
+customization
+771
+
+class-design
+771
+
+windows-phone-7.1
+771
+the version number of the OS and developer SDK for Windows Phone "Codename Mango". Phones running this operating system are marketed as being "Windows Phone 7.5".
+external
+769
+
+document
+768
+Is a term that in computer science can refer to various file types containing information usually readable by a human.
+webclient
+768
+a class for .NET Framework 4 applications that provides methods for sending and receiving data from a resource identified by a URI.
+social-networking
+765
+a social structure made up of individuals (or organizations) called "nodes", which are tied (connected) by one or more specific types of interdependency, such as friendship, kinshi…
+parameter-passing
+764
+the process of assigning values to the parameters of a function
+sencha
+763
+a company specializing in web application frameworks, most importantly ExtJS and Sencha Touch. Sencha was originally formed when open source projects Ext JS, jQTouch, and Raphaël joined forc…
+youtube-api
+763
+The YouTube APIs and Tools enable you to integrate YouTube's video content and functionality into your website, software application, or device.

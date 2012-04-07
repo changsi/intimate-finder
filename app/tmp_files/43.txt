@@ -1,0 +1,111 @@
+delay
+647
+
+connection-pooling
+646
+In software engineering, a connection pool is a cache of database connections maintained so that the connections can be reused when future requests to the database are required.
+global
+645
+
+pear
+645
+a repository of PHP software code.
+sprite
+644
+a two-dimensional image or animation that is integrated into a larger scene.
+captcha
+644
+an acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart". Captcha is a type of challenge-response test used in computing as an attempt to ensure that the …
+colorbox
+643
+A light-weight, customizable lightbox plugin for jQuery 1.3 through 1.6
+clearcase
+643
+a commercial CVCS (Centralized Version Control System), with:
+
+Decentralized option: ClearCase Multi-Site, with Vobs (Version Object Base) replication
+Network access to versioned data:…
+div-layouts
+641
+
+mediawiki
+641
+a free software wiki package written in PHP, originally for use on Wikipedia. It is now used by several other projects of the non-profit Wikimedia Foundation and by many other wikis.
+feed
+640
+a data format used for providing users with frequently updated content.
+content-type
+640
+The Content-Type entity-header field indicates the media type of the entity-body sent to the recipient or, in the case of the HEAD method, the media type that would have been sent had the request been…
+case
+640
+
+string-formatting
+639
+Commonly refers to a number of methods to display an arbitrary number of varied data types into a string.
+add
+639
+
+mvp
+639
+a derivative of the model-view-controller software pattern, used mostly for building user interfaces.
+projects-and-solutions
+637
+Some IDEs organize code and resources into projects and solutions, usually in a directory-based hierarchy. This can also be done manually.
+umbraco
+637
+an open source .NET based content management system. It is released under the MIT licence and powers a number of high profile sites, most notably Microsoft's own www.asp.net website.
+wcf-security
+637
+
+uigesturerecognizer
+636
+an abstract base class for concrete gesture-recognizer classes. A gesture-recognizer object (or, simply, a gesture recognizer) decouples the logic for recognizing a gesture and …
+settimeout
+636
+a global JavaScript method, used to execute a particular function or piece of code after a given delay.
+mpi
+635
+the Message Passing Interface, a library for distributed memory parallel programming and the de facto standard method for using distributed memory clusters for high-performance technical comput…
+jax-rs
+635
+JAX-RS: Java API for RESTful Web Services is an API that provides support in creating web services according to the REST architectural style.
+wcf-binding
+635
+
+axis
+634
+
+cli
+634
+a mechanism for interacting with a computer operating system or software by typing commands to perform specific tasks.
+configuration-files
+633
+
+task-parallel-library
+633
+part of .NET 4. It is a set of APIs to enable developers to program multicore shared memory processors.
+toolbar
+632
+is for issues relating to the configuration, design, and use of toolbars.
+undefined
+632
+
+ireport
+631
+a graphical user interface that allows developers to create pixel-perfect reports. iReport is sometimes erroneously confused with JasperReports, as they are closely-related technologies. To…
+ocr
+631
+Optical character recognition
+pipes
+630
+a method of redirecting output of one program into input of another program.
+mechanize
+630
+A library for automated web browsing originally developed for Perl, there are now also Python and Ruby implementations.
+sass
+629
+a CSS preprocessor written in Ruby. It's translated to well-formatted, standard CSS using the command line tool, a filesystem watcher or a web-framework plu…
+task
+629
+a concurrent thread of execution in an Ada program. Tasks correspond to Threads in Java.

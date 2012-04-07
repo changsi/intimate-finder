@@ -1,0 +1,109 @@
+mpmediaplayercontroller
+14
+
+msbuild-buildengine
+14
+
+msbuildextensionpack
+14
+an open source collection of tasks that can be plugged into the Microsoft build automation system.
+mpg
+14
+
+movable
+14
+
+mouseleftbuttondown
+14
+
+multihomed
+14
+increase the reliability of the Internet connection for an IP network.
+ms-project-server-2010
+14
+
+mspl
+14
+Questions related to the MS-PL (Microsoft Public License)
+mvc-framework
+14
+
+mutability
+14
+
+multiple-conditions
+14
+
+paypal-soap
+14
+exposing various features of the PayPal platform through SOAP webservices.
+pcap.net
+14
+a .NET wrapper for WinPcap written in C++/CLI and C#.
+It Features almost all WinPcap features and includes a packet interpretation framework.
+pathogen
+14
+a Vim runtime manager. Designed to allow you to install plugins and runtime files in their own directories.
+persistence-ignorance
+14
+
+peripherals
+14
+
+population
+14
+
+popular
+14
+
+powergui
+14
+
+postfix-notation
+14
+Postfix notation (also known as Reverse Polish Notation, RPN) is a mathematical notation wherein every operator follows all of its operands, in contrast to Polish notation, which puts the operator in …
+ppi
+14
+
+pingfederate
+14
+cloud identity management software for Cloud Single Sign-On, secure mobile access, automated cloud user provisioning and API security.
+pim
+14
+personal information manager
+pimcore
+14
+
+php-parser
+14
+
+playstation
+14
+
+playlists
+14
+
+pleasewait
+14
+
+pmap
+14
+
+occi
+14
+
+objectstatemanager
+14
+
+objectfactory
+14
+
+omnicppcomplete
+14
+
+omnithreadlibrary
+14
+a Delphi library meant to ease threading.
+oma
+14
+

@@ -1,0 +1,108 @@
+dopostback
+46
+
+domelement
+46
+
+event-listeners
+46
+
+euclidean-distance
+46
+
+elegant
+46
+
+eigenvalue
+46
+the factor by which the eigenvector is scaled when multiplied by the matrix.
+qdialog
+46
+
+quine
+46
+a program that prints itself
+quicksand
+46
+jQuery plug in to make Reorder and filter items with a nice shuffling animation.
+presentation-layer
+46
+
+pycuda
+46
+the Python module which provides a comprehensive pythonic interface to the NVIDIA CUDA GPU computing environment.
+pyamf
+46
+
+pushpin
+46
+
+protege
+46
+
+route-me
+46
+
+rss-reader
+46
+
+rm
+46
+
+sortedset
+46
+
+soap4r
+46
+a SOAP implementation for Ruby developed by Hiroshi Nakamura. It is part of the standard library of Ruby 1.8.7, but was removed from 1.9.2.
+ruby-datamapper
+46
+a Object Relational Mapper written in Ruby. It implements an architectural pattern with the same name (with some changes).
+ruby-koans
+46
+a set of Ruby exercises found at rubykoans.com
+sdf
+46
+
+screen-rotation
+46
+
+shared-folders
+46
+
+sharethis
+46
+
+nstextfieldcell
+46
+
+mips32
+46
+
+mixed
+46
+
+physical
+46
+
+pkg-config
+46
+
+precompile
+46
+
+patents
+46
+A form of intellectual property. A patent is a government-issued right to prevent others from making, using, selling, offering for sale, or importing an invention.
+offline-browsing
+46
+
+opensolaris
+46
+
+openedge
+46
+The new name for the Progress 4GL database engine, since version 10.
+opencms
+45
+an open source content management system  written in Java.  It is distributed by Alkacon Software under the LGPL license.  OpenCms requires a JSP Servlet container such as Apache Tomcat.

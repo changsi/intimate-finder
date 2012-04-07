@@ -1,0 +1,108 @@
+960.gs
+119
+a CSS layout system that can be used with or without a web development framework.
+demo
+118
+
+decompression
+118
+
+decompiler
+118
+A decompiler performs, as far as possible, the reverse operation to that of a compiler.
+with-statement
+118
+
+variadic-functions
+118
+functions that accept varying numbers of arguments -- for example, the function may be called with 1 argument or 2 arguments.
+submodule
+118
+
+stdmap
+118
+an essential part of the C++ Standard Library. It allows ordered, unique keyed items which are accessible as an array.
+terminalservices
+118
+
+textmatebundles
+118
+
+text-extraction
+118
+
+toolstrip
+118
+
+birt-report
+118
+BIRT stands for Business Intelligence Reporting Tool. A BIRT report is a page or set of pages displaying information with tabular data and/or charts. A BIRT report is first designed using BIRT Report …
+bios
+118
+built into the PC, and is the first code run by a PC when powered on ('boot firmware'). The primary function of the BIOS is to load and start an operating system.
+boost-serialization
+118
+a cross-platform C++ serialization library.
+centos5
+118
+
+contour
+118
+
+cors
+118
+Cross-Origin Resource Sharing allows browsers' XmlHttpRequest object to make cross-domain requests. Supported in most modern browsers.
+class-method
+118
+
+mailchimp
+118
+MailChimp helps you design email newsletters, share them on social networks, integrate with services you already use, and track your results. It's like your own personal publishing platform.
+medium-trust
+118
+
+listeners
+118
+
+jdt
+118
+The JDT project provides the tool plug-ins that implement a Java IDE supporting the development of any Java application, including Eclipse plug-ins.
+interaction
+118
+
+itemizedoverlay
+118
+
+hpc
+118
+High Performance Computing (HPC) refers to the use of supercomputers and computer clusters to solve a wide range of computationally intensive problems. Systems with benchmark performance of 10s of ter…
+ilmerge
+118
+a utility for merging multiple .NET assemblies into a single .NET assembly. It works on executables and dlls alike. It comes with several options for controlling the processing and format o…
+flexigrid
+118
+A lightweight jquery data grid with resizable columns and a scrolling data to match the headers. It is also able to connect to an xml based data source by using Ajax.
+gcc-warning
+118
+
+activesupport
+118
+
+.each
+118
+
+method-chaining
+118
+
+pattern-recognition
+118
+the assignment of a label to a given input value.
+plaintext
+118
+
+openrasta
+118
+an open-source MVC framework that can run on .net 2.0 and above, built from the ground-up to enable ReSTful scenarios.
+openerp
+118
+an open-source enterprise resource planning system written in Python.

@@ -1,0 +1,111 @@
+pbx
+31
+
+most-vexing-parse
+31
+The term "most vexing parse" (a term coined by Scott Meyers in "Effective STL") refers to a particular syntactic ambiguity in C++ programs that leads to a counterintuitive interpretation of certain de…
+nsalert
+31
+
+nolock
+31
+
+noise-reduction
+31
+
+non-greedy
+31
+A technique used in regular expressions, that limits the matching text until all conditions of the given regex have been met. The operator "?" is added to the end of wildcard operations.
+mx-record
+31
+
+nantcontrib
+31
+an open source project that extends the NAnt build system by providing custom tasks.
+mysql-insert-id
+31
+
+newwindow
+31
+
+nextgen-gallery
+31
+
+r-tree
+31
+a popular index structure for spatial data, stored as Minimum Bounding Rectangles (MBRs).
+scopes
+31
+
+scriptengine
+31
+
+secret
+31
+
+secret-key
+31
+
+s-expression
+31
+a notation for nested list or tree-structured data, popularized by [tag:lisp] programming language
+serverxmlhttp
+31
+
+server-side-scripting
+31
+a web server technology in which a user's request is verified by running a script directly on the web server to generate dynamic web pages. It is usually used to provide inter…
+sesame
+31
+an open-source Java framework for storing, querying and inferencing for RDF. It can be deployed as a web server or used as a Java library. Features include several query languages (SeRQL and SPARQL), …
+silent-installer
+31
+an installation program that does not display any configuration options or any other indication of the installation during the installation process. It is in fact "hidden"... o…
+similar
+31
+
+simplerepository
+31
+
+sitemappath
+31
+
+speaker
+31
+
+sql-server-express-2008
+31
+a free relational database management system specifically targeting small-scale applications.
+requirements-gathering
+31
+the process of collecting information about the required functionality of a system.
+revit
+31
+a BIM (Building Information Modeling) software tool used by architects, engineers, etc. 
+
+Resources
+The Building Coder
+rpath
+31
+an option used with GCC's ld linker to insert an RPATH header in either binaries or shared libraries. This header specifies the first paths to be searched for a library
+registerclientscriptblock
+31
+
+regional
+31
+
+rendertargetbitmap
+31
+
+rbenv
+31
+
+read-file
+31
+
+product-management
+31
+
+pyinotify
+31
+

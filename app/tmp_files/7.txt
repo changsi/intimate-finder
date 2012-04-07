@@ -1,0 +1,110 @@
+netbeans
+5332
+NetBeans refers to both a platform framework for Java desktop applications, and an integrated development environment (IDE) for developing with Java and other languages.
+image-processing
+5310
+Algorithms which extract and manipulate information from digital images.
+architecture
+5300
+Architecture encompasses the process, artifacts and high-level structure of a solution.
+language-agnostic
+5283
+specifies that the question is independent of any particular programming language.
+redirect
+5195
+updated the server sends a HTTP redirect message with the updated URL. The redirect option in HTTP is also used by the server to perform load balancing.
+user-interface
+5195
+The system through which people interact with a computer. UI stands for User Interface.
+
+There's now a Stack Exchange site devoted to user interface design: ui.stackexchange.com
+logging
+5186
+Logging refers to the concept of saving information about the current whereabouts of a program for later.
+text
+5167
+a sequence of characters that is most often used to represent a cohesive piece of information.
+ubuntu
+5144
+a desktop and server operating system based on Debian GNU/Linux. Note that http://askubuntu.com is specifically dedicated to Ubuntu questions.
+binding
+5142
+Binding provides a simple and consistent way for applications to present and interact with data.
+graphics
+5120
+visual presentations. There are many types of graphics e.g. photographs, drawings, Line Art, graphs, chart. Computer graphics primarily consist of bitmap and vector graphics.
+actionscript
+5099
+a scripting language used for RIAs, mobiles applications, web applications,  etc. which was initially developed by Macromedia and then acquired by Adobe. It targets to compile for Flas…
+data-structures
+5085
+a way of organizing data in a fashion that allows particular properties of that data to be queried and/or updated efficiently.
+join
+5081
+a general operation in relational algebra and more specific an combining operation on two or more tables in a *relational database system*. `JOIN` is also keyword of the SQL language for p…
+spring-mvc
+4980
+Based on the Model-View-Controller (MVC) pattern, Spring MVC helps you build web-based applications that are flexible and decoupled from the underlying view technologies.
+orm
+4978
+a technique for mapping between object-oriented systems and relational databases.
+windows-7
+4932
+used for questions about: (a) Developing applications that use the features of Windows 7 or (b) Diagnosing problems in applications which occur only under Windows 7.
+mvvm
+4913
+an architectural design pattern that separates the page (the View) from the data (the Model) by way of its presentation logic (its ViewModel). This pattern is often used…
+javascript-events
+4902
+Creating and handling JavaScript events inline in HTML or through a script.
+xpath
+4896
+to address parts of an XML document. It also provides basic facilities for manipulation of strings, numbers and booleans. XPath uses a compact, non-XML syntax. XPath op…
+file-upload
+4884
+a process of sending files to your web server using standard forms.
+powershell
+4883
+a command prompt and a scripting environment designed for Windows system administration.
+ssl
+4861
+a cryptographic protocol that provides communications security over the Internet. The more modern version of this protocol is Transport Layer Security (TLS), specified by…
+extjs
+4801
+a JavaScript framework for building Rich Internet Applications (RIAs) that run in web browsers.
+silverlight-4.0
+4779
+Microsoft's cross-browser, cross platform plug-in for media experiences and rich interactive applications. The version 4 was released in April 2010.
+emacs
+4752
+an extensible, customizable text editor written primarily in Emacs Lisp.
+service
+4729
+a long-running executable that performs specific functions and which is designed not to require user intervention.
+css3
+4705
+The third and latest edition of the Cascading Style Sheets styling language (often shortened to CSS3) brings together powerful visual capabilities and versatile design manipulation techniques.
+assembly
+4689
+for assembly language programming questions not specific to any one processor.  Please specify the processor or (instruction set) architecture (ISA) your question is related to as well as …
+ios5
+4674
+The version of iOS (formerly iPhone OS) was released by Apple on 13 Oct 2011. iOS 5 runs on iPhone 3GS, iPhone 4, iPhone 4S, iPad and iPod Touch devices 3rd and 4th generation.
+iis7
+4644
+IIS (Internet Information Services) Version 7 â is a web server application and a set of feature extension modules created by Microsoft for use with Microsoft Windows.
+compiler
+4641
+a program which translates one language into another. The tag [compiler] should be applied to questions concerning the programming of compilers or for questions about the detailed inner …
+unicode
+4612
+intended to be a universal character set for describing all the characters required for written text incorporating all writing systems, technical symbols and punctuation.
+.net-4.0
+4587
+Version 4.0 of the .NET Framework.
+collections
+4579
+Collections API's provide developers with a set of classes and interfaces that makes it easier to handle collections of objects.
+scripting
+4572
+a form of programming generally characterized by low formality, loose typing, and no requirement for explicit compilation. There are numerous scripting languages, and these are used in a …

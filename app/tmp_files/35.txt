@@ -1,0 +1,108 @@
+this
+813
+Keyword that refers to the current class instance / object in most object-oriented programming languages.
+asihttprequest
+811
+ASIHTTPRequest, a full featured replacement for NSURLConnection on iOS and Mac OS X.
+printf
+811
+a C function that prints formatted strings. Other languages have also added a printf function.
+scrollview
+809
+Layout container for a view hierarchy that can be scrolled by the user, allowing it to be larger than the physical display.
+media
+809
+
+viewstate
+809
+the mechanism that allows form field values to be preserved across page postbacks.
+subprocess
+807
+part of a larger overall process
+transform
+806
+
+left-join
+806
+an outer join which generates a result that contains all the records of the "left" table even when there is no matching records in other tables taking part in the join
+pyqt4
+805
+a set of Python bindings for Nokia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux.
+communication
+804
+
+dos
+803
+Disk operating system, software in most computers that allows for management of the storage devices.
+eclipselink
+803
+EclipseLink delivers a comprehensive open-source Java persistence solution. EclipseLink focuses on standards (JPA, JAXB, SDO) with advanced features, performance and scalability for enterprise softwar…
+nokogiri
+801
+An HTML, XML, SAX, & Reader parser with the ability to search documents via XPath or CSS3 selectorsâ¦ and much more
+mvvm-light
+799
+a set of components helping people to get started in the Model - View - ViewModel pattern in Silverlight and WPF. It is a light and pragmatic framework that contains only the…
+web-security
+799
+the broad term given to practices used to improve application security over the internet. This can include systems used and stored on the internet, and systems transferring data across…
+dataannotations
+798
+used by frameworks such as ASP.NET MVC to enable a model-based validation approach and enforce consistent validation throughout the application, both on client and server side. Th…
+liferay
+798
+an open source Java portal and social platform.
+handler
+798
+In the Observer pattern, an event handler is the function or method called on an observer listening for an event dispatched by the subject.  Also known as an event listener.
+history
+797
+
+screenshot
+797
+A screenshot, screen capture, or screen dump is an image taken by the computer to record the visible items displayed on the monitor or another visual output device
+android-fragments
+797
+Fragments, introduced with Android 3.0 (API 11, codename Honeycomb), represent reusable behaviors or portions of user interface in an Activity.
+structuremap
+796
+a Dependency Injection / Inversion of Control tool for .NET licensed under Apache 2. It can be found at http://structuremap.net
+scipy
+796
+an open source library of algorithms and mathematical tools for the Python programming language.
+field
+795
+
+wcf-ria-services
+794
+Microsoft WCF RIA Services simplifies the traditional n-tier application pattern by bringing together the ASP.NET and Silverlight platforms.
+ssl-certificate
+792
+An SSL certificate (Secure Socket Layer Certificate) is an X.509 certificate that is issued for the purpose of identifying peers in an SSL connection. It is assigned to a domain or hosting account.
+powerpoint
+792
+a Windows and Macintosh presentation program produced by Microsoft. It is primarily used to create presentations to be projected. However, due to the flexible nature of its canvas, it is…
+paging
+792
+
+obfuscation
+791
+Concealing the nature of how things truly function or work.
+containers
+791
+a class, a data structure, or an abstract data type whose instances are collections of other objects.
+asp.net-2.0
+791
+For issues relating to development with ASP.NET, version 2.0.
+automapper
+789
+A convention-based object-to-object mapper and transformer for .NET
+contacts
+788
+
+tcl
+788
+Tool Command Language was invented by John Ousterhout as a way to make it easy to write little languages for configuring EDA tools, but it has grown far beyond those humble beginnings to become a gene…
+selenium-rc
+788
+Selenium Remote Control - Answer to UI level functional test automation

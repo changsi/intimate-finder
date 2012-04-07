@@ -1,0 +1,108 @@
+numerical-analysis
+43
+the study of algorithms that use numerical approximation, as opposed to general symbolic manipulations.
+mysite
+43
+
+n2
+43
+a lightweight open source content management system that runs on top of ASP.NET
+netflix
+43
+
+netnamedpipebinding
+43
+
+net-ssh
+43
+A pure-Ruby implementation of the SSH2 client protocol. It allows you to write programs that invoke and interact with processes on remote servers, via SSH2.
+nfa
+43
+a nondeterministic finite automaton, a mathematical model of computation that decides membership in regular languages.  It is similar to a DFA except that it is nondeterministic, and the mac…
+sections
+43
+
+safari-bug
+43
+
+setvalue
+43
+
+sendto
+43
+
+service-discovery
+43
+
+slimbox
+43
+
+spring-jms
+43
+Spring provides a JMS integration framework that simplifies the use of the JMS API much like Spring's integration does for the JDBC API.
+sqliteopenhelper
+43
+
+stackless
+43
+Stackless refers to a code implementation that does not use a call stack.  Haskell is an example of a stackless language
+roxygen
+43
+an in-source documentation system for R.  It is based on Doxygen, and is an alternative to creating .Rd files, in that it automatically creates the package's .Rd files from the in-source do…
+rounding-error
+43
+
+relativesource
+43
+
+recursive-datastructures
+43
+
+premature-optimization
+43
+
+publisher
+43
+
+rails-3-upgrade
+43
+
+pytz
+43
+pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.3 or higher. It also solves the issue of ambiguous times at the end …
+python-imaging-library
+43
+
+elementhost
+43
+
+error-correction
+43
+
+dunit
+43
+
+dmd
+43
+Dmd stands for the Digital Mars D compiler. It's the official D compiler by Walter Bright of Digital Mars.
+dkim
+43
+
+djangoappengine
+43
+
+getopt-long
+43
+a command line switch parsing library for Perl.
+.net-cf-3.5
+43
+
+web-inspector
+43
+a built-in set of developer tools in WebKit based browsers.
+agile-project-management
+43
+
+gtkbuilder
+43
+

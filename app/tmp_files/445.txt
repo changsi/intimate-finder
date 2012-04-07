@@ -1,0 +1,108 @@
+drools-planner
+15
+
+drupal-alter
+15
+Questions about drupal_alter(), a function that allows modules to alter the data structures used by other modules.
+dynamic-resizing
+15
+Dynamic resizing usually refers to on-the-fly resizing by a web server. This feature reduces development time and webmaster overhead by eliminating a common pain point in web development.
+editfield
+15
+
+editorformodel
+15
+
+eda
+15
+
+eject
+15
+
+effective-c++
+15
+
+eeprom
+15
+Excerpt from http://en.wikipedia.org/wiki/EEPROM : EEPROM (also written E2PROM and pronounced "e-e-prom," "double-e prom," "e-squared," or simply "e-prom") stands for Electrically Erasable Programmabl…
+dotcover
+15
+a tool that analyzes code coverage of .NET and Silverlight applications inside Visual Studio or on a Continuous Integration server.
+donut-caching
+15
+a type of caching where most of the content is cached, with a little 'hole' of content that is not cached.
+domainkeys
+15
+
+domain-mapping
+15
+
+domaincontroller
+15
+
+document-conversion
+15
+the act of converting one document's format to another, which allows the document to be read in many more applications. Documents can be converted into other source document for…
+dockable
+15
+
+django-uploads
+15
+
+getenv
+15
+
+gibberish
+15
+
+getproperties
+15
+
+django-1.2
+15
+
+3g-network
+15
+
+webby
+15
+
+web-frontend
+15
+
+web-development-server
+15
+
+webnoir
+15
+a micro-framework that allows you to rapidly develop websites in Clojure
+activity-monitor
+15
+
+actionpack
+15
+
+alt-attribute
+15
+
+airport
+15
+
+aiml
+15
+Artificial Intelligence Markup Language (AIML) is an XML dialect for creating natural language software agents.
+google-dfp
+15
+Google's DoubleClick for Publishers API
+gmail-pop
+15
+Gmail provide a pop service where users can get access to their email.  Questions in this tag relate to issues with this service
+goal
+15
+
+gnu-coreutils
+15
+
+google-ranking
+15
+

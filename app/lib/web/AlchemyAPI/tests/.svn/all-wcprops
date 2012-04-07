@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/web/AlchemyAPI/tests
+END
+api_key.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/web/AlchemyAPI/tests/api_key.txt
+END
+AlchemyAPI_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/web/AlchemyAPI/tests/AlchemyAPI_Test.php
+END
+AlchemyAPI_Test_Main.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/web/AlchemyAPI/tests/AlchemyAPI_Test_Main.php
+END
+AlchemyAPI_CURL_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/signalsiq/!svn/ver/668/trunk/client/facebook_app/app/lib/web/AlchemyAPI/tests/AlchemyAPI_CURL_Test.php
+END

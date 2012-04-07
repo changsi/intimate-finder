@@ -1,0 +1,108 @@
+database-backups
+162
+
+browser-detection
+162
+
+bigtable
+162
+a distributed storage system (built by Google) for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers.
+bezier
+162
+
+tesseract
+162
+an OCR (Optical Character Recognition) engine originally developed at HP Labs and now available as an open source library with development sponsored by Google.
+indent
+162
+used to organize code by indicating blocks, closures, conditionals, and other constructs.  It makes code easier to read, and in some languages is used to handle code flow.
+pageload
+162
+
+nesting
+162
+
+multiple-tables
+162
+
+nat
+161
+Network Address Translation
+retrieve
+161
+
+repo
+161
+
+shaders
+161
+
+jeditorpane
+161
+A Java Swing text component to edit various kinds of content.
+marquee
+161
+
+marker
+161
+
+filereader
+161
+
+transitions
+161
+
+tail
+161
+
+subversive
+161
+The Subversive project aims to provide Subversion (SVN) integration for Eclipse. The Subversive plug-in gives you the ability to work with SVN version control system from the Eclipse workbench.
+visual-c++-2010
+161
+
+cgimage
+161
+CGImage represents a drawable image object in Core Graphics (the low-level procedural drawing API for iOS and Mac OS X).
+contactscontract
+161
+
+coded-ui-tests
+160
+automated UI tests that can be created with Visual Studio 2010 Ultimate or Visual Studio 2010 Premium to test different kinds of user interface: web, WPF, Silverlight and Windows Fo…
+cgaffinetransform
+160
+The CGAffineTransform data structure represents a matrix used for affine transformations in Objective-C.
+autotest
+160
+a Ruby gem for running tests automatically when source files change.
+autoincrement
+160
+
+xml-validation
+160
+the procedure of checking an XML document against some kind of schema that describes rules that this type of document must conform to. This can often be done programmatically in eg. Java or C# and the…
+uiwindow
+160
+The UIWindow class defines objects (known as windows ) that manage and coordinate the windows an application displays on the screen.
+togglebutton
+160
+
+assignment-operator
+160
+
+google-closure-compiler
+160
+a set of tools to help developers build rich web applications with JavaScript.
+estimation
+160
+should be applied to questions related to tips and techniques about software project estimations: development time, effort, team size, software size, execution time, run time resource usage.
+dwr
+160
+a Java library that enables Java on the server and JavaScript in a browser to interact and call each other as simply as possible.
+instant-messaging
+160
+
+shortest-path
+160
+

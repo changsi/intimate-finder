@@ -1,0 +1,108 @@
+code-smell
+221
+any symptom in the source code of a program that possibly indicates a deeper problem.
+code-golf
+221
+a competition to solve a particular problem in the fewest bytes of source code. CodeGolf Questions are now off-topic and should be posted on http://codegolf.stackexchange.com/
+code-organization
+221
+
+cmd.exe
+221
+the Microsoft-supplied command-line interpreter on OS/2, Windows CE and on Windows NT-based operating systems (including Windows 2000, XP, Vista, 7, Server …
+custom-server-controls
+220
+
+avaudiorecorder
+220
+
+xelement
+220
+part of System.Xml.Linq in .NET Framework. This class represents an XML element, the fundamental XML construct.
+undefined-behavior
+220
+
+varargs
+220
+functions which accept variable numbers of arguments.
+advanceddatagrid
+220
+
+drivers
+220
+
+exchangewebservices
+220
+an extensibility point for clients that connect to the Exchange server and consume information about user availability, and the manipulation of items that are located in…
+extensibility
+220
+
+fbjs
+220
+
+ini
+220
+The INI file format includes text-based initialization information for programs.
+jdeveloper
+220
+a free integrated development environment that simplifies the development of Java-based SOA applications and user interfaces with support for the full development life cycle.
+pom
+220
+Project Object Model
+msxml
+220
+the Microsoft XML core services, which includes a full XML DOM implementation.
+next
+220
+
+popupwindow
+219
+
+spring-batch
+219
+[Spring Batch](http://static.springsource.org/spring-batch/) is a lightweight, comprehensive framework aimed at enabling the development of  batch applications vital for the daily operations of enterp…
+readability
+219
+
+ashx
+219
+ASP.NET Web Handler file extension
+access-modifiers
+219
+
+directoryservices
+219
+the .NET library used to access Microsoft's Active Directory, which holds information about users, groups, computers, permissions and more
+dbus
+219
+a message bus system, a simple way for applications to talk to one another. D-Bus allows applications to expose internal API to the outside world by means of remotely callable interfaces. An …
+stderr
+219
+The standard error output stream (stderr) is typically used by a program to output error messages or diagnostics.
+syncframework
+219
+
+cancel
+219
+
+borland
+219
+a software company first headquartered in Scotts Valley, California, Cupertino, California and finally Austin, Texas. It is now a Micro Focus subsidiary.
+auto-update
+218
+is a piece of software designed to update a computer program or its supporting data
+between
+218
+
+account
+218
+
+power
+218
+
+mule
+218
+a lightweight Java-based enterprise service bus (ESB) and integration platform that allows developers to connect applications together quickly and easily, enabling them to ex…
+mount
+218
+

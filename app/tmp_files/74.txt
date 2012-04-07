@@ -1,0 +1,109 @@
+qtp
+311
+an automated testing tools from HP. QTP interacts with applications simulating user interactions on the application's GUI.
+product
+311
+
+sets
+310
+
+scriptaculous
+310
+a set of Javascript libraries on top of the Prototype framework
+spatial
+310
+
+sse
+310
+the first generation of SIMD Intel's instruction sets available on modern x86-compatible CPUs. SSE offers single-precision floating point arithmetic and integer arit…
+ms-dos
+310
+Microsoft Disk Operating System.  A console-based operating system for personal computers.  Also applies to Windows command-shell questions.
+phpmailer
+310
+a PHP email transport class featuring file attachments, SMTP servers, CCs, BCCs, HTML messages, word wrap, and more.
+jna
+310
+Java Native Access (JNA) provides pure Java access to native shared libraries without the need for additional native or JNI code.
+detailsview
+310
+a data-bound control that renders a single record at a time from its associated data source
+validator
+310
+
+unobtrusive-javascript
+310
+
+windows-forms-designer
+310
+a graphical editor for Windows Forms controls within Visual Studio.
+barcode-scanner
+310
+
+bandwidth
+309
+
+xsl-fo
+309
+a markup language for XML document formatting which is most often used to generate printed content.
+taskbar
+309
+the application switcher and launch area for Windows, usually at the bottom of the screen. Questions might relate to how to interact with or modify behaviours.
+keyboard-events
+309
+
+indy
+309
+an open source library, mainly for Delphi, which supports clients and servers of TCP, UDP and RAW sockets as well as over 100 higher level protocols. Some of the supported protocols in…
+gwt-rpc
+309
+Google Web Toolkit - Remote Procedure Calls
+horizontal
+309
+
+finance
+309
+
+gamekit
+309
+
+dynamic-sql
+309
+an enhanced form of SQL (Structured Query Language) whose main difference from traditional SQL is that Dynamic SQL allows to build SQL statements dynamically at runtime, which eases the…
+polymorphic-associations
+309
+a term used in discussions of Object-Relational Mapping with respect to the problem of representing in the relational database domain, a relationship from one class to multi…
+messages
+309
+
+neo4j
+309
+an open-source graph database implemented in Java. You can use it directly from Java, all JVM Languages and Python or via the REST API with drivers in any language.
+soapui
+309
+Testing tool for SOAP, Rest, HTTP and other communication protocols
+signature
+309
+
+screen-orientation
+309
+
+route
+309
+
+macvim
+308
+a version of the Vim text editor for Mac OS X.
+bufferedimage
+308
+used to read and manipulate images and assist in
+double-buffering in desktop GUI applications.
+yql
+307
+an expressive SQL-like language that lets you query, filter, and join data across Web services.
+access-token
+307
+the last token acquired during the OAuth authentication process.
+apex-code
+307
+A proprietary Java-like programming language for the Force.com Platform

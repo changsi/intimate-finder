@@ -1,0 +1,109 @@
+moving
+93
+
+milliseconds
+93
+
+powerpc
+93
+Questions related to the PowerPC family of RISC processors.
+portable-executable
+93
+
+paradigms
+93
+
+opcode
+93
+
+sharpdevelop
+93
+
+sqlanywhere
+93
+a relational database management system, produced by Sybase iAnywhere.
+spss
+93
+a statistics package. Originally released in 1968, it is currently owned by IBM.
+sliding
+93
+
+qtreeview
+93
+a class in Qt framework. It provides a default model/view implementation of a tree view.
+project-ideas
+93
+
+raster
+93
+A rectangular array of pixels.
+A Raster defines values for pixels occupying a particular rectangular area of the plane, not necessarily including (0, 0).
+recommendation-engine
+93
+For questions relating to recommendation engines, collaborative filtering, and personalization.  Questions tend to be algorithmic or statistical in nature.
+redundancy
+93
+
+review
+93
+
+edge-detection
+93
+a tool in computer vision used to find discontinuities (edges) in images
+face-recognition
+93
+
+google-places-api
+93
+a service that returns information about Places â defined within this API as establishments, geographic locations, or prominent points of interest â using HTTP requests. Place…
+google-adwords-api
+93
+the API Google made available to interact with the Google advertisement service.
+fusion
+93
+
+function-calls
+93
+
+iphone-sdk-5.0
+93
+Refers to the iPhone software development kit, version 5.0.
+javadb
+93
+Sun's supported distribution of the open source Apache Derby 100% Java technology database. It is fully transactional, secure, easy-to-use, standards-based  SQL, JDBC API, and Java EE  yet …
+horizontal-alignment
+93
+
+helios
+93
+Version 3.6.2 of Eclipse.
+llblgenpro
+93
+an Object Relational Mapper (O/RM) for .NET.  With it you can generate your data access layer for multiple O/RM frameworks (LLBLGen Pro Runtime Framework, Entity Framework, Linq to Sql, and…
+jquery-load
+93
+
+conditional-formatting
+93
+a technique used by Microsoft Excel. Cells can be configured to show different formatting, such as colours or symbols according to the value in the cell. For example, negativ…
+counting
+93
+
+crypt
+93
+
+castor
+93
+an open source data binding framework.
+bcrypt
+93
+an implementation of the Blowfish cipher and a computationally-expensive hash function mostly used for password hashing.
+synchronize
+93
+
+tabview
+93
+
+treegrid
+93
+

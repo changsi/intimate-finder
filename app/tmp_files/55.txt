@@ -1,0 +1,108 @@
+polls
+461
+asking for a list to be ranked.  Stack Overflow is NOT the place to ask poll questions.
+rows
+461
+
+less
+461
+CSS preprocessor, extends CSS with dynamic behavior such as variables, mixins, operations and functions.
+length
+460
+
+payment
+460
+
+wss
+460
+WSS stands for Windows SharePoint Services, SharePoint Server 2007's "little" brother. It forms the basis for the full blown server product. As of SharePoint Server 2010 it is called SharePoint Server…
+discussion
+460
+A discussion might be defined as the consideration of a question in open and usually informal debate.
+decode
+460
+
+android-service
+459
+an application component representing either an application's desire to perform a longer-running operation while not interacting with the user or to supply functionality for other applica…
+spark
+459
+New component and skinning architecture in Flex 4
+shared-ptr
+459
+Smart pointer class allowing shared access
+spring-roo
+458
+a lightweight tool aimed at developer productivity.  Via an intuitive command line interface it supports operations such as Java web project creation, persistence configuration and view …
+footer
+458
+
+onload
+457
+
+jsoup
+456
+a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+jboss5.x
+455
+is for questions relating specifically to the 5.x releases of JBoss Application Server.
+offline
+455
+Refers to the status of being unable to connect to a network; in most situations, this is specifically referring to the Internet.
+mysql-error-1064
+455
+The 1064 error indicates a syntax error in the query (INSERT, UPDATE, DELETE, SELECT, etc.) submitted to MySQL.
+apache-commons
+455
+a project of the Apache Software Foundation, formerly under the Jakarta Project. The purpose of the Commons is to provide reusable, open source Java software. The Commons is comp…
+monads
+454
+a composable computation description.  Monads are an important construct in functional programming languages like Haskell.
+menuitem
+454
+a child element of a menu that provides the user a means to view and execute a specific application operation.
+rtf
+454
+The Rich Text Format (often abbreviated RTF) is a proprietary document file format with published specification developed by Microsoft Corporation since 1987 for Microsoft products and for cross-platf…
+quotes
+454
+
+lwuit
+454
+Lightweight User Interface Toolkit - widget-based UI library for J2ME enabled mobile devices
+helper
+454
+
+gnuplot
+454
+a portable command-line driven graphing utility for linux, OS/2, MS Windows, OSX, VMS, and many other platforms
+ria-services
+453
+Microsoft WCF RIA services simplifies the traditional n-tier application pattern providing support for validation, authentication and custom application logic.
+tomcat7
+453
+For questions relating to Version 7.x of the Apache Tomcat servlet container.
+text-to-speech
+453
+the artificial production of human speech.
+cross-compiling
+453
+The act of using a tool chain on one platform (the host) to build software to run on a different platform (the target).  The platforms might have completely different processor architectures, or simpl…
+testng
+452
+a testing framework focused on providing both unit and functional testing abilities. It supports parallel testing, data providers, dependencies (used heavily in Selenium), groups and many mo…
+voip
+452
+Voice over Internet Protocol (Voice over IP, VoIP) is one of a family of internet technologies, communication protocols, and transmission technologies for delivery of voice communications and multimed…
+onchange
+450
+The onChange event gets triggered when the state of an element is changed. Many languages which work with a GUI support some form of a change-event. For example JavaScript and the JavsScript library j…
+distance
+449
+a numerical description of how far apart objects are.
+unity3d
+448
+a commercial development platform for creating games, interactive 3D applications, training simulations, and medical and architectural visualizations.  It builds web applications, Flash, iO…
+crontab
+448
+a short form of cron table. It is a configuration file that specifies shell commands to run periodically on a given schedule.

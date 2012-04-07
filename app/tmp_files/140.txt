@@ -1,0 +1,108 @@
+libsvm
+120
+a Library for Support Vector Machines
+geo
+120
+
+git-push
+120
+Pushes the changes from a local Git repo to remote
+gearman
+120
+a system to farm out work to other machines, dispatching function calls to machines that are better suited to do work, to do work in parallel, to load balance lots of function calls, or to …
+google-data-api
+120
+
+graphic
+120
+
+envdte
+120
+an assembly-wrapped COM library containing the objects and members for Visual Studio core automation.
+email-spam
+120
+the use of electronic messaging systems to send unsolicited bulk messages indiscriminately.
+mouseenter
+120
+For issues relating to setting up, subscribing to, or handling mouseenter events.
+nagios
+120
+a powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems before they affect critical business processes.
+ondraw
+120
+
+pc
+120
+
+products
+120
+
+qthread
+120
+a threading class provided by the cross-platform Qt framework.
+slime
+120
+The Superior Lisp Interaction Mode for Emacs.
+special
+119
+
+spring-jdbc
+119
+
+rfid
+119
+RFID stands for Radio Frequency IDentification. By way of tags and a reader. Information can be read from the tag wirelessly based on commands sent from the reader. Commonly only the ID of a tag is us…
+myeclipse
+119
+Commercial J2EE IDE and Web development tool suite for the Eclipse open-source platform.
+nsmutablestring
+119
+The NSMutableString class declares the programmatic interface to an object that manages a mutable string â that is, a string whose contents can be edited â that conceptually represents an array of Uni…
+mpmusicplayercontroller
+119
+
+activitygroup
+119
+A screen that contains and runs multiple embedded activities
+gpu-programming
+119
+for "gpu".
+flowchart
+119
+a type of diagram that represents an algorithm or process, showing the steps as boxes of various kinds, and their order by connecting these with arrows. This diagrammatic representation…
+expires
+119
+
+level
+119
+
+mac-app-store
+119
+For issues relating to deploying and maintaining an application in the Mac App Store.
+margins
+119
+
+code-metrics
+119
+quantitative data pertaining to source code, e.g. number of lines of code (LOC) for a file.
+code-behind
+119
+
+contravariance
+119
+
+zend-auth
+119
+A class provided by the Zend Framework, an open source, object oriented PHP5 framework provided by Zend. Zend Auth provides helper functions to authenticate site visitors against various sources.
+task-scheduler
+119
+
+whois
+119
+WHOIS - Service that shows registrant of a domain name
+appendchild
+119
+
+abort
+119
+

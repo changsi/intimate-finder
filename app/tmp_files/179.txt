@@ -1,0 +1,108 @@
+brush
+82
+
+yui-datatable
+82
+
+autocompleteextender
+82
+part of the AJAX Control Toolkit for ASP.net
+asp.net-controls
+82
+
+auditing
+82
+
+appendto
+82
+
+android-dialog
+82
+
+adsi
+82
+
+diacritics
+82
+a mark near or through an orthographic or phonetic character or combination of characters indicating a phonetic value different from that given the unmarked or otherwise marked element …
+jvm-languages
+82
+Languages that compile their source code to the byte code of the java virtual machine are commonly called JVM languages. A common feature of those languages is that the Java APIs can be used more or l…
+jspinclude
+82
+The `<jsp:include>` element allows you to include either a static or dynamic resource in a JSP page.
+jmockit
+82
+JMockit allows developers to write unit/integration tests without the testability issues typically found with other mocking APIs. Tests can easily be written that will mock final classes, static metho…
+license-key
+82
+
+listpreference
+82
+
+mailing-list
+82
+
+maximize
+82
+
+intptr
+82
+
+isometric
+82
+
+janrain
+82
+Janrain provides services that enable web sites to use OpenID authentication services.
+information-schema
+82
+about sql meta data queries
+fragment-shader
+82
+executed for each sample taken from a rasterized primitive. The output of this process is a number of values and a floating-point depth.
+google-wave
+82
+a open source, real time collaboration web application provided by Google, extensible by developers via robots and gadgets.
+google-gadget
+82
+
+flex-mobile
+82
+Questions concerning the mobile classes created in Flex >=4.5.
+drawstring
+82
+a method in the .Net Framework's System.Drawing namespace, by which code can draw text onto an image in .Net code. This is mainly used in ASP.Net, as TextRenderer.DrawText (from…
+alpha-transparency
+82
+The alpha transparency of an image defines how transparent the pixels of this image are. Typically, each pixel has an alpha value between 0 (fully transparent) and 255 (fully opaque).
+getelementsbytagname
+82
+
+remoteobject
+82
+
+pyopengl
+82
+Python binding to OpenGL library
+rails-engines
+82
+
+radgridview
+82
+grid control with powerful features created by Telerik.  There are versions for Silverlight, WPF and WinForms.
+ps
+82
+
+simplify
+82
+
+sketchflow
+82
+
+scalaz
+82
+Scalaz: Type Classes and Pure Functional Data Structures for Scala
+samples
+82
+

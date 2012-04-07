@@ -1,0 +1,108 @@
+bpm
+126
+Business process management revolves around how organizations perform various tasks such as what tools are used and how they should be kept updated to maximize efficiency.
+curve
+126
+In mathematics, a curve (also called a curved line in older texts) is, generally speaking, an object similar to a line but which is not required to be straight.
+isapi-rewrite
+126
+a URL rewriter for Microsoft IIS, from Helicon Tech.
+jackrabbit
+126
+a fully conforming implementation of the JCR API (Content Repository for Java Technology). A content repository is a hierarchical content store with support for structured and uns…
+java-ee-5
+126
+for questions relating specifically to Java Enterprise Edition 5.
+encryption-asymmetric
+126
+
+documents
+126
+
+gimp
+126
+a free image editing application.
+webmethod
+126
+an attribute that is marked to indicate that a function (usually in .net) in a web service is exposed to the consumers of the web service.
+3rd-party-library
+126
+
+finalizer
+126
+a special method in an object-oriented language that is executed when an object is garbage collected.
+func
+126
+a family of delegate types in the .Net framework.
+servercontrols
+126
+
+rule-engine
+126
+
+slidingdrawer
+126
+an Android View Widget that hides content out of the screen and allows the user to drag a handle to bring the content on screen.
+socks
+126
+an Internet protocol that routes network packets between a client and server through a Proxy server.
+nssortdescriptor
+126
+
+netstream
+126
+
+packet-sniffers
+126
+
+oci
+126
+the Oracle Call Interface, used for direct programming access to an Oracle Database. Similar to ODBC, it is specific to Oracle databases.
+pinax
+126
+an open-source platform built on the Django Web Framework.
+php-frameworks
+126
+an existing library or set of libraries to help you complete a common task faster and more easily. PHP frameworks are based on PHP scripting language and are intended to create web appl…
+podcast
+125
+traditionally an audio series delivered over the Internet as a download, in a style similar to radio shows. However, the term has now has grown to include video shows, as well.
+parameterized
+125
+
+minecraft
+125
+a sandbox game coded in Java by Markus Perrson (Notch). Players place and destroy blocks to gain armor, weapons and tools in a randomly generated world. Multiplayer functionality can be u…
+quirks-mode
+125
+
+rdoc
+125
+the default embedded documentation generator for Ruby. Rdoc generates structured documentation that can be accessed via a web browser or the command-line by analyzing the code and specially fo…
+exit-code
+125
+signaled by a program on termination to indicate if it completed successfully, or, if it did not, what sort of failure condition occurred.
+icriteria
+125
+
+hibernate-annotations
+125
+Hibernate Annotations provide an alternative method of supplying metadata which maps Java objects to the database tables they represent.
+haxe
+125
+a open source, multiplatform language that allows developers to target Flash, Javascript, NekoVM, C++ and PHP using the same syntax.
+bnf
+125
+BNF stands for Backus-Naur Form, or Backus Normal Form. It is form of notation for context-free grammars and is often used for (but is not restricted to) the description the syntax of programming lang…
+ubuntu-11.10
+125
+Ubuntu release that was released on 13 October 2011.
+tap
+125
+a protocol to allow communication between unit tests and a test harness. It allows individual tests (TAP producers) to communicate test results to the testing harne…
+utf
+125
+Unicode Transformation Format
+visualvm
+125
+a visual tool integrating several commandline JDK tools and lightweight profiling capabilities. Designed for both production and development time use, it further enhances the capability of…

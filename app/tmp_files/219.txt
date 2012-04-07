@@ -1,0 +1,108 @@
+user-interaction
+59
+
+userform
+59
+
+wcf-performance
+59
+
+tail-call-optimization
+59
+
+tankauth
+59
+
+targets
+59
+
+stringbuffer
+59
+
+terms
+59
+
+testcomplete
+59
+a testing tool made by SmartBear Software.
+textcolor
+58
+
+thread-sleep
+58
+
+thor
+58
+A scripting framework that replaces rake, sake and rubigen.
+trends
+58
+
+topology
+58
+
+turbogears2
+58
+a "best-of-breed" full stack rapid development web framework written in Python.
+typemock
+58
+a mocking framework used in unit testing .NET and unmanaged C++ code.
+strawberry-perl
+58
+an open source community driven distribution of the Perl programming language for the Microsoft Windows platform.
+stop-words
+58
+
+stl-algorithm
+58
+A collection of algorithms defined as template functions in the <algorithm> header of C++'s standard library. These functions are designed to work with ranges of elements usually in the form of iterat…
+taskmanager
+58
+
+tabular
+58
+
+vlookup
+58
+
+win32gui
+58
+
+whoosh
+58
+a fast, featureful full-text indexing and searching library implemented in pure Python.
+werkzeug
+58
+a WSGI utility library for Python. It's widely used and BSD licensed.
+xapian
+58
+Open Source Search Engine Library with bindings to allow use from Perl, Python, PHP, Java, Tcl, C#, Ruby and Lua
+videochat
+58
+
+conferences
+58
+
+compass-lucene
+58
+an open source project built on top of Lucene aiming at simplifying the integration of search into any Java application.
+cloudera
+58
+a Palo Alto-based enterprise software company which provides Apache Hadoop-based software and services.
+clistctrl
+58
+
+css2
+58
+Reigning CSS version. Most often used, since CSS3 and HTML5 are officially only drafts (and aren't fully supported, rather are slowly gaining support). Most likely also yours CSS version.
+cosine
+58
+
+zombie-process
+58
+On Unix and Unix-like computer operating systems, a zombie process or defunct process is a process that has completed execution but still has an entry in the process table. This entry is still needed …
+zend-engine
+58
+the open source scripting engine that drives the PHP scripting language.
+bll
+58
+

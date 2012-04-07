@@ -1,0 +1,482 @@
+<?php
+/*
+Contains functions for:
+- entity/user/get_user_friends.php
+- entity/user/invite.php
+- entity/user/get_user_profile.php
+- script/start_fetching_facebook_user_data.php
+- script/start_core_platform_process_for_friends.php
+- script/start_core_platform_process_for_urls.php
+*/
+require_once getRuleFilePath("facebook_app.UserFacebookAppRule");
+require_once getRuleFilePath("facebook_app.UserTribeFacebookAppRule");
+require_once getRuleFilePath("facebook_app.UserNetworkFacebookAppRule");
+//require_once getRuleFilePath("facebook_app.UserNetworkProfileFacebookAppRule");
+require_once getRuleFilePath("facebook_app.NetworkPostUrlFacebookAppRule");
+require_once getRuleFilePath("facebook_app.NetworkFriendFacebookAppRule");
+require_once getRuleFilePath("facebook_app.UserNetworkDataFacebookAppRule");
+require_once getRuleFilePath("facebook_app.UserToUserFacebookAppRule");
+require_once getRuleFilePath("facebook_app.UserObjectFacebookAppRule");
+require_once getRuleFilePath("core_platform.UserToUserCPRule");
+require_once getRuleFilePath("core_platform.DpToUserCPRule");
+require_once getRuleFilePath("core_platform.UserCPRule");
+
+require_once getRuleFilePath("core_platform.FriendCPRule");
+require_once getRuleFilePath("core_platform.UserCPRule");
+require_once getLibFilePath("io.FileHandler");
+
+require_once getLibFilePath("sn.handler.SNHandler");
+require_once getContextFilePath("common.service.IdService");
+
+class UserService {
+	private $userFacebookAppRule;
+	private $userNetworkFacebookAppRule;
+	private $networkPostUrlFacebookAppRule;
+	private $networkFriendFacebookAppRule;
+	private $friendCPRule;
+	private $userNetworkDataFacebookAppRule;
+	private $userTribeFacebookAppRule;
+	private $userTouserFacebookAppRule;
+	private $dpToUserCPRule; 
+	private $userToUserCPRule;
+	private $userCPRule;
+	private $userObjectFacebookAppRule;
+	
+	public function __construct() {
+		$this->userFacebookAppRule = new UserFacebookAppRule();
+		$this->userNetworkFacebookAppRule = new UserNetworkFacebookAppRule();
+		$this->networkPostUrlFacebookAppRule = new NetworkPostUrlFacebookAppRule();
+		$this->networkFriendFacebookAppRule = new NetworkFriendFacebookAppRule();
+		$this->friendCPRule = new FriendCPRule();
+		$this->userNetworkDataFacebookAppRule = new UserNetworkDataFacebookAppRule();
+		$this->userTribeFacebookAppRule= new UserTribeFacebookAppRule();
+		$this->userTouserFacebookAppRule= new UserToUserFacebookAppRule();
+		$this->userToUserCPRule = new UserToUserCPRule();
+		$this->dpToUserCPRule = new DpToUserCPRule(); 
+		$this->userCPRule = new UserCPRule();
+		$this->userObjectFacebookAppRule = new UserObjectFacebookAppRule();
+	}
+	
+	public function setDBDriverForCorePlatform($DBDriver) {
+		$this->friendCPRule->setDBDriver($DBDriver);
+		$this->userToUserCPRule->setDBDriver($DBDriver);
+		 $this->dpToUserCPRule->setDBDriver($DBDriver);
+		 $this->userCPRule->setDBDriver($DBDriver);
+	}
+	
+	public function setDBDriverForLiveSystem($DBDriver) {
+		$this->userFacebookAppRule->setDBDriver($DBDriver);
+		$this->userNetworkFacebookAppRule->setDBDriver($DBDriver);
+		$this->networkPostUrlFacebookAppRule->setDBDriver($DBDriver);
+		$this->networkFriendFacebookAppRule->setDBDriver($DBDriver);
+		$this->userNetworkDataFacebookAppRule->setDBDriver($DBDriver);
+		$this->userTribeFacebookAppRule->setDBDriver($DBDriver);
+		$this->userTouserFacebookAppRule->setDBDriver($DBDriver);
+		$this->userObjectFacebookAppRule->setDBDriver($DBDriver);
+	}
+	
+	/* START GET FUNCTIONS */
+	
+	//Get the cp user_id from the network user id 
+	//$data = array("network_id" => 2 (facebook), "user_network_id" => 12323);
+	//generic to be used in many functions 
+	public function getCPUserIdFromNetworkUserId($data) {
+		if ($data) {
+			$hash = $data['network_id'].$data['network_user_id'];
+			return IdService::getUserId($hash);
+		}
+		else {
+			//TODO file error
+		}
+	}
+	
+	//$data = 16516; //hash_user_id
+	public function getNetworkUserFromHashUserId($hash) {
+		if ($hash) {
+			$data["hash_user_id"] = $hash;
+			$result = $this->userNetworkFacebookAppRule->getNetworkUserFromHashUserId($data);
+			if (!empty($result)) {
+				return $result[0]["network_user_id"];
+			}
+		}
+		return '';
+	}
+	 
+	 
+	 
+	 
+	//$data = ["start" => "0", "limit" => "100", "network_id" => "2",]
+	public function getUsersFromFB($data) {
+		return $this->userNetworkFacebookAppRule->getUsersFromFB($data);
+	}
+	
+	//Get the hash user id and return all the columns from the user_network table
+	//is used in get_user_friends.php
+	public function getUserInfoFromLiveSystem($data) {
+		if (isset($data['hash_user_id'])) {
+			return $this->userNetworkFacebookAppRule->getUserInfoFromLiveSystemWithHashUserId($data);
+		}
+		return $this->userNetworkFacebookAppRule->getUserInfoFromLiveSystem($data);
+	}
+	
+	//$data = ["network_user_id" => 3156, "network_id" => 2] ;
+	//Get The Type of Users like 0 as Default or 1 as Specially invited, get the invitation_pending column in user_network
+	public function getUserTypeFromLiveSystem($data) {
+		if (isset($data)) {
+			return $this->userNetworkFacebookAppRule->getUserTypeFromLiveSystem($data);
+		}
+	}
+	
+	public function getUserTokenFromLiveSystem($data){
+		return $this->userNetworkFacebookAppRule->getUserTokenFromLiveSystem($data);
+	}
+
+	//Get all the friends: combine all the network friends.
+	//$data = array("user_id" => 12323);
+	//to be used by entity/user/get_user_friends.php
+	public function getUserFriends($data) {
+		$friends = array();
+		foreach ($data as $key => $user ) {
+			$friends = array_merge($friends, getUserNetworkFriends($user));
+		}
+		return $friends;
+	}
+	
+	//return only the friends for a specific user from the CP
+	//$data = array("user_id" => 198712566);
+	//to be used by entity/user/get_user_friends.php
+	public function getUserNetworkFriends($data) {
+		return $this->friendCPRule->getUserNetworkFriends($data);
+	}
+	
+	//return only the friends and affinity for a specific user from the CP
+	//$data = array("hash_user_id" => 198712566);
+	//to be used by entity/user/get_user_friends.php
+	public function getUserNetworkFriendsAffinity($data) {
+		$data['extra'] = '';
+
+		if (isset($data['limit'])) {
+			if (isset($data['start'])) {
+				$data['extra'] = ' limit '.$data['start'].', '.$data['limit'];
+			}
+			else {
+				$data['extra'] = ' limit 0, '.$data['limit'];
+			}
+		}
+		
+		return $this->friendCPRule->getUserNetworkFriendsAffinity($data);
+	}
+	
+	
+	//return only the friends and their info (name,screen name etc) for a specific network
+	//$data = array("user_network_id" => 2 , "user_id" => 198712566);
+	//to be used by entity/user/get_user_friends.php
+	public function getUserNetworkFriendsAndTheirInfo($data) {
+		return $this->networkFriendFacebookAppRule->getUserNetworkFriendsAndTheirInfo($data);//We fetch here the friends from the live system database
+	}
+	
+	//This is to be used by the script/start_core_platform_process_for_friends.php file.
+	//$data = array("network_id" => 2, "control_flag" => 0, "start" => 0, "limit" => 100);
+	//to be used by script/start_core_platform_process_for_friends.php
+	public function getUserNetworkFriendsByControlFlag($data) {
+		//TODO
+	}
+	
+	//$data = array("network_id" => 2, "control_flag" => 0);
+	//to be used by script/start_core_platform_process_for_friends.php
+	public function getUserNetworkFriendsCountByControlFlag($data) {
+		//TODO
+	}
+	
+	//$data = array("network_id" => 2, "network_user_id" => 198712566);
+	//to be used by ?
+	public function getUserNetworkUrls($data) {
+		//TODO
+	}
+	
+	//This is to be used by the script/start_core_platform_process_for_urls.php file.
+	//$data = array("network_id" => 2, "control_flag" => 0, "start" => 0, "limit" => 100);
+	//to be used by script/start_core_platform_process_for_urls.php
+	public function getUserNetworkUrlsByControlFlag($data) {
+		//TODO
+	}
+	
+	//$data = array("network_id" => 2, "control_flag" => 0);
+	//to be used by script/start_core_platform_process_for_urls.php
+	public function getUserNetworkUrlsCountByControlFlag($data) {
+		//TODO
+	}
+	
+	//$data = array("network_id" => 2, "network_user_id" => 12323);
+	//to be used by entity/user/get_user_profile.php
+	public function getUserNetworkProfile($data) {
+		return $this->userNetworkDataFacebookAppRule->getUserNetworkProfile($data);
+	}
+	
+	//get the count of all the users from a specific network and their profile info
+	//$data = array("network_id" => 2);
+	public function getCountOfAllNetworkUsersProfilesWithControlFlag($data){
+		$result = $this->userNetworkDataFacebookAppRule->getCountOfAllNetworkUsersProfilesWithControlFlag($data);
+		return $result[0]['count'];
+	}
+	
+	//get all the users from a specific network and their profile info
+	//$data = array("network_id" => 2);
+	public function getAllNetworkUsersProfilesWithControlFlag($data){
+		return $this->userNetworkDataFacebookAppRule->getAllNetworkUsersProfilesWithControlFlag($data);
+	}
+	
+	//save url data file for core-platform script
+	//$data = array("filepath" => "/home/facebook_user_data.txt" ,"start" => 0, "limit" => 100);
+	public function saveUserDataForCP($data) {
+		$fileHandler = new FileHandler($data["filepath"]);
+		$fileHandler->open("w+");
+		
+		$users = $this->getAllNetworkUsersProfilesWithControlFlag($data);
+		
+		if(!empty($users)) {
+			foreach($users as $user){
+				$user_profile_url_str = $data['profile_url'] . '?network_user_id=' . $user["network_user_id"] . '&network_id=' . $data['network_id'] ;
+				
+				$item = $data['network_id'].$user["network_user_id"] . "\t" . $user_profile_url_str . "\t" . '0000-00-00 00:00:00'  . "\n"; 
+				
+				$fileHandler->write($item);
+			}
+		}
+		
+		$fileHandler->close();
+	}
+	
+	public function getCountOfUsers($data) {
+		$count = 0;
+		$result = $this->userNetworkFacebookAppRule->getCountOfUsers($data);
+		if(isset($result[0])) {
+			$count = $result[0]["count"];
+		}
+		return $count;
+	}
+	
+	
+	//$data = ["network_user_id" => 351351, "network_id" =>2 ];
+	public function getTribeByUserId($data) {
+		return $this->userTribeFacebookAppRule->getTribeByUserId($data);
+	}
+	
+	
+	//get all the friends of the user and their tribe
+	//$data = ["network_user_id" => 351351, "network_id" =>2 ];
+	public function getTribesForUserFriends($data) {
+		return $this->userTribeFacebookAppRule->getTribesForUserFriends($data);
+	}
+	//Added By Amit
+	public function getCountInvitationPendingUser($data) {
+		$count = 0;
+		$result = $this->userNetworkFacebookAppRule->getCountInvitationPendingUser($data);
+		if(isset($result[0])) {
+			$count = $result[0]["count"];
+		}
+		
+		return $count;
+	}
+	
+	public function getInvitationPendingUser($data) {
+		return $this->userNetworkFacebookAppRule->getInvitationPendingUser($data);
+	}
+	
+	public function getDPsForLiveSystem($data) {
+		return $this->dpToUserCPRule->getDPsForLiveSystem($data);
+	}
+	
+	public function getEmail($data) {
+		$result = $this->userNetworkDataFacebookAppRule->getEmail($data);
+		
+		if(isset($result[0])) {
+			$email = $result[0]["email"];
+		}
+		
+		return $email;
+	}
+	
+	/* START UPDATE FUNCTION */
+	
+	public function updatePendingInvitation($data) {
+		if (!isset($data["hash_user_id"])) {
+			if (isset($data["network_user_id"]) && isset($data["network_id"])) {
+				$data["hash_user_id"] = IdService::getUserId($data['network_id'].$data['network_user_id']);
+			}
+			else {
+				return false;
+			}
+		}
+		return $this->userNetworkFacebookAppRule->updatePendingInvitation($data);
+	}
+	
+	/* START INSERT FUNCTIONS */
+	
+	//update user_network_data's control flag from file
+	//$data = array("control_flag" => 1, "filepath" => "/home/facebook_user_data.txt");
+	public function updateUserNetworkDataControlFlagFromFile($data) {
+		$fileHandler = new FileHandler($data["filepath"]);
+		$fileHandler = $fileHandler->open("r+");
+		
+		if($fileHandler) {
+			while ( ($line = fgets($fileHandler)) !== false) {
+				$row = explode("\t", $line);
+				
+				$param = array(
+					"network_id" => $data['network_id'], 
+					"control_flag" => $data["control_flag"],
+					"network_user_id" => $row[0],
+				);
+				
+				$this->userNetworkDataFacebookAppRule->updateUserNetworkDataControlFlag($param);
+			}
+		}
+	}	
+	
+	
+	//to be used by ?
+	public function insertUser($data) {
+		return $this->userFacebookAppRule->insertUser($data);
+	}
+	
+	//to be used by script/start_fetching_facebook_user_data.php
+	public function insertUserNetwork($data) {
+		//TODO: additionally save the SN user's meta-data, like age, gender, education, location, etc... => ask this part to Manish.
+		$hash = IdService::getUserId($data['network_id'].$data['network_user_id']);
+		
+		$param = array(
+			"access_token" => (isset($data["access_token"])? $data['access_token'] : ""),
+			"user_id"	=> $data["network_user_id"], //TODO save the user in user table and get the auto incremented value to insert here..
+			"network_id"	=> $data["network_id"],
+			"network_user_id" => $data["network_user_id"],
+              		"hash_user_id"	=> $hash,
+     			"name" => $data["name"],
+               		"screen_name" => $data["screen_name"],
+               		"invitation_pending" => isset($data["invitation_pending"]) ? $data['invitation_pending'] : 0,
+			"picture_url" => isset($data['picture_url'])? $data['picture_url'] : 0
+          );
+        
+          return $this->userNetworkFacebookAppRule->insertUserNetwork($param);
+	}
+	
+	public function updateUserAccessToken($data) {
+		$param = array (
+			"access_token" => $data["access_token"],
+			"network_user_id" => $data["network_user_id"],
+			"network_id" => $data["network_id"]
+		);
+		return $this->userNetworkFacebookAppRule->updateUserAccessToken($param);
+	}
+	
+	public function updateUserExpiryDate($data){
+		$param = array(
+			"expiry_date" => $data["expiry_date"],
+			"network_user_id" => $data["network_user_id"],
+			"network_id" => $data["network_id"]
+		);
+		return $this->userNetworkFacebookAppRule->updateExpiryDateForLiveSystem($param);
+	}
+	
+	public function getExpiredUser($data){
+		return $this->userNetworkFacebookAppRule->getExpiredUserFromLiveSystem($data);
+	}
+	
+	//to be used by script/start_fetching_facebook_user_data.php
+	public function insertUserNetworkUrls($data) {
+		$param = array(
+			"network_user_id" => $data["network_user_id"],
+			"network_post_id"	=> SNHandler::getPostIdFromString(trim($data["post_id"])),
+			"url_id" => IdService::getUrlId(trim($data["url"])),
+			"url" => trim($data["url"]),
+			"network_id" => $data["network_id"]               
+           );
+
+		return $this->networkPostUrlFacebookAppRule->insertUserNetworkPostUrl($param);
+	}
+	
+	//to be used by script/start_fetching_facebook_user_data.php
+	public function insertUserNetworkFriend($data) {
+		$param = array(
+			"network_user_id_to" => $data["user_id_to"],
+			"network_user_id_from"	=> $data["user_id_from"],
+			"network_id"	=> $data["network_id"]   
+          );
+		return $this->networkFriendFacebookAppRule->insertUserNetworkFriend($param);
+	}
+	
+	public function updateUserNetworkFriend($data) {
+		$param = array(
+			"network_user_id_from"	=> $data["user_id_from"],
+			"network_id"	=> $data["network_id"],
+			"control_flag" => $data["control_flag"]
+          );
+		return $this->networkFriendFacebookAppRule->updateUserNetworkFriend($param);
+	}
+	
+	
+	//$data = array("network_id" => 2, "network_user_id" => 12323, "age" => ..., "gender" => ..., "..." => ...);
+	//to be used by entity/user/start_core_platform_process_for_user_profile.php
+	public function insertUserNetworkProfile($data) {
+		return $this->userNetworkDataFacebookAppRule->insertUserNetworkProfile($data);
+	}
+	
+	//$data = array("network_id" => 2, "network_user_id" => 198712566, "network_friend_id" => 12090292, "message" => "bla bla bla");
+	//to be used by entity/user/invite.php
+	public function inviteUserNetworkFriend($data) {
+		//SOME TODOS
+	
+		//And additionally calls the service: SNFacebookService.php so we can publish this action in the user wall or send an email or publish a provate post to the correspondent friend.
+	}
+	
+	//$data = array ("network_user_id"=> 2,"tribe_id"=> 3, "network_id"=> 2)
+	public function insertUserTribe($data) {
+		return $this->userTribeFacebookAppRule->insertUserTribe($data);
+	}	
+
+	public function getNetworkUserCount() {
+		return $this->userCPRule->getNetworkUserCount();//We fetch here the friends from the live system database
+	}
+	
+	//$data = array ("network_user_id"=> 2,"tribe_id"=> 3, "network_id"=> S2)
+	public function getNetworkUsersByBatch($data) {
+		return $this->userCPRule->getNetworkUsersByBatch($data);
+	}
+	
+	//$data = array ("hash_user_id_from" => 123456)
+	public function getAffinedUsersWtihAffinity($data) {
+		$data["MIN_USER_TO_USER_AFFINITY"] = MIN_USER_TO_USER_AFFINITY; 
+		return $this->userToUserCPRule->getAffinedUsersWtihAffinity($data);
+	}
+	
+	//$data = array ("hash_user_id_from" => 123456, "hash_user_id_to" => 10324, "affinity" => 0.9);
+	public function updateAffinityForAffinedUsers($data) {
+		return $this->userTouserFacebookAppRule->updateAffinityForAffinedUsers($data);
+	}
+	
+	//Added by Anand on 29th Feb, 4:00 pm
+	//$data = array ("hash_user_id_from" => 123456, "limit"=> 100);
+	public function getTopAffinedUsers($data) {
+		return $this->userTouserFacebookAppRule->getTopAffinedUsers($data);
+	}
+	
+	//$data = array ("network_user_ids" => 123456, "object_type_id" =>9, "limit" => 100);
+	public function getObjectsOfUsersWithCount($data) { 
+		return $this->userObjectFacebookAppRule->getObjectsOfUsersWithCount($data);
+	}
+	
+	//$data = array ("hash_user_id_from" => 123456, "threshold" => 5)
+	public function getUsersWithThresholdAffinty($data) {
+		return $this->userTouserFacebookAppRule->getUsersWithThresholdAffinty($data);
+	}
+	
+	public function getLiveUserFriends($data){
+		return $this->networkFriendFacebookAppRule->getUserFriends($data);
+	}
+	
+	//$data = array ("network_user_ids" => 123456,12332, "limit" => 100);
+	public function getPostsOfUsersWithCount($data) {
+			return $this->networkPostUrlFacebookAppRule->getPostsOfUsersWithCount($data);
+    }
+}
+?>

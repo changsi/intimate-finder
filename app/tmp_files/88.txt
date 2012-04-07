@@ -1,0 +1,108 @@
+visual-studio-addins
+242
+Add-ins extending the Visual Studio software development products from Microsoft.
+avplayer
+242
+
+.net-1.1
+242
+
+web-deployment
+242
+
+rebase
+242
+
+spring-aop
+241
+the Spring Framework's version of AOP, implemented in pure Java and using the @AspectJ annotations from the AspectJ project. Spring AOP works through dynamic JDK or CGLib Proxies.
+mysql-management
+241
+
+multi-tenant
+241
+A principle in software architecture where a single instance of the software runs on a server, serving multiple client organizations (tenants).
+photos
+241
+
+ios4.3
+241
+an incremental update to the iOS mobile operating system.
+corona
+241
+a mobile development framework for creating high-performance, multimedia rich applications and games for the iPhone, iPad, and Android. With Corona SDK, you develop in Lua, a high-perfor…
+vimeo
+241
+a video-sharing website on which users can upload, share, and view videos.
+uiinterfaceorientation
+241
+The orientation of the application's user interface in Apple OS.
+toolkit
+240
+
+html5-audio
+240
+used to embed sound content in an HTML or XHTML document.  The audio element was added as part of HTML5.
+exclude
+240
+
+google-spreadsheet
+240
+Questions related to accessing a Google Spreadsheets document
+nstextview
+240
+the front-end class to MacOS's Application Kit text system. It draws the text managed by the back-end components and handles user events to select and modify its text. While NSTextView i…
+npm
+240
+the most popular package manager for Node.js, the asynchronous I/O framework that uses Google's V8 JavaScript engine. It can be used to install and publish CommonJS modules.
+scrollto
+240
+
+sharekit
+240
+ShareKit: an iOS open source project to enable sharing of content via Facebook, Twitter, et al.
+prompt
+240
+
+qmake
+240
+a Qt tool designed to build Qt projects.
+python-sphinx
+239
+a tool that makes it easy to create intelligent and beautiful documentation. Sphinx is especially suitable for Python documentation, but it is a general-purpose tool that can be used to docu…
+ssis-data-transformations
+239
+Microsoft SQL Server Integration Services (SSIS) Data Flow Transformations is a part of the SSIS ETL tool that enable programmers to do data operations at row level.
+icloud
+239
+a web service from Apple Inc. that allows users to store data such as music files and automatically sync them between multiple devices such as: iPhones, iPods, iPads, and personal computers.
+managed-c++
+239
+a now deprecated Microsoft set of deviations from C++, including grammatical and syntactic extensions, keywords and attributes, to bring the C++ syntax and language to the .NET Framewor…
+usage
+239
+
+winrt
+239
+the principal provider of system services for applications in Windows 8 that will be designed to incorporate the new "Metro" style of Windows applications.
+cakephp-1.2
+239
+relates to the 1.2.x branch of CakePHP MVC framework
+db4o
+239
+an open source embeddable object database for Java and .NET.
+android-sdcard
+238
+
+bigdecimal
+238
+
+dashboard
+238
+
+chmod
+238
+a linux/unix command. It stands for "change mode". This command is used change the permissions of directories and files.
+ical
+238
+a computer file format which allows Internet users to send meeting requests and tasks to other Internet users, via email, or sharing files with an extension of .ics. Recipients of the iCa…

@@ -1,0 +1,108 @@
+paypal-api
+448
+API for Paypal payment services integration
+sftp
+448
+
+packaging
+447
+
+auto-increment
+447
+a database constraint that automatically increases from the last record when making an INSERT
+static-analysis
+447
+"Static Analysis" refers to the software tools (or their use) to analyze application code for arbitrary properties, such as errors (uninitialized variables, possible SQL injection-attack, is this code…
+sharepoint-designer
+446
+
+android-c2dm
+445
+Android Cloud to Device Messaging (C2DM) - service for sending messages from third-party server to device.
+wsgi
+444
+a python standard Web Server Gateway Interface
+autofac
+444
+an inversion of control (IoC) container for Microsoft .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size an…
+elements
+443
+
+howto
+443
+an informal, pithy description of instructions for accomplishing some task. A how-to is usually meant to help non-experts and may be greatly simplified from an in-depth discussion of the t…
+latitude-longitude
+442
+A location on a spheroid can be specified using its latitude - the angular distance of that location south or north of the equator, and its longitude - the angle east or west from a reference meridian…
+django-queryset
+442
+the primary abstraction for retrieving objects from django's ORM system
+mongoose
+442
+a MongoDB object modeling tool designed to work in an asychronous environment.
+windows-phone-7.5
+442
+Phones running Windows Phone "Codename Mango" are marketed as being "Windows Phone 7.5". However, the version number of the OS and developer SDK is Windows Phone 7.1
+breakpoints
+441
+an intentional stopping or pausing place in a program, put in place for debugging purposes.
+bookmarklet
+441
+a browser bookmark for a URL using the javascript: protocol. The javascript: prefix is followed by a snippet of JavaScript. When invoked, instead of navigating to a new page, the scri…
+category
+441
+a group of informations.
+nib
+441
+on apple, a nib file describes the visual elements of your applicationâs user interface, including windows, views, controls, and many others
+openoffice.org
+441
+related to OpenOffice.org, an open-source application suite, or one of its applications, including Writer, Calc, Impress, Base, Draw, and Math.
+effects
+441
+
+fade
+441
+
+jqtouch
+441
+a jQuery extension that allows for mobile development on iPhone and Android devices.
+innerhtml
+440
+
+webdav
+440
+WebDAV (World Wide Web Distributed Authoring and Versioning) is the Internet Engineering Task Force (IETF) standard for collaborative authoring on the Web
+x509certificate
+440
+the name of .Net and Java classes for handling X.509 certificates
+target
+440
+associated with a series of commands to execute when an action is requested.
+w3c
+439
+an international organization that develops and publishes specifications and guidelines that define technologies like XML, HTML, and CSS.
+cocoa-bindings
+439
+Appleâs implementation of the Model-View-Controller design pattern for Mac OS X applications. It provides technologies that automate the synchronisation of domain data and the user i…
+define
+439
+
+gettext
+439
+an internationalization and localization (i18n) library which is commonly used for writing multilingual programs. Its most popular implementation is that of the GNU project.
+google-docs
+439
+a free, Web-based word processor, spreadsheet, slide show, form, and data storage service offered by Google.
+httpresponse
+439
+
+puzzle
+439
+more like solving a puzzle
+porting
+438
+Converting existing code or executables to another programming language, environment, or architecture.
+invoke
+437
+

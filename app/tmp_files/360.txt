@@ -1,0 +1,108 @@
+google-cloud-storage
+24
+a RESTful service for storing and accessing your data on Google's infrastructure. The service combines the performance and scalability of Google's cloud with advanced security …
+gnu-prolog
+24
+
+albumart
+24
+
+webproxy
+24
+
+aggregator
+24
+
+webmaster
+24
+
+webpage-rendering
+24
+
+.net-reflector
+24
+an assembly browser that can be used to explore, analyze, decompile, and debug the contents of any .NET assembly.
+ggplot
+24
+
+dotnetnuke-module
+24
+
+documentum6.5
+24
+
+effectiveness
+24
+
+ecma
+24
+
+dynamics-ax-2012
+24
+one of Microsoftâs enterprise resource planning software products. It is part of the Microsoft Dynamics family. The early versions (from 1.0 to 3.0) were cal…
+easter-eggs
+24
+Hidden features of applications/programs.
+easygui
+24
+
+dwoo
+24
+a PHP5 template engine which is (almost) fully compatible with Smarty templates and plugins, but is written from scratch for PHP5, and adds many features.
+dwarf
+24
+a file format for representing debugging information.
+embedded-v8
+24
+
+ems
+24
+The common acronym for the general idea of an "enterprise messaging service," or "enterprise messaging system," a set of published Enterprise-wide standards that allows organizations to integrate comp…
+enctype
+24
+
+enunciate
+24
+an engine for dramatically enhancing your Java Web service API.
+enum-flags
+24
+
+rad-studio
+24
+
+radial
+24
+
+radchart
+24
+
+quartz-core
+24
+
+quartz2d
+24
+a 2-dimensional graphics rendering API for OS X. It is part of the Core Graphics framework.
+qtestlib
+24
+
+pyusb
+24
+
+python-mode
+24
+
+pyopenssl
+24
+a Python interface to the OpenSSL library.
+projection-matrix
+24
+
+programming-competitions
+24
+
+relational-division
+24
+
+removable-drive
+24
+

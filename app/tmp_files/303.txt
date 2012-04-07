@@ -1,0 +1,108 @@
+selectall
+33
+
+sef
+33
+
+serialscroll
+33
+
+servicecontract
+33
+
+shutdown-hook
+33
+
+signal-strength
+33
+
+slow-load
+33
+
+spim
+33
+
+sports
+33
+
+sshfs
+33
+
+stanford
+33
+
+rescue
+33
+
+routedevent
+33
+
+roblox
+33
+ROBLOX - Online building game for kids.
+robotframework
+33
+a generic keyword based testing framework written in python.
+rcurl
+33
+
+program-flow
+33
+
+properties-file
+33
+either a simple text file or an XML file containing pairs of keys and values. Java and related technologies frequently use .properties files to store configuration information.
+pronunciation
+33
+
+project-reference
+33
+
+pyyaml
+33
+a YAML parser and emitter for Python.
+qfiledialog
+33
+
+qpid
+33
+a cross-platform Enterprise Messaging system which implements the Advanced Message Queuing Protocol (AMQP), providing message brokers written in C++ and Java, along with clients for C+…
+raiserror
+33
+
+quad
+33
+
+event-loop
+33
+
+em
+33
+a unit of measurement in the context of typography. It can also stand for expectation-maximization in the context of statistics.
+emacsclient
+33
+a program which allows the user to connect to the Emacs Server. This is useful when using Emacs as the default editor on Unix-like systems, as it allows Emacs to be invoked without crea…
+endless
+33
+
+ejbql
+33
+
+dynamic-compilation
+33
+
+dvorak
+33
+An alternative keyboard layout optimized for typing English with less finger movement than the traditional QWERTY layout, making it easier to learn than QWERTY and allowing for higher typing speeds.
+drilldown
+33
+
+git-flow
+33
+a popular workflow that extends the verbs available to git and helps handle moving changes between feature, development, release, hotfix, support, and production branches.
+akamai
+33
+a Content Delivery Network helping you to accelerate your website.
+alivepdf
+33
+

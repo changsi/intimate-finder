@@ -1,0 +1,110 @@
+domain-model
+98
+composed of the objects, behavior, relationships, and attributes that make up the industry that is the focus of development.
+downloading
+98
+
+document-library
+98
+
+software-quality
+98
+
+railo
+98
+an Open Source server-side rapid application development platform, partnered with JBoss, and compatible with Adobe ColdFusion.
+
+NOTE: It is useful to also use the `coldfusion` tag for any R…
+neon
+98
+a vector-processing instruction set for ARM processors.
+nine-patch
+98
+
+nswindowcontroller
+98
+
+ml
+98
+a family of functional programming languages, including SML, OCaml, and F#.
+openx
+98
+An open source ad technology platform written in PHP that serves as an alternative to Google's AdSense.
+outlook-2003
+98
+For issues relating to integrating with Microsoft Outlook, release 2003.
+postbuild-event
+97
+
+powershell-remoting
+97
+The ability to create a remote connection, in an other way than using WMI, is the most important difference between PowerShell v 1.0 and 2.0.
+miglayout
+97
+a free and open-source layout manager for Java Swing, SWT, JavaFX2, Fantom, Qt and other GUI toolkits.
+nsrunloop
+97
+
+nivoslider
+97
+
+nested-resources
+97
+
+random-access
+97
+the possibility of accessing any given record in a collection in the same time in contrast to sequential access in which distant records take longer to access than nearby records. An …
+prepend
+97
+
+relations
+97
+
+require-once
+97
+
+document-ready
+97
+
+domain-name
+97
+
+encryption-symmetric
+97
+
+fax
+97
+
+filewriter
+97
+
+forking
+97
+the creation of a new process by duplicating the current one.  The **fork()** operation (usually an operating system call) is available from all compliant POSIX environments.
+full
+97
+
+grayscale
+97
+
+guard
+97
+a command line tool to easily handle events on file system modifications.
+ime
+97
+IME stands for "Input Method Editor", and refers to systems that allow users to input characters and symbols not found on their keyboard. They are commonly used to input Chinese, Japanese, and Korean …
+invite
+97
+
+html.dropdownlistfor
+97
+
+homepage
+97
+
+jqmodal
+97
+
+xmlbeans
+97
+a technology for accessing XML by binding it to Java types.

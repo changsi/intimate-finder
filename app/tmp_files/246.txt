@@ -1,0 +1,110 @@
+compiled
+48
+
+colon
+48
+
+custom-font
+48
+
+daab
+48
+
+daemons
+48
+
+cyclomatic-complexity
+48
+a number used to express the complexity of source code (e.g. of a method). It is calculated based on the number of different possible paths through the source code. A low cycl…
+control-characters
+48
+non-printing characters used to send signals to the output terminal.
+batik
+48
+a library for creating and parsing SVG in java.
+http://xmlgraphics.apache.org/batik/
+youtube-javascript-api
+48
+The YouTube JavaScript Player API allows users to control the YouTube chromeless or embedded video players via JavaScript.
+certificate-authority
+48
+
+bitblt
+48
+
+delta
+48
+
+design-decisions
+48
+
+auction
+48
+
+approval
+48
+
+ape
+48
+a full-featured OpenSource solution designed for Ajax Push. It includes a webserver and a Javascript Framework. APE allows to implement any kind of real-time data streaming to a web browser, wi…
+information-hiding
+48
+
+infix
+48
+
+indexed
+48
+
+idle-ide
+48
+
+hud
+48
+
+haskell-platform
+48
+a standardized library suite for the Haskell programming language.
+handshake
+48
+
+hour
+48
+
+html2pdf
+48
+a HTML to PDF converter written in PHP4 (use FPDF), and PHP5 (use TCPDF).
+It allows the conversion of valid HTML 4.01 in PDF format, and is distributed under LGPL.
+hessian
+48
+a simple binary protocol for connecting web services.
+jgoodies
+48
+
+lapply
+48
+
+keyframe
+48
+
+maven-scm
+48
+
+lines-of-code
+48
+The number of code lines. Can be used as a metric.
+flashplayer-10
+48
+Adobe Flash Player version 10.
+flexible
+48
+
+expression-encoder
+48
+
+expando
+48
+
+factory-girl
+48
+

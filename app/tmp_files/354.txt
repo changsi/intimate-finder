@@ -1,0 +1,109 @@
+vendor
+25
+
+uisearchbardelegate
+25
+
+unhandled
+25
+
+unidata
+25
+an extended relational database and integrated development environment. It is part of the MultiValue Database family. It features its own query language called UniQuery and programming lang…
+unix-socket
+25
+
+wic
+25
+Windows Imaging Component
+wijmo
+25
+a complete kit of over 30 UI widgets with everything from interactive menus to rich charts.
+wc
+25
+a standard POSIX command that counts words, lines, and characters.
+wcf-callbacks
+25
+
+wss4j
+25
+
+wsit
+25
+
+wpmu
+25
+
+world-of-warcraft
+25
+an MMO from Blizzard Enterainment
+xdv
+25
+a way to apply a style/theme contained in a static HTML web page (usually with related CSS, JavaScript and image resources) to a dynamic website created using any server-side technology, using …
+xacml
+25
+the eXtensible Access Control Markup Language, an open standard for specifying and evaluating authorization and access control policies.
+taction
+25
+a generic action VCL component. It implements user commands across a range of different controls. It is defined in ActnList.pas unit.
+taglib-sharp
+25
+a C# library for reading and writing most common formats of metadata (or "tags").
+tablename
+25
+
+symbol-server
+25
+
+sybase-iq
+25
+
+system.printing
+25
+
+static-ip-address
+25
+
+sublist
+25
+
+stunnel
+25
+
+surrogate-key
+25
+
+treetable
+25
+
+topics
+25
+
+tournament
+25
+
+tripledes
+25
+
+text-overflow
+25
+
+telnetlib
+25
+
+time-estimation
+25
+
+timed
+25
+
+tiger
+25
+
+throws
+24
+Excerpt from http://en.wikibooks.org/wiki/Java_Programming/Keywords/throws
+throws is a Java keyword. It is used in a method definition to declare the Exceptions to be thrown by the method.
+threadstatic
+24
+

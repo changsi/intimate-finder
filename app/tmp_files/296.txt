@@ -1,0 +1,108 @@
+android-audiomanager
+35
+AudioManager provides access to volume and ringer mode control.
+ar
+35
+the Unix archiver utility, used primarily for maintaining static libraries.
+apdu
+35
+
+argument-dependent-lookup
+35
+
+asyncore
+35
+
+android-notification-bar
+35
+
+jquery-slider
+35
+
+dependencyobject
+35
+
+descendant
+35
+
+diazo
+35
+
+accessoryview
+35
+
+68000
+35
+a 16/32 bit CISC CPU.
+bsd-license
+35
+a family of permissive free software licenses. The original license was used for the Berkeley Software Distribution (BSD), a Unix-like operating system after which it is named.
+builder-pattern
+35
+
+bug-reporting
+35
+
+awesomium
+35
+a windowless web browser framework that can be used to embed browser-like functionality in desktop applications.
+bcd
+35
+
+beaker
+35
+
+zshrc
+35
+the configuration file for zsh.
+xui
+35
+A lightweight, dead simple, micro-tiny, modular JavaScript framework for building mobile web applications
+copyfile
+35
+
+counter-cache
+35
+
+counters
+35
+
+cpickle
+35
+
+cpu-speed
+35
+
+corporate
+35
+
+data-dictionary
+35
+
+cloudfoundry
+35
+Open-source Platform as a Service (PaaS) offering from VMware. It's available online or locally as a micro cloud instance.
+cloud9-ide
+35
+
+cimg
+35
+a small, open source, C++ toolkit for image processing.
+chown
+35
+
+color-palette
+35
+
+code-sharing
+35
+
+code-search-engine
+35
+
+usertype
+35
+
+validation-application-bl
+35
+The Enterprise Library Validation Application Block provides a library of classes, called validators, that supplies the code for validating .NET Framework data types. For example, one validator checks…

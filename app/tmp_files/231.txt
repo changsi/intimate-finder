@@ -1,0 +1,108 @@
+gdk
+54
+
+google-cse
+54
+
+grub
+54
+GNU GRUB (short for GNU GRand Unified Bootloader) is a boot loader package from the GNU Project.
+expire
+54
+
+fb.ui
+54
+
+fading
+54
+
+drawtext
+54
+
+dynamic-library
+54
+
+easyslider
+54
+
+embarcadero
+54
+the company that owns the software development tools of RAD Studio, Delphi, C++ Builder, and Rapid SQL, among others.
+git-diff
+54
+Shows changes between the working tree and the committed contents of a git repository, or between two commits or branches of the repository.
+git-extensions
+54
+a toolkit to make working with Git under Windows more intuitive.
+3gp
+54
+
+rakefile
+54
+Rake's version of Makefiles.
+query-parameters
+54
+
+qlistview
+54
+a UI control part of the Model/View architecture of the Qt Framework.
+processstartinfo
+54
+
+private-methods
+54
+
+presentations
+54
+
+requirements-management
+54
+
+robots
+54
+
+rodbc
+54
+
+redistributable
+54
+
+rating-system
+54
+A system commonly seen on websites that allows users to express their appreciation (or lack there of) of content or what the content is about.
+repetition
+54
+
+replacewith
+54
+
+spring-social
+54
+an exception to the Spring Framework that enables applications to connect with Software-as-a-Service providers such as Twitter and Facebook.
+sql-server-2012
+54
+for questions specific to the 2012 version of Microsoft's SQL Server.
+short-url
+54
+usually a generated "short" URL which addresses a normal "long" URL to make it more readable and/or short.
+sharepoint-list
+54
+
+rtmfp
+54
+a protocol created by Adobe which enables UDP connections and peer-to-peer communication between multiple Flash Players. It is available from Flash Player 10.
+mplayer
+54
+
+messagebroker
+54
+industry standard middleware solution which solves the problem of business integration and supports many transport protocols as well as data formats. A typical use of WMB…
+mit
+54
+
+nsexception
+54
+
+netbeans7.0
+54
+the 2011 version introducing Java language support for development against the proposed Java SE 7 specification with the JDK 7 developer preview. The release also provides enhanced…

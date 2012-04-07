@@ -1,0 +1,110 @@
+void
+230
+
+string-comparison
+230
+
+timespan
+230
+
+asio
+230
+ASIO (which stands for "asynchronous input/output") is an open source C++ library developed and maintained by Chris Kohlhoff. It was introduced into the Boost library in on 30 December 2005.
+
+ASIO a…
+attr
+230
+should be used for attribute related issues.
+getter-setter
+230
+Public mutator methods in object-oriented programming, responsible for changing and returning the value of private class members, thus keeping with the principle of encapsulation.
+division
+230
+
+flags
+230
+
+http-authentication
+230
+
+listadapter
+230
+
+reflection.emit
+230
+The System.Reflection.Emit namespace contains classes that allow a compiler or tool to emit metadata and Microsoft intermediate language (MSIL) and optionally generate a PE file on disk.
+rating
+229
+
+nsarraycontroller
+229
+a bindings compatible class that manages a collection of objects
+jta
+229
+Java Transaction API (JTA) specifies standard Java interfaces between a transaction manager and the parties involved in a distributed transaction system: the resource manager, the application server, …
+argument-passing
+229
+
+dealloc
+229
+memory  deallocate function in objective-c
+cruisecontrol
+229
+both a continuous integration tool and an extensible framework for creating a custom continuous build process.
+string-matching
+228
+the problem of finding occurrences of one string (âpatternâ, âneedleâ) in another (âtextâ, âhaystackâ).
+appcelerator-mobile
+228
+a framework for creating iOS and Android applications in JavaScript.
+overlap
+228
+
+menubar
+227
+a region of a screen or application interface where drop down menus are displayed
+seekbar
+227
+
+scp
+227
+a means of securely transferring computer files between a local and a remote host or between two remote hosts.
+same-origin-policy
+227
+The same origin policy prevents a document or script loaded from one origin from getting or setting properties of a document from another origin.
+key-value
+227
+Key-Value represents a pair of a term and it's corresponding relative description (or value). The concept of key value, primarily, is applied in modern NoSQL databases for representing a storage mecha…
+audit
+227
+
+jquery-ui-datepicker
+227
+a highly configurable plugin that adds datepicker functionality to your pages
+adsense
+227
+A program run by Google Inc. allows publishers in the Google Network of content sites to automatically serve text, image, video, and rich media adverts that are targeted to site content and audience.
+berkeley-db
+227
+part of the Oracle Berkeley DB family of products. It is a C library that links into your application, enabling SQL, key-value pair (NoSQL) and Java object data persistence. It provides…
+blender
+227
+a popular open source 3D modelling and rendering environment. It can be used to model and render still images, animations and real time games.
+checkboxlist
+226
+
+sugarcrm
+226
+a widely-used PHP-based open source CRM
+uiapplicationdelegate
+226
+a part of the UIKit framework used in iOs development
+decoding
+226
+
+android-textview
+226
+Displays text to the user and optionally allows them to edit it.
+linebreaks
+226
+

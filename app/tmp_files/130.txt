@@ -1,0 +1,108 @@
+requiredfieldvalidator
+136
+
+restructuredtext
+136
+a lightweight markup language intended to be highly readable in source format.
+parcelable
+136
+
+mouseout
+136
+For issues relating to setting up, subscribing to, or handling mouseout events.
+modelling
+136
+
+pki
+135
+Public Key Infrastructure
+picker
+135
+
+posts
+135
+
+ocunit
+135
+a unit testing framework for the Objective-C language and included with Apple's Xcode IDE since Xcode 2.1.
+restriction
+135
+
+resizable
+135
+
+pseudo-element
+135
+The pseudo elements of CSS allow for more specific selection of elements within a document and enhanced display of content within those elements.
+django-queries
+135
+
+managed-bean
+135
+a Java EE specific term for Javabean classes which are designed to act as a controller in some MVC application. They are often referred in context of JSF and CDI.
+limitations
+135
+
+jquery-masonry
+135
+a dynamic grid layout plugin for jQuery
+hta
+135
+a Microsoft Windows program whose source code consists of HTML, Dynamic HTML, and one or more scripting languages supported by Internet Explorer, such as VBScript or JScri…
+iphone-provisioning
+135
+
+xmlwriter
+135
+
+c#-to-vb.net
+135
+Conversion of code written in C# to Visual Basic .NET (VB.NET).
+data-access
+135
+
+crossdomain.xml
+135
+
+code-sample
+135
+
+commercial
+135
+
+three.js
+135
+a lightweight JavaScript 3D engine that can be rendered using Canvas, SVG, or WebGL.
+sun
+135
+
+variadic-templates
+135
+templates that take a variable number of parameters
+utility
+135
+
+workaround
+134
+
+twilio
+134
+a cloud communications provider that offers the ability to send and receive phone calls and text messages via a simple REST API.
+d2
+134
+a systems programming language developed by Walter Bright. Its focus is on combining the power and high performance of C and C++ with the programmer productivity of modern languages like Ruby and…
+databind
+134
+
+buddypress
+134
+a plugin for Wordpress for creating a social layer on Wordpress engine.
+xtragrid
+134
+Grid control for Winforms apps from DevExpress
+banner
+134
+
+dereference
+134
+

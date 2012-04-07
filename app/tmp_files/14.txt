@@ -1,0 +1,108 @@
+replace
+2421
+the action of searching a string (the haystack) for a sub-string (the needle) and replacing it with a different string. So for example, replacing all 'l' within 'Hello' with 'y', would re…
+visual-studio-2005
+2416
+a previous version of Microsoft's Visual Studio integrated development environment product line for .NET-based and C++ development.
+refactoring
+2414
+a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+web-config
+2409
+the main settings and configuration file for an ASP.NET web application.
+datatable
+2405
+ambiguous. In .NET, it's a class that represents a table of in-memory data. In component based MVC frameworks like JSF and Wicket, it's an UI component that dynamically renders…
+cocos2d-iphone
+2399
+an Objective-C port of the Cocos2D (Python) framework for building 2D games and graphical applications for iOS devices. Despite the name "cocos2d-iphone" Cocos2D supports buildin…
+interop
+2399
+a requirement for one computer system or programming language to work with another.
+installer
+2396
+A computer program responsible for installing other computer programs (aka software) on a system.
+console
+2395
+A mechanism for interacting with a computer operating system or software by typing commands to perform specific tasks
+seo
+2391
+the development of websites to aid ranking in search engines. Non-programming SEO questions should be asked on network site Pro Webmasters - http://webmasters.stackexchan…
+applet
+2389
+Applet means 'small application'.  This has become commonly used to describe Java applets embedded in web pages.
+controller
+2385
+Controller provides a centralized entry point for handling requests. Usually is referred as a part of Model-View-Controller design pattern.
+crash
+2378
+the result of an unrecoverable error that causes the program to stop completely. During software development, crashes can be avoided by implementing proper error and exception handling.
+foreach
+2376
+a looping construct that executes a given piece of code for each element in a list/collection/array.  In contrast to a normal for loop, the foreach loop doesn't require the coder to maintai…
+download
+2365
+Receiving data to a local system from a remote system, or to initiate such a data transfer.
+xsd
+2358
+XSD generally refers to a document written in the W3C XML Schema format, containing a description of a particular type of XML document.
+uikit
+2353
+the object-oriented framework that is responsible for most of the iOS user interface.
+nsstring
+2339
+the plain-text character-string class in Cocoa and Cocoa Touch. See also NSMutableString, NSData and NSMutableData (for objects that contain bytes rather than human-language characters), a…
+calendar
+2334
+a system of reckoning time in which the beginning, length and divisions of a year are defined. The term may refer to a software class or library for the manipulation and display of calen…
+treeview
+2333
+used to display hierarchical information.
+null
+2329
+Null means *nothing* or *unknown* (depending on context)
+google-chrome-extension
+2324
+dedicated to questions about extension development for the Google Chrome web browser.
+interface-builder
+2320
+a visual design tool used to create user interfaces for Apple's Mac OS X and iOS platforms.
+synchronization
+2316
+Synchronization refers to using controls to maintain a coherent representation, either a group of processes running the same program (process synchronization), or representations of data (data synchro…
+cross-browser
+2316
+Cross-browser refers to the ability for a website, web application, HTML construct or client-side script to support all the web browsers.
+binary
+2312
+a base-2 numbering system that represents values using two symbols: 0 and 1.
+uiimageview
+2303
+An image view object provides a view-based container for displaying either a single image or for animating a series of images in iOS. For animating the images, the UIImageView class provides controls …
+devise
+2298
+an authentication gem for Ruby-on-Rails.
+svg
+2297
+a language used for describing two-dimensional vector graphics.
+filesystems
+2297
+a way of organizing data on a computer system. Typically a file system consists of files, folders (normally a special kind of file) and an API that can be used for interacting with fi…
+annotations
+2294
+In programming, annotations can be used as a special form of syntactic metadata in the source code. Classes, methods, variables, parameters and packages may be annotated.
+symfony-2.0
+2288
+a dependency injection framework and component library written for PHP 5.3.2+ focusing on easy and fast development cycles and including state-of-the-art design patterns and programming phi…
+numpy
+2288
+an extension to the Python programming language providing a powerful and flexible multi-dimensional array container, it is a fundamental building block for scientific and numerical computing.…
+flex3
+2270
+a software development kit (SDK) released by Adobe Systems for the development and deployment of cross-platform rich Internet applications based on the Adobe Flash platform.
+indexing
+2269
+general technique to improve the speed of read operations.
+geolocation
+2253
+the identification of the real-world geographic location of an object, such as a cell phone or an Internet-connected computer terminal. Geolocation may refer to the practice of assessin…

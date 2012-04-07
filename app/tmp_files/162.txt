@@ -1,0 +1,108 @@
+ios5-sdk
+96
+
+gridpanel
+96
+
+google-apps-script
+96
+a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services. Use this tag for questions related to the usage o…
+framelayout
+96
+
+framerate
+96
+
+fit
+96
+
+eps
+96
+the common abbreviation for Encapsulated PostScript, a restricted version of PostScript meant to be embedded within other documents.
+ajax.net
+96
+a set of extensions to ASP.NET implementing Ajax functionality. It is developed by Microsoft and is released under the Microsoft Public License (Ms-PL).
+rhel
+96
+a distribution of the Linux operating system targeted at enterprise customers with emphasis on long-term stability and support.
+reorder
+96
+
+rackspace-cloud
+96
+
+pylint
+96
+Python source code analyzer looking for bugs and signs of poor quality.
+soundcloud
+96
+a social audio storage service and community. Their api allows for deep mashups, allowing access to nearly all track meta data, and provides streaming and downloads in various formats.
+sitefinity
+96
+a CMS developed by Telerik
+short-circuiting
+96
+A feature of some languages to skip certain code at runtime that doesn't affect the outcome, especially when testing compound conditions
+self-signed
+96
+
+nerdtree
+96
+a plugin for the vim text editor. It allows users to view and navigate the filesystem while editing.
+negative
+96
+Tag related to problems that involve a number whose value is less than zero
+nscoding
+96
+a protocol from Apple Foundation framework. The NSCoding protocol declares the two methods that a class must implement so that instances of that class can be encoded and decoded.
+nscalendar
+95
+an Apple MacOS and iOS class to deal with calendrical computation.
+mobile-webkit
+95
+
+mongodb-php
+95
+a document oriented NoSQL database. MongoDB supports journaling, datacentre-aware replication and auto-sharding to guarantee high availability. The database manages collections of BSON (a s…
+playn
+95
+an open-source, cross-platform game development framework that provides a single Java API that can be used to generate HTML5, Android, ActionScript/Flash, and desktop Java/applet clients.
+pde
+95
+
+page-load
+95
+
+painting
+95
+
+openmpi
+95
+an open source implementation of the MPI-2 Message Passing Interface, a library for distributed memory parallel programming.
+openejb
+95
+an embeddable and lightweight EJB 3.0 implementation that can be used as a standalone server or embedded into Tomcat, JUnit, TestNG, Eclipse, IntelliJ, Maven, Ant, and any IDE or app…
+object-lifetime
+95
+
+scanning
+95
+
+silverstripe
+95
+a free and open source PHP web development framework and content management system (CMS) based on the Sapphire Framework.
+sniffing
+95
+
+sql-ce
+95
+a compact relational database produced by Microsoft for applications that run on mobile devices and desktops.
+quote
+95
+
+processbuilder
+95
+
+regular-language
+95
+is a language represented by regular expressions and must have a corresponding deterministic finite automata which accepts the language

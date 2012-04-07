@@ -1,0 +1,110 @@
+xhtml
+3934
+XHTML, eXtensible HyperText Markup Language, is an application of HTML that is also a valid XML document, as opposed to standard HTML which is based on SGML. It is a markup language commonly used for …
+methods
+3915
+code that performs a task and is associated with a class or an object.
+exception-handling
+3851
+a programming language construct or computer hardware mechanism designed to handle the occurrence of exceptions, special conditions that change the normal flow of program executi…
+groovy
+3839
+an object-oriented programming language for the Java platform. It is a dynamic language with features similar to those of Python, Ruby, Perl, and Smalltalk. It can be used as a scripting lan…
+activity
+3828
+Activity has multiple meanings.  For Android activities, use the more specific [android-activity] tag.  For Windows Workflow Foundation activities, use the more specific [workflow-activity] tag.
+recursion
+3799
+a method of problem solving where the solution to a problem depends on solutions to smaller instances of the same problem.
+random
+3794
+for questions pertaining to random numbers, whether pseudo random or truly random.
+uitableviewcell
+3765
+The UITableViewCell class defines the attributes and behavior of the cells that appear in iOS UITableView objects.
+mercurial
+3763
+a fast, open-source, distributed version control system.
+time
+3759
+sequence events, to compare the durations of events and the intervals between them, and to quantify rates of change such as the motions of objects.
+ado.net
+3749
+A set of computer software components that programmers can use to access data and data services.
+graph
+3737
+A graph can refer to a graphic (such as a chart or diagram) showing or displaying the relationship between two or more variables used, for instance, in visualising scientific data.
+concurrency
+3731
+a property of systems in which several computations are executing simultaneously, and potentially interacting with each other. The computations may be executing on …
+jquery-mobile
+3719
+a touch-optimized web framework for smartphones and tablets. A unified user interface system across all popular mobile device platforms, built on jQuery.
+utf-8
+3718
+a character encoding that can describe the set of Unicode code points in byte sequences of one to four bytes.  It was designed to be backward compatible with ASCII while still supporting repr…
+usercontrols
+3706
+a separate, reusable part of a page that allows a user to interact with an application.
+razor
+3694
+a template language used by ASP.NET Web Pages and ASP.NET MVC (since version 3). It supports seamless transitions between HTML markup and C# or VB code. Transitions between markup and code ar…
+symfony
+3691
+a full stack MVC framework for PHP 5.
+login
+3668
+A login or logon (also called logging in or on and signing in or on) is the process by which individual access to a computer system is controlled by identification of the user using credentials provid…
+ios4
+3668
+The 2010-2011 version of the iPhone/iPad/iPod Touch/Apple TV operating system family, made by Apple.
+hash
+3657
+any well-defined procedure or mathematical function that converts a large, possibly variable-sized amount of data into a small datum, usually a single integer that may serve as an i…
+jsf-2.0
+3638
+a major step ahead as compared to JSF 1.x. Lot of things which are hardly possible in JSF 1.x can be done more elegantly in JSF 2.x. If you're using JSF 2.x, it's important to tag your ques…
+mfc
+3598
+The Microsoft Foundation Class Library (MFC) is a C++ framework for Windows GUI programming.
+reference
+3565
+a value that enables a program to indirectly access a particular datum, such as a variable or a record, in the computer's memory or in some other storage device.
+phonegap
+3560
+an open-source, cross-device mobile development platform that allows developers to create mobile applications using HTML, Javascript, and CSS that can be deployed to each device, rather th…
+selenium
+3552
+a portable software testing framework for web applications. Selenium provides a record/playback tool for authoring tests without learning a test scripting language. Selenium provides a tes…
+jqgrid
+3550
+a Ajax-enabled JavaScript control that provides solution for representing tabular data on the web. Since the grid is client-side solution and loading data dynamically throu…
+open-source
+3545
+software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. Ope…
+vb6
+3544
+the "third-generation" event-driven programming language and integrated development environment (IDE) from Microsoft for its COM programming model. It was also considered a r…
+coldfusion
+3530
+a server-side rapid application development platform, from Adobe.
+
+ColdFusion can also refer to CFML, the dynamic programming language which Adobe ColdFusion ("CF") implements, also us…
+dictionary
+3525
+a collection of keys and values allowing efficient value lookup given the key.
+jquery-selectors
+3512
+Selectors that can be used in the jQuery JavaScript library to match a set of elements in a document. Most CSS selectors are implemented, as well as a set of custom selectors.
+localization
+3512
+the process of adapting internationalized software for a specific region or language by adding locale-specific components and translating text.
+tcp
+3502
+a transport layer protocol that simulates an abstract data stream with guaranteed, in-order delivery.
+tfs
+3488
+a complete Application Lifecycle Management (ALM) suite, offered by Microsoft.  TFS combines activities such as Source Control Management, Work Item Tracking, Project Managem…
+datagridview
+3480
+a control found in the .Net Framework starting at version 2.0.  It is used to display and edit tabular data from many different kinds of data sources.

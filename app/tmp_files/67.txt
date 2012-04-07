@@ -1,0 +1,108 @@
+wireless
+352
+Wireless refers to the technology allowing transfer of information between two points that are not physically connected.
+uislider
+351
+UISlider commonly refers to the UISlider control used in iOS programming, or the jQuery UI Slider plugin.
+octave
+351
+a GNU project that provides a scripting language for mathematical analysis.  Octave is (pretty much) compatible with MATLAB.
+provisioning
+351
+
+rectangle
+351
+
+instantiation
+351
+the process of creating objects from a class in most object oriented and object based languages. In the C++ language, instantiation is the process of creating a class or function from…
+handle
+350
+
+keys
+350
+
+drop
+350
+
+facebook-opengraph
+350
+The Open Graph Protocol enables you to integrate your Web pages into the social graph. It is currently designed for Web pages representing profiles of real-world things â things like movies, sports te…
+preview
+350
+
+nodes
+350
+the basic units used to build data structures such as linked lists and trees.
+telerik-mvc
+350
+Questions about Telerik ASP.NET MVC Extensions
+apc
+349
+a free and open opcode cache for PHP. Its goal is to provide a free, open, and robust framework for caching and optimizing PHP intermediate code.
+nonblocking
+349
+Use of concurrency without the usual mutual exclusion primitives, guaranteeing that thread operations will not block indefinitely.  This is usually handled with atomic value modification (increment/de…
+jface
+349
+a Java application framework based on SWT, the Standard Widget Toolkit. The goal of JFace is to provide a set of reusable components that make it easier to write a Java-based GUI application.
+logout
+349
+
+increment
+349
+
+main
+348
+In many programming languages, the main function, subroutine, or method marks the entry point of the program.  It is generally the first-programmer-written function run when a program starts.
+dto
+348
+an acronym for Data Transfer Object, a design pattern used in data transfer.
+pickle
+348
+pickle module in python
+restore
+348
+
+tagging
+348
+
+uiactionsheet
+348
+The UIActionSheet class of the Apple iOS can be used to present to user a modal view with a descriptive text and some buttons the user can choose from. An action sheet displays a set of choices relate…
+xslt-2.0
+348
+for questions specific to XSL Transformations version 2.0
+code-formatting
+348
+the way to format the source code of programs,using spaces and tabs, improving legibility of source code.
+checksum
+347
+a fixed-size datum computed from an arbitrary block of digital data for the purpose of detecting accidental errors that may have been introduced during its transmission or st…
+blackberry-simulator
+347
+
+statement
+347
+In an imperative programming language, a program is a sequence of statements, which are the smallest isolated components of a program. In constrast to expressions, statements are mainly executed for t…
+access-violation
+347
+An access violation (also known as segmentation fault) is generally an attempt to access memory that the CPU cannot physically address. It is often caused when attempting to access a null reference or…
+detect
+347
+
+hashcode
+347
+
+htmlunit
+347
+a "headless browser". Which means that there is no browser GUI and it does no rendering. Though it has a CSS and JS engine to simulate a real browser. Primary purpose is testing and inform…
+partitioning
+346
+
+php.ini
+346
+A configuration file including directives you can set to configure your PHP setup.
+android-canvas
+346
+The Android Java Canvas (android.graphics.Canvas)

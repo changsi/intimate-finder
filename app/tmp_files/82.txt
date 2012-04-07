@@ -1,0 +1,108 @@
+live-wallpaper
+270
+an Android 2.1+ feature that adds the potential for animation and interactivity.
+jtextarea
+270
+a multi-line area that displays plain text.
+kernel-programming
+269
+
+jboss6.x
+269
+Version 6 of the JBoss Application Server
+lib
+269
+
+idioms
+269
+a way to overcome a programming language limitation and/or to write commonly-used code with a purpose that is separated from a literal meaning of the code. Also, an idiom is a p…
+gnu-flex
+269
+Flex (The Fast Lexical Analyzer)
+dynamic-linking
+269
+
+nsfilemanager
+269
+The NSFileManager class enables you to perform various generic file-system operations and insulates an application from the underlying file system.
+rtp
+269
+The Real-time Transport Protocol (RTP) defines a standardized packet format for delivering audio and video over IP networks.
+skype
+269
+a software application that allows users to make voice calls over the Internet.
+cache-control
+269
+
+sudo
+269
+an abbreviation for "substitute user do" (as in, do a command as if started by another user). Sudo is a program for Unix and Unix-like computer operating systems that allows a user…
+v8
+269
+Google's open source JavaScript engine.
+varchar
+268
+a set of character data of indeterminate length.
+verilog
+268
+a hardware description language (HDL) used to model electronic systems. It is most commonly used in the design, verification, and implementation of digital logic chips.
+break
+268
+
+android-sdk-2.2
+268
+For issues relating to developing with the android SDK, version 2.2.
+shutdown
+268
+This refers to the process where a computer's power state is systematically (and preferably gracefully) changed to a powered-off state.   In this state, it can be unplugged without loss of data or dam…
+sharing
+268
+
+release-management
+268
+
+effect
+268
+
+allocation
+268
+
+docx
+267
+the file extension for files created using the default format of Microsoft Word 2007 or higher.
+fun
+267
+says it all. Questions under this tag are supposed to be amusing and enjoyable.
+exists
+267
+a keyword or function in many languages, especially in SQL.
+flowdocument
+267
+Questions dealing with Microsoft's WPF FlowDocument technology which renders embedded, dynamically adjusted and re-flowing document content that supports columns, pagination and search.
+joomla-extensions
+267
+an open source content management system for web sites which can be heavily extended. Currently about 6945 extensions (add-ons) are registered in the Jomola Extension Directory (http://exten…
+rmagick
+267
+an interface between the Ruby programming language and the ImageMagick® and GraphicsMagick image processing libraries.
+visual-studio-express
+267
+a set of freeware integrated development environments (IDE) developed by Microsoft that are lightweight versions of the Microsoft Visual Studio product line.
+xcodebuild
+267
+Questions related to the use of the command-line xcodebuild tool, which is part of Apple's Xcode toolset
+tcpdf
+267
+a PHP class for generating PDF documents without requiring external extensions created by Nicola Asuni. TCPDF Supports UTF-8, Unicode, RTL languages, XHTML, Javascript, digital signatures, ba…
+uiactivityindicatorview
+266
+the spinner that shows the app is busy doing something.
+cdata
+266
+used about text data that should not be parsed by the XML parser.
+remote-access
+266
+
+rtmp
+266
+used for streaming multimedia content across a TCP/IP network.

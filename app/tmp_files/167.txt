@@ -1,0 +1,112 @@
+ef4-code-only
+92
+
+dynamically-generated
+92
+constructed in response to conditions rather than being invariant or static
+drupal-themes
+92
+Questions about existing Drupal themes.
+entry
+92
+
+erp
+92
+Enterprise Resource Planning (ERP) software integrates many areas of business such as accounting, human resources, supply chain management and customer relationship management in a single system.
+django-apps
+92
+reusable collections of django code that use the ORM layer. They may provide a single model class, or they may implement a full web application, or provide any mixture of such function…
+sourceforge
+92
+
+sqlprofiler
+92
+
+same
+92
+
+polymorphic
+92
+
+nszombie
+92
+an Apple OS-specific (OSX and iOS) reference to the zombie process. Similar to other zombie processes, when enabled, NSZombie represents an object that has completed execution and has been…
+nsdatecomponents
+92
+an iOS class to deal with Components of Date.
+np-complete
+92
+NP-Complete refers to the hardest known problems within the complexity class NP.  The "Traveling salesman problem" is one of the most widely known NP-Complete problem.
+netbeans6.7
+92
+the version 6.7 of Netbeans IDE for java application development.
+nhibernate.search
+91
+an extension to NHibernate that allows you to utilize Lucene.NET, a full text search engine as your query engine, instead of putting additional load on the database itself.
+nstimeinterval
+91
+
+mtom
+91
+
+poker
+91
+Questions relating to development on the subject of all variants of poker.
+overlapping
+91
+
+osmdroid
+91
+OpenStreetMap-Tools for Android
+rtos
+91
+a Real-Time Operating System, a type of operating system that is designed to satisfy, possibly hard or firm, timing constraints. An RTOS is most likely to be used in in verifiable or safety…
+showdialog
+91
+
+shopping
+91
+
+specification
+91
+
+spidermonkey
+91
+Mozilla's JavaScript Engine, which executes JavaScript in the Firefox web browser.
+solid-principles
+91
+S.O.L.I.D consists of 5 principles being used for Designing Object Oriented solutions :-
+S - Single Responsibility principle 
+O - Open Closed principle
+L - Liskov Substitution principle
+I - Interf…
+rpmbuild
+91
+build rpms from rpm SPEC files
+recurrence
+91
+an equation that recursively defines a sequence, once one or more initial terms are given: each further term of the sequence is defined as a function of the preceding terms.
+rational
+91
+IBM Rational family of products, including Rational Team Concert (RTC), Rational Quality Manager (RQM), ClearCase, ClearQuest, Rational Function Tester, Rational Application Developer (RAD), Rational …
+quickfix
+91
+a full-featured open source FIX engine, currently compatible with the FIX 4.0-5.0 specifications.
+radius
+91
+
+rails-models
+91
+
+django-generic-views
+91
+
+getopt
+91
+
+dojox.grid.datagrid
+91
+
+allocator
+91
+A component of C++'s Standard Library, in charge of handling the requests for allocation and deallocation of memory for a container.

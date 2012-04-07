@@ -1,0 +1,109 @@
+airplay
+83
+Airplay may refer to the streaming technology made by Apple to stream media to multiple devices wirelessly or to the Airplay SDK that offers deployment to many platforms...
+email-headers
+83
+the headers at the beginning of an e-mail that define various properties (e.g. `From` or `Reply-To`) of the e-mail.
+file-access
+83
+
+fixed-width
+83
+
+fmod
+83
+FMOD Interactive Audio Middleware, consisting of FMOD Ex library and FMOD Designer tool is a cross platform set of APIs and tools that help the creation and playback of interactive audio.
+fprintf
+83
+
+html5boilerplate
+83
+
+info.plist
+83
+
+iobservable
+83
+
+jcrop
+83
+the quick and easy way to add image cropping functionality to your web application. It combines the ease-of-use of a typical jQuery plugin with a powerful cross-platform DHTML cropping engine…
+jvm-arguments
+83
+
+accounting
+83
+
+aspect-oriented
+83
+
+asp.net-mvc-2-validation
+83
+
+cursoradapter
+83
+
+databound
+83
+The state of (or ability to) being bound to a data source. For example, data-bound controls are user interface controls having the intrinsic ability to display and (in some cases) edit data from a spe…
+crlf
+83
+CRLF means "carriage return" + "linefeed" and is the standard text file line-termination on Microsoft DOS and Windows systems.
+class-variables
+83
+
+touch-event
+83
+
+twice
+83
+
+texture2d
+83
+
+uiscrollviewdelegate
+83
+
+wmv
+83
+
+worker
+82
+In software, the term worker usually describes a long-running process being executed in a separate thread from an application's main thread of execution.
+wstring
+82
+
+wakelock
+82
+Refers to PowerManager.WakeLock, a class from the Android SDK belonging to package android.os.
+Its responsibility is requesting CPU resources in the context of power management. If no wake locks are …
+voice-recording
+82
+
+urldecode
+82
+
+textile
+82
+
+toggleclass
+82
+The toggleClass method in jQuery provides a mechanism for adding or removing a class or list of classes by name from selected elements.
+system-administration
+82
+
+cleartool
+82
+the command line interface of IBM Rational ClearCase toolsuit for software configuration management.
+canonical
+82
+
+boost-spirit-qi
+82
+
+boolean-expression
+82
+
+browser-plugin
+82
+Browser-plugins allow to display content in browsers that they don't support natively. The two major APIs are NPAPI (supported by all browsers except Internet Explorer) and ActiveX (for so called cont…

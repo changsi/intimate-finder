@@ -1,0 +1,108 @@
+fileinputstream
+111
+
+ioctl
+111
+
+html-content-extraction
+111
+
+code-examples
+111
+
+coalesce
+111
+a SQL function that returns the first non-NULL expression among its arguments. COALESCE() is ANSI standard, so that it's preferred by many people over similar alternatives such as ISNULL()…
+cat
+111
+a standard Unix program used to concatenate and display files. The name is from catenate, a synonym of concatenate.
+cfc
+111
+used to have a collection of functions in a one place. CFC are invoked by code when needed and CFC have a .cfc extension.
+windows-sdk
+111
+
+uiapplication
+111
+The UIApplication class provides a centralized point of control and coordination for applications running on iOS.
+vala
+111
+a programming language that allows modern programming techniques to be used to write applications that run on the GNOME runtime libraries, particularly GLib and GObject. It has syntax based ar…
+ambiguity
+111
+
+android-spinner
+111
+a control/widget that allows the user to select an item from a group, like a dropdown list...
+android-notifications
+110
+
+jquery-ui-slider
+110
+The jQuery UI Slider plugin makes selected elements into sliders. There are various options such as multiple handles, and ranges. The handle can be moved with the mouse or the arrow keys.
+disassembly
+110
+Involves turning machine or IR code back in higher level assembly mnemonics.
+jsfiddle
+110
+a web application allowing users to create and execute code written in JavaScript (using one of the various JavaScript frameworks or no framework), HTML and CSS. It has features enabling u…
+tcsh
+110
+an enhanced but completely compatible version of the Berkeley UNIX C shell, csh.
+syntactic-sugar
+110
+a computer science term that refers to syntax within a programming language that is designed to make things easier to read or to express.
+autopostback
+110
+
+cname
+110
+
+createfile
+110
+
+cpython
+110
+
+idataerrorinfo
+110
+
+indesign
+110
+Adobe's scriptable publishing software.
+intercept
+110
+
+local-variables
+110
+Local variables have a limited scope, generally one function or one functional block.
+materialized-views
+110
+a database object that contains the results of a query. They can be local copies of data located remotely, or can be used to create summary tables based on aggregations of a tab…
+member-function-pointers
+110
+
+exploit
+110
+a piece of software, a chunk of data, or sequence of commands that takes advantage of a bug, glitch, or vulnerability in order to cause unintended or unanticipated behavior to occur.  Th…
+file-association
+110
+
+gsub
+110
+
+distributed-caching
+110
+a cache implementation that uses caches spread across different networked hosts.
+dynamic-cast
+110
+
+eclipse-plugin-dev
+110
+Questions related to developing plugins for Eclipse, the software development environment.
+elegance
+110
+
+portforwarding
+110
+

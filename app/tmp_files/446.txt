@@ -1,0 +1,108 @@
+gridgain
+15
+a High Performance Cloud Computing software that enables development of highly scalable distributed Java and Scala applications that perform on any grid or cloud infrastructure. (Source Gr…
+gsa
+15
+
+generic-type-argument
+15
+
+fuzzing
+15
+
+g77
+15
+The old g77 FORTRAN compiler of GCC which has been replaced by gfortran since release 4.0.
+gaelyk
+15
+a lightweight Groovy toolkit for Google App Engine Java.
+freetts
+15
+an open source speech synthesis system, an implementation of Sun's Java Speech API (Wikipedia)
+freezable
+15
+
+fouc
+15
+Flash of Unstyled Content
+export-to-word
+15
+
+exiftool
+15
+a platform-independent Perl library and command-line application for reading, writing and editing meta information in a wide variety of files.
+facebook-recommendations
+15
+A facebook plugin: https://developers.facebook.com/docs/reference/plugins/recommendations
+extensible-storage-engine
+15
+an embeddable, transactional database engine built into Microsoft Windows. The API documentation is available on MSDN.
+external-application
+15
+
+extractor
+15
+
+faultcontract
+15
+
+fcbkcomplete
+15
+
+feof
+15
+available as part of the C Standard Library and checks whether the end of a stream has been reached. Usually, when it is used, the code using it is wrong.
+flops
+15
+
+flexibility
+15
+
+form-fields
+15
+
+formal-verification
+15
+the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of m…
+formatdatetime
+15
+
+file-properties
+15
+
+file-path
+15
+
+first-class-functions
+15
+
+findviewbyid
+15
+
+findby
+15
+
+konsole
+15
+
+kohana-db
+15
+
+known-types
+15
+
+knitr
+15
+
+launchmode
+15
+
+kvc
+15
+
+kyotocabinet
+15
+a key-value based database, similar the modern database system Tokyo Cabinet.
+l18n
+15
+

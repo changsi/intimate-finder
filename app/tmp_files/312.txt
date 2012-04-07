@@ -1,0 +1,109 @@
+morelikethis
+32
+Apache Lucene functionality which provides information about similar documents
+multi-index
+32
+
+multisampling
+32
+
+pastebin
+32
+
+pbkdf2
+32
+
+peer-review
+32
+
+performance-measurement
+32
+
+performselector
+32
+
+personal-project
+32
+
+phase
+32
+
+php5-fpm
+32
+
+php-ini
+32
+
+playing
+32
+
+phusion
+32
+
+prebuild
+32
+
+pre-buildevent
+32
+
+postmortem-debugging
+32
+
+ofx
+32
+
+object-recognition
+32
+
+page-break
+32
+Page breaks indicate the position at which one page should end and another should begin
+pacman
+31
+an arcade game developed by Namco and licensed for distribution in the United States by Midway, first released in Japan on May 22, 1980.
+p12
+31
+
+outofrangeexception
+31
+thrown because the value of a variable is outside the allowed range
+osb
+31
+a fundamental component of Oracle's Services-Oriented Architecture that provides a loosely-coupled framework for inter-application messaging. It's abbreviation for Ora…
+ora-00907
+31
+Missing right parenthesis: a left parenthesis has been entered without a closing right parenthesis, or extra information was contained in the parentheses.
+ocean
+31
+a development platform for the Oil & Gas industry to create plug-ins to extend the capabilities of the Petrel software. 
+Plug-ins can then be deployed through the Ocean Store where Petrel us…
+object-oriented-database
+31
+
+once
+31
+meant to fire only one time, typically only on the first execution.  This tag can be useful because otherwise searching on "once" is all but useless.  But, the search t…
+oprofile
+31
+a performance analysis tool for Linux systems.
+open-file
+31
+
+poisson
+31
+a statistical distribution for describing events occurring at random intervals.  It is commonly used to model arrivals or system loads.
+poppler
+31
+
+phobos
+31
+the official runtime and standard library of the D programming language.
+perceptron
+31
+
+permanent
+31
+
+perltk
+31
+Perl's TK module provides a complete interface to Tk, a GUI toolkit, while providing an Object Oriented interface to Perl code.

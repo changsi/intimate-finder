@@ -1,0 +1,112 @@
+char
+1394
+Char typically refers to a character data-type, representing letters of text.
+while-loops
+1393
+a control structure that allows for looping over a set of instructions as long as a specified condition is met.
+build-process
+1391
+
+install
+1388
+Installation (or setup) of a program (including drivers, plugins, etc.) is the act of putting the program onto a computer system so that it can be executed.
+code-generation
+1387
+Topics related to the generation of code as the output of an application, instead of directly writing code by a programmer.
+height
+1386
+The property which determines the size of an object in Y-axis
+associations
+1383
+
+swt
+1382
+SWT: The Standard Widget Toolkit
+
+
+
+SWT is a user interface library for Java maintained by the Eclipse Foundation. SWT uses native widgets wherever possible to provide a look and feel consistent with …
+flash-builder
+1382
+Adobe's official IDE for the Flex SDK.
+read
+1381
+
+operator-overloading
+1378
+a feature of a programming language that allows custom implementations for operators depending on the types of the operands involved.  Some languages allow new operators to be …
+wordpress-plugin
+1376
+Wordpress plugins allow users and developers to extend the default Wordpress functionality.
+yii
+1375
+a high-performance, component-based, open source PHP framework best for developing Web 2.0 applications.
+ios-simulator
+1374
+The iOS Simulator application presents the iPhone or iPad user interface in a window on the computer to emulate iPhone or iPad devices. This application provides several ways of interacting with it by…
+clr
+1368
+a core component of Microsoft's .NET initiative. It is Microsoft's implementation of the Common Language Infrastructure (CLI) standard, which defines an execution …
+remove
+1364
+The broad concept of deleting an element from a collection. Applies to wide variety of concepts
+rake
+1364
+a Ruby build utility similar to make(1), with build commands defined in pure Ruby.
+display
+1363
+
+save
+1361
+
+jms
+1359
+a Java Message Oriented Middleware (MOM) API for sending messages between two or more clients. JMS is a part of the Java Platform, Enterprise Edition, and is defi…
+vsto
+1358
+a set of development tools that allows the development of Office automation solutions (add-in or document customization), using .NET and the Visual Studio IDE.…
+position
+1353
+Position refers to the location of an element relative to its container, typically on the horizontal and vertical axes.
+rotation
+1352
+
+backup
+1346
+The act of saving ones files, data, applications, etc. to secondary media, allowing for the recovery of the files, data, applications, etc. in the event that the primary media becomes unavailable (fai…
+android-listview
+1343
+A view that shows items in a vertically scrolling list.
+applescript
+1342
+the Mac OS scripting language.
+reporting
+1342
+Reporting refers to the process of creating reports based on one or multiple data sources like database tables or webservices.
+mysqli
+1341
+sometimes known, the MySQL improved extension, was developed to take advantage of new features found in MySQL systems versions 4.1.3 and newer. The mysqli extension i…
+sql-server-ce
+1336
+a free SQL Server embedded database ideal for building standalone and occasionally connected applications for mobile devices, desktops, and Web clients. You can develop…
+progressbar
+1329
+a component in a graphical user interface used to convey the progress of a task, such as a download or file transfer.
+inversion-of-control
+1327
+an abstract principle describing an aspect of some software architecture designs in which the flow of control of a system is inverted in comparison to procedural programm…
+touch
+1325
+Touch-based interfaces have unique considerations that do not apply to other modes of input, and vice versa.
+mp3
+1320
+MPEG-1 or MPEG-2 Audio Layer III,  more commonly referred to as MP3, is a patented digital audio encoding format using a form of lossy data compression. It is a common audio format for consumer audio …
+oracle11g
+1318
+an RDBMS product. Specific releases of the product are known as Oracle9i, Oracle10g and Oracle 11g. Generally there are two releases within each major version. Questions tagged **oracle11g**…
+column
+1310
+
+branch
+1302
+term used in version control systems to represent an independent line of development. Depending on the system, a repository can contain one or more branches. Branches are merged when cha…

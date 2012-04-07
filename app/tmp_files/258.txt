@@ -1,0 +1,110 @@
+cups
+44
+printing system for Unix-like computer operating systems (Wikipedia)
+cross-site
+44
+
+content-encoding
+44
+
+bcl
+44
+Base Class Library : The .NET Framework class library is a library of classes, interfaces, and value types that provides access to system functionality and is designed to be the foundation on which .N…
+beanutils
+44
+
+beyondcompare
+44
+
+xmltextreader
+44
+
+zend-framework2
+44
+a PHP 5.3+ MVC framework and component library. Though the project is currently under development, dev releases are available.
+yahoo-finance
+44
+a service from Yahoo! that provides financial information. It is the top financial news and research website in the United States
+boost-date-time
+44
+a set of C++ date-time libraries based on generic programming concepts.
+blinking
+44
+
+board
+44
+
+bitnami
+44
+
+jrockit
+44
+
+defined
+44
+
+delaunay
+44
+
+directdraw
+44
+
+directed-acyclic-graphs
+44
+
+dired
+44
+
+displaying
+44
+
+asynchronous-processing
+44
+
+android-ndk-r5
+44
+
+apache-tiles
+44
+a framework that allows authors to define HTML page fragments which can be assembled into a complete page at runtime.
+appstore-approval-process
+44
+
+imports
+44
+
+imei
+44
+International Mobile Equipment Identity
+java1.4
+44
+Java 2 SE version 1.4 was released in February 2002, and has reached its End of Service Life on October 30th 2008.
+itk
+44
+an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis. 
+
+SimpleITK is a simplified layer built on top of ITK, intended to…
+isa
+44
+Interface between hardware and software
+image-compression
+44
+to reduce irrelevance and redundancy of the image data in order to be able to store or transmit data in an efficient form. Image compression may be lossy or lossl…
+http-status-code-304
+44
+
+hsv
+44
+
+hexadecimal-notation
+44
+
+hanging
+44
+
+jira-plugin
+44
+JIRA plugins add additional functions to Atlassian JIRA.
+jpcap
+44
+

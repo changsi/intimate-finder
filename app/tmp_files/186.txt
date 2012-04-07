@@ -1,0 +1,109 @@
+dijit.form
+77
+
+dimension
+77
+
+delphi-6
+77
+a specific version of Delphi. It was released in May 2001.
+Use this tag for issues related to development in Delphi, version 6.
+aosp
+77
+Android Open Source Project:questions about the internals of the Android open source system; problems with the building and modification of Android
+archlinux
+77
+a Linux distribution intended to be lightweight and simple. Its development is focused on simplicity, elegance, code correctness and minimalism from a developer's standpoint.
+before
+77
+
+avg
+77
+
+avaudiosession
+77
+
+crashes
+77
+
+contextmenustrip
+77
+
+data-analysis
+77
+Data Analysis involves extracting meaning and insights from raw data. It involves methods and algorithms that examine, clean, transform and model the data to obtain conclusions.
+theming
+77
+
+textselection
+77
+
+states
+77
+
+stock
+77
+
+subnet
+77
+
+suspend
+77
+
+tablelayoutpanel
+76
+A Winforms control that allows the dynamic addition of components which are arranged in a grid pattern using columns and rows.
+stomp
+76
+a simple interoperable protocol designed for asynchronous message passing between clients via mediating servers.
+thumb
+76
+
+trap
+76
+
+twebbrowser
+76
+a VCL component available in the Delphi Internet tool-palette. It is defined in the `SHDocVw.pas` unit. It provides access to the Web browser functionality of Microsoft's Shell Doc Obje…
+tunneling
+76
+
+twitterizer
+76
+refers to the Twitterizer open source library by Ricky Smith.
+wmp
+76
+For issues relating to interfacing with the Windows Media Player (WMP).
+webservices-client
+76
+
+whm
+76
+
+was
+76
+The Windows Process Activation Service (WAS) manages the activation and lifetime of the worker processes that contain applications that host WCF services. For Websphere AS, please use [websphere] tag.
+vote
+76
+
+contentresolver
+76
+
+copying
+76
+
+createuserwizard
+76
+
+chroot
+76
+
+cabasicanimation
+76
+
+blueprint
+76
+a CSS framework that comes with an easy-to-use grid, sensible typography, useful plugins, and a stylesheet for printing.
+audioqueue
+76
+

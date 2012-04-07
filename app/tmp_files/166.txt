@@ -1,0 +1,108 @@
+temp
+93
+
+uitableviewdatasource
+93
+adopted by an object that mediates the iOS applicationâs data model for a UITableView object. The data source provides the table-view object with the information …
+vsts2010
+93
+
+jquery-ui-resizable
+93
+
+android-location
+93
+
+accuracy
+93
+a measure of the closeness to a specific value. The distance of the measure from the value is the error. Accuracy differs from precision, in that precision is a measure of repeatability of…
+adfs2.0
+93
+Active Directory Federation Services 2.0
+dispatch
+93
+Dynamic dispatch (also known as dynamic binding) is the process of mapping a message to a specific sequence of code (method) at runtime. This is done to support the cases where the appropriate method …
+jsni
+93
+a means to include raw JavaScript code in a GWT application written in Java. JSNI is the web equivalent of inline assembly code.
+android-gridview
+92
+
+audioqueueservices
+92
+
+android-alarms
+92
+the facility provided by Android through AlarmManager to start an intent at a give time (by passing a pending intent).
+underline
+92
+
+terracotta
+92
+an open source JVM-level clustering software for Java developed by Terracotta, Inc.
+terrain
+92
+the vertical and horizontal dimension of land surface. Terrain is used as a general term in physical geography, referring to the lie of the land. This is usually expressed …
+text-formatting
+92
+
+thrust
+92
+a template library of parallel algorithms with an interface resembling the C++ Standard Template Library (STL) for NVIDIA CUDA.
+traverse
+92
+the action of iterating over all the elements in a sequence of elements.
+tabcontainer
+92
+
+synonym
+92
+
+swfloader
+92
+used to load application into another application.
+stringformat
+92
+
+string-array
+92
+
+auto-ptr
+92
+
+autorun
+92
+
+zend-mail
+92
+
+chunked-encoding
+92
+
+classname
+92
+
+line-endings
+92
+
+mapactivity
+92
+
+management-studio
+92
+
+hwnd
+92
+
+io-redirection
+92
+
+info
+92
+
+google-charts-api
+92
+a tool that lets people create a chart from some data and embed it in a web page. Google creates a PNG image of a chart from data and formatting parameters in an HTTP request.
+flash-builder4.5
+92
+an Eclipse based IDE for Flex application development.

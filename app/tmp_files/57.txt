@@ -1,0 +1,110 @@
+analysis
+437
+
+uninstall
+437
+
+castle-activerecord
+436
+an implementation of the ActiveRecord pattern for .NET.
+
+Castle ActiveRecord is built on top of NHibernate, but its attribute-based mapping frees the developer of writing XML fo…
+encapsulation
+436
+in OOP, mechanism for restricting access to some of the object's components
+pascal
+436
+an imperative language from the Wirthian family created in 1969.  It was widely used in engineering and teaching in the 1970s and 1980s.
+shared-memory
+435
+Memory that may be simultaneously accessed by multiple programs
+checkboxes
+435
+
+cpu-usage
+435
+
+subview
+435
+
+default-value
+435
+A default, in computer science, refers to a setting or value automatically assigned to a software application, computer program or device, outside of user intervention.
+associative-array
+434
+an abstract data type composed of a collection of unique keys mapped to a collection of values.
+greatest-n-per-group
+434
+Query the row with the greatest/least value per group.
+gdata
+433
+a REST-inspired technology for reading, writing, and modifying information on the web.
+landscape
+433
+
+sandbox
+433
+a security mechanism for containing untrusted programs. Such programs could contain malicious code, which would harm the user's system.
+named-pipes
+433
+system-persistent and exists beyond the life of the process and must be deleted once it is no longer being used. Processes generally attach to the named pipe (usually appearing as a fi…
+ubuntu-10.04
+433
+For issues relating to using Ubuntu, version 10.04.
+contentprovider
+433
+In Android development, content providers store and retrieve data and make it accessible to all applications. They're the only way to share data across applications. Android ships with a number of con…
+static-methods
+432
+Methods that neither require an instance of the class nor can they implicitly access the data (or this, self, Me, etc.) of such an instance
+ravendb
+432
+an Open Source document database for the .NET/Windows platform. Raven offers a flexible data model design to fit the needs of real world systems. Raven stores schema-less JSON documents, allo…
+formula
+432
+
+fedora
+431
+an RPM-based, general purpose collection of software, including an operating system based on the Linux kernel, developed by the community-supported Fedora Project and sponsored by Red Hat.
+hacking
+431
+Activities to break into computer(s) without authorized access
+tabhost
+431
+
+crm
+429
+a strategy for managing customer interaction. Sofware is often used as a tool to help implement CRM strategies. CRM software usually focus on front office tas…
+andengine
+429
+a free 2D OpenGL Game Engine for the Android platform and includes the Box2D physics engine.
+keywords
+429
+special words used as identifiers by a language. They are reserved words accepted by a compiler or interpreter, and thus can't be used as a variable or function name.
+dsl
+429
+a programming language designed for a specific problem domain
+jsp-tags
+428
+a feature of Java Server Pages that allow the encapsulation of view-specific logic and separation of presentation and business concerns.
+embedded-resource
+427
+
+device-driver
+427
+a specialized software component (usually considered "system software") which allows a system to interact with a particular type or class of hardware device, such as a keyboard, ser…
+cllocationmanager
+427
+The CLLocationManager class defines the interface for configuring the delivery of location- and heading-related events to your application
+characters
+426
+
+code-snippets
+426
+For issues relating to the creation, use, and maintenance of code snippets.
+computational-geometry
+426
+is a branch of computer science devoted to the study of algorithms which can be stated in terms of geometry.
+symbols
+425
+

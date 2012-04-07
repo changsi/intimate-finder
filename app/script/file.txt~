@@ -1,0 +1,455 @@
+MUSICIAN/BAND		688
+PRODUCT/SERVICE		405
+WEBSITE		357
+LOCAL BUSINESS		316
+MOVIE		299
+COMPANY		298
+PUBLIC FIGURE		291
+INTEREST		246
+TV SHOW		229
+COMMUNITY		218
+NON-PROFIT ORGANIZATION		172
+APPLICATION		138
+ACTOR/DIRECTOR		121
+CLOTHING		117
+BOOK		107
+COMPUTERS/INTERNET		102
+ORGANIZATION		96
+INTERNET/SOFTWARE		94
+EDUCATION		89
+GAMES/TOYS		86
+APP		85
+UNIVERSITY		83
+MEDIA/NEWS/PUBLISHING		83
+HEALTH/BEAUTY		80
+AUTHOR		79
+ATHLETE		75
+FOOD/BEVERAGES		71
+NEWS/MEDIA		70
+ENTERTAINMENT		67
+SOFTWARE		64
+ARTIST		63
+RETAIL AND CONSUMER MERCHANDISE		63
+PROFESSIONAL SPORTS TEAM		59
+MAGAZINE		55
+COMPUTERS/TECHNOLOGY		49
+SCHOOL		46
+CONSULTING/BUSINESS SERVICES		43
+RESTAURANT/CAFE		42
+Unknown		36
+SPORT		35
+PERSONAL BLOG		33
+CLUB		30
+CAUSE		29
+CARS		28
+ELECTRONICS		28
+TRAVEL/LEISURE		27
+ARTS/ENTERTAINMENT/NIGHTLIFE		26
+POLITICIAN		25
+MUSIC		25
+FIELD OF STUDY		25
+RADIO STATION		24
+GOVERNMENT ORGANIZATION		23
+CITY		21
+RECORD LABEL		21
+MUSICAL GENRE		20
+SCIENCE		19
+TV NETWORK		19
+MOVIE GENERAL		19
+BUSINESS SERVICES		19
+PROFESSIONAL SERVICES		19
+TV CHANNEL		18
+VITAMINS/SUPPLEMENTS		18
+ATTRACTIONS/THINGS TO DO		18
+TELECOMMUNICATION		17
+SHOPPING/RETAIL		17
+SONG		17
+LOCAL/TRAVEL		17
+ENTERTAINER		17
+TV		16
+JEWELRY/WATCHES		16
+COMMUNITY ORGANIZATION		15
+BUSINESS/ECONOMY		15
+ALBUM		14
+COMPUTERS		14
+HEALTH/MEDICAL/PHARMACEUTICALS		13
+BANK/FINANCIAL INSTITUTION		13
+SPORTS/RECREATION/ACTIVITIES		13
+FICTIONAL CHARACTER		12
+HEALTH/WELLNESS		12
+ARTS/HUMANITIES		11
+CHURCH/RELIGIOUS ORGANIZATION		11
+SMALL BUSINESS		11
+SPORTS LEAGUE		11
+BUSINESS PERSON		10
+SOCIETY/CULTURE		9
+NON-GOVERNMENTAL ORGANIZATION (NGO)		9
+BAGS/LUGGAGE		9
+WRITER		9
+MOVIES/MUSIC		9
+AUTOMOBILES AND PARTS		8
+STUDIO		8
+REAL ESTATE		8
+BAR		8
+PERSONAL WEBSITE		8
+MUSEUM/ART GALLERY		7
+JOURNALIST		6
+VIDEO		6
+EVENT PLANNING/EVENT SERVICES		6
+WINE/SPIRITS		6
+SPAS/BEAUTY/PERSONAL CARE		6
+BOOK GENRE		6
+RECREATION/SPORTS		6
+LANDMARK		5
+HOUSEHOLD SUPPLIES		5
+PUBLISHER		5
+AEROSPACE/DEFENSE		5
+POLITICAL ORGANIZATION		5
+CAMERA/PHOTO		5
+DANCER		5
+COUNTRY		5
+COMEDIAN		5
+PRODUCER		5
+AUTOMOTIVE		5
+SPORTS VENUE		5
+HEALTH/MEDICAL/PHARMACY		5
+CONCERT VENUE		4
+MOVIE GENRE		4
+ENERGY/UTILITY		4
+TOURS/SIGHTSEEING		4
+HOME DECOR		4
+GOVERNMENT OFFICIAL		4
+INSURANCE COMPANY		4
+FOOD		3
+TRANSPORT/FREIGHT		3
+ANIMAL		3
+HOME IMPROVEMENT		3
+HOTEL		3
+CONCERT TOUR		3
+BOOK STORE		3
+COACH		3
+FOOD/GROCERY		3
+TEENS/KIDS		3
+OUTDOOR GEAR/SPORTING GOODS		3
+PLAYLIST		3
+PET SUPPLIES		2
+EPISODE		2
+CHEF		2
+APPLIANCES		2
+TEACHER		2
+MUSIC CHART		2
+LIBRARY		2
+PUBLIC PLACES		2
+FURNITURE		2
+BABY GOODS/KIDS GOODS		2
+TOOLS/EQUIPMENT		2
+MUSIC AWARD		2
+LEGAL/LAW		2
+POLITICAL IDEOLOGY		2
+ENGINEERING/CONSTRUCTION		2
+POLITICAL PARTY		2
+KITCHEN/COOKING		1
+WORK PROJECT		1
+AMATEUR SPORTS TEAM		1
+DOCTOR		1
+MINING/MATERIALS		1
+RELIGION		1
+ARTICLE		1
+LANGUAGE		1
+GOVERNMENT		1
+DRINK		1
+PROFILE		1
+MONARCH		1
+SCHOOL SPORTS TEAM		1
+REGIONAL		1
+FARMING/AGRICULTURE		1
+MOVIE THEATER		1
+WORK POSITION		1
+BIOTECHNOLOGY		1
+PET SERVICES		1
+CHEMICALS		1
+COMMUNITY/GOVERNMENT		1
+HOME/GARDEN		1
+OFFICE SUPPLIES		1
+TRANSPORTATION		1
+STATE/PROVINCE/REGION		1
+ANIMAL BREED		1
+MUSIC VIDEO		1
+HOSPITAL/CLINIC		1
+--------------------------------------------------------------------Local Business		86
+Company		47
+Non-Profit Organization		40
+University		33
+Education		32
+Internet/Software		22
+Website		22
+City		20
+Restaurant/Cafe		19
+Retail and Consumer Merchandise		16
+Public Figure		13
+Computers/Technology		12
+Organization		12
+Business Services		11
+Health/Beauty		11
+Media/News/Publishing		10
+Consulting/Business Services		10
+Food & Restaurant		10
+Food/Beverages		10
+Professional Sports Team		10
+Shopping & Retail		9
+Night Club		9
+Professional Services		9
+Web Design		7
+Attractions/Things to Do		7
+Arts/Entertainment/Nightlife		7
+Government Organization		7
+Arts & Entertainment		7
+Bar		6
+Artist		6
+College		6
+Health/Medical/Pharmaceuticals		6
+Marketing Consultant		6
+Medical & Health		6
+Real Estate		5
+Travel/Leisure		5
+Hotel		5
+Country		5
+Clothing		5
+Club		5
+Performing Arts Education		4
+Musician/Band		4
+Clothing Store		4
+Magazine		4
+Sports/Recreation/Activities		4
+Community Organization		4
+Computers & Electronics		4
+Dance Instruction		4
+Graphic Design		4
+School		4
+Beauty Salon		4
+Fashion Designer		4
+Newspaper		4
+Product/Service		3
+News/Media		3
+Performance Venue		3
+Corporate Office		3
+Sandwich Restaurant		3
+Language School		3
+App		3
+Church/Religious Organization		3
+Tourist Attraction		3
+Museum		3
+Automotive		3
+Cafe		3
+Library		3
+Government Agency		3
+Online Advertising Service		3
+Shopping Mall		3
+Small Business		3
+Photographer		3
+Health/Medical/Pharmacy		3
+Fitness Center		3
+Telecommunication		3
+Museum/Art Gallery		3
+Electronics Store		3
+Entertainer		3
+Lawyer		3
+Insurance Company		3
+Lounge		2
+Record Label		2
+Business Person		2
+Family Style Restaurant		2
+Sports Venue		2
+Broadcasting & Media Production		2
+Theme Park		2
+Bakery		2
+Event Venue		2
+Entertainment		2
+Landmark		2
+Theatre		2
+Travel Agent		2
+Automobiles and Parts		2
+Sports Bar		2
+Advertising Agency		2
+Movies/Music		2
+Radio Station		2
+Event		2
+Toy Store		2
+Caterer		2
+NYU		2
+Sports Venue/Stadium		2
+Spas/Beauty/Personal Care		2
+Author		2
+Computers/Internet		2
+Studio		2
+Bookstore		2
+Coffee Shop		2
+Bands & Musicians		2
+Resource Center		1
+Eventos Empresariales		1
+DJ		1
+Fotografía		1
+15 años y Bodas		1
+Fictional Character		1
+Apple Repair and IT Experts NYC 		1
+Department of Music and Performing Arts Professions		1
+Modeling Agency		1
+Recording Studio		1
+Society/Culture		1
+finance		1
+diversity		1
+Producer		1
+Government Official		1
+accounting		1
+Amusement		1
+Beach		1
+Christian Church		1
+Energy/Utility		1
+Dessert Restaurant		1
+Chinese Restaurant		1
+iPhone Repair NYC		1
+Community & Government		1
+Animal Shelter		1
+Historical Place		1
+Campus Building		1
+First Aid Class		1
+Botanical Garden		1
+Tour Company		1
+Ice Skating		1
+Outlet Store		1
+Art Gallery		1
+Sports & Recreation		1
+Book Store		1
+Shopping District		1
+Educational Organization		1
+Seafood Restaurant		1
+Ticket Sales		1
+Tours & Sightseeing		1
+Food Consultant		1
+Sports Club		1
+Shopping/Retail		1
+Political Organization		1
+Advertising Service		1
+Employment Agency		1
+entrepreneurship 		1
+Sushi Restaurant		1
+Artistic Services		1
+Entertainment Consultant		1
+tailoring		1
+SEO		1
+Social Media Marketing		1
+Bar & Grill		1
+Writer		1
+Ski Resort		1
+Actor/Director		1
+Disaster Relief		1
+Health & Fitness		1
+Outdoor Recreation		1
+Lodging		1
+Health Clinic		1
+Medical Center		1
+tea shop 茶坊		1
+Wedding Planning		1
+Casino		1
+Computer Store		1
+Gym		1
+Business Consultant		1
+Technical Institute		1
+Public Places & Attractions		1
+Publisher		1
+Fine Dining Restaurant		1
+Comedian		1
+Dentist		1
+Amateur Sports Team		1
+Light-Up Flashing Toys		1
+Doctor		1
+Hospital/Clinic		1
+Pool & Billiards		1
+Swimming Pool		1
+Gay Bar		1
+Vacation Home Rental		1
+web marketing		1
+web agency		1
+Resort		1
+Exculisve Fragrances and Cosmetics		1
+hot tubs		1
+Swimming Pool Maintenance		1
+Home Improvement		1
+TV Show		1
+Credit Counseling		1
+Movie		1
+Insurance Agent		1
+Pizza Restaurant		1
+Transportation		1
+Insurance Broker		1
+Aerospace/Defense		1
+Skin Care		1
+Public Relations		1
+Real Estate Appraiser		1
+Real Estate Service		1
+Real Estate Agent		1
+Cosmetics & Beauty Supply		1
+Electronic Equipment Service		1
+Tour Guide		1
+Tutoring		1
+Financial Services		1
+Tax Preparation		1
+Computer Services		1
+Nail Salon		1
+Social Media		1
+Daily Offers		1
+Bank/Financial Institution		1
+Pet Services		1
+Spa, Beauty & Personal Care		1
+Restaurants		1
+Daily Specials		1
+Social Network		1
+Health/Wellness		1
+Physical Therapist		1
+Vitamins/Supplements		1
+Sportswear		1
+Movie Theatre		1
+Fast Food Restaurant		1
+Deli		1
+Antique Store		1
+Children's Clothing Store		1
+Sports League		1
+Hair Salon		1
+Contemporary Dance Company		1
+Cemetery		1
+Park		1
+Airline		1
+Travel/Internet		1
+Optometrist		1
+Eye Wear		1
+Ice Cream Parlor		1
+Food Stand		1
+Wine/Spirits		1
+Women's Clothing Store		1
+Italian Restaurant		1
+Political Party		1
+Men's Clothing Store		1
+Trade School		1
+Youth Organization		1
+Garden Center		1
+Cleaning Service		1
+Carpet Cleaner		1
+denver colorado		1
+Data center		1
+Politician		1
+Sporting Goods		1
+Event Planner		1
+Party Center		1
+Promotional Item Services		1
+Winery/Vineyard		1
+Computers		1
+Dorm		1
+State/Province/Region		1
+Tourist Information		1
+Public Square		1
+Newquay		1
+Cornwall 		1
+Oil Lube & Filter Service		1
+Photographic Services & Equipment		1
+dancecrewstudio		1
+LED Light Bulbs		1

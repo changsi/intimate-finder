@@ -1,0 +1,108 @@
+hunspell
+33
+An open source spell checker, used by OpenOffice, Firefox, Google Chrome and Mac OS X.
+httpexception
+33
+
+handheld
+33
+
+having-clause
+33
+
+janus
+33
+a vendor of Windows Forms controls for .NET, ASP.NET Server Controls for .NET and ActiveX Controls.
+invert
+33
+
+interop-domino
+33
+
+infinispan
+33
+an LGPL licensed data grid platform for Java and other JVM languages, providing a distributed in-memory cache as well as a clustering toolkit.
+atmega
+33
+a product line within Atmel's AVR micro-controller family.
+atomikos
+33
+
+android-screen
+33
+
+assembla
+33
+a company that provides cloud-based tools to organize and manage open-source and commercial software development.
+aol
+33
+acronym for America Online
+apache-modules
+33
+Apache **modules** extend the Apache opensource Http server core functionality for special purposes.
+applicative
+33
+
+anova
+33
+
+amazon-emr
+33
+Amazon Web Service's Hadoop in the cloud
+advantage
+33
+
+after-effects
+33
+a digital video post production tool for generating and manipulating moving graphics and compositing multiple images. User-created plug-ins can extend almost any area of functio…
+adview
+33
+
+datatemplateselector
+33
+
+date-parsing
+33
+
+derived-table
+33
+
+deployment-project
+33
+
+demonstration
+33
+
+decomposition
+33
+
+delimited
+33
+
+disassembler
+33
+A disassembler converts object code into assembly source code (or, more often, an approximation) typically for reverse engineering or debugging.  Please include a CPU architecture tag along with this …
+development-hardware
+33
+
+addressbar
+33
+
+callgrind
+33
+
+casbah
+33
+a Scala toolkit for MongoDB.
+bloom-filter
+33
+a probabilistic data structure that tells you if an element is a member of a set.
+bin-packing
+33
+
+autoloader
+33
+
+babel
+33
+an integrated collection of utilities that assist in internationalizing and localizing Python applications, with an emphasis on web-based applications.

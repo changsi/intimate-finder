@@ -1,0 +1,110 @@
+quick
+41
+
+qwebkit
+41
+
+rampart
+41
+Apache Rampart - Axis2 Security Module
+qlist
+41
+
+email-server
+41
+
+eventargs
+41
+
+draw2d
+41
+A layout and rendering toolkit for displaying graphics on an SWT Canvas
+eclipse-gmf
+41
+The Eclipse Graphical Modeling Project
+dynamicresource
+41
+
+django-filter
+41
+
+git-branches
+41
+
+gets
+41
+
+getpixel
+41
+
+acpi
+41
+Advanced Configuration and Power Interface, a specification that provides an open standard for device configuration and power management by the operating system.
+actionfilterattribute
+41
+
+web-deploy
+41
+
+gameloop
+41
+
+front-controller
+41
+
+french
+41
+
+exim
+41
+a message transfer agent (MTA) developed at the University of Cambridge for use on Unix systems connected to the Internet.
+factory-method
+41
+
+fdf
+41
+
+kill-process
+41
+
+kiln
+41
+Fog Creek's distributed version control system based on Mercurial.
+
+Kiln aims to simplify the power of DVCS for teams of all sizes and includes an integrated code review system.
+learning-curve
+41
+
+jsonserializer
+41
+
+jquery-easing
+41
+
+kalman
+41
+a mathematical method. Its purpose is to reduce noise and randomness in collected data, making the recorded data closer to the actual.
+kendoui
+41
+a framework for modern HTML UI, by Telerik. It is following the latest HTML5, CSS3, and JavaScript standards, it delivers everything needed for client-side, jQuery-powered development in o…
+jump-lists
+41
+
+jqtransform
+41
+a jQuery styling plugin which allows you to skin form elements. It is a very popular plugin which was developed by DFC Engineering and is licensed under the GPL.
+massive
+41
+A single file database access tool based on .net 4 dynamics made by Rob Connery.
+memory-barriers
+41
+a special processor instruction that imposes restrictions on the order in which memory accesses become visible to other processors/cores in a multi-processor or multi-core system.
+lwuit-form
+41
+LWUIT offers a comprehensive toolbox for showing information on forms
+lost-focus
+41
+
+localconnection
+41
+

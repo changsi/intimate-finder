@@ -1,0 +1,108 @@
+ply
+37
+an implementation of lex and yacc parsing tools for Python.
+piracy-prevention
+37
+
+prefuse
+37
+
+postdata
+37
+
+missing-data
+37
+For questions relating to missing data problems, which can involve special data structures, algorithms, statistical methods, modeling techniques, visualization, among other considerations.
+minimal
+37
+
+mining
+37
+
+microsoft-bits
+37
+Microsoft's Background Intelligent Transfer Service (BITS) supports prioritized, throttled and asynchronous file transfers using idle bandwidth.
+nitrogen
+37
+a framework for building full-stack Erlang web applications.
+nstokenfield
+37
+
+nstablecolumn
+37
+
+native-methods
+37
+
+netconnection
+37
+
+ninepatch
+37
+
+screencast
+37
+
+scsf
+37
+a guidance offering that provides architecture guidance to help developers build Composite Smart Clients using the Microsoft platform.
+s4
+37
+one of the methods of object oriented programming in the R language.
+sgml
+37
+
+shdocvw
+37
+
+seq
+37
+
+selectsinglenode
+37
+
+slave
+37
+
+sibling
+37
+
+signpost
+37
+
+sikuli
+37
+an open-source research project developed at User Interface Design Group, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and supported in part by the National Science Fo…
+snmp4j
+37
+
+snort
+37
+
+specificity
+37
+
+splunk
+37
+enterprise web-software used to monitor, report and analyze logs produced by any type of application.
+spnego
+37
+
+star-schema
+37
+the most basic data warehousing database schema, consisting of one or more fact tables referencing any number of dimension tables.
+square-root
+37
+
+squeryl
+37
+a strongly typed, declarative and SQL like DSL for manipulating database objects from within the Scala language.
+sqlperformance
+37
+pertains to performance issues with Structured Query Language (SQL).The performance bottlenecks faced when managing data in relational database management systems. This tag is for specific qu…
+sql-match-all
+37
+
+rssi
+37
+RSSI stands for Received signal strength indication

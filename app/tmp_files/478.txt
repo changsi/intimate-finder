@@ -1,0 +1,108 @@
+cag
+13
+
+cacls
+13
+
+caliper
+13
+Google's open-source framework for writing, running and viewing the results of Java microbenchmarks.
+callable-statement
+13
+A CallableStatement object provides a way to call stored procedures in a standard way for all RDBMSs. A stored procedure is stored in a database; the call to the stored procedure is what a CallableSta…
+cfchart
+13
+in ColdFusion to display a bar, pie, line, or other applicable type of chart.
+cfpdf
+13
+
+ccache
+13
+a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Obj…
+ccavenue
+13
+a very popular payment gateway system in India. It provides money transaction in Indian Rupees (INR)
+cdr
+13
+
+cardspace
+13
+
+cartography
+13
+
+blackboard
+13
+
+bitsets
+13
+
+bitmap-fonts
+13
+
+boost-signals2
+13
+a thread-safe C++ implementation of a managed signals and slots system.
+boost-log
+13
+
+build-environment
+13
+
+browser-bugs
+13
+
+border-color
+13
+
+brace-expansion
+13
+
+branching-strategy
+13
+
+av
+13
+
+avisynth
+13
+
+automata-theory
+13
+Automata theory studies classes of algorithms which can be defined using abstract machines (automata). Classes of automata differ in terms of restrictions to which they are subjected; for the most com…
+automocking
+13
+
+awakefromnib
+13
+
+b+-tree
+13
+In computer science, a B+ tree or B plus tree is a type of tree which represents sorted data in a way that allows for efficient insertion, retrieval and removal of records, each of which is identified…
+backbarbuttonitem
+13
+
+bimap
+13
+
+binary-decision-diagram
+13
+In the field of computer science, a binary decision diagram (BDD) or branching program, like a negation normal form (NNF) or a propositional directed acyclic graph (PDAG), is a data structure that is …
+base36
+13
+
+balloon-tip
+13
+a special kind of tooltip which looks like a speech balloon.
+xpdf
+13
+
+xmodem
+13
+
+xinput
+13
+
+xhprof
+13
+a profiling extension for PHP light weight enough to be run in production

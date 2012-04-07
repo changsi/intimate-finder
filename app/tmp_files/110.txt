@@ -1,0 +1,108 @@
+border-radius
+177
+a CSS3 property used for giving certain html elements rounded corners.
+cart
+177
+
+autowired
+177
+
+yahoo-pipes
+177
+a web service which allows user to aggregate, filter, and combine web data sources such as RSS feeds and web pages into an output feed.
+tail-recursion
+177
+a recursive strategy in which a function does some amount of work, then invokes itself.  The "tail" refers to the fact that the recursion is at the very end of the function.  Many pr…
+value-type
+177
+
+visual-studio-2003
+176
+
+tableadapter
+176
+
+true-type-fonts
+176
+the major scalable font format designed by Apple. The TTF rendering engine can be found on many platforms including Apple's OSX, Microsoft's Windows, Linux, and inside of printers.
+autoresize
+176
+
+bids
+176
+Business Intelligence Development Studio (BIDS) is a special version of Visual Studio that is used to develop projects for SSIS, SSAS, and SSRS.
+amazon-cloudfront
+176
+a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency,…
+edmx
+176
+an XML file in the .Net Entity Framework that defines a conceptual model, a storage model, and the mapping between these models.
+eclipse-wtp
+176
+The Eclipse Web Tools Platform (WTP) project extends the Eclipse platform with tools for developing Web and Java EE applications. It includes source and graphical editors for a variety of languages, w…
+dynamic-memory-allocation
+176
+
+dot
+176
+a plain text graph description language.
+java-io
+176
+
+issue-tracking
+176
+Issue tracking refers to managing of tasks and problems in (software) project.
+lexer
+176
+a program converting a sequence of characters into a sequence of tokens
+pool
+176
+
+ruby-on-rails-3.2
+176
+Ruby on Rails version 3.2.0 released at January 20, 2012. Use this tag for issues related to development in Ruby on Rails version 3.2.0.
+runnable
+176
+
+priority
+176
+
+rollover
+175
+
+resourcebundle
+175
+
+screensaver
+175
+
+spree
+175
+the open-source e-commerce platform freely available for commercial use under the terms of the New BSD License.
+persistent
+175
+
+onbeforeunload
+175
+triggered before a user navigates away. This event listener can be used to show a confirmation dialog to the user on page leave.
+oscommerce
+175
+Open source e-commerce application based on PHP & MySQL. The project was started in 2000 by Harald Ponce de Leon and is one of the most popular e-commerce applications.
+navigationcontroller
+175
+
+legacy-code
+175
+Originally legacy code meant code 'inherited' from authors or from a previous program/system version. Since Michael Feathers published his "Working Effectively with Legacy Code" book, new definition c…
+matlab-toolbox
+175
+For questions relating to a specific MATLAB(R) toolbox rather than the overall MATLAB(R) engine.
+webrat
+175
+an acceptance testing library for Web applications written in Ruby.
+findcontrol
+175
+A method on the Control class in the .Net framework that finds a control from its id. The control is only found if it is within the calling control's naming container.
+extends
+175
+

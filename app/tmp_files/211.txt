@@ -1,0 +1,108 @@
+dblink
+62
+
+design-principles
+62
+
+devtools
+62
+
+accounts
+62
+
+adobe-reader
+62
+a free application for viewing, printing and filling PDF documents.
+android-install-apk
+62
+
+jquery-post
+62
+
+asymptotic-complexity
+62
+
+ambiguous
+62
+
+interlocked
+62
+
+international
+62
+
+inline-editing
+62
+
+iphone-privateapi
+62
+
+iphone-sdk-3.1
+62
+Refers to the iPhone software development kit, version 3.1.
+iphone-3gs
+62
+the third version of the iPhone released by Apple, Inc. Use this tag for questions specific to this platform. Don't confuse with the iphone-3g tag.
+izpack
+62
+Open source software for creating cross-platform installers for Java applications. These installers are JAR archives.
+jagged-arrays
+62
+
+hint
+62
+
+koala
+62
+a Ruby GEM for integrating FaceBook connectivity into Ruby, and Ruby on Rails applications.
+jcl
+62
+a scripting language used on IBM mainframe operating systems to instruct the system on how to run a batch job or start a subsystem.
+jibx
+62
+a tool for binding XML data to Java objects.
+kettle
+62
+a code name for Pentaho Data Integration tool. It is an open source GUI-based ETL (Extraction, Transformation, and Loading) tool.
+jvmti
+62
+the Java Virtual Machine Tool Interface, a native API by which authors can write JVM plugins to monitor or modify the execution of the Java Virtual Machine.
+mach-o
+62
+Executable file format utilized by Darwin.
+gregorian-calendar
+62
+the de facto international civil calendar.
+django-database
+62
+
+django-modelformsets
+62
+
+dll-injection
+62
+
+elgg
+62
+a Open Source Social Networking Engine, that can help you build your own social site, Public or Private.
+enyo
+62
+HP's javascript framework for building applications on webOS.
+rowspan
+62
+
+restrictions
+62
+
+rcpp
+62
+Rcpp allows for easier integration of C++ code in R.
+readdir
+62
+
+renaming
+62
+
+relaxng
+62
+an International Standard schema language for XML. A RELAX NG schema specifies a grammar that a validator can apply to XML documents to determine whether or not they are …

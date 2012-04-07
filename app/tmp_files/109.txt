@@ -1,0 +1,108 @@
+response.redirect
+180
+
+sproutcore
+180
+an advanced HTML5 application framework.
+serializable
+180
+
+shellexecute
+180
+
+specflow
+179
+Pragmatic BDD for .NET
+numberformat
+179
+
+practice
+179
+
+plyr
+179
+an R package with tools to solve a variety of problems using the strategy of split, apply and combine
+ontology
+179
+a formal representation of knowledge as a set of concepts within a domain,and the relationships between those concepts
+pager
+179
+
+jplayer
+179
+the completely free and open source (GPL/MIT) media library written in JavaScript.
+ieee-754
+179
+the Institute of Electrical and Electronics Engineers standard for floating-point computation, and is the most common & widely used implementation thereof.
+javascript-objects
+179
+
+internals
+179
+denotes questions about how things work, as opposed to how to accomplish something specific. Of course, how something works underneath will have practical implications, but internals…
+dynamics-ax-2009
+179
+one of Microsoftâs enterprise resource planning software products. It is part of the Microsoft Dynamics family. The early versions (from 1.0 to 3.0) were cal…
+egit
+179
+an Eclipse plugin for the Git version control system.
+unobtrusive-validation
+179
+Unobtrusive validation refers to a jQuery plugin created by Microsoft used in conjunction with the jQuery Validate plugin.  It is shipped with ASP MVC3.
+structures
+178
+a structured (record) type that aggregates a fixed set of labelled objects, possibly of different types, into a single object.
+creation
+178
+
+jrubyonrails
+178
+a term to describe a Ruby On Rails application running on JRuby.
+dql
+178
+an Object Query Language created for helping users in complex object retrieval.
+error-logging
+178
+The process of recording errors in log file for diagnostic and Q&A purposes.
+finder
+178
+
+ipn
+178
+IPN stands for Instant Payment Notification, it is a process used by PayPal to send information about a transaction back to a site.
+jdk1.6
+178
+For issues relating to setting up or using the Java Development Kit (JDK), version 1.6.
+south
+178
+a database-independent migration manager for django
+rjs
+178
+
+records
+178
+a value that contains other values, typically in fixed number and sequence and typically indexed by names.
+referrer
+178
+
+spring-3
+177
+Version 3.x of the Spring Framework
+openldap
+177
+an open source implementation of the Lightweight Directory Access Protocol (LDAP).
+mod-proxy
+177
+
+liferay-6
+177
+a free and open-source Java-based enterprise portal, content management system, and social platform used to power corporate intra- and extranets. It supports plugin development using many l…
+intentfilter
+177
+
+firemonkey
+177
+the cross-platform visual component library in Embarcadero Delphi XE 2 / RAD Studio
+android-view
+177
+

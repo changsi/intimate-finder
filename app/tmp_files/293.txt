@@ -1,0 +1,108 @@
+peoplepicker
+36
+
+photoshop-script
+36
+
+ora-00001
+36
+unique constraint (string.string) violated. Cause: An UPDATE or INSERT statement attempted to insert a duplicate key. For Trusted Oracle configured in DBMS MAC mode, you may see this message if a dupl…
+page-layout
+36
+the part of graphic design that deals in the arrangement and style treatment of elements (content) on a page
+overlapped-io
+36
+
+objectlistview
+36
+a C# wrapper around a .NET ListView. It makes the ListView much easier to use and provides some neat extra functionality.
+old
+36
+
+onconfigurationchanged
+35
+
+ocs
+35
+
+ob-start
+35
+
+onenote
+35
+
+paas
+35
+
+palm-os
+35
+Questions about Palm OS (now also known as Garnet OS) from PalmSource/ACCESS.  Note that this is distinct from HP/Palm webOS.
+par
+35
+
+oracle-aq
+35
+OracleAQ provides database-integrated message queuing functionality
+pg
+35
+the name of an extension for Ruby that provides access to libpq, the C application programmerâs interface to the PostgreSQL RDBMS.
+particle-system
+35
+
+pascalscript
+35
+object pascal scripting engine
+pixastic
+35
+
+practical
+35
+
+mta
+35
+
+mismatch
+35
+
+microsoft-certifications
+35
+
+nxt
+35
+should be used when asking question about programming in the NXT 1.0 or 2.0 environment, or about programming the NXT 1.0/2.0 controller using other methods than the language/environment p…
+nsurlcache
+35
+
+mysql-select
+35
+
+nancy
+35
+a lightweight web framework for the .Net platform, inspired by Sinatra. Nancy aims to deliver a low ceremony approach to building light, fast web applications.
+network-printers
+35
+
+nettiers
+35
+a set of open source code generation templates that simplify the tasks of creating customized Application Tiers for your Microsoft.Net applications in just a few minutes.
+sdp
+35
+The Session Description Protocol (SDP) describes multimedia sessions for the purpose of session announcement, session invitation and other forms of multimedia session initiation.
+securestring
+35
+
+scala-2.9
+35
+Version 2.9 of the Scala language for the JVM.
+shareware
+35
+
+shark
+35
+
+self-modifying
+35
+
+selectnodes
+35
+

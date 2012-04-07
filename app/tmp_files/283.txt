@@ -1,0 +1,109 @@
+nsopenpanel
+38
+
+nslocale
+38
+
+np
+38
+a complexity class of decision problems that can be solved by a nondeterministic Turing machine in polynomial time.  Equivalently, it is the set of decision probl…
+non-deterministic
+38
+
+moonlight
+38
+a Mono based Linux port of Silverlight. Silverlight is Microsoft's cross-browser, cross platform plug-in for media experiences and rich interactive applications.
+mousedown
+38
+
+msg
+38
+
+multi-tier
+38
+
+mixer
+38
+
+minus
+38
+
+os.walk
+38
+
+optimal
+38
+
+ora-00932
+38
+Inconsistent datatypes.  Cause: You tried to perform an operation between two different datatypes, but the datatypes are not compatible.
+ownerdraw
+38
+
+oodbms
+38
+An object database (also object-oriented database management system) is a database management system in which information is represented in the form of objects as used in object-oriented programming
+openwrt
+38
+a Linux based firmware program for embedded devices such as residential gateways and routers. It is very modular and feature rich, but not all chipsets are supported, though.
+object-pooling
+38
+
+onclientclick
+38
+
+oid
+38
+the Oracle Internet Directory product
+oembed
+38
+
+odf
+37
+
+ondemand
+37
+
+obout
+37
+ASP and ASP.NET TreeView, SlideMenu and more components
+objectquery
+37
+
+occurences
+37
+
+openbsd
+37
+an advanced unix-like operating system for modern server, desktop, and embedded computer platforms. It is open source and licensed under the BSD license.
+pageviews
+37
+
+page-load-time
+37
+
+ora-06550
+37
+You tried to compile a block of PLSQL code, but a compilation error occurred.
+orthographic
+37
+
+pdb
+37
+
+paypal-adaptive-payments
+37
+
+password-encryption
+37
+The act of securing a password by converting the value into a hard to crack sequence of letters or numbers(hashes) or into a code.
+Encryption: the activity of converting data or information into code…
+passwordbox
+37
+
+place
+37
+
+pluralize
+37
+

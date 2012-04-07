@@ -1,0 +1,110 @@
+pagination
+1955
+the process of dividing information into discrete pages.
+cron
+1955
+a time-based job scheduler in Unix-like computer operating systems.
+tortoisesvn
+1954
+a Subversion client for Windows, implemented as a shell extension.
+firefox-addon
+1951
+a way of adding to or modifying the Firefox web browser. Most commonly, questions in this tag are about Firefox extensions, which add new functionality to the browser, although "add…
+glassfish
+1948
+a Java EE 6 application server.
+python-3.x
+1948
+the latest version of the Python programming language and was formally released on 03-December-2008.
+compact-framework
+1946
+Microsoft .Net Compact Framework (compact-framework, .netcf) is a constrained version of Microsoft .Net Framework designed for limited resource devices such as mobile phones, personal digital assistan…
+smtp
+1940
+an Internet standard for electronic mail (e-mail) transmission across Internet Protocol (IP) networks.
+compiler-errors
+1939
+generated during the compilation phase, often due to problems with invalid syntax and/or types.  Compare to [runtime-error].
+timeout
+1936
+expire after a limited  time
+comparison
+1928
+Questions about data comparison and efficient ways to accomplish it. Please avoid using this tag for generic (meta) comparison of two issues or concepts.
+iis6
+1927
+IIS (Internet Information Services) Version 6 â is a web server application and a set of feature extension modules created by Microsoft for use with Microsoft Windows.
+playframework
+1925
+a modern Java and Scala web application open-source framework that provides a clean alternative to bloated Enterprise Java stacks.
+sms
+1922
+the text communication service component of phone, web or mobile communication systems, using standardized communications protocols that allow the exchange of short text…
+tfs2010
+1918
+a complete Application Lifecycle Management (ALM) suite, offered by Microsoft. TFS combines activities such as Source Control Management, Bug Tracking, Requirements Mana…
+directory
+1916
+a virtual container within a digital file system, in which groups of computer files and other directories can be kept and organized.
+resize
+1915
+modify size, change size
+migration
+1905
+An action of moving between major version of any framework, product or language, or, just as commonly, alteration to the data schema of an application. This might involve modifying existing data to ma…
+statistics
+1903
+Consider whether your question would be better at http://statistics.stackexchange.com. Statistics is the mathematical study of using probability to infer characteristics of a population from a limited…
+gdb
+1901
+the standard debugger for the GNU software system.
+wix
+1899
+a toolset that builds Windows installation packages from XML source code. The toolset supports a command line environment that developers may integrate into their bu…
+microsoft
+1896
+an American public multinational corporation headquartered in Redmond, Washington, USA that develops, manufactures, licenses, and supports a wide range of products and service…
+group-by
+1891
+a command in the SQL relational database standard for collapsing result rows that share a common field value into a single row. Aggregate functions can be performed on other fields in the …
+c++-cli
+1891
+an extension of the C++ programming language. It extends the syntax to allow compilation of a mixture of native code and code for Microsoft's Common Language Infrastructure (CLI). It is a r…
+connection
+1890
+
+android-ndk
+1884
+a companion tool to the Android SDK that lets you build performance-critical portions of your apps in native code. It provides headers and libraries that allow you to build activiti…
+tutorials
+1877
+easy to understand instructions to setup, configure, run or implement a specific task.
+routes
+1872
+Questions about mapping URLs to Controllers and Actions.
+intellij-idea
+1867
+a popular IDE by JetBrains. Originally created for Java, it currently supports a lot more languages: HTML, PHP, Ruby, Python, JavaScript, Scala, Clojure and others.
+escaping
+1862
+usually characters that are used to signify an alternative interpretation of subsequent characters in a character sequence.
+gtk
+1861
+a highly usable, feature-rich toolkit for creating graphical user interfaces (GUIs) that boasts cross platform compatibility and an easy to use API.
+embedded
+1858
+computer systems which are an internal component of a product (that is, embedded within a product) for a specific, usually limited, purpose which includes control, reconfigurabili…
+nosql
+1854
+a broad class of database management systems that differ from the classic model of the relational database management system (RDBMS) in some significant ways, most important being they do not…
+focus
+1849
+Focus indicates the component of the graphical user interface which is currently selected to receive input.
+linux-kernel
+1849
+for questions about the internals of the Linux kernel itself - particularly about writing code that runs within the context of the kernel (like kernel modules or drivers).
+
+Questions abo…
+onclick
+1845
+An event which occurs when user clicked an object.

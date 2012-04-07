@@ -1,0 +1,108 @@
+8086
+117
+The 8086 processor was designed by Intel in the mid-1970's.  It gave rise to the x86 architecture.
+achartengine
+117
+a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.
+dialogbox
+117
+
+diagnostics
+117
+
+argparse
+117
+A Python module for implementing command-line interfaces
+android-logcat
+116
+the command to view and filter information from the Android logging system, but more often the name is used as a synonym for the Android logging system itself.
+administrator
+116
+
+winpcap
+116
+This word for wpcap api for packet capturing in windows and gives explaination  for wpcap.lib or .dll
+subselect
+116
+a SELECT statement within another statement
+bom
+116
+a Unicode character used to signal the order of bytes in a text file or stream. As the BOM is U+FEFF, it makes it clear whether the high-order bytes are first …
+bindinglist
+116
+A .Net framework component that provides a generic collection that supports databinding. Part of the System.ComponentModel namespace. In use since .Net framework version 2.0
+custom-view
+116
+
+ksoap
+116
+a SOAP web service client library for constrained Java environments such as Applets or J2ME applications.
+invisible
+116
+
+firefox3.6
+116
+Version 3.6 of the Mozilla Firefox browser, which was released on 21 January 2010.
+fmdb
+116
+a Cocoa sqlite wrapper, with the purpose of simplyfing access to sqlite functions through a JDBC-like API
+fscanf
+116
+
+fragment-identifier
+116
+the part of the URI/URL following the hash symbol. In the case of `http://mysite.com/page/#/one` then `/one` would be the fragment-identifier.
+dot-emacs
+116
+_.emacs_ (_dot-emacs_ where the initial period causes problems) is the name of the main configuration file of the emacs text editor.
+model-associations
+116
+
+mpeg
+116
+MPEG - Class of Compression standards and related algorithms, tools and systems
+precompiled-headers
+116
+
+page-refresh
+116
+
+onresume
+116
+
+online-resources
+116
+for questions and recommendations regarding online resources available for developers' reference or learning a programming language, library, framework, SDK, API or IDE. Before asking "Rec…
+refinerycms
+116
+Refinery CMS, or RefineryCMS, often shortened to Refinery, is an open source content management system written in Ruby as a Ruby on Rails web application with jQuery used as the JavaScript library. Re…
+ref
+116
+
+reboot
+116
+
+slimdx
+116
+an MIT-licensed, open-source framework that allows developers working with managed languages like C# and IronPython to leverage DirectX and many of Microsoft's other gaming-related multimedi…
+smlnj
+116
+Standard ML of New Jersey (SML/NJ)
+runtime.exec
+116
+
+savon
+115
+the heavy metal Ruby SOAP client.
+server-side-includes
+115
+
+solrj
+115
+a java client to access solr. It offers a java interface to add, update, and query the solr index.
+simple-html-dom
+115
+
+simpletest
+115
+a Unit and Web Testing framework developed in PHP. You can read more about it and how to set it up at http://simpletest.org/.

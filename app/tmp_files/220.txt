@@ -1,0 +1,108 @@
+cgal
+58
+to provide easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computat…
+call-graph
+58
+a visual representation of calls between functions/procedures/methods etc. Typically created from the entry point of the code through each of the calls.
+bytestring
+58
+A time and space-efficient implementation of byte vectors for Haskell.
+byref
+58
+
+designmode
+58
+
+decltype
+58
+
+directoryentry
+58
+a .Net class that encapsulates a node or object in the Active Directory Domain Services hierarchy.
+devenv
+58
+
+annotate
+58
+
+arbitrary-precision
+58
+All questions concerning numbers which support extremely high precision: Libraries in programming languages (GMP, MPFR), support of arbitrary precision in computer algebra systems (CAS, Mathematica, M…
+httpserver
+58
+
+httpcookie
+58
+A class in the System.Web namespace of the .NET framework which provides a type-safe way to create and manipulate individual HTTP cookies.
+htmlencode
+58
+
+icomparer
+58
+an interface provided by the .NET framework, used in conjunction with the Array.Sort and Array.BinarySearch methods. It provides a way to customize the sort order of a collection. It cont…
+ifdef
+58
+
+hamcrest
+58
+an open source library of constraint classes used to match objects and values, typically by other frameworks such as unit testing, mocking, or collections.
+gui-testing
+58
+
+jax-rpc
+58
+
+indexed-view
+58
+
+installscript
+58
+
+least-squares
+58
+
+law
+58
+
+lame
+58
+Lame Ain't an MP3 Encoder, http://lame.sourceforge.net/
+jpopupmenu
+58
+the Java Swing implementation of a popup menu, a small window that pops up and displays a series of choices. A JPopupMenu is used for the menu that appears when the user selects an item …
+linear-gradients
+58
+
+matlab-guide
+58
+a high-level language and programming environment developed by MathWorks. This tag relates to the development of MATLAB applications with a graphical user interface (GUI), and particularly t…
+members
+58
+
+google-sites
+58
+
+glkit
+58
+a UIKit framework which helps in the development of OpenGL ES applications on iOS.
+gaps-and-islands
+58
+Gaps and islands problems involve finding a range of missing values (gaps) or a range of consecutive values (islands) in a sequence of numbers or dates.
+form-submission
+58
+
+fdt
+58
+an Eclipse development toolkit for interactive developers. FDT can be used to target multiple platforms such as Flash / HTML5 / JavaScript / WebGL / PHP programming with haXe
+exponent
+58
+
+dsl-tools
+58
+
+dyld
+58
+the binary loader for Darwin (Mac OS X). Questions about dyld typically involve shared libraries being unavailable at link-time, or unavailable at runtime.
+ef-migrations
+58
+Solution for Entity Framework Code First that will incrementally evolve the database schema as the model changes over time.

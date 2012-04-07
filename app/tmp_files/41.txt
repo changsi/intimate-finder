@@ -1,0 +1,108 @@
+jndi
+684
+The Java Naming and Directory Interface (JNDI) is a Java API for a directory service that allows Java software clients to discover and look up data and objects via a name.
+nstimer
+684
+
+data-access-layer
+682
+a layer of a computer program which provides simplified access to data stored in persistent storage of some kind, such as an entity-relational database.
+beautifulsoup
+681
+a Python package for parsing HTML.
+aggregate-functions
+681
+a subset of SQL functions that compute a single value from multiple input rows, mostly used in `SELECT` queries with a `GROUP BY` clause. Practically all modern RDBMS feature a…
+capybara
+680
+a web application testing framework
+cell
+680
+
+32bit-64bit
+679
+Issues related to the use of a 64bit vs a 32bit architecture
+entity-relationship
+679
+an abstract and conceptual representation of data
+gdi
+679
+a device-independent, pure software graphics API under the Windows operating system for drawing graphic primitives and text. It is the underlying base used to render…
+registration
+679
+
+messaging
+677
+Messaging refers to the design pattern whereby discrete messages are used for communication between objects or processes. Messages can be simple data, complex data structures, or even code. This patte…
+pil
+677
+Python Imaging Library
+guid
+677
+a unique reference number used as an identifier in computer software
+glassfish-3
+677
+an open source, production-ready, Java EE-compatible application server.
+xml-rpc
+677
+a remote procedure call (RPC) protocol which uses XML to encode its calls and HTTP as a transport mechanism.
+open
+676
+
+localstorage
+675
+a way to store persistent data using JavaScript.
+bdd
+675
+BDD stands for Behavior Driven Development. It is related to, and derived from, TDD (Test Driven Development) and ATDD (Acceptance Test Driven Development), and differs in its language and vocabular…
+sitecore
+674
+a web content management system (CMS) built on Microsoft ASP.NET.
+ssms
+673
+Microsoft SQL Server Management Studio
+automatic
+673
+
+block
+673
+Can refer to many different things depending on the use of other tags with it.
+ruby-on-rails-plugins
+672
+either an extension or a modification of the core framework.
+3d-graphics
+672
+3D computer graphics (in contrast to 2D computer graphics) are graphics that use a three-dimensional representation of geometric data (often Cartesian) that is stored in the computer for the purposes …
+packages
+671
+
+php-5.3
+671
+PHP 5.3.3 marks the end of life for PHP 5.2, and many users are having to change their code to cope with deprecated features.
+data-mining
+671
+the process of analyzing large amounts of data in order to find patterns and commonalities.
+syntax-error
+670
+A syntax error occurs when a program does not follow the syntactical rules of the programming language.
+activemq
+669
+the most popular and powerful open source message broker
+exc-bad-access
+669
+a common fatal error used primarily in Objective-C. EXC_BAD_ACCESS
+llvm
+669
+a collection of modular and reusable compiler and toolchain technologies.
+state
+668
+
+bitwise
+668
+Bitwise refers to a bitwise operation which operates on one or more bit patterns or binary numerals at the level of their individual bits.
+deadlock
+668
+Situation where two (or more) operations need overlapping sets of resources, and neither can complete because they cannot obtain all locks necessary to complete an operation and release their locks.
+perforce
+667
+a commercial, proprietary, centralized revision control system.

@@ -1,0 +1,108 @@
+xjc
+112
+an AXIS2 tool for compiling XSD (XML Schema) to Java source code.
+chinese-characters
+112
+
+datapager
+112
+
+csproj
+112
+a Visual Studio .NET C# Project file.
+core-data-migration
+112
+
+crawling
+112
+the process of browsing the Web in automated and methodical manner.
+lambda-functions
+112
+
+lotusscript
+112
+a dialect of the BASIC programming language used by Lotus Notes and other IBM Lotus Software products
+hdf5
+112
+a binary file format designed to store large amount of numerical data.
+inflate
+112
+the decompression counterpart to the lossless compression algorithm and format deflate.  The deflate format was created by Phil Katz of PKWare for the PKZip (.zip) archive format.  Public d…
+gmt
+112
+a term originally referring to mean solar time at the Royal Observatory in Greenwich, London.
+drive
+112
+
+django-signals
+112
+Django signals allow listeners to be registered for events within the framework. This allows decoupled handling of, for example, model deletions.
+onkeyup
+112
+a JavaScript event that fires upon releasing a keyboard key. See also: http://www.quirksmode.org/js/keys.html
+native-code
+112
+
+monkeyrunner
+112
+tool from Android SDK which provides an API for writing programs that control an Android device or emulator from outside of Android code.
+mirror
+112
+
+restrict
+112
+
+receiver
+112
+
+settings.bundle
+112
+A settings.bundle contains files that describe the structure and desired presentation style of your Application preferences.
+shapefile
+112
+Excerpt from wikipedia: The Esri Shapefile or simply a shapefile is a popular geospatial vector data format for geographic information systems software. It is developed and regulated by Esri as a (mos…
+selectedvalue
+112
+
+scripting-language
+112
+
+spork
+112
+A DRb server for testing frameworks (RSpec / Cucumber currently) that forks before each run to ensure a clean testing state.
+reshape
+111
+
+prevent
+111
+
+mouseleave
+111
+For issues relating to setting up, subscribing to, or handling mouseleave events.
+mspec
+111
+a Context/Specification framework geared towards removing language noise and simplifying tests.
+mysql-error-1045
+111
+ERROR 1045 (28000): Access denied for user '%s'@'%s' (using password: %s)
+nsmenu
+111
+
+plinq
+111
+a parallel query execution engine for LINQ. PLINQ supports the data parallelism pattern by adding additional syntax to allow queries to be declared as running in parallel.
+perl-data-structures
+111
+
+gmail-imap
+111
+Google mail IMAP interface allows mail clients, and software developers to access google mail using the IMAP standard.
+google-earth-plugin
+111
+The Google Earth Plug-in and its JavaScript API let you embed Google Earth, a true 3D digital globe, into your web pages.
+google-openid
+111
+
+facebook-likebox
+111
+

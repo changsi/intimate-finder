@@ -1,0 +1,108 @@
+mqseries
+57
+Please use websphere-mq tag instead
+scripting-bridge
+57
+a Cocoa framework that enables developers to communicate with scriptable applications in Objective-C.
+samsung-mobile
+57
+
+settings.settings
+57
+
+sheet
+57
+
+sparse
+57
+
+spring-webflow-2
+57
+a web-app framework which helps to define the page navigation rules in a intuitive, and reusable way.
+sprite-sheet
+57
+
+recursive-descent
+57
+
+repeated
+57
+
+reinterpret-cast
+57
+
+rest-client
+57
+
+resize-image
+57
+
+puremvc
+57
+a lightweight framework for creating applications based upon the classic Model, View and Controller concept.
+quicklook
+57
+QuickLook an objective-c framework used in iOS and MacOS application development typically for previews.
+rails-3.1
+57
+
+ess
+57
+an emacs add-on for editing scripts and interacting with statistical programs such as R, Stata or SAS.
+esql
+57
+
+easyphp
+57
+integrated installer for apache,php,mysql stack on windows
+dpkg
+57
+
+exslt
+57
+
+exercise
+57
+To be used for questions related to programming exercises. Other uses of this tag are off-topic on Stack Overflow.
+facebook-ios-sdk
+57
+
+file-copy
+57
+
+gentoo
+57
+a computer operating system built on top of the Linux kernel and based on the Portage package management system. It is distributed as free and open source software…
+mean
+57
+
+mapper
+57
+
+machine-code
+57
+
+juggernaut
+57
+Realtime server push with node.js, WebSockets and Comet
+ldap-query
+57
+
+install4j
+57
+a multi-platform installer builder for Java-based applications. It is developed by ej-technologies GmbH.
+intraweb
+57
+
+invalidcastexception
+57
+
+handwriting
+57
+
+hpux
+57
+Hewlett-Packard's proprietary implementation of the Unix operating system, based on UNIX System V (initially System III) and first released in 1984.
+image-conversion
+57
+

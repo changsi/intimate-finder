@@ -1,0 +1,109 @@
+jfreechart
+574
+a free Java chart library with many available chart types and support for numerous output types. The most recent update was in 2011.
+uac
+574
+used for questions concerning the User Account Control (UAC) security feature of Windows Vista and Windows 7.
+c++builder
+573
+a RAD C++ environment (compiler system & IDE) and component framework.
+attachment
+573
+
+dynamic-data
+573
+
+private
+573
+
+nullable
+573
+is for issues relating to nullable members or types.
+simulation
+572
+the imitation of some real thing, state of affairs, or process. The act of simulating something generally entails representing certain key characteristics or behaviours of a selected phy…
+gradient
+572
+
+jobs
+572
+for questions related to jobs (unattended background executions) or job scheduling (the management of said executions).
+yahoo
+572
+An American multinational internet corporation headquartered in Sunnyvale, California, United States
+center
+571
+
+google-calendar
+571
+A free calendar web application from Google that allows users to create, track, and remind people of important events.
+processing
+570
+an open source programming language and environment for people who want to create images, animations, and interactions.
+code-analysis
+569
+
+swig
+569
+an interface compiler that connects programs written in C and C++ with scripting languages such as Perl, Python, Ruby, and Tcl.
+x11
+569
+a extensible, network transparent, abstract windowing, graphics and user input protocol and system design. It forms the foundation of most Unix operating system GUIs.
+geospatial
+568
+Excerpt from http://www.chacha.com/question/what-does-geospatial-mean:
+Geospatial (adj) Definition: pertaining to the geographic location and characteristics of natural or constructed features and bo…
+actionmailer
+568
+
+profile
+567
+
+startup
+567
+
+calculation
+566
+
+appcelerator
+565
+a development platform for JavaScript developers.  It enables programmers to write desktop, mobile, and tablet applications entirely in JavaScript.
+dispose
+564
+Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources
+portability
+564
+Portable code can be run with little to no modification in multiple environments.  Portable applications can be run from e.g. a USB drive without modifying a computer's environment.
+empty
+564
+
+maven-3
+564
+a tool for project management and build automation. This tag is for questions relating to Maven version 3.x.  For non version-specific questions, please use the [maven] tag.
+hierarchy
+564
+For issues relating to creating, maintaining, or displaying a hierarchy of data or resources, etc.
+dynamics-crm-2011
+563
+a multi-lingual Customer Relationship Management software package developed by Microsoft. It has built in support for Sales, Marketing and Service. This tag is reserved for D…
+alertdialog
+563
+
+flash-player
+563
+Adobe Flash Player
+opacity
+563
+
+padding
+563
+
+root
+563
+on Unix-like systems, special user account used for system administration
+address
+563
+
+sharedpreferences
+562
+Shared Preferences allow you to save and retrieve persistent key-value pairs of primitive data types in Android applications.

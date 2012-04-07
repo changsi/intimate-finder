@@ -1,0 +1,110 @@
+edit-and-continue
+23
+
+git-add
+23
+
+getresponse
+23
+
+gettimeofday
+23
+
+getopts
+23
+
+getaddrinfo
+23
+`getaddrinfo(3)` provides network address and service translation.
+.htpasswd
+23
+
+web-garden
+23
+
+alexa
+23
+
+acronym
+23
+
+gnome-shell
+23
+the core user interface of the GNOME desktop environment starting with version 3.
+git-workflow
+23
+
+google-datastore
+23
+
+groovyshell
+23
+
+gtfs
+23
+The General Transit Feed Specification (GTFS) defines a common format for public transportation schedules and associated geographic information.
+gst
+23
+
+grinder
+23
+[The Grinder](http://grinder.sourceforge.net/) is a Java load-testing framework that makes it easy to run a distributed test using many load injector machines.
+grok
+23
+
+grids
+23
+
+gridlines
+23
+
+freetextbox
+23
+a WYSIWYG Rich HTML editor control for ASP.NET.
+geos
+23
+
+gadt
+23
+a more powerful form of algebraic data types that support custom constructor types.
+gdataxml
+23
+
+expression-encoder-sdk
+23
+
+false-positive
+23
+the case where the positive result of a test doesn't correspond to reality. It leads to wrong decision.
+fest
+23
+FEST (Fixtures for Easy Software Testing) is a collection of APIs to facilitate Java software testing.
+fedex-api
+23
+
+fedex-shipping
+23
+
+fbx
+23
+
+flotr
+23
+a javascript plotting library based on the Prototype Javascript Framework 1.6+.
+
+Flotr enables you to draw appealing graphs in most modern browsers with an easy to learn syntax.
+form-api
+23
+
+form-data
+23
+
+file-recovery
+23
+
+filemerge
+23
+
+finch
+23
+a simple, low-latency OpenAL sound engine for Apple iOS.

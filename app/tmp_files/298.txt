@@ -1,0 +1,108 @@
+table-per-type
+34
+An inheritance model used by Entity Framework, one of Microsoft's ORM technologies
+table-per-hierarchy
+34
+A technique that maps an inheritance hierarchy of objects to a single table in relational database.
+sxs
+34
+
+where-in
+34
+
+xcache
+34
+an open-source PHP opcode cacher, meaning that it accelerates the performance of PHP on servers.
+xcode3to4
+34
+Migration from Xcode 3 to Xcode 4
+wxruby
+34
+Ruby version of wxWidget which is cross-platform GUI framework.
+wtk
+34
+Java ME Wireless Toolkit
+worldpay
+34
+
+wql
+34
+
+wise
+34
+
+winscp
+34
+an open source free SFTP client, SCP client, FTPS client and FTP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scri…
+uitableviewdelegate
+34
+
+ulimit
+34
+
+unary-operator
+34
+
+verifyerror
+34
+
+usps
+34
+
+usersettings
+34
+
+visitor-statistic
+34
+
+virtual-serial-port
+34
+for question related to virtual serial port.
+video-conferencing
+34
+
+violation
+34
+
+codeigniter-datamapper
+34
+An ORM library for CodeIgniter that builds on CodeIgniter's existing ActiveRecord library.
+code-structure
+34
+written to allow it to be best read, maintained and organized for efficiency. Decisions such as when classes should be used, and which patterns would be mos…
+computation
+34
+
+competitions
+34
+
+compatibility-mode
+34
+
+chain-of-responsibility
+34
+
+data-persistence
+34
+
+database-first
+34
+
+custom-validators
+34
+
+customized
+34
+
+xslt-grouping
+34
+
+xp-cmdshell
+34
+
+xmldom
+34
+The abstract tree structure of an XML document
+xmi
+34
+XML Metadata Interchange

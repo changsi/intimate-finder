@@ -1,0 +1,112 @@
+mq
+80
+The ambiguous 'mq' tag refers to variously to message queuing in general or any of several implementations of messaging middleware with "MQ" in the name.
+operation
+80
+
+operations
+80
+
+ooad
+80
+Object Oriented Analysis and Design
+pdfkit
+80
+A Ruby gem for creating PDFs using plain old HTML+CSS.
+parallel-extensions
+79
+The Parallel Extensions for .NET consist of the Task Parallel Library (TPL) and Parallel LINQ (PLINQ). These two libraries enable task and data parallelism programming with .NET.
+montecarlo
+79
+stochastic (probabilistic) systems that use many random samples to derive properties of a complex system.
+special-folders
+79
+"Special folders" refers to directories in the Windows operating system that provide extended functionality in the user interface. Prominent examples are the "Desktop", "Start Menu", the "My Documents…
+spring-annotations
+79
+Spring Annotations concerns the use of all Annotations supported by the Spring Framework.
+scaffold
+79
+
+runtimeexception
+79
+
+shebang
+79
+The #! marker at the beginning of scripts is called a shebang.
+setting
+79
+
+provisioning-profile
+79
+A profile used by apple for verifying code signing for an application.
+webhttpbinding
+79
+
+distributed-system
+79
+
+dual-monitor
+79
+
+google-closure-library
+79
+a JavaScript framework used by Google and one of three components to Closure Tools, an open source toolset to aid with developing front-end web applications
+genetic-programming
+79
+a specialization of genetic algorithms (GA) where each individual is a computer program. It is used to optimize a population of computer programs according to a fitness lan…
+interrupt-handling
+79
+
+itunes-store
+79
+
+headless
+79
+
+jqgrid-php
+79
+Description
+
+Tag for the PHP wrapper of jqGrid.
+
+For more information, visit: http://www.trirand.net/default.aspx
+android-file
+79
+
+cad
+79
+the use of computer technology for the process of design and design-documentation.
+ccnet-config
+79
+may be used on questions related to the configuration of CruiseControl.NET (also known as CCNet). It is closely related to the cruisecontrol.net tag.
+d3.js
+79
+a small, open-source JavaScript library for manipulating documents based on data. The project is led by Mike Bostock; more information can be found at http://mbostock.github.com/d3/
+channelfactory
+79
+
+traveling-salesman
+79
+The "[travelling salesman problem](http://en.wikipedia.org/wiki/Traveling_salesman_problem)" (often referred to by its initials: TSP) one of the most well known "hard" (NP-complete) problems in classi…
+variadic
+79
+
+updatemodel
+79
+
+use
+79
+
+url-parameters
+79
+
+weight
+79
+
+xcode3.2.3
+79
+For issues relating to using Xcode, version 3.2.3.
+wso2
+79
+a Java-based SOA platform.

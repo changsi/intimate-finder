@@ -1,0 +1,108 @@
+kentico
+49
+a content management system (CMS) for building web sites, on-line stores, intranets and Web 2.0 community sites. Kentico CMS utilizes ASP.NET and Microsoft SQL Server.
+jbossws
+49
+JBossWS features include many specifications / standards implementations as well as additional features, options, tools to improve ease of use, endpoint management and monitoring, etc.
+iequatable
+49
+
+igoogle
+49
+
+imagefield
+49
+
+imacros
+49
+an extension for the Mozilla Firefox, Google Chrome and Internet Explorer web browsers which adds record and replay functionality similar to that found in web testing and form filler softwa…
+jakarta-commons-logging
+49
+
+java-5
+49
+Java SE version 5 was released in September 2004 and is no longer supported by Sun as of November 2009.
+intermediate-language
+49
+
+insertion-sort
+49
+
+android-api
+49
+
+android-apk
+49
+a bundled Android application, which contains the compiled source and other resources of the application.
+aqgridview
+49
+
+android-orientation
+49
+
+auctex
+49
+Questions about the AUCTeX package for editing (La)TeX code/documents in Emacs.
+attributeerror
+49
+
+data-protection
+49
+
+dd
+49
+A low-level command-line tool on Unix-like operating systems to copy and convert files.
+dblinq
+49
+
+diffie-hellman
+49
+Diffie-Hellman, commonly abbreviated DH, refers to a public key cryptographic protocol used by two parties to produce a common shared secret. It is most commonly used to implement key agreement, by us…
+caller
+49
+
+bus
+49
+
+zodb
+49
+an object database for Python. It is part of the ZOPE web application framework project, but can be used stand-alone also, and provides an easier persistance alternative to relational database…
+zend-cache
+49
+
+xmlelement
+49
+
+xmp
+49
+The Adobe Extensible Metadata Platform (XMP) is a standard, created by Adobe Systems Inc., for processing and storing standardized and proprietary information relating to the contents of a file.
+xmltextwriter
+49
+
+backpropagation
+49
+a common method of teaching artificial neural networks how to perform a given task.
+authorize
+49
+
+autofocus
+49
+
+coordinate-transformation
+49
+
+conways-game-of-life
+49
+The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
+cookiecontainer
+49
+
+d3
+49
+short for Data-Driven Documents, a small, free JavaScript library for manipulating documents based on data.
+cscript
+49
+CScript refers to the Windows Script Host, particularly the console-based standalone script host, implemented in Cscript.exe, which is part of every Microsoft Windows OS. Cscript can run javascript, v…
+coercion
+49
+

@@ -1,0 +1,108 @@
+dhtml
+525
+an umbrella term for a collection of technologies used together to create interactive and animated web sites by using a combination of a static markup language (such as HTML…
+twitter-oauth
+524
+twitter implementation of oauth
+reload
+524
+
+roles
+524
+
+one-to-many
+522
+
+indentation
+522
+used to organize code by indicating blocks, closures, conditionals, and other constructs. It makes code easier to read, and in some languages is used to handle control flow.
+mdx
+522
+a query language for OLAP databases. It was developed by Microsoft but has later gained widespread support from other OLAP vendors.
+dao
+521
+DAO - Data Access Objects
+delayed-job
+521
+A Ruby library to queue and defer processing of slow methods like sending email and image resizing.
+delphi-xe2
+520
+a specific version of Delphi. Delphi XE2 was released on September 1, 2011 and is available as a standalone product or as part of RAD Studio XE2.
+dijit
+520
+a user interface widget library of the Dojo Toolkit.
+linker-error
+519
+
+spreadsheet
+519
+a computer application with tools that increase the user's productivity in capturing, analyzing, and sharing tabular data sets. Each cell contains alphanumeric text, numeric values, o…
+nsview
+518
+NSView Implements basic drawing, event handling and printing behaviors for applications. Usually application code define subclasses of NSView to provide richer implementations. Belongs to the Foundati…
+ssrs-reports
+517
+a server-based report generation software system from Microsoft
+membership
+517
+
+dotnetopenauth
+517
+a free and open source library and is available from http://www.dotnetopenauth.net.  It features support for OpenID 1.1 and 2.0 Relying Parties and Providers, OAuth 1.0 &amp; 1.1 Con…
+datamapper
+517
+Architectural pattern for separating application logic from storage.
+ribbon
+516
+an interface wherein a set of toolbars are organized using tabs.
+nsfetchedresultscontrolle
+516
+efficiently manage the results returned from a Core Data fetch request to provide data for a `UITableView` object.
+office-interop
+516
+the layer using the COM Interop that allows .NET or C# to communicate with standard COM objects and libraries.
+nsis
+515
+NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for i…
+profiler
+515
+programming tool to track and analyse the performance of a software program
+max
+515
+
+detection
+515
+
+asset-pipeline
+514
+a feature added to Rails 3.1 to provide improved organization and processing for javascript, stylesheets, and images.
+transition
+514
+
+each
+514
+
+gpu
+514
+Acronym for "Graphics Processing Unit". For programming traditional graphical applications, see the tag entry for "graphics programming". For general-purpose programming using GPUs, see the tag entry …
+mozilla
+514
+a non-profit organization that exists to support and provide leadership for the open source Mozilla project
+polygon
+514
+For issues relating to the creation and rendering of polygons in graphical user interfaces.
+jmx
+513
+a standard Java API that enables the instrumentation and monitoring of a running Java program.
+textures
+513
+series of images used in computer graphics to associate locations on a visible surface with varying values. This association is typically done by mapping locations on the texture (usually…
+wpftoolkit
+513
+a collection of WPF features and components that are being made available outside of the normal .NET Framework ship cycle. The WPF Toolkit not only allows users to get new functiona…
+child
+513
+
+zend-db
+513
+Database access component for the Zend Framework.

@@ -1,0 +1,108 @@
+webdeploy
+100
+a command-line tool from Microsoft that is used for synchronizing Web sites and Web servers. It is also known as Web Deploy, the Web Deployment Tool, and MSDepl…
+double-quotes
+100
+
+document.write
+100
+
+sicp
+100
+the book Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman and published by the MIT Press.
+sql-server-ce-4
+100
+
+spl
+100
+a collection of PHP interfaces and classes that are meant to solve standard problems.
+pyserial
+100
+a python module that encapsulates the access for the serial port.
+processing.js
+100
+A JavaScript port of the Processing language.
+psexec
+100
+a light-weight telnet-replacement that lets you execute processes on other systems, complete with full interactivity for console applications, without having to manually install client softw…
+rijndaelmanaged
+100
+.NET Framework (1.1 and later) managed version of the Rijndael (AES) algorithm.
+required
+100
+
+relative-positioning
+100
+
+rdl
+100
+a standard proposed by Microsoft for defining reports.
+modulus
+100
+
+mouselistener
+100
+
+noconflict
+100
+noConflict commonly refers to a jQuery method which relinquishes jQuery's control of the $ variable.
+opentk
+100
+an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL. It is suitable for games, scientific applications and any other project that requires 3d graphics, audio or …
+object-literal
+100
+
+plsqldeveloper
+99
+an Integrated Development Environment that is specifically targeted at the development of stored program units for Oracle Databases.
+nearest-neighbor
+99
+The nearest neighbour algorithm was one of the first algorithms used to determine a solution to the travelling salesman problem. In it, the salesman starts at a random city and repeatedly visits the n…
+reliability
+99
+
+pythonpath
+99
+an environment variable that Python uses to get the list of directories to search for modules and files
+specific
+99
+
+shortcode
+99
+
+django-testing
+99
+
+dom4j
+99
+an open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP.
+actionresult
+99
+
+flashvars
+99
+a parameter of the HTML <OBJECT> tag and is used to sends variables into a SWF file when it loads in a web browser.
+fileinfo
+99
+
+filereference
+99
+
+grails-controller
+99
+
+initializer
+99
+
+huffman
+99
+David A. Huffman created Huffman Code while pursuing a Ph.D at MIT in 1952
+linear-regression
+99
+
+maven-jetty-plugin
+99
+a Maven plug-in which embeds the Jetty webserver within a Maven build. It is configured in the Maven POM file. It is extremely useful for Rapid Application Development.
+bamboo
+99
+a continuous integration and deployment server from Atlassian, the makers of JIRA, Confluence and Crowd.

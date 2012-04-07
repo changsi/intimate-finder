@@ -1,0 +1,108 @@
+mysqld
+24
+
+n900
+24
+a smartphone made by Nokia in Finland. It is powered by the Linux-based Maemo 5 operating system. It is the first Nokia device based upon the Texas Instruments OMAP3 microprocessor w…
+netlink
+24
+a socket based inter process communication protocol for Linux systems.  It is currently the preferred way, as of 2.6, of communicating with user space from the kernel.
+newtons-method
+24
+
+nsprogressindicator
+24
+
+nsfetchedresultcontroller
+24
+
+nservicebus-distributor
+24
+
+not-responding
+24
+
+non-nullable
+24
+
+nokia-s40
+24
+a software platform and application user interface (UI) software on Nokia's broad range of mid-tier feature phones.
+monkey
+24
+
+mutual-recursion
+24
+a case in computer science where multiple problems that depend on each other form a cycle, like the chicken and egg problem.
+mutation
+24
+
+ms-solver-foundation
+24
+a .NET solution for mathematical optimization and modeling. Solver Foundation makes it easier to build and solve real-world optimization models by providing a .NET API a…
+parsefloat
+24
+a global JavaScript method which parses an argument, and returns a number.
+pdf-conversion
+24
+
+pdf-reader
+24
+
+pdu
+24
+Protocol Data Unit.  Also know as Concatenated SMS, it is a way to extend SMS messages beyond the usual 160 character data limit.
+perspectives
+24
+
+pessimistic-locking
+24
+
+photologue
+24
+
+percona
+24
+an enhanced version of the InnoDB storage engine, designed to better scale on modern hardware, and including a variety of other features useful in high performance environments. It i…
+posterous
+24
+
+powershell-ise
+24
+
+post-commit-hook
+24
+
+pointcuts
+24
+
+phrase
+24
+
+phppgadmin
+24
+
+pinterest
+24
+a virtual pinboard which allows you to organize and share things you find on the web. You can browse pinboards created by other people to discover new things and get inspiration from peop…
+one-time-password
+24
+designed as single use passwords which expire after use. They are often more secure than single factor authentication methods such as username-password (something the user knows…
+onmouseup
+24
+
+onreadystatechange
+24
+
+onscroll
+24
+
+object-context
+24
+
+obscure
+24
+
+office-communicator
+24
+

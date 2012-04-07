@@ -1,0 +1,108 @@
+direction
+125
+
+android-ksoap2
+125
+
+amfphp
+124
+a PHP open source library used to serialize/deserialize AMF packages. It allows remote invokation from Adobe Flex to PHP.
+undefined-reference
+124
+
+type-safety
+124
+
+barchart
+124
+
+coverflow
+124
+an animated, three dimensional graphical user interface.
+circular-reference
+124
+
+conditional-statements
+124
+
+compile-time
+124
+
+httpsession
+124
+
+invalidate
+124
+
+kohana-orm
+124
+
+lowercase
+124
+
+marketing
+124
+
+erase
+124
+
+eventlistener
+124
+
+rank
+124
+
+receive
+124
+
+qooxdoo
+124
+versatile JavaScript framework to create applications for a wide range of platforms.
+pycharm
+124
+Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django fr…
+seek
+124
+the act of moving around a file or file-like object.
+stackoverflowexception
+123
+thrown when the limited memory available for the execution stack is exhausted. This is almost always caused by too many nested method calls, which ultimately results in a…
+quickbooks
+123
+popular small to medium-sized business accounting software created by Intuit, Inc. QuickBooks Pro/Premier/Enterprise for Windows all include support for programmatic access to QuickBooks…
+redraw
+123
+
+polyline
+123
+a continuous line composed of one or more line segments.
+event-bubbling
+123
+
+esri
+123
+ESRI (Environmental Systems Research Institute) is a GIS (Geographical Information Systems) Development company. ESRI produces GIS Software
+alter
+123
+a SQL keyword used to change or modify the table structure or the records in a table.
+gethashcode
+123
+
+fieldset
+123
+
+fusioncharts
+123
+a charting component in Flash and HTML5. It helps you make animated and interactive charts, gauges and maps that you can use in web and desktop applications.
+gravity
+123
+
+googlebot
+123
+the search bot software used by Google, which collects documents from the web to build a searchable index for the Google search engine.
+maya
+123
+a 3D modeling, animation and rendering tool used by many entertainment companies in film, TV and advertising.
+login-script
+123
+a batch script for fine-tuning computer workstation logins.  Please don't use this tag for web site login code, such as PHP.

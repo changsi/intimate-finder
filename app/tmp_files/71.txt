@@ -1,0 +1,110 @@
+propertygrid
+329
+
+rcp
+328
+software that provides a platform for application developers to build on.  It may also refer to the "remote copy" command in Unix.
+restlet
+328
+an open source Java framework to expose and consume RESTful web APIs. It has editions for Java SE, Java EE, GAE, GWT and Android.
+gnumake
+328
+for questions about `gmake`, the GNU version of the `make` utility to maintain and update programs.
+jwplayer
+328
+an open sourced Flash and HTML5 web video player, free for non-commercial use with commercial and enterprise licenses available. Arguably one of the web's most popular video players.
+ipod-touch
+328
+a portable media player, personal digital assistant, handheld game console, and a Wi-Fi mobile device designed and marketed by Apple Inc.
+subclipse
+328
+An Eclipse plugin providing Subversion (SVN) integration
+classification
+328
+
+copy-constructor
+328
+
+datacontract
+328
+a formal agreement between a service and a client that abstractly describes the data to be exchanged.  A data contract precisely defines, for each parameter or return type, what dat…
+datacontractserializer
+327
+.NET Framework class, Serializing and deserializing an instance of a type into an XML stream or document using a supplied data contract.
+css-sprites
+327
+a CSS technique to combine small images into one big image and then access them using the background-position property. It is used to save HTTP requests.
+cherrypy
+327
+a pythonic, object-oriented HTTP framework. See cherrypy.org for more information.
+blackberry-eclipse-plugin
+327
+BlackBerry Java Plug-in for Eclipse
+transactionscope
+327
+
+lazy-evaluation
+327
+Lazy evaluation refers to a variety of concepts that seek to avoid evaluation
+of an expression unless its value is needed, and to share the results of evaluation of an expression among all uses of it…
+webcontrols
+327
+
+meta-tags
+327
+HTML element used to provide structured metadata about a Web page placed in the head section of an document.
+movieclip
+327
+
+modalpopupextender
+326
+part of the AJAX Control Toolkit for ASP.net
+modeling
+326
+
+irc
+326
+an internet based chat protocol.
+Main idea is to have users connect to a server network, where they can then send messages to each other through channels or di…
+categories
+326
+
+bazaar
+326
+a free distributed version control system (DVCS).
+str-replace
+325
+This function returns a string or an array with all occurrences of search in subject replaced with the given replace value.
+mkannotation
+325
+provide annotation-related information to a map view
+ntlm
+324
+a suite of Microsoft security protocols that provides authentication, integrity, and confidentiality to users.
+setter
+324
+public mutator method, used in object-oriented programming, which gives new value to a private member of a class.
+game-engine
+324
+A system designed for the creation and development of video games
+crop
+324
+Crop refers to any issues relating to cropping images.
+combinatorics
+323
+Deals with combinations of entities belonging to a finite set in accordance with certain constraints.
+backend
+323
+
+videoview
+323
+a specific API provided by Android SDK.
+google-visualization
+323
+The Google Visualization API enables the creation of charts and reports from structured data.  The resulting charts and reports can be included directly into a web site.
+alfresco
+323
+Alfresco Open Source Enterprise Content Management Software
+drools
+323
+a business rule management system (BRMS) with a forward chaining inference based rules engine, more correctly known as a production rule system, using an enhanced implementation of the Rete …

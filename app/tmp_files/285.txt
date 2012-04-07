@@ -1,0 +1,108 @@
+restful-wcf
+37
+
+revisions
+37
+
+pull-request
+37
+made when a developer forks a project, makes changes, and then wants those changes to be included in the main project again. These were made popular by Github and Bitbucket.
+prettyfaces
+37
+PrettyFaces The leading `/url/#{rewriting}` solution for Servlet, JSF, and Java EE
+printscreen
+37
+
+quantitative-finance
+37
+
+querystringparameter
+37
+
+questionnaire
+37
+
+rails-console
+37
+
+radial-gradients
+37
+A linear interpolation between two or more colours based on the distance from the centre of a circle or ellipse.
+eregi
+37
+
+esper
+37
+a lightweight, open-source library for CEP (Complex Event Processing) and ESP (Event Stream Processing) applications developed by EsperTech Inc. It is available for Java as Esper, and for .NE…
+excel-dna
+37
+an independent open-source project to integrate .NET into Excel. It allows creation of Excel add-ins, including high-performance user-defined functions, using managed code.
+drush
+37
+a command line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those of us who spend some of our working hours hacking away at the comm…
+dual
+37
+
+dup2
+37
+
+domaindatasource
+37
+
+dotconnect
+37
+an enhanced database connectivity solution built over ADO.NET architecture and a development framework with a number of innovative technologies.
+django-formwizard
+37
+
+divide-and-conquer
+37
+
+.bash-profile
+37
+
+web-config-transform
+37
+Web.config transformation lets you easily transform .NET application configuration files. Full [syntax guide](http://msdn.microsoft.com/en-us/library/dd465326.aspx). [Web.config transform tester tool]…
+webpage-screenshot
+37
+
+google-adwords
+37
+Google's pay-per-click (PPC) contextual advertising advertising network, offering cost-per-click (CPC), cost-per-thousand (CPM) advertising, and site-targeted advertising for text, banner, …
+gnome-3
+37
+the third major version of the Gnome Desktop Environment. This tag refers to the Gnome desktop itself, or applications using the Gnome frameworks.
+generated
+37
+
+game-loop
+37
+
+functional-dependencies
+37
+
+full-trust
+37
+
+full-text
+37
+
+export-to-pdf
+37
+
+externals
+37
+
+facebook-access-token
+37
+The oauth access-token specifically to the Facebook API.
+fast-enumeration
+37
+
+featured
+37
+
+flexgrid
+37
+Jquery control for grid view

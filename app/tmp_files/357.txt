@@ -1,0 +1,109 @@
+bluej
+24
+a popular Java IDE aimed at teaching the principles of object oriented programming.
+bonecp
+24
+a fast, free, open-source, Java database connection pool (JDBC Pool) library available at http://jolbox.com
+blink
+24
+
+bioperl
+24
+a package of Perl tools for computational molecular biology.
+celltable
+24
+
+buttonfield
+24
+
+cabal-install
+24
+
+can
+24
+a vehicle bus standard designed to allow microcontrollers and devices to communicate with each other within a vehicle without a host computer.
+CAN is a mes…
+cal
+24
+the Composite Application Library the previous name for the Prism guidance for WPF and Silverlight.
+adjustment
+24
+
+display-templates
+24
+
+dfm
+24
+
+dedicated-server
+24
+
+dedicated
+24
+
+degrees
+24
+
+definitions
+24
+
+delayed
+24
+
+design-guidelines
+24
+
+dbcc
+24
+
+altova
+24
+
+amplitude
+24
+
+apache-httpcomponents
+24
+A comprehensive Java library for interacting with HTTP services. Found at http://hc.apache.org/index.html and formerly know as Apache HttpClient (versions < 4).
+apache-commons-exec
+24
+
+appstore-sandbox
+24
+A method of limiting an application's access to system resources (sandbox) required for applications submitted to the Mac App Store.
+appmobi
+24
+Questions about appMobi tools and web services, used for creating native mobile applications and websites using HTML5 and Javascript.
+assembly.load
+24
+
+asp.net-webcontrol
+24
+
+associativity
+24
+
+android-mediarecorder
+24
+
+anemic-domain-model
+24
+"anemic" if it has little or no behavior (methods).
+android-framework
+24
+
+android-internet
+24
+
+authoring
+24
+
+infile
+24
+
+interpreted
+24
+
+intermittent
+24
+

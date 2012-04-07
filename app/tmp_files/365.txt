@@ -1,0 +1,109 @@
+session-bean
+23
+
+silverlight-datagrid
+23
+
+slickedit
+23
+a non-free software for developers with multi-language development tools. It's a cross-platform and support 40+ languages.
+site.master
+23
+
+smf
+23
+SMF can refer to either Silverlight Media Framework (an open source framework from Microsoft, see http://smf.codeplex.com) or Simple Machines Forum (see http://www.simplemachines.org/)
+For disambigua…
+sphinx4
+23
+a part of CMUSphinx Speech Recognition Toolkit. It's a flexible large and small vocabulary speech decoder written in Java and licensed under BSD license.
+spawning
+23
+
+springboard
+23
+
+spy
+23
+XUnit pattern where you replace the original implementation with a test double to capture the calls on the object. Later in your test you can verify the object under test has made specific ca…
+sqlcommandbuilder
+23
+
+stackoverflow-api
+23
+
+sqlgeography
+23
+
+risk
+23
+
+rtd
+23
+
+ri
+23
+The Ruby documentation viewer, invoked through the command-line.
+rhtml
+23
+
+rexx
+23
+a (most of the time) interpreted programming language developed by IBM in the end of 70's and beginning of 80's.
+raw-types
+23
+
+readxml
+23
+
+rendertransform
+23
+
+reloading
+23
+
+profile-provider
+23
+
+propertysheet
+23
+
+pyc
+23
+
+pysnmp
+23
+a python package used for native python snmp transactions.
+quicksearch
+23
+
+quickgraph
+23
+an open source generic graph library .NET. It handles both directed and undirected graphs and has algorithms for traversing and searching the graphs.
+rabl
+23
+a Ruby templating system for generating XML and JSON.
+radix
+23
+
+random-forest
+23
+
+rainbowtable
+23
+
+error-checking
+23
+
+esx
+23
+
+dss
+23
+Data Services Server
+eclair
+23
+
+eclipse-tptp
+23
+Eclipse Test & Performance Tools Platform

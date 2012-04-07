@@ -1,0 +1,108 @@
+cairngorm
+85
+an open source frameworks for application architecture in Adobe Flex. Is is based on the MVC model.
+bidirectional
+85
+
+avl-tree
+85
+Named after its inventors, Adelson-Velskii and Landis, an AVL tree is a self-balancing binary search tree.
+automated-testing
+85
+the use of software to control the execution of tests, the comparison of actual outcomes to predicted outcomes, the setting up of test preconditions, and other test control and test…
+tab-completion
+85
+Most shells provide TAB completion where a user can type part of a command or file name, and then press TAB to make the shell complete the name. This saves greatly on the number of key presses needed …
+subdirectories
+85
+
+street-address
+85
+Street address refers to postal addresses, or delivery points, that can be used for physically delivery of mail or goods.
+strcmp
+85
+a string compare function that is available in languages such as C, C++, and Python.
+tridion
+85
+a Web Content Management software platform that supports both Java and .NET architecture.
+visual-c++-2005
+85
+
+wmode
+85
+
+webresource.axd
+84
+
+user-control
+84
+
+user-registration
+84
+
+uninitialized
+84
+
+track
+84
+
+stat
+84
+
+xml-signature
+84
+XML Signatures provide integrity, message authentication, and/or signer authentication services for data of any type, whether located within the XML that includes the signature or elsewhere.
+cgpath
+84
+
+cgpoint
+84
+A C struct with an x and a y member, each of type CGFloat, that is used in iOS SDK CoreGraphics.
+cppunit
+84
+a macro-based unit testing framework for C++.
+database-partitioning
+84
+
+cscope
+84
+a code searching application originally written for searching C code bases.  cscope is useful for searching many other code bases as well:  C++, Java, Python, etc.
+arc
+84
+a generic term, with uses in describing shapes or the ARC semantic web system.  It should not be used for Apple's automatic reference counting system (use [automatic-ref-counting] for that).
+apache-axis
+84
+an open source, XML based Web service framework. It consists of a Java and a C++ implementation of the SOAP server, and various utilities and APIs for generating and deploying Web servi…
+appearance
+84
+
+adjacency-list
+84
+
+deepzoom
+84
+Deep Zoom provides the ability to interactively view high-resolution images
+date-arithmetic
+84
+
+logfiles
+84
+
+line-height
+84
+
+lambda-calculus
+84
+a formal system for function definition, function application and recursion which forms the mathematical basis of functional programming.
+infrastructure
+84
+
+in-memory
+84
+
+http-caching
+84
+Eliminate the need to send HTTP requests in many cases, and eliminate the need to send full HTTP responses in other cases, by storing web content closer to where it is consumed.
+html-attributes
+84
+

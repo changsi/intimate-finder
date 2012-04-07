@@ -1,0 +1,110 @@
+expander
+170
+
+freepascal
+170
+a multi-dialect, multi-platform Pascal compiler. Its main focus are the Delphi and Turbo Pascal dialect, but a substantial Mac Pascal subset and a minor ISO Pascal mode exist as well.
+
+…
+framebuffer
+170
+a graphic hardware-independent abstraction layer used to display output to a monitor or display.
+django-south
+170
+a tool to provide consistent, easy-to-use and database-agnostic migrations for Django applications.
+jquery-dialog
+170
+
+image-scaling
+170
+
+harddrive
+170
+
+multiple-instances
+170
+
+paramiko
+170
+a Python module that implements the SSH2 protocol.
+put
+170
+
+requestfactory
+169
+a component of the Google Web Toolkit that targets developers building data-oriented (CRUD) applications.
+standards-compliance
+169
+
+mgtwitterengine
+169
+an Objective-C/Cocoa class which makes it easy to add Twitter integration to your own Cocoa apps.
+libgdx
+169
+a cross-platform (Android, desktop) game development library written in Java with some JNI code. It abstracts away the differences between writing desktop and Android games based…
+getline
+169
+
+gecko
+169
+an open source browser engine developed by Mozilla and used in browsers such as Firefox, Seamonkey and others.
+absolute-path
+169
+
+traits
+169
+
+wsdl2java
+169
+run against the WSDL file to create Java APIs and deployment descriptor templates according to these specifications.
+using-statement
+169
+a C# language feature that simplifies deterministic cleanup of disposable resources.
+svcutil
+168
+The ServiceModel Metadata Utility tool (SVCUTIL.EXE) is used to generate service model code from metadata documents and metadata documents from service model code.
+apply
+168
+
+gmaps4rails
+168
+a Ruby on Rails 3 gem, which provides a clear interface with GoogleMaps, OpenLayers, Bing and Mapquest
+gestures
+168
+
+locationmanager
+168
+The LocationManager class in Android provides access to the system location services. These services allow applications to obtain periodic updates of the device's geographical location, or to fire an …
+http-status-code-403
+168
+a HTTP standard response code indicating that the request was legal and understood but the server refuses to respond to the request.
+squid
+168
+Squid HTTP Proxy Server
+sqlcmd
+168
+
+separation-of-concerns
+168
+
+ruby-on-rails-2
+168
+Legacy version of the Ruby on Rails web development framework.
+screen-capture
+168
+
+recovery
+168
+
+region
+167
+
+rhomobile
+167
+a piece of software that can be used to create cross-platform, native, mobile applications.
+roleprovider
+167
+Built-in and custom implementations of ASP.NET's Role Provider, as part of Membership functionality in the System.Web.Security namespace.
+netbeans6.8
+167
+the version 6.8 of Netbeans IDE for java application development.

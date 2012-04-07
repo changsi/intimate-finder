@@ -1,0 +1,108 @@
+httpservice
+123
+a Flex component used for HTTP requests
+blowfish
+123
+a block cipher designed in 1993 to be fast on the general purpose CPUs of the time. It features a 64 bits block size and a variable key size up to 448 bits.
+box-model
+123
+The CSS box model. http://www.w3.org/TR/CSS2/box.html
+brute-force
+123
+
+traversing
+123
+
+temporary
+123
+
+sybase-ase
+123
+an enterprise RDBMS which has been developed by Sybase Inc (now an SAP company). Sybase ASE is available for various platforms like Unix and Windows. TSQL i…
+strongly-typed
+123
+
+thread-local
+122
+
+tomahawk
+122
+a JSF component library. It is a subproject of Apache MyFaces. Tomahawk provides a set of components which adds just that little extra which is by many developers seen as missing in JSF st…
+business-rules
+122
+
+cipher
+122
+a code translating information into a less recognizable form, with the goal of limiting the set of systems or individuals capable of receiving the original data when given the enciphered r…
+critical-section
+122
+Critical section refers to either a piece of code that will run concurrently in several threads accessing global data or resources (requiring synchronisation), or  a user-level spinlock combined with …
+data.table
+122
+The R data.table package provides an enhanced version of a data.frame with embedded indexes.
+advantage-database-server
+122
+a full-featured, easily embedded, client-server, relational database management system from Sybase, Inc.
+android-alertdialog
+122
+
+appharbor
+122
+a cloud application platform for .NET. Applications can be deployed to AppHarbor using Git, Mercurial, Subversion or TFS. A large number of services (relational and no-sql databases, emai…
+asp.net-web-api
+122
+A new ASP.Net technology from Microsoft focused on RESTful-style APIs for web applications.
+ddd-repositories
+122
+a mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects.
+hornetq
+122
+an open source asynchronous messaging project from JBoss.
+jquery-effects
+122
+
+foreground
+122
+
+activation
+122
+
+drupal-taxonomy
+122
+Topics related to Drupal taxonomy: vocabularies and taxonomy terms.
+ecmascript-5
+122
+an update of the EMCAScript-262 3rd edition specification after the cancellation of the 4th edition. It adds new features including strict mode, getters and setters, a JSON object, and…
+pictures
+122
+
+out
+122
+a keyword specified for the method parameters, which causes these parameters to be passed by reference to the called method and the caller sees the modified value.
+mirroring
+122
+
+multibyte
+122
+
+multiple-databases
+122
+
+monotouch-dialog
+122
+
+recv
+122
+
+renderer
+122
+
+revert
+122
+
+sound-api
+122
+
+slicing
+122
+

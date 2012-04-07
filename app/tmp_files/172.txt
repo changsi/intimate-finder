@@ -1,0 +1,108 @@
+linkify
+88
+
+master-slave
+88
+
+hbm2ddl
+88
+
+icommand
+88
+
+incremental
+88
+
+invoice
+88
+
+dvd
+88
+
+ellipsis
+88
+
+do-while
+88
+
+git-clone
+88
+
+16bit
+88
+Referring to computer architecture with addresses and other data units 16 bits wide.
+activexobject
+88
+
+python-c-api
+88
+
+simplepie
+88
+a PHP library intended to make it ridiculously easy for people to manage RSS and Atom feeds.
+selectedindex
+88
+
+scorm
+88
+a collection of standards for online content delivery.
+pem
+88
+Base64 based encoding (from Privacy Enhanced Mail standard)
+nsmutableurlrequest
+88
+
+named
+88
+
+net.tcp
+88
+
+npgsql
+87
+a .Net Data provider for Postgresql. It allows programs developed in .Net Framework to access a Postgresql server to write and read data.
+nivo
+87
+
+php-5.2
+87
+For issues relating to development using PHP, version 5.2.
+ognl
+87
+OGNL stands for Object-Graph Navigation Language. It is an expression language for getting and setting properties of Java objects.
+packing
+87
+
+packets
+87
+
+separate
+87
+
+spawn
+87
+loading and executing a new child process
+spring-data
+87
+an umbrella open source project which contains many subprojects that are specific to a given database. The projects are developed by working together with many of the companies and deve…
+pushstate
+87
+The HTML5 History API allows a web page to manipulate the contents of the history stack in order to dynamically update the URL and respond to the back button.
+py2app
+87
+py2app can create standalone Mac OS X applications with Python
+process.start
+87
+
+reserved-words
+87
+
+alphabetical
+87
+to describe the way of ordering a sequence in the same order as the alphabet
+alassetslibrary
+87
+A cocoa-touch framework. An instance of ALAssetsLibrary represents the videos and photos that are under the control of the Photos application.
+document.ready
+87
+

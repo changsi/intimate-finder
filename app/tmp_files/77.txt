@@ -1,0 +1,108 @@
+configure
+295
+
+datetimepicker
+295
+
+adodb
+295
+
+code-contracts
+294
+a Microsoft Research project which allows you to express contracts such as pre-conditions, post-conditions, and assertions directly in code.
+qa
+294
+the systematic monitoring and evaluation of the various aspects of a project, service or facility to maximize the probability that minimum standards of quality a…
+readline
+294
+
+predicate
+294
+a method which represents a set of criteria and decides for a given object if these criteria are fulfilled or not. In computer languages a Predicate is expressed as a function which tak…
+final
+294
+
+ajaxtoolkit
+293
+an open-source project built on top of the Microsoft ASP.NET AJAX framework
+nlog
+293
+a free logging platform for .NET
+administration
+293
+
+android-tabhost
+293
+Displays a list of tab labels representing each page in the parent's tab collection.
+development
+292
+
+uilocalnotification
+292
+Local notifications and push notifications are both ways for an iOS application that isnât running in the foreground to let its users know it has something for them.
+thrift
+292
+a software framework for scalable cross-language services development.
+system.drawing
+292
+a namespace of the .NET framework. It provides access to GDI+ basic graphics functionality.
+moose
+292
+a postmodern object system for Perl 5 that takes the tedium out of writing object-oriented Perl. It borrows all the best features from Perl 6, CLOS (Lisp), Smalltalk, Java, BETA, OCaml, Ruby …
+pause
+292
+
+retain
+292
+
+actors
+292
+A high-level concurrency model building on independent, totally encapsulated active objects exchanging messages asynchronously.
+git-branching
+292
+
+google-plus
+291
+Integrate applications or websites with the Google+ platform. Google+ is a social networking site operated by Google Inc.
+json-decode
+291
+a PHP function that converts a UTF-8 JSON encoded string into a PHP value.
+single-sign-on
+291
+Single sign-on, a system for sharing authentication credentials between different systems
+packet
+291
+
+ntfs
+291
+a file system of Windows.
+will-paginate
+291
+Ruby pagination library
+case-sensitive
+291
+case sensitive when uppercase and lowercase characters are treated differently.
+android-softkeyboard
+291
+The default onscreen input method provided by Android OS
+assembler
+290
+the name of the source code used for programming a computer at the level of its instruction set. It is also a generic term for a program that converts such source code into executable bin…
+cil
+290
+the object-oriented assembly language used by the .NET Framework and Mono. .NET languages compile to CIL, which is assembled into an object code that has a bytecode-sty…
+circle
+290
+
+compiler-optimization
+290
+Compiler optimization involves the editing, adding or removing parts of the output of a compiler to render it more efficient. Efficiency here is defined to be either to reduce the run-time or to the m…
+sitecore6
+290
+a Web Content Management System built on Microsoft ASP.net. This tag relates to version 6 of Sitecore
+member
+290
+
+expect
+290
+a Unix/Linux extension for the Tcl scripting language.  It was designed as an automation and testing tool and it makes it trivial to interact with complex programs, such as remote shells, …

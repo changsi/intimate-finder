@@ -1,0 +1,108 @@
+spine.js
+61
+a lightweight framework for building JavaScript web applications.
+process-management
+61
+
+pypi
+61
+
+qtreewidget
+61
+
+qwt
+61
+
+dynatree
+61
+a JavaScript tree view plugin for jQuery with support for persistence, keyboard, checkboxes, drag'n'drop, and Ajax loading.
+docstring
+61
+
+dividebyzero
+61
+For issues relating to handling or preventing divide by zero operations.
+git-filter-branch
+61
+
+.net-4.5
+61
+Version 4.5 of the .NET Framework.
+gtk3
+61
+The GIMP ToolKit (GTK+) in its version 3.x. GTK+ is a highly usable, feature-rich toolkit for creating graphical user interfaces (GUIs) that boasts cross platform compatibility and an easy to use API.
+github-api
+61
+Rest API to retrieve information about GitHub hosted repositories
+geokit
+61
+
+gaming
+61
+
+flexunit
+61
+a unit testing framework for Flex and ActionScript applications and libraries
+file-read
+61
+
+expandablelistadapter
+61
+
+maemo
+61
+a software platform that is mostly based on open source code and powers mobile devices such as the Nokia N810 and N900 Internet Tablets. Maemo platform has been developed by Nokia in collabor…
+luabind
+61
+Library to make bindings between C++ and Lua
+kernel32
+61
+
+jetpack
+61
+The Add-on SDK (formerly codenamed Jetpack) is a set of tools and APIs that allow you to create Firefox add-ons using standard web technologies - HTML, CSS, and JavaScript. The SDK includes APIs, a te…
+knockoutjs-mapping-plugin
+61
+
+language-comparisons
+61
+
+language-learning
+61
+
+gui-designer
+61
+
+i2c
+61
+a two-wire serial bus. It is used to interface with low-speed peripherals in embedded systems and computer motherboards.
+icollection
+61
+
+aforge
+61
+a C# framework for Computer Vision and Artificial Intelligence. Applications include: image processing, neural networks, genetic algorithms, machine learning, robotics, etc.
+app-code
+61
+
+accelerator
+61
+
+directoryinfo
+61
+The .NET DirectoryInfo object contains detailed information about a directory on the filesystem.
+deferred-execution
+61
+
+defaultmodelbinder
+61
+
+boost-test
+61
+
+biometrics
+61
+a set of methods related to unique identification of people based on physiological or behavioural traits
+catransform3d
+61
+

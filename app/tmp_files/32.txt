@@ -1,0 +1,108 @@
+monitoring
+910
+the act of looking on the processes or systems for performance, supervision and surveillance.
+itunes
+910
+Apple's proprietary digital media player application.
+iteration
+909
+Iteration means the act of repeating a process usually with the aim of approaching a desired goal or target or result.
+storyboard
+907
+Is a class used by WPF and Silverlight to control animations, or a new iOS 5 scheme for managing view controller navigation
+versioning
+906
+the process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), thes…
+bugs
+905
+a software or hardware error / mistake that produces an incorrect or unexpected result or behavior.
+wordpress-theming
+902
+Fundamentally, the WordPress Theme system is a way to "skin" your weblog.
+blob
+900
+a collection of binary data stored as a single entity in a database management system.
+innodb
+900
+an ACID-compliant transactional storage engine for MySQL that uses multiversion concurrency control (MVCC).
+image-manipulation
+898
+the term used to describe various operations applied to images such as resizing, removing noise, alteration of colour depth.
+greasemonkey
+898
+a Firefox extensions that allows you to enhance the way you view web content by attaching Javascript code to websites.
+console-application
+898
+a computer program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.) or t…
+delphi-7
+898
+one of the most popular and widely used version of Delphi. It is a very capable and stable release that is still widely used today for Windows-based Object Orient…
+javabeans
+895
+a custom class which often represents real-world data and encapsulates private properties by public getter and setter methods. For example, User, Product, Order, etc.
+real-time
+892
+*real-time* when the *timeliness* of the activities' completion is a functional requirement and correctness condition, rather than merely a performance metric.  A real-time system is one whe…
+ocaml
+891
+a strict strongly-typed functional programming language, focusing on expressivity, correctness and efficiency.
+fork
+889
+the POSIX way of creating a new process by duplicating the calling process.
+common-lisp
+889
+ANSI Common Lisp, the programmable programming language.
+three20
+889
+an open-source Objective-C library originally created at Facebook, that provides a number of features for people writing iOS (iPhone/iPad) applications.
+folder
+886
+a virtual container within a digital file system, in which groups of computer files and other folders can be kept and organized.
+enterprise-library
+883
+a collection of application blocks and core infrastructure designed to assist developers with common enterprise development challenges such as logging, validation, data…
+type-conversion
+881
+the way of implicitly or explicitly changing an entity of one data type into another. This is done to take advantage of certain features of type hierarchies or type representations.
+element
+880
+
+expression
+880
+
+ironpython
+879
+an open-source implementation of the Python programming language which is tightly integrated with the .NET Framework. IronPython can use the .NET Framework and Python libraries, and othe…
+union
+878
+a keyword of the SQL language for combining the results of multiple SQL's. The  UNION synatx combines all the results without checking for Uniqueness. The related tag is UNION-All. The UNION …
+antlr
+878
+ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containi…
+moss
+877
+Microsoft Office SharePoint Server (previously known as Microsoft Office SharePoint Server, or MOSS) is a member of Microsoft's SharePoint server product family.
+solaris
+871
+a Unix operating system originally developed by Sun Microsystems. Oracle Solaris, as it is now known, has been owned by Oracle Corporation since Oracle's acquisition of Sun in January 2010.…
+source
+870
+
+dynamics-crm
+870
+a multi-lingual Customer Relationship Management software package developed by Microsoft. It has built in support for Sales, Marketing and Service. It can be used as an xRM p…
+axis2
+870
+A Web Services/SOAP/WSDL framework supported by the Apache Software Foundation
+drupal-views
+869
+a third-party module used to display information in a customized way, on a Drupal site.
+web-crawler
+869
+a computer program that browses the World Wide Web in a methodical, automated manner or in an orderly fashion. Other terms for Web crawlers are ants, automatic indexers, bots, Web spi…
+plone
+868
+a content management system (CMS) written in Python. Its strengths lie in intranets, websites and document management. It has robust support for multilingual content, versioning and is easy t…
+z-index
+868
+a CSS property that sets the stack order of specific elements. An element with greater stack order is always in front of another element with lower stack order.

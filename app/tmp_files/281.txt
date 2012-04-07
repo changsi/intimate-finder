@@ -1,0 +1,108 @@
+jaws
+38
+
+hex-editors
+38
+
+htmltextwriter
+38
+
+html-input
+38
+
+huffman-encoding
+38
+In computer science and information theory, Huffman coding is an entropy encoding algorithm used for lossless data compression.
+ibm-rad
+38
+IBM Rational Application Developer for WebSphere Software (RAD) is an Eclipse-based IDE, made by IBM's Rational Software division, for visually designing, constructing, testing, and deploying Web serv…
+logic-programming
+38
+
+matlab-engine
+38
+a library to call MATLAB® software from standalone programs, for example written in C/C++ or Fortran.
+malicious
+38
+
+machinekey
+38
+
+maskededitextender
+38
+
+mariadb
+38
+MySQL compatible free open source database server.
+managed-code
+38
+
+manageddirectx
+38
+
+mapped-drive
+38
+
+jmenubar
+38
+
+jls
+38
+the definitive technical reference of the Java programming language.
+jmonkeyengine
+38
+A 3D game engine written in and for Java. Many features including collisions, particle systems, shaders, terrain system, renderer abstraction.
+jtwitter
+38
+a small library providing easy access to the Twitter API.
+jxta
+38
+a set of protocols to operate devices in a P2P fashion on the Internet.
+kanban
+38
+Signaling system that helps create a just in time, one piece flow.
+jquery-address
+38
+
+komodoedit
+38
+a multi-platform free and open-source code editor with support for PHP, Python, Ruby, JavaScript, Perl, Tcl, XML, HTML, CSS and more.
+large-object-heap
+38
+
+libtiff
+38
+Open source, cross-platform library and tools for TIFF images.
+festival
+38
+The Festival Speech Synthesis System
+fake
+38
+
+expressjs
+38
+
+fpdi
+38
+
+forth
+38
+a dynamic, procedural, stack based programming language developed by Charles Moore.
+git-log
+38
+Shows the commit logs of a Git repo
+greenhopper
+38
+an agile development add-on for Atlassian's bug tracking software JIRA.
+glimpse
+38
+for the client, Glimpse does for the server... in other words, a client side Glimpse into whats going on in your ASP.NET server.
+google-font-api
+38
+The Google Font Directory provides high-quality web fonts that you can include in your pages using the Google Font API. Available at http://code.google.com/apis/webfonts/
+google-finance
+38
+
+agpl
+38
+The Affero General Public License, a modified version of the GPL, requires programmers to redistribute copies of server software, under the AGPL, that can be accessed by others.

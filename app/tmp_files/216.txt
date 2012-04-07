@@ -1,0 +1,108 @@
+folderbrowserdialog
+60
+
+3des
+60
+the common name for the Triple Data Encryption Algorithm (TDEA or Triple DEA) block cipher, which applies the Data Encryption Standard (DES) cipher algorithm three times…
+alt
+60
+
+django-users
+60
+
+quadtree
+60
+a geometric data structure for storing points in two-dimensional space.  Quadtrees recursively partition a space into four quadrants.
+qcombobox
+60
+
+related
+60
+
+rexml
+60
+
+sox
+60
+a computer program for audio manipulation
+smooth-scrolling
+60
+
+soapheader
+60
+optional SOAP element that represent header that contains application-specific information (like authentication, payment, etc) about the SOAP message.
+sniffer
+60
+
+sales
+60
+
+scene
+60
+
+selectable
+60
+
+selectionchanged
+60
+
+selectonemenu
+60
+JSF tag to create a single-select menu.
+sfdoctrineguard
+60
+a Symfony plugin providing user authentication and access management.
+sharp-architecture
+60
+
+msvc10
+60
+
+mousehover
+60
+
+netriaservices
+60
+
+nsapplication
+60
+the central class in Apple's AppKit framework.
+origin
+60
+
+opennetcf
+60
+
+opensso
+60
+an open source access management and federation server platform.
+onload-event
+60
+
+onpause
+60
+
+object-initializers
+60
+
+offlineapps
+59
+
+opendir
+59
+
+osm
+59
+a collaborative project to create a free editable map of the world.
+options-menu
+59
+
+popupmenu
+59
+
+pivotviewer
+59
+a Silverlight data visualization control developed by Microsoft.
+password-recovery
+59
+

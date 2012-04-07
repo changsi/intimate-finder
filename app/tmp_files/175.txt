@@ -1,0 +1,108 @@
+moxy
+85
+the object-to-XML and object-to-JSON component of EclipseLink.  It is a JAXB implementation with extensions for supporting:  XPath based mapping, JPA entities, and infoset preservation.
+screen-size
+85
+
+ruby-debug
+85
+
+srp
+85
+In object-oriented programming, the single responsibility principle states that every object should have a single responsibility, and that responsibility should be entirely encapsulated by the class. …
+simultaneous
+85
+
+pyrocms
+85
+a lightweight, themeable open-source CMS built on top of the PHP framework CodeIgniter, praised for it's simplicity.
+rake-task
+85
+
+printers
+85
+
+prototyping
+85
+
+protovis
+85
+a visualization toolkit for JavaScript that takes a graphical approach to data visualization by allowing the user to specify how the data should be encoded in the marks representing it on …
+routed-commands
+85
+
+rc
+85
+a file read at startup of a program. It is also the name of the Plan 9 Shell.
+webfarm
+85
+
+documentviewer
+85
+A WPF UI control that can host paginated FixedDocument content such as an XpsDocument.
+electronics
+85
+off-topic for StackOverflow, consider asking these questions on http://electronics.stackexchange.com.  Use this tag for programmatic access to I/O and electron…
+fragmentation
+85
+
+fuzzy-search
+85
+
+federated-identity
+85
+
+flashbuilder4
+85
+FlashBuilder 4 stands for the version 4 of Adobe Flash Builder - an IDE based on Eclipse used for building Flex/Flash applications.
+gwt-2.2-celltable
+85
+
+ie8-developer-tools
+85
+
+infopath2010
+85
+a software application for designing, distributing, filling and submitting electronic forms containing structured data. According to one of its inventors, a key architectu…
+jinternalframe
+85
+a lightweight Java Swing component that provides many of the features of a native frame, including dragging, closing, becoming an icon, resizing, title display, and support for a men…
+longitude
+85
+a geographic coordinate that specifies the east-west position of a point on the Earth's surface. It is an angular measurement, usually expressed in degrees, minutes and seconds.
+malware
+85
+
+digital
+85
+
+audiotoolbox
+85
+
+atomicity
+85
+In concurrent programming, an operation (or set of operations) is atomic, linearizable, indivisible or uninterruptible if it appears to the rest of the system to occur instantaneously. Atomicity is a …
+antlrworks
+85
+a grammar development environment for ANTLR v3 grammars written by Jean Bovet. It combines a grammar-aware editor with an interpreter for rapid prototyping and a language-agnostic debugg…
+crtp
+85
+The curiously recurring template pattern (CRTP) is a C++ idiom in which a class X derives from a class template instantiation using X itself as template argument.
+compojure
+85
+an open source web framework for the Clojure programming language.
+bottle
+85
+a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
+blogengine.net
+85
+an Open Source blog based on ASP.NET.
+blockui
+85
+
+boost-regex
+85
+
+cakephp-model
+85
+

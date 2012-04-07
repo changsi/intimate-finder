@@ -1,0 +1,108 @@
+libssh
+25
+
+libtiff.net
+25
+The open-source .NET version of libtiff.
+lightspeed
+25
+
+lexical-cast
+25
+
+leveldb
+25
+a key-value storage library written by Google that provides an ordered mapping from string keys to string values.
+jlayer
+25
+
+jettison
+25
+
+jboss-esb
+25
+
+jsonkit
+25
+
+kerning
+25
+The inter-glyph distance of two characters rendered with a font
+jtag
+25
+a common interface used for programming and debugging microprocessors and other types of embedded devices.
+junction-table
+25
+
+jxtable
+25
+An enhanced Table component in Java, with support for general SwingX sorting/filtering, rendering, highlighting, rollover and search functionality
+logfile
+25
+
+ll
+25
+grammars that can be parsed from left-to-right, creating a leftmost derivation, using k tokens of lookahead.
+live555
+25
+Cross-platform C++ source-code libraries for standards-based RTP/RTCP/RTSP/SIP multimedia streaming, suitable for embedded and/or low-cost streaming applications.
+load-time-weaving
+25
+loaded.
+load-path
+25
+
+line-breaks
+25
+
+maximize-window
+25
+
+memory-address
+25
+
+meld
+25
+a graphical Linux application used for viewing and merging differences between files.
+mechanize-python
+25
+Stateful programmatic web browsing in Python, after Andy Lesterâs Perl module WWW::Mechanize.
+malware-detection
+25
+
+html-entity-decode
+25
+
+hue
+25
+
+human-computer-interface
+25
+
+icefaces-2
+25
+
+hobby-project
+25
+
+horizontallist
+25
+
+hardware-id
+25
+
+javascript-alert
+25
+a JavaScript function to display notifications in a dialog.
+javascript-debugger
+25
+
+iserializable
+25
+
+inspection
+25
+
+imapi
+25
+

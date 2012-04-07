@@ -1,0 +1,108 @@
+total
+94
+
+strategy-pattern
+94
+
+sticky
+94
+
+autoboxing
+94
+the process of using an object to wrap a primitive value so that it can be used as a reference object; extracting a previously-boxed primitive is called unboxing. Auto(un)boxing is a form of…
+bsd-sockets
+94
+
+coda
+94
+
+changeset
+94
+
+common
+94
+
+jquery-hover
+94
+
+liftweb
+94
+An open source web application framework written in Scala
+lazy-initialization
+94
+
+limits
+94
+
+linkage
+94
+
+livechat
+94
+
+median
+94
+the 'middle' value from a set of values.
+haystack
+94
+
+hl7
+94
+a communication standard for exchanging electronic health information.
+indexer
+94
+
+java-6
+94
+Java SE version 6 was released in December 2006, and given the long length of time until Java SE 7 was released (July 2011) it will likely be the dominant version of Java for a long time.
+intrinsics
+94
+
+google-gears
+94
+
+google-contacts
+94
+
+expiration
+94
+
+export-to-csv
+94
+A set of techniques to write a CSV (Comma-Separated Values) file from a data source. CSV files store data in plain-text form, allowing great usability and they often are used as a way to exchange data…
+eclipse-gef
+94
+The Eclipse Graphical Editing Framework
+enterprise-architect
+94
+
+qtablewidget
+94
+a Qt class providing an item-based table view with a default model.
+scroller
+94
+
+sequential
+94
+
+pagespeed
+94
+A set of tools from Google for applying performance best practices to web pages.
+package-managers
+94
+Software that allows server administrators to control the installation and upgrade process of packages on their servers.
+p2
+94
+the platform provisioning system used by the eclipse IDE and the eclipse RCP framework. It is an artifact and metadata repository and allows some kind of dependency resolution. it supports mirro…
+pdfsharp
+94
+PDFsharp - A .NET library for processing PDF
+phpmail
+94
+Questions related to the PHP mail() Function.
+mvc-editor-templates
+94
+
+nsset
+94
+

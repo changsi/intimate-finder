@@ -1,0 +1,108 @@
+portable-applications
+74
+applications that can be used on a portable device.
+parser-combinators
+74
+
+optparse
+73
+a deprecated command-line argument parser for Python included in the standard library.
+ora-00904
+73
+Invalid column name.  Cause: You tried to execute an SQL statement that included an invalid column name or the column name is missing.
+minidump
+73
+a file containing information about the state of a process, generally used for post-mortem debugging on Windows.
+mod-perl2
+73
+an Apache2 web server module. The module improves the performance of Perl CGI scripts. Scripts are loaded into memory on the first invocation and added to the Apache process. On each subs…
+merb
+73
+a model-view-controller web framework written in Ruby. Merb adopts an approach that focuses on essential core functionality, leaving most functionality to plugins.
+msn
+73
+
+multi-module
+73
+
+mono.cecil
+73
+a library to generate and inspect programs and libraries in the ECMA CIL form.
+net-snmp
+73
+
+nexus-s
+73
+a smartphone co-developed by Google and Samsung and manufactured by Samsung Electronics. It was the first smartphone to use the Android 2.3 "Gingerbread" operating system, and the first…
+sqlmetal
+73
+The SqlMetal command-line tool generates code and mapping for the LINQ to SQL component of the .NET Framework.
+sharpziplib
+73
+
+rvalue
+73
+
+red-black-tree
+73
+a type of self-balancing binary search tree, a data structure used in computing science, typically used to implement associative arrays.
+representation
+73
+
+relaycommand
+73
+an implementation of the .NET ICommand interface made and described by WPF expert Josh Smith.
+qsort
+73
+
+qt4.7
+73
+For issues relating to using Qt, version 4.7.
+pys60
+73
+Python on Symbian Series 60
+enabled
+73
+
+freeglut
+73
+
+graceful-degradation
+73
+the term used to describe the encapsulation of API specific calls such that your application can support the widest range of users.  It's often used to provide the newest featu…
+globals
+73
+
+facebook-jssdk
+73
+
+expansion
+73
+
+finite-state-machine
+73
+is a mathematical abstraction used as a behaviour model composed of a finite number of states, their transitions and functions to design digital logic or computer programs.
+kvm
+73
+a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+inode
+73
+
+incompatibility
+73
+
+image-zoom
+73
+Increase or decrease the magnification of an image by means of a software application.
+java.util.concurrent
+73
+Java package which contains utility classes commonly useful in concurrent programming. This package includes a few small standardized extensible frameworks, as well as some classes that provide useful…
+ikvm
+73
+a JVM written on the CLR, allowing you to execute Java code using the Microsoft CLR run-time.
+igraph
+73
+a free software package for creating and manipulating large undirected and directed graphs. It is written in C, but has interfaces to higher-level languages like R, Python or Ruby.
+icomparable
+73
+Defines a generalized comparison method that a value type or class implements to create a type-specific comparison method for ordering instances.

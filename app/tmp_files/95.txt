@@ -1,0 +1,108 @@
+kernel-module
+218
+
+listboxitem
+218
+
+irb
+218
+a shell for programming in Ruby. The program can be launched from a command prompt and allows the execution of Ruby commands line by line.
+expressions
+218
+
+fwrite
+218
+
+dst
+218
+the tag for Daylight Saving Time issues.  Daylight Saving Time is where twice a year a time zone shifts its time by one hour, either forward (Spring) or backward (Fall).
+graphics2d
+217
+
+extraction
+217
+
+file-type
+217
+The type of a file, as characterized by the format of the data it contains, or its use case.  Related tags: [file-format] and [file-extension]
+hang
+217
+
+linked
+217
+
+joomla1.7
+217
+For issues relating to using Joomla!, version 1.7.
+pywin32
+217
+a close wrapper around Microsoft Windows API. It was created and is still maintained by Mark Hammond.
+castle
+217
+an open source project for .net that aspires to simplify the development of enterprise and web applications.
+centering
+217
+
+visible
+217
+
+uicolor
+216
+an iOS class which represents color and sometimes opacity (alpha value). You can use UIColor objects to store color data, and during drawing you can use them to set the current fill and str…
+webstart
+216
+Java Web Start (also known as JavaWS, javaws or JAWS) is a framework developed by Sun Microsystems (now Oracle) that allows users to start application software for the Java platform directly from the …
+tabactivity
+216
+
+multimedia
+216
+
+named-scope
+216
+
+nsoperationqueue
+216
+on Mac OS X, the NSOperationQueue class regulates the execution of a set of NSOperation objects
+lan
+216
+a computer network that connects computers and devices in a limited geographical area such as home, school, computer laboratory or office building. The defi…
+hack
+216
+an inelegant or incomplete solution to a problem. Hacks often involves repurposing things to perform a job they were not designed to do, or taking advantage of an underlying implementation w…
+extjs3
+216
+the third major version of JavaScript library for building Rich Internet Applications (RIA).
+evaluation
+216
+
+epub
+215
+an open XML-based digital book format which uses XHTML and CSS for document content.
+linqpad
+215
+a proposed SQL Server Management Studio (SSMS) replacement for SQL queries, but also allows Linq to SQL / EF queries and is a C#/VB code scratch pad.
+lwjgl
+215
+The Lightweight Java Game Library (LWJGL) allows access to high performance crossplatform libraries such as OpenGL, OpenCL and OpenAL to write state of the art 2D and 3D applications with Java.
+masm
+215
+Microsoft's Macro Assembler tool for converting assembly language to object code.  It processes x86 instructions and pseudo instructions written in "Intel syntax".  MASM is the standard low-le…
+multiselect
+215
+a user interface feature that allows the user to select more than one item in an items control.
+openfire
+215
+a XMPP (Jabber) server written in Java. It has facility for developers to create plugins that can extend the server's functionality.
+simpledateformat
+215
+a concrete class for formatting and parsing dates in a locale-sensitive manner. It allows for formatting (date -> text), parsing (text -> date), and normalization.
+url-encoding
+215
+
+classcastexception
+215
+The Java exception thrown to indicate that the code has attempted to cast an object to a subclass of which it is not an instance.
+comparator
+215
+

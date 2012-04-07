@@ -1,0 +1,109 @@
+law-of-demeter
+42
+
+keypad
+42
+
+kinect-hacking
+42
+
+lampp
+42
+
+flashlite
+42
+a lightweight version of Adobe Flash Player intended for mobile phones.
+file-storage
+42
+
+fba
+42
+
+fadeto
+42
+
+facebooker2
+42
+a Facebook Connect library for ruby that provides rails helpers for interfacing with Facebook's OpenGraph Javascript API.
+friendly-id
+42
+the "Swiss Army bulldozer" of slugging and permalink plugins for Ruby on Rails. It allows you to create pretty URL's and work with human-friendly strings as if they were numeric ids for …
+function-parameter
+42
+
+formulas
+42
+
+gitk
+42
+A graphical browser for the git distributed version control system which 
+allows you to quickly manage branches, and search/review commit logs and diffs.
+geotagging
+42
+
+google-authentication
+42
+
+glass
+42
+
+web-platform-installer
+42
+
+activestate
+42
+a software company which develops precompiled distros of Perl, Python, and Tcl as well as an IDE.
+django-cache
+42
+
+django-file-upload
+42
+
+dokuwiki
+42
+an Open-Source wiki software written in PHP
+excanvas
+42
+A javascript library for bringing the html5 canvas2d api to versions of Internet Explorer prior version 9.
+eml
+42
+
+radix-sort
+42
+
+radiant
+42
+A Ruby on Rails CMS.
+quercus
+42
+an implementation of the PHP programming language in pure Java.
+print-preview
+42
+
+recorder
+42
+
+replaceall
+42
+
+rfc822
+42
+A RFC entitled "STANDARD FOR THE FORMAT OF ARPA INTERNET TEXT MESSAGES"
+specification-pattern
+42
+
+sitefinity-4
+42
+Telerik's next generation Asp.net based web content management system for creating websites, intranets, portals and blogs. Use this tag for questions specific to Sitefinity 4. If you h…
+sorteddictionary
+42
+
+sentiment-analysis
+42
+Sentiment analysis refers to categorizing some given data as to what sentiment(s) it expresses.  Usually, it refers to extracting sentiment from text, e.g. tweets or blog posts.
+self-referential
+42
+
+sharepointdocumentlibrary
+42
+

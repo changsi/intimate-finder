@@ -1,0 +1,108 @@
+shrink
+42
+
+sasl
+42
+
+scite
+42
+a text editor based on the Scintilla source code editing component. Originally built to demonstrate Scintilla, it has grown to be a generally useful editor with facilities for building and ru…
+nemerle
+42
+a general-purpose, multi-paradigm programming language for the .Net platform. It is as easy to learn and use as C# or VB.NET but Nemerle is by far more powerful. One may start using it as a…
+named-entity-recognition
+42
+
+nmea
+42
+National Marine Electronics Association (NMEA)
+multiprocess
+42
+
+msn-messenger
+42
+
+mercurial-queue
+42
+a standard extension of Mercurial DVCS that manages changeset patches.
+memory-mapping
+42
+
+memory-efficient
+42
+
+messageui
+42
+a framework for iOS that provides specialized view controllers for presenting standard composition interfaces for email and SMS text messages.
+microsoft-ajax
+42
+
+pollingduplexhttpbinding
+42
+
+prawnto
+42
+
+picking
+42
+
+phpthumb
+42
+
+payload
+42
+
+pandas
+42
+a library for PAN-el DA-ta analysis, i.e. multidimensional time series and cross-sectional data sets commonly found in statistics, experimental science results, econometrics, or finance.  Pa…
+paginator
+42
+
+paid
+42
+
+open-flash-chart
+42
+Open Flash Chart - JSON based very flexible flash chart renderer.
+oci8
+42
+
+onfling
+41
+
+page-curl
+41
+
+orbited
+41
+Pre-HTML5 server that implements sockets for web browsers.
+phpcassa
+41
+a PHP client library (port of pycassa) for Apache Cassandra
+mindmapping
+41
+
+microsoft-test-manager
+41
+Microsoft Test Manager providing the functionality for planning, creating, and running test cases.
+mercurial-subrepos
+41
+Questions related to the subrepository feature in the Mercurial distributed version control system.
+mnemonics
+41
+
+mod-security
+41
+ModSecurity supplies an array of request filtering and other security features to the Apache HTTP Server. ModSecurity is a web application layer firewall.
+multi-language
+41
+
+multi-level
+41
+
+mvcscaffolding
+41
+
+mod-rails
+41
+

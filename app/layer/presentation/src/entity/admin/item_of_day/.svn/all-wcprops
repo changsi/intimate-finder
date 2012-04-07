@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/signalsiq/!svn/ver/964/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/item_of_day
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/signalsiq/!svn/ver/964/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/item_of_day/list.php
+END
+get_items_for_tribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/source/signalsiq/!svn/ver/893/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/item_of_day/get_items_for_tribe.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/signalsiq/!svn/ver/674/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/item_of_day/update.php
+END
+insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/signalsiq/!svn/ver/893/trunk/client/facebook_app/app/layer/presentation/src/entity/admin/item_of_day/insert.php
+END

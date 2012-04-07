@@ -1,0 +1,109 @@
+templating
+187
+
+strip
+187
+
+c3p0
+187
+a Java library for JDBC drivers with JNDI-bindable DataSources, including DataSources that implement Connection and Statement Pooling, as described by the jdbc3 spec and jdbc2 std extension.
+belongs-to
+187
+a master-detail relationship where one item "belongs_to" another and has a foreign key to maintain the relationship.
+access-control
+187
+the process of limiting the access of ability of users or services to certain resources.
+directories
+186
+
+context-free-grammar
+186
+In formal language theory, a context-free grammar (CFG) is a grammar subject to a special constraint: that the left-hand side (LHS) consist of a single non-terminal symbol. CFGs are capable of represe…
+suds
+186
+a SOAP services library for Python.
+stdio
+186
+for questions regarding "Standard I/O", i.e. I/O on file descriptors 0 (stdin), 1 (stdout) and 2 (stderr).
+titlebar
+186
+An area of a window in a graphical user interface (GUI), normally located at the top, that commonly displays the name of the application, options for manipulating the window, and other important infor…
+visualforce
+186
+Salesforce.com's HTML template technology, allowing dynamic creation of web pages (as well as other files) utilising Apex logic and SOQL queries to replace merge fields with content.
+dock
+186
+
+http-live-streaming
+186
+a method of media streaming that consists of downloading segments of a mpeg2ts file, containing video (H.264) and/or audio (AAC or MP3). The specification was introduced by Appl…
+gwt2
+186
+an open source and free framework made by Google.
+image-recognition
+186
+Classification of a detected object in an into different categories.
+silverlight-5.0
+186
+Microsoft's cross-browser, cross platform plug-in for media experiences and rich interactive applications. The latest Silverlight version available is Silverlight 5.
+newsletter
+186
+
+path-finding
+186
+Pathfinding generally refers to the problem of finding the shortest route between two points, subject to any obstacles. Pathfinding has application in a wide range of areas including robotics and game…
+paypal-sandbox
+185
+a self-contained environment within which you can prototype and test PayPal features and APIs. The PayPal Sandbox is an almost identical copy of the live PayPal
+website.
+php-extension
+185
+The PHP language can be enhanced through the use of extensions, which provide to PHP scripts new internal functions, classes, resource types, streams (also stream wrappers and filters) and, in general…
+mutable
+185
+
+sprites
+185
+
+seo-friendly
+185
+one that can be easily crawled and indexed by search engines.
+ibaction
+185
+
+linkbutton
+185
+An ASP.Net webcontrol that renders as a link but has a button event model made available to the programmer.
+jquery-accordion
+185
+
+launcher
+185
+
+ebay
+185
+an online auction and shopping website in which people and businesses buy and sell a broad variety of goods and services worldwide.
+google-code
+185
+Google's site for developer tools, APIs and technical resources.
+viewer
+185
+
+user-accounts
+185
+
+challenge
+185
+
+xps
+185
+an open specification for a page description language and a fixed-document format originally developed by Microsoft as XML Paper Specification (XPS) that was late…
+cassini
+185
+an open-source lightweight web server distributed with ASP.NET as an example of an ASP.NET web server written in C#.
+bot
+184
+
+bots
+184
+software applications that run automated tasks over the Internet. Typically, they perform tasks that are both simple and structurally repetitive, at a much higher r…

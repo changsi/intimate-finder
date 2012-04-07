@@ -1,0 +1,108 @@
+complex-numbers
+60
+complex numbers (x + y*i where i^2 = -1), types to represent them in programming languages, and libraries to manipulate them
+column-width
+60
+
+custom-membershipprovider
+60
+
+cookieless
+60
+
+yii-mvc
+60
+
+xtrareport
+60
+a Reporting Tool made by DevExpress for WinForms, ASP.NET, Silverlight, WPF and LightSwitch.
+beanstalkd
+60
+a simple, fast work queue.
+basecamp
+60
+
+banking
+60
+
+badge
+60
+a concise visual indication of something important to the user. For example, the number of unread emails in an email app can be displayed as a badge on the app's icon.
+calllog
+60
+
+calloc
+60
+
+cglib
+60
+a Java Code Generation Library. It is used to extend Java classes and implements interfaces at runtime.
+cfnetwork
+60
+Network framework in the core services for iOS & Mac OS X
+detours
+60
+about the Microsoft Detours library for intercepting arbitrary Win32 binary functions on x86, x64, and ARM machines.
+apn
+60
+Apple Push Notification allows developers to push near real-time information to iOS devices
+articles
+60
+
+audit-trail
+60
+
+httplib2
+60
+
+harddisk
+60
+
+hosted
+60
+
+iterative
+60
+
+iphone-standalone-web-app
+60
+purely web-browser-based and runs outside of Mobile Safari in a chromeless browser using the meta declaration: <meta name="apple-mobile-web-app-capable" content=…
+ioerror
+60
+
+inkcanvas
+60
+an element that can be used to receive and display ink input.
+installshield-2010
+60
+
+jetbrains
+60
+For issues relating to using any of the JetBrains tools such as ReSharper, RubyMine, etc.
+job-hunting
+60
+
+kdtree
+60
+a data structure for storing points in multidimensional space.  They can be used to efficiently query for whether a point exists, as well as to do nearest-neighbor se…
+listen
+60
+
+little-endian
+60
+ordering of bytes in memory to represent some data by storing the least significant byte at the lowest address.
+mediatemple
+60
+
+mathematica-frontend
+60
+Programming the FrontEnd Notebook interface component of Wolfram Mathematica.
+farseer
+60
+C#/XNA port of the Box2D physics engine.
+findall
+60
+
+form-helpers
+60
+

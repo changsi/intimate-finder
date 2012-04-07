@@ -1,0 +1,108 @@
+xulrunner
+184
+a runtime environment for running applications written in the XUL User Interface Language.
+zeromq
+184
+a high-performance asynchronous messaging library aimed at use in scalable, distributed and/or concurrent applications.
+automapping
+184
+The convention-based Auto Mapping feature of Fluent NHibernate.  Not to be confused with AutoMapper, the convention-based object-to-object mapper.
+cube
+184
+a set of related measures and dimensions that is used to analyze data.
+user-defined-functions
+184
+
+superclass
+184
+a parent or base class that is derived or inherited from by a child class (or subclass). Superclasses are used extensively in object-oriented programming (OOP).
+stub
+184
+
+derived-class
+184
+
+application-server
+184
+a software framework dedicated to the efficient execution of procedures (programs, routines, scripts) for supporting the construction of applications. Normally the term refers…
+imagick
+184
+
+snapshot
+184
+
+prototype-programming
+184
+a type of object-oriented programming that eschews the use of classes.  It is available in languages such as Self, LispStat, JavaScript, and R.
+right-click
+184
+
+regex-negation
+184
+
+php-cli
+184
+The command line interface of the PHP programming lauage. It can be used as an alternative to shell script, perl script and so on.
+mixin
+183
+a way to enhance an object with properties or methods from another object without inheriting from that object.
+setcookie
+183
+
+java-3d
+183
+a scene graph-based 3D application programming interface (API) for the Java platform. It runs atop either OpenGL or Direct3D.
+force
+183
+
+entity-framework-ctp5
+183
+
+design-time
+183
+
+stress-testing
+183
+a form of testing that is used to determine the stability of a given system or entity. It involves testing beyond normal operational capacity, often to a breaking point, in order to …
+xforms
+183
+XML specification for web forms.
+database-migration
+183
+
+b-tree
+183
+a type of self balancing search tree where each node can hold multiple keys and all leaf nodes are the same distance from the root.
+blackberry-playbook
+182
+BlackBerry PlayBook, a tablet computer running QNX OS.
+core-text
+182
+the modern text layout and rendering framework on Apple's Mac OS X and iOS operating systems.
+composite-component
+182
+a JSF 2.0 / Facelets specific term for reuseable UI components which are declared using pure XML rather than Java. The composite component XML declaration tags are available u…
+xcode3.2
+182
+For issues relating to using Xcode, version 3.2.
+uipagecontrol
+182
+used in iOS to to create and manage page controls.
+datastore
+182
+
+disabled
+182
+
+appkit
+182
+
+aero
+182
+the graphical user interface and the default theme in most editions of Windows Vista and Windows 7
+jquery-tabs
+182
+
+gql
+182
+a SQL-like language for retrieving entities or keys from the Google App Engine datastore.

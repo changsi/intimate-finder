@@ -1,0 +1,109 @@
+valueconverter
+45
+
+url-pattern
+45
+
+system-properties
+45
+
+svd
+45
+a factorization of a real or complex matrix, with many useful applications in signal processing and statistics.
+table-relationships
+45
+
+teambuild2010
+45
+
+tax
+45
+refers to the percentage charged on a sale or trade of goods/services.  For example, "sales tax" or "income tax".  Basically the bsessing/curse of mankind.
+subset-sum
+45
+
+suckerfish
+45
+
+stereo-3d
+45
+
+temperature
+45
+
+transport
+45
+
+trackbar
+44
+a sliding control that is occasionally used in winforms, jquery, webforms, XAML, and more.
+typesetting
+44
+
+type-hinting
+44
+
+trimming
+44
+
+truststore
+44
+
+tilelist
+44
+
+stockquotes
+44
+
+superglobals
+44
+
+strptime
+44
+
+tasm
+44
+an x86 assembler by Borland
+teamcity-6.0
+44
+
+svc
+44
+
+swank
+44
+the Common Lisp server component of SLIME, the Superior Lisp Interaction Mode for Emacs.
+valueinjecter
+44
+ValueInjecter lets you define your own convention-based matching algorithms (ValueInjections) to map objects to objects.
+code-reading
+44
+
+codesmith
+44
+a template driven source code generator that automates the creation of common application source code for any language.
+commons-digester
+44
+
+commons-ftpclient
+44
+an implementation of the client side of the File Transfer Protocol (FTP) in Java, and part of Apache Commons Net.
+It allows access to most of the features of the FTP proto…
+cmusphinx
+44
+an open-source toolkit for speech recognition.
+clientid
+44
+
+clientside
+44
+
+cyanogenmod
+44
+an aftermarket firmware for over forty cell phones and tablets based on the open-source Android operating system. It offers features not found in the official Android-based firmwares of…
+database-optimization
+44
+
+database-versioning
+44
+

@@ -1,0 +1,112 @@
+unison
+13
+a bidirectional, conflict detecting, file synchronization tool for Unix and Windows.
+uniformgrid
+13
+
+urn
+13
+
+urlpatterns
+13
+
+urlmappings
+13
+
+unichar
+13
+
+ubuntu-lucid
+13
+
+ui-patterns
+13
+
+uima
+13
+UIMA (Unstructured Information Management Architecture) is an architecture for creating scalable applications that analyze and extract information from unstructured data sources such as text, audio, a…
+wiktionary
+13
+A free, open dictionary-in-progress aiming to cover all words in all languages. Sister project of Wikipedia powered by MediaWiki.
+wikitext
+13
+
+wicketstuff
+13
+a collection of open source projects for the Apache Wicket web framework created and maintained by the Wicket community.
+white-labelling
+13
+
+winamp
+13
+
+vob
+13
+
+wdf
+13
+a set of Microsoft tools that aid in the creation of device drivers for Windows 2000 and later versions of Windows
+wds
+13
+WDS stands for "Windows Desktop Search", also known simply as "Windows Search", which is the search engine used on Microsoft's Windows OS. It supercedes Windows Indexing Service.
+war-files
+13
+
+windows-themes
+13
+
+winqual
+13
+
+windowsdomainaccount
+13
+
+windows-nt
+13
+
+woodstox
+13
+Tag for questions related to Woodstox XML processor
+wixlib
+13
+
+word-field
+13
+
+xbase
+13
+a structured format for storing data in files and indexes. It was used originally by foxPro and dBase.
+xcode3.2.2
+13
+For issues relating to using Xcode, version 3.2.2.
+wsrp
+13
+an OASIS defined standard for communication with remote portlets.
+system.type
+13
+
+system-requirements
+13
+
+svn-checkout
+13
+
+t4-toolbox
+13
+
+syswow64
+13
+
+systemtap
+13
+tool to probe or trace a running linux system, 
+supporting visibility into both kernel- (its initial focus) 
+and user-space. 
+It uses dynamically loaded probes to gather performance 
+…
+tagname
+13
+
+taskdialog
+13
+

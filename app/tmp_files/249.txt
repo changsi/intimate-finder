@@ -1,0 +1,108 @@
+reduction
+47
+
+reminders
+47
+
+release-mode
+47
+
+rel
+47
+The rel attribute specifies the relationship between the current document and the linked document
+repair
+47
+
+proc-object
+47
+
+press
+47
+
+query-builder
+47
+
+qnx
+47
+a Real-Time Operating systems that is both full-featured and robust, but can also scale down to meet the constrained resource requirements of realtime embedded systems. It  features a UNIX like…
+dundas
+47
+Questions relating to products by Dundas Data Visualization Inc., such as Dundas Dashboard or the old Chart/Gauge/Map components for ASP.NET and WinForms
+ergonomics
+47
+study of designing equipment and devices that fit the human body, its movements, and its cognitive abilities (Wikipedia)
+event-sourcing
+47
+a design pattern that captures all changes to an application's state as a sequence of events.
+getdate
+47
+
+getselection
+47
+
+git-stash
+47
+For stashing the changes in a working git directory
+griffon
+47
+a rich client application platform that uses Groovy and Java.
+function-composition
+47
+Applying one function to the result of another is known as "function composition" - `f(g(x)) = f.g`
+for-xml
+47
+
+gap
+47
+a system for computational algebra with a special emphasis an group theory.
+fltk
+47
+a cross-platform C++ GUI toolkit for UNIX®/Linux® (X11), Microsoft® Windows®, and MacOS® X.
+formating
+47
+
+formcollection
+47
+
+lwp-useragent
+47
+
+mediacontroller
+47
+
+mandelbrot
+47
+a fractal in the complex plane. Many programmers write their own Mandelbrot generators as a way of sharpening their coding (and, to a lesser extent, maths) skills; there are inte…
+keymapping
+47
+
+levels
+47
+
+hadoop-streaming
+47
+a utility that allows running map-reduce jobs using any executable that reads from standard input and writes to standard output.
+gwt-designer
+47
+an Eclipse visual designer plugin that will generate the Java Code for your GWT application's GUI.
+hazelcast
+47
+an open source clustering and highly scalable data distribution platform for Java.
+http-status-code-503
+47
+one of the status codes a web server can return to a client application when processing a request. 503 is defined as Service Unavailable
+ikimagebrowserview
+47
+a Image Kit View for the Cocoa Framework on Mac OS X 10.5 and above.
+inherited-resources
+47
+Inherited Resources speeds up development by making your controllers inherit all restful actions so you just have to focus on what is important.
+include-guards
+47
+
+integrated-pipeline-mode
+47
+
+android-context
+47
+

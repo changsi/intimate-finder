@@ -1,0 +1,110 @@
+reverse-proxy
+317
+A reverse proxy server usually refers to an HTTP accelerator or load-balancer which proxies requests on behalf of the actual clients to one or more backend HTTP servers.
+word-wrap
+316
+the feature of continuing on a new line when a line is full, such that each line fits in the viewable window, allowing text to be read from top to bottom without any hori…
+browser-cache
+316
+
+assets
+315
+
+resizing
+315
+Issues relating to the resizing of controls, windows, forms or screens.
+pyramid
+315
+A Python-based web framework provided by the Pylons Project
+perl-module
+315
+
+netty
+315
+An open source asynchronous event-driven network application framework written in Java.
+nfc
+315
+a set of short-range wireless technologies, typically requiring a distance of 4 cm or less.
+jtextfield
+315
+a Java Swing component that allows the editing of a single line of text.
+align
+315
+
+formtastic
+315
+a Rails form builder plugin with semantically rich and accessible markup.
+gesture
+314
+
+preg-match-all
+314
+
+shape
+314
+
+twig
+314
+a modern template engine for PHP, developed and used by default in the Symfony2 PHP framework.
+wikipedia
+313
+a free web-based encyclopedia project written by people all over the world and is currently seventh among all websites on Alexa. Consider also the tags [wikipedia-…
+axapta
+313
+one of Microsoftâs Enterprise Resource Planning software products. It is part of the Microsoft Dynamics family (formerly Microsoft Bussiness Solutions)
+
+Th…
+rad
+313
+a tool for developing Java enterprise applications for Websphere Application Server. It is based on Eclipse, but is a proprietary IBM solution.
+restkit
+313
+an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun. It combines a clean, simple HTTP request/response API with a powerful object m…
+outputcache
+313
+
+weblogic-10.x
+313
+Oracle WebLogic Server 10.X
+friend
+313
+
+factory-pattern
+312
+Is a creational pattern, provide an interface for creating an object, but let sub classes decide which class to instantiate.
+collision
+312
+Detection of on screen elements colliding
+contact
+311
+
+background-process
+311
+a computer process that runs "behind the scenes" (i.e. in the background) and without user intervention. Typical tasks for these processes include logging, system monitoring, s…
+binary-data
+311
+
+xls
+311
+the file extension for files created using the default format of Microsoft Excel (prior to Excel 2007).
+vlc
+311
+a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols.
+utc
+311
+UTC stands for Coordinated Universal Time - it is the time standard by which the world regulates clocks and time.
+advertising
+311
+
+jnlp
+311
+JNLP stands for Java Network Launch Protocol.  It is the format of the XML based files used to configure the details of applications & applets launched using Java Web Start.
+isolatedstorage
+311
+
+pop3
+311
+Post Office Protocol version 3
+mongomapper
+311
+a Ruby gem allowing you to map ruby objects to MongoDB documents.
