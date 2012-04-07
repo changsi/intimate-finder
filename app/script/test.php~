@@ -1,8 +1,0 @@
-<?php
-
-$log = fopen("/home/changsi/log.txt", "w");
-fwrite($log, "haha\n");
-
-fclose($log);
-
-?>

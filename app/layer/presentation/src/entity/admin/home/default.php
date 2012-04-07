@@ -1,5 +1,0 @@
-<?php
-/*
-Ht access only
-*/
-?>
