@@ -28,5 +28,5 @@ define("PERMISSION",
 	publish_actions');
 
 
-session_save_path(TEMP_PATH);//where fb stores the session
+//session_save_path(TEMP_PATH);//where fb stores the session
 ?>
