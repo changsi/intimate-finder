@@ -13,9 +13,9 @@ class SNFacebookService {
 	private $facebook;
 	
 	public function __construct() {
-		$this->fbconfig['appid' ]     = '125988277527947';
-    		$this->fbconfig['secret']     = '95df4450008e26dc775a96b4dfd7a5d5';
-    		$this->fbconfig['baseurl']    = 'https://dorothy.com/dorothy_app/app/sn/facebook/login/';
+		$this->fbconfig['appid' ]     = '382809748430590';
+    		$this->fbconfig['secret']     = 'fb789ce03dd7178aac5905b69a7a7b34';
+    		$this->fbconfig['baseurl']    = 'http://cgp.com/facebook_checkin/app/sn/facebook/login/';
     		$this->facebook = new Facebook(array(
       		'appId'  => 	$this -> fbconfig['appid'],
       		'secret' => 	$this -> fbconfig['secret'],
@@ -46,7 +46,7 @@ class SNFacebookService {
 	public function login() {
 		$para = array(
                 'scope'         => PERMISSION,
-                'redirect_uri'  => 'http://apps.facebook.com/dorothy_recommend/'
+                'redirect_uri'  => 'http://apps.facebook.com/computational_geo/'
             );
 		$loginUrl   = $this->facebook->getLoginUrl($para);
 		
