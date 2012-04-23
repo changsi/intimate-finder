@@ -32,8 +32,8 @@ CREATE TABLE `location` (
 	`longitude` int NOT NULL DEFAULT '0',
 	`picture_url` varchar(1000) NOT NULL DEFAULT '',
 	`address` varchar(1000) NOT NULL DEFAULT '',
-	`description` varchar(50000) DEFAULT '',
-	PRIMARY KEY (`object_id`)
+	`description` varchar(10000) DEFAULT '',
+	PRIMARY KEY (`location_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 
