@@ -28,7 +28,7 @@ if($user_id) {
 	}else{
 		getUserInfo();		
 	}
-	header("Location: ".HOST_PREFIX."/home/hero");
+	header("Location: ".HOST_PREFIX."welcome.php");
 	die();
 		
 }
