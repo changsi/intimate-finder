@@ -8,7 +8,7 @@
 				echo("<script> top.location.href='" . $loginUrl . "'</script>");
 			}
 			else {
-				echo "welcome to use dorothy!";
+				echo "welcome to use our application!";
 			}
 		?>
 		</body>
