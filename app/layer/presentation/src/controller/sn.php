@@ -14,15 +14,15 @@ ob_clean();
 //require getContextFilePath("common.service.IdService");
 
 require getContextFilePath("sn.service.SNFacebookService");
-//require getContextFilePath("user.service.UserService");
+require getContextFilePath("user.service.UserService");
 
 
 
 $SNFacebookService = new SNFacebookService();
 $SNFacebookService->setDBDriverForLiveSystem($live_DB_driver);
 
-//$UserService = new UserService();
-//$UserService->setDBDriverForLiveSystem($live_DB_driver);
+$UserService = new UserService();
+$UserService->setDBDriverForLiveSystem($live_DB_driver);
 
 require getPresentationControllerFilePath("default");
 ?>
