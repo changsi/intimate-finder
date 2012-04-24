@@ -5,7 +5,7 @@ $DB_CONFIG = array(
 	"HOST" => "localhost",
 	"DBNAME" => "checkin",
 	"USERNAME" => "root",
-	"PASSWORD" => "123456",
+	"PASSWORD" => "198721",
 	"ENCODING" => "utf8"
 );
 ?>
