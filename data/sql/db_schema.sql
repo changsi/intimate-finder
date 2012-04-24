@@ -21,7 +21,7 @@ CREATE TABLE `user_friend` (
   `user_id_to` bigint unsigned NOT NULL DEFAULT '0',
   `created_date` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
   `modified_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  PRIMARY KEY (`network_user_id_from`,`network_user_id_to`)
+  PRIMARY KEY (`user_id_from`,`user_id_to`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 
