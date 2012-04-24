@@ -1,9 +1,17 @@
 <?php 
-require dirname(__FILE__) . "/common.php";
+define("APP_PATH", dirname(dirname(__FILE__)));
+	
+require APP_PATH . "/lib/cms/init.php";
+require getConfigFilePath("config");
+require getConfigFilePath("db_config");
+require getLibFilePath("db.driver.MySqlDB");
 
 
 require getContextFilePath("sn.service.SNFacebookService");
-require getContextFilePath("content.service.ContentService");
+require getContextFilePath("location.service.LocationService");
+require getContextFilePath("location.service.UserLocationService");
+require getContextFilePath("user.service.UserService");
+require getContextFilePath("user.service.UserFriendService");
 
 //init live system DB driver
 $live_DB_driver = new MySqlDB();
@@ -14,8 +22,17 @@ $live_DB_driver->setCharset($DB_CONFIG["ENCODING"]);
 $SNFacebookService = new SNFacebookService();
 $SNFacebookService->setDBDriverForLiveSystem($live_DB_driver);
 
-$ContentService = new ContentService();
-$ContentService->setDBDriverForLiveSystem($live_DB_driver);
+$LocationService = new LocationService();
+$LocationService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserLocationService = new UserLocationService();
+$UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserLocationService = new UserService();
+$UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserLocationService = new UserLocationService();
+$UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
 
 $old_objects = $ContentService->getNewObjectIDs();
 $new_ids = array();
