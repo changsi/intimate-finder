@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/signalsiq/!svn/ver/992/trunk/client/facebook_app/app/layer/context/user/service
+END
+UserCategoryService.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/signalsiq/!svn/ver/933/trunk/client/facebook_app/app/layer/context/user/service/UserCategoryService.php
+END
+UserService.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/signalsiq/!svn/ver/1008/trunk/client/facebook_app/app/layer/context/user/service/UserService.php
+END
+UserFriendService.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/signalsiq/!svn/ver/992/trunk/client/facebook_app/app/layer/context/user/service/UserFriendService.php
+END
