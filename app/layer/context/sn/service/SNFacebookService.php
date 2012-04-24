@@ -87,7 +87,7 @@ class SNFacebookService {
 	//To be used by script/start_fetching_facebook_user_data.php
 	public function getUserProfile($data) {
 		if($this->user){
-			$user_profile = $this->facebook->api('/'.$data["network_user_id"]);
+			$user_profile = $this->facebook->api('/'.$data["user_id"]);
 			return $user_profile;
 		}
 	}
