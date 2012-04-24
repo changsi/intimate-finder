@@ -17,8 +17,8 @@ CREATE TABLE `user` (
 
 
 CREATE TABLE `user_friend` (
-  `network_user_id_from` bigint unsigned NOT NULL DEFAULT '0',
-  `network_user_id_to` bigint unsigned NOT NULL DEFAULT '0',
+  `user_id_from` bigint unsigned NOT NULL DEFAULT '0',
+  `user_id_to` bigint unsigned NOT NULL DEFAULT '0',
   `created_date` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
   `modified_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`network_user_id_from`,`network_user_id_to`)
@@ -28,8 +28,8 @@ CREATE TABLE `user_friend` (
 CREATE TABLE `location` (
 	`location_id` bigint unsigned NOT NULL DEFAULT '0',
 	`name` varchar(1000) NOT NULL DEFAULT '',
-	`latitude` int NOT NULL DEFAULT '0',
-	`longitude` int NOT NULL DEFAULT '0',
+	`latitude` double NOT NULL DEFAULT '0',
+	`longitude` double NOT NULL DEFAULT '0',
 	`picture_url` varchar(1000) NOT NULL DEFAULT '',
 	`address` varchar(1000) NOT NULL DEFAULT '',
 	`description` varchar(10000) DEFAULT '',
@@ -38,11 +38,11 @@ CREATE TABLE `location` (
 
 
 CREATE TABLE `user_location` (
+  `checkin_id` bigint NOT NULL DEFAULT '0',
   `user_id` bigint NOT NULL DEFAULT '0',
   `location_id` bigint unsigned NOT NULL DEFAULT '0',
-  `frequency` int unsigned NOT NULL DEFAULT '1',
   `create_date` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
-  PRIMARY KEY (`user_id`,`location_id`)
+  PRIMARY KEY (`checkin_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 
