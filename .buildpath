@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="app/config"/>
+	<buildpathentry kind="src" path="app/layer/context/sn/service"/>
+	<buildpathentry kind="src" path="app/layer/context/sn/util"/>
+	<buildpathentry kind="src" path="app/layer/presentation/src/controller"/>
+	<buildpathentry kind="src" path="app/layer/presentation/src/entity/sn/facebook"/>
+	<buildpathentry kind="src" path="app/layer/presentation/src/view/sn/facebook"/>
+	<buildpathentry kind="src" path="app/layer/presentation/webroot"/>
+	<buildpathentry kind="src" path="app/layer/rule"/>
+	<buildpathentry kind="src" path="app/lib/cms"/>
+	<buildpathentry kind="src" path="app/lib/db"/>
+	<buildpathentry kind="src" path="app/lib/io"/>
+	<buildpathentry kind="src" path="app/lib/sn/platform/facebook"/>
+	<buildpathentry kind="src" path="app/lib/util"/>
+	<buildpathentry kind="src" path="app/lib/web/normalizer"/>
+	<buildpathentry kind="src" path="app/lib/web/simple_html_dom"/>
+	<buildpathentry kind="src" path="app/script"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
