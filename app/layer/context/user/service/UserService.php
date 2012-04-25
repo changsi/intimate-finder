@@ -28,6 +28,9 @@ class UserService {
 	}
 	
 	public function insertUser($data){
+		if(!isset($data['access_token'])){
+			$data['access_token'] = '';
+		}
 		return $this->userFacebookAppRule->insertUserNetwork($data);
 	}
 }
