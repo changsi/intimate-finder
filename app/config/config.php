@@ -4,10 +4,10 @@
 date_default_timezone_set("America/New_York");
 
 if (isset($_SERVER["HTTP_HOST"])) {
-	define("HOST_PREFIX", "http://" . $_SERVER["HTTP_HOST"] . "/facebook_checkin/app");
+	define("HOST_PREFIX", "http://" . $_SERVER["HTTP_HOST"] . "/intimate-finder/app");
 }
 
-define("LOCAL_HOST", "http://127.0.0.1/facebook_checkin/app");
+define("LOCAL_HOST", "http://127.0.0.1/intimate-finder/app");
 define("APPID",'');
 
 define("PERMISSION",
