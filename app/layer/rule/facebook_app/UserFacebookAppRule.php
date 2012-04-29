@@ -7,8 +7,9 @@ class UserFacebookAppRule extends Rule {
 		$created_date = $this->getCurrentTimestamp();	//get current timestamp
 	
 		$sql = "insert into user (user_id, name,birth_date, gender, created_date, access_token, picture_url, expiry_date, modified_date) values 
-		(" . $data["user_id"] . ", '" . $data["name"] . "', '" . $data["birth_date"] . "', " . $data["gender"] . ", '$created_date', '". 
-		 $data["access_token"]."' , '".  $data["picture_url"]."', '".$data["expiry_date"]."', '".$created_date."') ON DUPLICATE KEY UPDATE 
+		(" . $data["user_id"] . ", '" . mysql_real_escape_string($data["name"] ). "', '" . $data["birth_date"] . "', " . 
+		$data["gender"] . ", '$created_date', '". $data["access_token"]."' , '".  $data["picture_url"]."', '".
+		$data["expiry_date"]."', '".$created_date."') ON DUPLICATE KEY UPDATE 
 		name=VALUES(name), access_token=values(access_token), modified_date=NOW()" ;
 		//echo "$sql<br>";
 	

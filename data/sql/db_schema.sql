@@ -14,7 +14,12 @@ CREATE TABLE `user` (
   PRIMARY KEY (`user_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
-
+CREATE TABLE `downloading_progress` (
+  `user_id` bigint unsigned NOT NULL DEFAULT '0',
+  `progress` int unsigned NOT NULL DEFAULT '0',
+  `control_flag` int unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`user_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 CREATE TABLE `user_friend` (
   `user_id_from` bigint unsigned NOT NULL DEFAULT '0',

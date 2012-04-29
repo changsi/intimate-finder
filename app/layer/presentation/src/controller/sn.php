@@ -15,7 +15,10 @@ ob_clean();
 
 require getContextFilePath("sn.service.SNFacebookService");
 require getContextFilePath("user.service.UserService");
-
+require getContextFilePath("user.service.UserProgressionService");
+require getContextFilePath("user.service.UserFriendService");
+require getContextFilePath("location.service.LocationService");
+require getContextFilePath("location.service.UserLocationService");
 
 
 $SNFacebookService = new SNFacebookService();
@@ -23,6 +26,19 @@ $SNFacebookService->setDBDriverForLiveSystem($live_DB_driver);
 
 $UserService = new UserService();
 $UserService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserProgressionService = new UserProgressionService();
+$UserProgressionService->setDBDriverForLiveSystem($live_DB_driver);
+
+$LocationService = new LocationService();
+$LocationService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserLocationService = new UserLocationService();
+$UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
+
+
+$UserFriendService = new UserFriendService();
+$UserFriendService->setDBDriverForLiveSystem($live_DB_driver);
 
 require getPresentationControllerFilePath("default");
 ?>

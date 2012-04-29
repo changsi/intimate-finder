@@ -1,20 +1,32 @@
 <?php 
 
 function get_data_from_profile($user_profile){
-	$birthday= date_parse($user_profile['birthday']);
-	$birth_date = $birthday['year'].'-'.$birthday['month'].'-'.$birthday['day'];
+	if(isset($user_profile['birthday'])){
+		$birthday= date_parse($user_profile['birthday']);
+		$birth_date = $birthday['year'].'-'.$birthday['month'].'-'.$birthday['day'];
+	}else{
+		$birth_date = '';
+	}
+	if(isset($user_profile['gender'])){
+		$gender = $user_profile['gender']=='male'?0:1;
+	}else{
+		$gender = 2;
+	}
+	
 	$data = array(
 			'user_id' => $user_profile['id'],
 			'name'	=>	$user_profile['name'],
 			'birth_date' => $birth_date,
-			'gender' => (isset($user_profile['gender'])?2:$user_profile['gender'])=='male'?0:1,
+			'gender' => $gender,
 			'picture_url' => "",
 			'expiry_date' => ''
 	);
 	return $data;
 }
 
+// get the user friend ids array from facebook graph api /friends query
 function get_ids_from_friends($user_friends){
+	$user_friends = $user_friends['data'];
 	$data = array();
 	foreach($user_friends as $friend){
 		$data[] = $friend['id'];

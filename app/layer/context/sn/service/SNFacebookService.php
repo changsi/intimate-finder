@@ -15,7 +15,7 @@ class SNFacebookService {
 	public function __construct() {
 		$this->fbconfig['appid' ]     = '382809748430590';
     		$this->fbconfig['secret']     = 'fb789ce03dd7178aac5905b69a7a7b34';
-    		$this->fbconfig['baseurl']    = 'http://cgp.com/facebook_checkin/app/sn/facebook/login/';
+    		$this->fbconfig['baseurl']    = 'http://cgp.com/intimate-finder/app/sn/facebook/login/';
     		$this->facebook = new Facebook(array(
       		'appId'  => 	$this -> fbconfig['appid'],
       		'secret' => 	$this -> fbconfig['secret'],
@@ -46,7 +46,7 @@ class SNFacebookService {
 	public function login() {
 		$para = array(
                 'scope'         => PERMISSION,
-                'redirect_uri'  => 'http://apps.facebook.com/computational_geo/'
+                'redirect_uri'  => 'http://cgp.com/intimate-finder/app/sn/facebook/login/'
             );
 		$loginUrl   = $this->facebook->getLoginUrl($para);
 		
@@ -122,8 +122,8 @@ class SNFacebookService {
 			
 			$queries = array();
 			for ($i = $start; $i < ($start+$limit); $i++) {
-				$queryProfile = array('method' => 'GET', 'relative_url' => '/'.$friends[$i]['id']);
-				$queryCheckin = array('method' => 'GET', 'relative_url' => '/'.$friends[$i]['id'].'/checkins');
+				$queryProfile = array('method' => 'GET', 'relative_url' => '/'.$friends[$i]);
+				$queryCheckin = array('method' => 'GET', 'relative_url' => '/'.$friends[$i].'/checkins');
     				
 				
 				

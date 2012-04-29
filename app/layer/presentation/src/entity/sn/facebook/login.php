@@ -17,8 +17,8 @@ if($user_id) {
      
 	updateUserInfo();
 	
-	echo HOST_PREFIX;
-	echo "<br>";
+	//echo HOST_PREFIX;
+	//echo "<br>";
 	header("Location: ".HOST_PREFIX."/sn/facebook/welcome");
 	die();
 		
