@@ -7,7 +7,7 @@ class UserFriendFacebookAppRule extends Rule {
 		$created_date = $this->getCurrentTimestamp();	//get current timestamp
 		
 		$sql = "insert into user_friend (user_id_from, user_id_to, created_date) values ("  . $data["user_id_from"] .
-		 ", " . $data["user_id_to"] . ", '$created_date')";
+		 ", " . $data["user_id_to"] . ", '$created_date') ON DUPLICATE KEY UPDATE created_date=VALUES(created_date);";
 		//echo "\n\n\n". $sql."\n\n\n" ;
 		return $this->setData($sql);
 	}

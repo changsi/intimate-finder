@@ -19,6 +19,14 @@ function store_user_checkins($user_checkins, $LocationService, $UserLocationServ
 	
 }
 
+function store_user_friends($user_id, $friends_ids, $UserFriendService){
+	$data = array('user_id_from'=>$user_id);
+	foreach($friends_ids as $friend_id){
+		$data['user_id_to'] = $friend_id;
+		$UserFriendService->insertUserFriend($data);
+	}
+}
+
 function fetch_checkin($data){
 	
 	$user_id = $data['user_id'];
@@ -83,6 +91,8 @@ function fetch_checkin($data){
 	$UserProgressionService->insertUserProgress($progress_data);
 	
 	$user_friends_ids = get_ids_from_friends($user_friends);
+	store_user_friends($user_id, $user_friends_ids, $UserFriendService);
+	
 	$batch_num = floor(count( $user_friends_ids )/25);
 	$last_batch_num = count($user_friends_ids)%25;
 	

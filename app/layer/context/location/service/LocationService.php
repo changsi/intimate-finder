@@ -19,6 +19,10 @@ class LocationService {
 		
 	}
 	
+	public function getAllLocation(){
+		return $this->locationFacebookAppRule->getAllLocation();
+	}
+	
 	
 	
 	public function insertLocation($data){

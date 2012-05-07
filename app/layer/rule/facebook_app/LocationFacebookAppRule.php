@@ -16,6 +16,12 @@ class LocationFacebookAppRule extends Rule {
 		//echo "\n\n\n". $sql."\n\n\n" ;
 		return $this->setData($sql);
 	}
+	
+	public function getAllLocation(){
+		$sql = "select location_id, latitude, longitude from location  ";
+		//echo "\n\n\n". $sql."\n\n\n" ;
+		return $this->getData($sql);
+	}
 
 
 }
