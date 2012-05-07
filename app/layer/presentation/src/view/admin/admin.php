@@ -50,10 +50,10 @@ body {
 				</a> <a class="brand" href="#">Intimate Finder</a>
 				<div class="nav-collapse">
 					<ul class="nav">
-						<li class="active"><a href="#">Home</a></li>
+						<li><a href="#">Home</a></li>
 						<li><a href="#about">About</a></li>
 						<li><a href="#contact">Contact</a></li>
-						<li><a href="#contact">Admin</a></li>
+						<li class="active"><a href="#contact">Admin</a></li>
 					</ul>
 				</div>
 				<!--/.nav-collapse -->
@@ -65,34 +65,12 @@ body {
 		
 		
 		<div class="row">
-			<div class="span4">
-				<ul class="thumbnails">
-					<li>
-
-						<div class="thumbnail">
-
-							<img
-								src="http://renrutkram.files.wordpress.com/2011/03/istock_000005622581medium.jpg"
-								alt="">
-						</div>
-
-					</li>
-
-				</ul>
-			</div>
+			
 			<div class="span6">
 				
-					<h1>Want to Make More Friends Around You</h1>
-					<br>
-					<p></p>
-					<h3>In this city, there are thousands of people you just pass by
-						every day and you never get the chance to know them. Our
-						application wants to make it easy to discover the hidden
-						connections around you, and to meet interesting people.</h3>
-					<p> </p>
-					<br>
+					
 					<p>
-						<a class="btn btn-primary btn-large" href="/intimate-finder/app/sn/facebook/login"> Login with Facebook </a>
+						<a class="btn btn-primary btn-large" href="/intimate-finder/app/sn/facebook/login"> Build Kd-Tree </a>
 					</p>
 				
 			</div>
