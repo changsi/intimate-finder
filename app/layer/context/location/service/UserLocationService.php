@@ -19,5 +19,13 @@ class UserLocationService {
 	public function insertUserLocation($data){
 		return $this->userLocationFacebookAppRule->insertUserLocation($data);
 	}
+	
+	public function getLocationByUserID($data){
+		return $this->userLocationFacebookAppRule->getLocationByUserID($data);
+	}
+	
+	public function getUserIDsByLocationID($data){
+		return $this->userLocationFacebookAppRule->getUserIDsByLocationID($data);
+	}
 }
 ?>

@@ -36,7 +36,49 @@ body {
 <link rel="apple-touch-icon-precomposed"
 	href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-57-precomposed.png">
 
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
 
+     function CreateHTTPRequestObject () {
+         // although IE supports the XMLHttpRequest object, but it does not work on local files.
+     var forceActiveX = (window.ActiveXObject && location.protocol === "file:");
+     if (window.XMLHttpRequest && !forceActiveX) {
+         return new XMLHttpRequest();
+     }
+     else {
+         try {
+             return new ActiveXObject("Microsoft.XMLHTTP");
+         } catch(e) {}
+     }
+     alert ("Your browser doesn't support XML handling!");
+     return null;
+ }
+    
+     function trigger_build_kdtree(){
+ 		var xmlhttp=null;
+ 		
+ 		xmlhttp=CreateHTTPRequestObject();
+ 	  	//alert("works");
+ 	  	xmlhttp.onreadystatechange=function()
+ 	    {
+ 	    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+ 	      {
+ 	 	      if(xmlhttp.responseText == "true"){
+ 	 	    	alert("finish building Kd Tree.");
+ 	 	      }else{
+ 	 	    	alert(xmlhttp.responseText);
+ 	 	      }
+ 	      
+ 	      
+ 	      }
+ 	    };
+ 	    
+ 	    
+ 		xmlhttp.open("GET","/intimate-finder/app/admin/trigger_build_kdtree",true);
+ 	  	xmlhttp.send(null);
+ 	}
+   </script>
 </head>
 
 <body>
@@ -47,13 +89,13 @@ body {
 				<a class="btn btn-navbar" data-toggle="collapse"
 					data-target=".nav-collapse"> <span class="icon-bar"></span> <span
 					class="icon-bar"></span> <span class="icon-bar"></span>
-				</a> <a class="brand" href="#">Intimate Finder</a>
+				</a> <a class="brand" href="/intimate-finder/app/sn/facebook/welcome">Intimate Finder</a>
 				<div class="nav-collapse">
 					<ul class="nav">
-						<li><a href="#">Home</a></li>
+						<li><a href="/intimate-finder/app/sn/facebook/welcome">Home</a></li>
 						<li><a href="#about">About</a></li>
 						<li><a href="#contact">Contact</a></li>
-						<li class="active"><a href="#contact">Admin</a></li>
+						<li class="active"><a href="admin">Admin</a></li>
 					</ul>
 				</div>
 				<!--/.nav-collapse -->
@@ -62,17 +104,18 @@ body {
 	</div>
 
 	<div class="container">
-		
-		
+
+
 		<div class="row">
-			
+
 			<div class="span6">
-				
-					
-					<p>
-						<a class="btn btn-primary btn-large" href="/intimate-finder/app/sn/facebook/login"> Build Kd-Tree </a>
-					</p>
-				
+
+
+				<p>
+					<button class="btn btn-primary btn-large" onclick="trigger_build_kdtree()">Build
+						Kd-Tree</button>
+				</p>
+
 			</div>
 
 		</div>

@@ -23,10 +23,10 @@ function build_kdtree(){
 	 
 	 $curl = new cURL(false);
 	 
-	 echo $curl->post('http://localhost:8080/KDTree/build','data='.$locations_json);
+	 return $curl->post('http://localhost:8080/KDTree/build','data='.$locations_json);
 	
 }
 
-build_kdtree();
+//build_kdtree();
 
 ?>

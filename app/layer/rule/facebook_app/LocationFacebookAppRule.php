@@ -22,6 +22,16 @@ class LocationFacebookAppRule extends Rule {
 		//echo "\n\n\n". $sql."\n\n\n" ;
 		return $this->getData($sql);
 	}
+	
+	public function getLocationByID($data){
+		$sql = "select * from location where location_id = ".$data['location_id'];
+		return $this->getData($sql);
+	}
+	
+	public function getLocationsByIDS($data){
+		$sql = "select * from location where location_id in (".$data['location_ids'].")";
+		return $this->getData($sql);
+	}
 
 
 }

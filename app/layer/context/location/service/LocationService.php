@@ -23,6 +23,16 @@ class LocationService {
 		return $this->locationFacebookAppRule->getAllLocation();
 	}
 	
+	//{"location_id"=>11111111}
+	public function getLocationByID($data){
+		return $this->locationFacebookAppRule->getLocationByID($data);
+	}
+	
+	//{"location_ids"=>"1111111,2222222,333333,444444,555555"}
+	public function getLocationsByIDS($data){
+		return $this->locationFacebookAppRule->getLocationsByIDS($data);
+	}
+	
 	
 	
 	public function insertLocation($data){
