@@ -64,12 +64,8 @@ body {
  	    {
  	    if (xmlhttp.readyState==4 && xmlhttp.status==200)
  	      {
- 	 	      if(xmlhttp.responseText == "true"){
- 	 	    	alert("finish building Kd Tree.");
- 	 	      }else{
- 	 	    	alert(xmlhttp.responseText);
- 	 	      }
- 	      
+ 	 	      
+ 	 	    	alert(xmlhttp.responseText); 
  	      
  	      }
  	    };

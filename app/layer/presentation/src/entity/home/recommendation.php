@@ -7,24 +7,42 @@ if($user_id) {
 	 
 	$my_locations = get_locations_by_user_id($user_id);
 	$friend_frequency = array();
+	$user_locations = array();
 	
 	foreach($my_locations as $my_location){
 		$my_location_frequency = $my_location["frequency"];
-		$close_locations = get_close_locations($my_location, 0.5);
+		$close_locations = get_close_locations($my_location, 0.2);
 		foreach($close_locations as $close_location){
+			// get the user_ids based on location id and corresponding frequency.
 			$users_frequency = $UserLocationService->getUserIDsByLocationID($close_location);
+			// get detailed location information based on location_id
+			$close_location_detail = $LocationService->getLocationByID($close_location);
+			$close_location_detail = $close_location_detail[0];
+			
 			foreach($users_frequency as $user_frequency){
 				$user_location_frequency = $user_frequency["frequency"]+$my_location_frequency;
+				// add or update user_id => frequency map
 				if(isset($friend_frequency[$user_frequency['user_id']])){
 					$previous = $friend_frequency[$user_frequency['user_id']];
 					$friend_frequency[$user_frequency['user_id']] = $previous + $user_location_frequency;
 				}else{
 					$friend_frequency[$user_frequency['user_id']] = $user_location_frequency;
 				}
+				// add user location map
+				if(isset($user_locations[$user_frequency['user_id']])){
+					if(isset($user_locations[$user_frequency['user_id']][$close_location_detail['location_id']])){
+						$previous_location_frequency = $user_locations[$user_frequency['user_id']][$close_location_detail['location_id']];
+						$user_locations[$user_frequency['user_id']][$close_location_detail['location_id']] = $previous_location_frequency+$user_location_frequency;
+					}else{
+						$user_locations[$user_frequency['user_id']][$close_location_detail['location_id']] = $user_location_frequency;
+					}
+				}else{
+					$user_locations[$user_frequency['user_id']] = array($close_location_detail['location_id']=>$user_location_frequency);
+				}
 			}
 		}
 	}
-	print_r($friend_frequency);
+	//print_r($user_locations);
 	
 	//$close_locations = get_close_locations(array("latitude"=>40.694024500161, "longitude"=>-73.986695005749), 0.5);
 	//print_r($close_locations);
