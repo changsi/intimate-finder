@@ -165,7 +165,7 @@ class SNFacebookService {
 				return false;
 			}
 			echo 'Caught exception: ',  $e->getMessage(), "\n";
-			sleep(100);
+			sleep(10);
 			echo "Trying again \n";
 			$batchResponse = $this->sendBatchRequests($data,$tryCount);
 		}

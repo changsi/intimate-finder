@@ -55,6 +55,11 @@ body {
 						<li><a href="#contact">Contact</a></li>
 						<li><a href="../../admin/admin">Admin</a></li>
 					</ul>
+					
+					<ul class="nav pull-right">
+						<li><a href="/intimate-finder/app/sn/facebook/logout">Logout</a></li>
+						
+					</ul>
 				</div>
 				<!--/.nav-collapse -->
 			</div>
@@ -93,7 +98,23 @@ body {
 					<p> </p>
 					<br>
 					<p>
-						<a class="btn btn-primary btn-large" href="/intimate-finder/app/sn/facebook/login"> Login with Facebook </a>
+						<a class="btn btn-primary btn-large" href="
+						<?php 
+							if($login){
+								echo "/intimate-finder/app/sn/facebook/fb_downloading";
+							}else{
+								echo "/intimate-finder/app/sn/facebook/login";
+							}
+						?>"> 
+						<?php 
+						
+						if($login) echo "Download Data";
+						else{
+							echo "Login Facebook";
+						}
+						?> 
+						
+						</a>
 						<a class="btn btn-primary btn-large" href="/intimate-finder/app/home/recommendation"> Show My Recommendation </a>
 					</p>
 				

@@ -19,7 +19,7 @@ if($user_id) {
 	
 	//echo HOST_PREFIX;
 	//echo "<br>";
-	header("Location: ".HOST_PREFIX."/sn/facebook/fb_downloading");
+	header("Location: ".HOST_PREFIX."/sn/facebook/welcome");
 	die();
 		
 }

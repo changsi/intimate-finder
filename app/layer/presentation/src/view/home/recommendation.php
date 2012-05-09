@@ -61,6 +61,10 @@ body {
 						<li><a href="#contact">Contact</a></li>
 						<li><a href="../../admin/admin">Admin</a></li>
 					</ul>
+					<ul class="nav pull-right">
+						<li><a href="/intimate-finder/app/sn/facebook/logout">Logout</a></li>
+						
+					</ul>
 				</div>
 				<!--/.nav-collapse -->
 			</div>

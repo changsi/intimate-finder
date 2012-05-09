@@ -9,14 +9,16 @@ function store_user_profile($user_profile,$UserService){
 function store_user_checkins($user_id, $user_checkins, $LocationService, $UserLocationService){
 
 	$user_checkins = $user_checkins['data'];
-	
-	foreach($user_checkins as $checkin){
-		$data = get_data_from_checkin($checkin);
-		//print_r($data);
-		$data['user_id'] = $user_id;
-		$LocationService->insertLocation($data);
-		$UserLocationService->insertUserLocation($data);
+	if(isset($user_checkins)&&!empty($user_checkins)){
+		foreach($user_checkins as $checkin){
+			$data = get_data_from_checkin($checkin);
+			//print_r($data);
+			$data['user_id'] = $user_id;
+			$LocationService->insertLocation($data);
+			$UserLocationService->insertUserLocation($data);
+		}
 	}
+	
 	
 }
 
@@ -77,11 +79,12 @@ function fetch_checkin($data){
 	$SNFacebookService->setAccessToken($data);
 	$result = $SNFacebookService->getEverythingExceptFriendsCheckin($data);
 	//print_r($result);
+	echo "finish fetching my data!\n";
 	
-	//$user_profile = json_decode($result[0]['body'], true, 512);
+	$user_profile = json_decode($result[0]['body'], true, 512);
 	$user_checkins = json_decode($result[1]['body'], true, 512);
 	$user_friends = json_decode($result[2]['body'], true, 512);
-	
+	//print_r($user_friends);
 	//print_r($user_profile);
 	
 	//print_r (get_data_from_profile($user_profile));
@@ -90,6 +93,7 @@ function fetch_checkin($data){
 	store_user_checkins($user_id, $user_checkins,$LocationService,$UserLocationService);
 	$progress_data['progress'] = 5;
 	$UserProgressionService->insertUserProgress($progress_data);
+	echo "progress 5\n";
 	
 	$user_friends_ids = get_ids_from_friends($user_friends);
 	store_user_friends($user_id, $user_friends_ids, $UserFriendService);
@@ -99,12 +103,12 @@ function fetch_checkin($data){
 	
 	$data = array("friends"=>$user_friends_ids);
 	
-	//echo "batch number:".$batch_num."		last batch number:".$last_batch_num."\n";
+	echo "batch number:".$batch_num."		last batch number:".$last_batch_num."\n";
 	
 	$k = 1;
 	if($batch_num>0){
 		for($i =0; $i<$batch_num*25; $i=$i+25){
-			//echo "batch: ".$k."\n";
+			echo "batch: ".$k."\n";
 			$data['start'] = $i;
 			$data['limit'] = 25;
 			$objects = $SNFacebookService->getFriendProfileInfoAndCheckin($data);
@@ -117,6 +121,7 @@ function fetch_checkin($data){
 			}
 			$progress_data['progress'] = $progress_data['progress']+round(95/($batch_num+1));
 			$UserProgressionService->insertUserProgress($progress_data);
+			echo "progress ".$progress_data['progress']."\n";
 			$k++;
 		}
 	}

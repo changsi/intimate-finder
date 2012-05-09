@@ -156,6 +156,10 @@ body {
 						<li><a href="#contact">Contact</a></li>
 						<li><a href="../../admin/admin">Admin</a></li>
 					</ul>
+					<ul class="nav pull-right">
+						<li><a href="/intimate-finder/app/sn/facebook/logout">Logout</a></li>
+						
+					</ul>
 				</div>
 				<!--/.nav-collapse -->
 			</div>
@@ -172,7 +176,7 @@ body {
 					<div class="thumbnail">
 
 						<img
-							src="http://www.bergoiata.org/fe/Mountains-Lakes-Snow/Lake%20Snow%20Mountain%20Wonder%20Lake%20Alaska.jpg"
+							src="/intimate-finder/resource/downloading.jpg"
 							alt="">
 						<div class="center_text">
 
