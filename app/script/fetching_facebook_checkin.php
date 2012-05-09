@@ -6,13 +6,14 @@ function store_user_profile($user_profile,$UserService){
 	return;
 }
 
-function store_user_checkins($user_checkins, $LocationService, $UserLocationService){
+function store_user_checkins($user_id, $user_checkins, $LocationService, $UserLocationService){
 
 	$user_checkins = $user_checkins['data'];
 	
 	foreach($user_checkins as $checkin){
 		$data = get_data_from_checkin($checkin);
 		//print_r($data);
+		$data['user_id'] = $user_id;
 		$LocationService->insertLocation($data);
 		$UserLocationService->insertUserLocation($data);
 	}
@@ -86,7 +87,7 @@ function fetch_checkin($data){
 	//print_r (get_data_from_profile($user_profile));
 	$progress_data = array('user_id'=>$user_id, 'control_flag'=>0);
 	
-	store_user_checkins($user_checkins,$LocationService,$UserLocationService);
+	store_user_checkins($user_id, $user_checkins,$LocationService,$UserLocationService);
 	$progress_data['progress'] = 5;
 	$UserProgressionService->insertUserProgress($progress_data);
 	
@@ -112,7 +113,7 @@ function fetch_checkin($data){
 				$friend_checkin = json_decode($objects[$j*2+1]['body'], true, 512);
 				//print_r($friend_profile);
 				store_user_profile($friend_profile,$UserService);
-				store_user_checkins($friend_checkin,$LocationService,$UserLocationService);
+				store_user_checkins($friend_profile['id'], $friend_checkin,$LocationService,$UserLocationService);
 			}
 			$progress_data['progress'] = $progress_data['progress']+round(95/($batch_num+1));
 			$UserProgressionService->insertUserProgress($progress_data);
@@ -127,7 +128,7 @@ function fetch_checkin($data){
 			$friend_profile = json_decode($objects[$j*2]['body'], true, 512);
 			$friend_checkin = json_decode($objects[$j*2+1]['body'], true, 512);
 			store_user_profile($friend_profile,$UserService);
-			store_user_checkins($friend_checkin,$LocationService,$UserLocationService);
+			store_user_checkins($friend_profile['id'],$friend_checkin,$LocationService,$UserLocationService);
 		}
 	}
 	$data = array("user_id"=>$user_id, "progress"=>100, "control_flag"=>0);

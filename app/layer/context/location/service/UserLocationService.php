@@ -27,5 +27,9 @@ class UserLocationService {
 	public function getUserIDsByLocationID($data){
 		return $this->userLocationFacebookAppRule->getUserIDsByLocationID($data);
 	}
+	
+	public function getUserIDsByLocationIDExceptforMyself($data, $user_id){
+		return $this->userLocationFacebookAppRule->getUserIDsByLocationIDExceptforMyself($data, $user_id);
+	}
 }
 ?>

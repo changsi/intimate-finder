@@ -22,6 +22,12 @@ class UserLocationFacebookAppRule extends Rule {
 		return $this->getData($sql);
 	}
 	
+	public function getUserIDsByLocationIDExceptforMyself($data, $user_id){
+		$sql = "select user_id , count(*) as frequency from user_location where location_id = ".$data['location_id']." and user_id !=".$user_id." group by user_id";
+	
+		return $this->getData($sql);
+	}
+	
 	
 	
 	 
