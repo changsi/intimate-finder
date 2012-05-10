@@ -55,11 +55,11 @@ if($user_id) {
 	//print_r($user_rank);
 	//echo "<br>";
 	
-	foreach ($users_locations as $user_id => $location){
+	foreach ($users_locations as $user_id_tmp => $location){
 		
-		$user_profile_tmp = $UserService->getUserInfoFromLiveSystem(array('user_id'=>$user_id));
+		$user_profile_tmp = $UserService->getUserInfoFromLiveSystem(array('user_id'=>$user_id_tmp));
 		//print_r($user_profile_tmp);
-		$user_profiles[$user_id] = $user_profile_tmp[0];
+		$user_profiles[$user_id_tmp] = $user_profile_tmp[0];
 		
 	}
 	

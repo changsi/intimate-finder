@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
-<title>Computational Geometry Project</title>
+<title>Left or Right</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="Si Chang">
@@ -29,6 +29,12 @@ body {
 	display: inline-block;
 	*display: inline; /* ie7 fix */
 	float: none; /* this is the part that makes it work */
+}
+.logal {
+    padding: 1px 3px 2px;
+    font-size:25.75px;
+    
+    
 }
 ​
 </style>
@@ -130,8 +136,8 @@ body {
 	      
 	      }
 	    };
-	    */
 	    
+	    */
 		xmlhttp.open("GET","/intimate-finder/app/sn/facebook/trigger_download",true);
 	  	xmlhttp.send(null);
 	}
@@ -143,29 +149,43 @@ body {
 <body>
 
 	<div class="navbar navbar-fixed-top">
-		<div class="navbar-inner">
-			<div class="container">
-				<a class="btn btn-navbar" data-toggle="collapse"
-					data-target=".nav-collapse"> <span class="icon-bar"></span> <span
-					class="icon-bar"></span> <span class="icon-bar"></span>
-				</a> <a class="brand" href="/intimate-finder/app/sn/facebook/welcome">Intimate Finder</a>
-				<div class="nav-collapse">
-					<ul class="nav">
-						<li><a href="#">Home</a></li>
-						<li><a href="#about">About</a></li>
-						<li><a href="#contact">Contact</a></li>
-						<li><a href="../../admin/admin">Admin</a></li>
-					</ul>
-					<ul class="nav pull-right">
-						<li><a href="/intimate-finder/app/sn/facebook/logout">Logout</a></li>
-						
-					</ul>
-				</div>
-				<!--/.nav-collapse -->
-			</div>
-		</div>
-	</div>
-
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          
+          <a class="brand" href="/intimate-finder/app/sn/facebook/welcome">
+				<span class="badge badge-success logal">Left</span>
+				<span class="badge badge-warning logal">or</span>
+				<span class="badge badge-info logal">Right</span>
+		  </a>
+				
+          <div class="btn-group pull-right">
+            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+              <i class="icon-user"></i> <?php echo $user_id; ?>
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Profile</a></li>
+              <li class="divider"></li>
+              <li><a href="/intimate-finder/app/sn/facebook/logout">Sign Out</a></li>
+            </ul>
+          </div>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li><a href="/intimate-finder/app/sn/facebook/welcome">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+              <li><a href="/intimate-finder/app/admin/admin">Admin</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
 	<div class="container">
 
 		<div class="row">

@@ -12,9 +12,10 @@ if($user_id) {
 	$data = array("user_id"=>$_SESSION["user_id"], "access_token"=>$_SESSION["access_token"]);
 	$data = array("user_id"=>$_SESSION["user_id"], "progress"=>0, "control_flag"=>0);
 	$UserProgressionService->insertUserProgress($data);
-	$command = "php ".getScriptFilePath("fetching_facebook_checkin")." ".$_SESSION["user_id"]." ".$_SESSION["access_token"].' &';
-	$handler = popen($command, "r");
-	//echo $command;
+	$command = "/usr/bin/php ".getScriptFilePath("fetching_facebook_checkin")." ".$_SESSION["user_id"]." ".$_SESSION["access_token"].' > /dev/null &';
+	
+	$handler = exec($command);
+	
 	//$data = array("user_id"=>$_SESSION["user_id"], "progress"=>100, "control_flag"=>0);
 	//$UserProgressionService->insertUserProgress($data);
 	//die();
