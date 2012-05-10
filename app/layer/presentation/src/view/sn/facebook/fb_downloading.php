@@ -196,7 +196,7 @@ body {
 					<div class="thumbnail">
 
 						<img
-							src="/intimate-finder/resource/downloading.jpg"
+							src="/intimate-finder/resource/download.jpg"
 							alt="">
 						<div class="center_text">
 
