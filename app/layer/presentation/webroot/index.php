@@ -1,7 +1,5 @@
 <?php
-/*
- * Copyright (c) 2011 Joao Pinto. All rights reserved.
- */
+
 define('APP_PATH', dirname(dirname(dirname(dirname(__FILE__)))));
 
 require APP_PATH . "/lib/cms/init.php";
