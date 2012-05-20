@@ -1,9 +1,4 @@
 <?php
-/*
-Contains functions for:
-- entity/sn/facebook/login.php
-- entity/sn/facebook/logout.php
-- script/start_fetching_facebook_user_data.php */
 
 require getLibFilePath("sn.platform.facebook.facebook");
 
@@ -55,9 +50,6 @@ class SNFacebookService {
 		//TODO
 	}
 	
-	
-	//$data = ["network_user_id" => "45154"]
-	//To be used by script/start_fetching_facebook_user_data.php
 	public function getUserProfile($data) {
 		if($this->user){
 			$user_profile = $this->facebook->api('/'.$data["user_id"]);
@@ -80,19 +72,6 @@ class SNFacebookService {
 			return $this->user;
 		}
 		return false;
-	}
-	
-	//$data = ["message"=>"user like book"]
-	public function publishPostInUserWall($data) {
-		//TODO
-		$para = array("message" => $data['message']);
-		if(isset($data['link'])){
-			$para["link"] = $data['link'];
-		}
-		if($this->user){
-			$this->facebook->api('/'.$data["network_user_id"].'/feed', 'POST', $para);
-			return;
-		}
 	}
 	
 	
