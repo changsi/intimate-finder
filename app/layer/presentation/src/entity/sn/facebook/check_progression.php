@@ -6,7 +6,7 @@ $user_id = $SNFacebookService->getUserId();
 
 $data = array("user_id"=>$user_id);
 
-$progression = $UserProgressionService->getUserProgress($data);
+$progression = $UserFBDownloadProgressionService->getUserProgress($data);
 
 if(isset($progression[0]) && isset($progression[0]['progress'])){
 	$progress = $progression[0]['progress'];

@@ -8,7 +8,7 @@ class DownloadingProgressFacebookAppRule extends Rule {
 
 		$sql = "insert into downloading_progress (user_id, progress, control_flag) values ("  .
 				$data["user_id"] .", ".$data["progress"].", ".$data['control_flag'].
-				") ON DUPLICATE KEY UPDATE progress=VALUES(progress);";
+				") ON DUPLICATE KEY UPDATE progress=VALUES(progress), control_flag=VALUES(control_flag);";
 		//echo "\n\n\n". $sql."\n\n\n" ;
 		return $this->setData($sql);
 	}

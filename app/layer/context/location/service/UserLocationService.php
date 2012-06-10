@@ -1,7 +1,6 @@
 <?php
 
 require_once getRuleFilePath("facebook_app.UserLocationFacebookAppRule");
-require_once getLibFilePath("io.FileHandler");
 
 class UserLocationService {
 	private $userLocationFacebookAppRule;
@@ -20,16 +19,16 @@ class UserLocationService {
 		return $this->userLocationFacebookAppRule->insertUserLocation($data);
 	}
 	
-	public function getLocationByUserID($data){
-		return $this->userLocationFacebookAppRule->getLocationByUserID($data);
+	public function getLocationAndScoreByUserID($data){
+		return $this->userLocationFacebookAppRule->getLocationAndScoreByUserID($data);
 	}
 	
 	public function getUserIDsByLocationID($data){
 		return $this->userLocationFacebookAppRule->getUserIDsByLocationID($data);
 	}
-	
-	public function getUserIDsByLocationIDExceptforMyself($data, $user_id){
-		return $this->userLocationFacebookAppRule->getUserIDsByLocationIDExceptforMyself($data, $user_id);
+	//{"location_id"=>123456}
+	public function getUserIDsScoreAndFrequencyByLocationIDExceptforMyself($data, $user_id){
+		return $this->userLocationFacebookAppRule->getUserIDsScoreAndFrequencyByLocationIDExceptforMyself($data, $user_id);
 	}
 }
 ?>

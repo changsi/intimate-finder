@@ -113,6 +113,18 @@ class SNFacebookService {
 		}
 	}
 	
+	// by si chang
+	public function getUserAndFriendsLikes($data){
+		if($this->user){
+			$queries = array(
+					array('method'=>'GET', 'relative_url'=>'/'.$data['user_id'].'/likes'),
+					array('method'=>'GET', 'relative_url'=>'/'.$data['user_id'].'/friends',"omit_response_on_success" => true,'name'=>'get-friends'),
+					array('method'=>'GET', 'relative_url'=>'/likes?ids={result=get-friends:$.data.*.id}')
+			);
+			return $this->sendBatchRequests($queries,0);
+		}
+	}
+	
 	
 	
 	//send batch requests if FB api timeout we retry 4 times before returning false

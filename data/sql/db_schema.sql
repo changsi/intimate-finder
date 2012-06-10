@@ -54,4 +54,33 @@ CREATE TABLE `user_location` (
   PRIMARY KEY (`checkin_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
+CREATE TABLE `object` (
+	`object_id` bigint unsigned NOT NULL DEFAULT '0',
+	`name` varchar(1000) NOT NULL DEFAULT '',
+	`category` varchar(100) NOT NULL DEFAULT '',
+	`picture_url` varchar(1000) NOT NULL DEFAULT '',
+	`link` varchar(1000) NOT NULL DEFAULT '',
+	`likes` int unsigned NOT NULL DEFAULT '0',
+	`website` varchar(1000) DEFAULT '',
+	`description` varchar(5000) DEFAULT '',
+	PRIMARY KEY (`object_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin COMMENT='generic table storing all kinds of facebook pages';
+
+
+CREATE TABLE `user_object` (
+  `user_id` bigint NOT NULL DEFAULT '0',
+  `object_id` bigint unsigned NOT NULL DEFAULT '0',
+  `object_name` varchar(1000) NOT NULL DEFAULT '',
+  `category` varchar(1000) NOT NULL DEFAULT '',
+  `create_date` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`user_id`,`object_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+CREATE TABLE `category` (
+	`category_id` bigint NOT NULL DEFAULT '0',
+	`category` varchar(1000) NOT NULL DEFAULT '',
+	`count` int unsigned NOT NULL DEFAULT '0',
+	PRIMARY KEY (`category_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
 

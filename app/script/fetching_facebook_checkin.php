@@ -30,16 +30,11 @@ function store_user_friends($user_id, $friends_ids, $UserFriendService){
 	}
 }
 
-function fetch_checkin($data){
-	
-	$user_id = $data['user_id'];
-	$access_token = $data['access_token'];
-	
+function init(){
 	define("APP_PATH", dirname(dirname(__FILE__)));
 	
 	require APP_PATH . "/lib/cms/init.php";
 	require getConfigFilePath("config");
-	require getConfigFilePath("db_config");
 	require getLibFilePath("db.driver.MySqlDB");
 	require getLibFilePath('sn.util.facebook_data_wrapper');
 	
@@ -49,7 +44,28 @@ function fetch_checkin($data){
 	require getContextFilePath("location.service.UserLocationService");
 	require getContextFilePath("user.service.UserService");
 	require getContextFilePath("user.service.UserFriendService");
-	require getContextFilePath("user.service.UserProgressionService");
+	require getContextFilePath("user.service.UserFBDownloadProgressionService");
+}
+
+function filter_registered_users($user_ids,$UserService){
+	
+	$result = array();
+	foreach($user_ids as $user_id){
+		if(!$UserService->isRegisteredUser(array('user_id'=>$user_id))){
+			$result[] = $user_id;
+		}
+	}
+	return $result;
+}
+
+function fetch_checkin($data){
+	
+	$user_id = $data['user_id'];
+	$access_token = $data['access_token'];
+	
+	
+	require getConfigFilePath("db_config");
+	
 	
 	//init live system DB driver
 	$live_DB_driver = new MySqlDB();
@@ -69,8 +85,8 @@ function fetch_checkin($data){
 	$UserService = new UserService();
 	$UserService->setDBDriverForLiveSystem($live_DB_driver);
 	
-	$UserProgressionService = new UserProgressionService();
-	$UserProgressionService->setDBDriverForLiveSystem($live_DB_driver);
+	$UserFBDownloadProgressionService = new UserFBDownloadProgressionService();
+	$UserFBDownloadProgressionService->setDBDriverForLiveSystem($live_DB_driver);
 	
 	$UserFriendService = new UserFriendService();
 	$UserFriendService->setDBDriverForLiveSystem($live_DB_driver);
@@ -88,15 +104,18 @@ function fetch_checkin($data){
 	//print_r($user_profile);
 	
 	//print_r (get_data_from_profile($user_profile));
-	$progress_data = array('user_id'=>$user_id, 'control_flag'=>0);
+	$progress_data = array('user_id'=>$user_id, "control_flag"=>1);
 	
 	store_user_checkins($user_id, $user_checkins,$LocationService,$UserLocationService);
 	$progress_data['progress'] = 5;
-	$UserProgressionService->insertUserProgress($progress_data);
+	$UserFBDownloadProgressionService->insertUserProgress($progress_data);
 	echo "progress 5\n";
 	
 	$user_friends_ids = get_ids_from_friends($user_friends);
 	store_user_friends($user_id, $user_friends_ids, $UserFriendService);
+	
+	// filter registered users
+	$user_friends_ids = filter_registered_users($user_friends_ids,$UserService);
 	
 	$batch_num = floor(count( $user_friends_ids )/25);
 	$last_batch_num = count($user_friends_ids)%25;
@@ -119,8 +138,8 @@ function fetch_checkin($data){
 				store_user_profile($friend_profile,$UserService);
 				store_user_checkins($friend_profile['id'], $friend_checkin,$LocationService,$UserLocationService);
 			}
-			$progress_data['progress'] = $progress_data['progress']+round(95/($batch_num+1));
-			$UserProgressionService->insertUserProgress($progress_data);
+			$progress_data['progress'] = $progress_data['progress']+round(75/($batch_num+1));
+			$UserFBDownloadProgressionService->insertUserProgress($progress_data);
 			echo "progress ".$progress_data['progress']."\n";
 			$k++;
 		}
@@ -136,43 +155,78 @@ function fetch_checkin($data){
 			store_user_checkins($friend_profile['id'],$friend_checkin,$LocationService,$UserLocationService);
 		}
 	}
-	$data = array("user_id"=>$user_id, "progress"=>100, "control_flag"=>0);
-	$UserProgressionService->insertUserProgress($data);
+	$data = array("user_id"=>$user_id, "progress"=>80, "control_flag"=>1);
+	$UserFBDownloadProgressionService->insertUserProgress($data);
 	
-	/*
+}
+
+function fetch_like($data){
+	$user_id = $data['user_id'];
+	$access_token = $data['access_token'];
+	
+	require getConfigFilePath("db_config");
+	//require getLibFilePath("db.driver.MySqlDB");
+	//require getLibFilePath('sn.util.facebook_data_wrapper');
 	
 	
+	//require getContextFilePath("sn.service.SNFacebookService");
+	require getContextFilePath("content.service.ObjectService");
+	require getContextFilePath("content.service.UserObjectService");
+	//require getContextFilePath("user.service.UserFBDownloadProgressionService");
 	
+	//init live system DB driver
+	$live_DB_driver = new MySqlDB();
+	$live_DB_driver->connect($DB_CONFIG["HOST"], $DB_CONFIG["DBNAME"], $DB_CONFIG["USERNAME"], $DB_CONFIG["PASSWORD"], '', false, true);
+	$live_DB_driver->setCharset($DB_CONFIG["ENCODING"]);
 	
+	//initialize service
+	$SNFacebookService = new SNFacebookService();
+	$SNFacebookService->setDBDriverForLiveSystem($live_DB_driver);
+	$UserObjectService = new UserObjectService();
+	$UserObjectService->setDBDriverForLiveSystem($live_DB_driver);
+	$ObjectService = new ObjectService();
+	$ObjectService->setDBDriverForLiveSystem($live_DB_driver);
+	$UserFBDownloadProgressionService = new UserFBDownloadProgressionService();
+	$UserFBDownloadProgressionService->setDBDriverForLiveSystem($live_DB_driver);
 	
-	foreach($old_objects as $old_object){
-		$network_object_id = $old_object['id'];
-		if(!isset($detailed_objects[$network_object_id])){
-			echo $network_object_id."\n";
+	$data = array('user_id'=>$user_id, 'access_token'=>$access_token);
+	$SNFacebookService->setAccessToken($data);
+	echo "start downloading likes data.\n";
+	$likes_data = $SNFacebookService->getUserAndFriendsLikes($data);
+	if($likes_data){
+		$user_likes = json_decode($likes_data[0]['body'], true, 512);
+		$friends_likes = json_decode($likes_data[2]['body'], true, 512);
+		print_r($friends_likes);
+		$friends_likes[$user_id] = $user_likes;
+		foreach($friends_likes as $friend_id=>$friend_likes){
+			$friend_likes = $friend_likes['data'];
+			if(empty($friend_likes)){
+				echo "$friend_id\n";
+			}else{
+				foreach($friend_likes as $value){
+					$data = array();
+					$data['user_id'] = $friend_id;
+					$data['object_id'] = $value['id'];
+					$data['object_name'] = (isset($value['name'])?$value['name']:'') ;
+					$data['category'] = (isset($value['category'])?$value['category']:'') ;
+					$data['created_time'] = (isset($value['created_time'])?$value['created_time']:'0000-00-00 00:00:00') ;
+				
+					$UserObjectService->insertUserObject($data);
+				}
+			}
+			
 		}
-		else{
-			$object_infor = $detailed_objects[$network_object_id];
-			$para = array();
-			$para['object_id'] = $old_object['object_id'];
-			$para['object_type_id'] = $old_object['object_type_id'];
-			$para['description'] = isset($object_infor['description']) ? $object_infor['description'] : (isset($object_infor['about'])?$object_infor['about']:"");
-			$para['plot_outline'] = isset($object_infor['plot_outline']) ? $object_infor['plot_outline'] : "";
-			$para['tv_network'] = isset($object_infor['tv_network']) ? $object_infor['tv_network'] : "";
-			$para['control_flag'] = 1;
-			$ContentService->updateObject($para);
-		}
-	
 	}
-	
-	//print_r($detailed_objects);
-	 
-	 */
+	$data = array("user_id"=>$user_id, "progress"=>100, "control_flag"=>0);
+	$UserFBDownloadProgressionService->insertUserProgress($data);
+	echo "progress 100\n";
 }
 
 $user_id = $argv[1];
 $access_token = $argv[2];
 $data = array('user_id'=>$user_id, 'access_token'=>$access_token);
+init();
 fetch_checkin($data);
-
+fetch_like($data);
 
 ?>

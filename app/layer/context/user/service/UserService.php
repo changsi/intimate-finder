@@ -3,7 +3,6 @@
 require_once getRuleFilePath("facebook_app.UserFacebookAppRule");
 
 
-require_once getLibFilePath("io.FileHandler");
 
 
 class UserService {
@@ -25,6 +24,14 @@ class UserService {
 	
 	public function getUserInfoFromLiveSystem($data){
 		return $this->userFacebookAppRule->getUserInfoFromLiveSystem($data);
+	}
+	
+	public function isRegisteredUser($data){
+		$result = $this->userFacebookAppRule->getUserInfoFromLiveSystem($data);
+		if(isset($result) && !empty($result) && isset($result[0]['access_token'])&&$result[0]['access_token']!=''){
+			return true;
+		}
+		return false;
 	}
 	
 	public function insertUser($data){

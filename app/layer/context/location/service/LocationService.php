@@ -3,7 +3,6 @@
 require_once getRuleFilePath("facebook_app.LocationFacebookAppRule");
 
 
-require_once getLibFilePath("io.FileHandler");
 
 
 class LocationService {

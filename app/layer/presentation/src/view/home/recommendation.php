@@ -17,15 +17,27 @@ body {
 	padding-top: 60px;
 	padding-bottom: 40px;
 }
-.resize{
+.resize_location_pic{
 	max-width:100%;
-	max-height:150px;
+	max-height:70px;
 }
+
+.resize_profile_pic{
+	max-width:100%;
+	max-height:100%;
+}
+
 .logal {
     padding: 1px 3px 2px;
-    font-size:25.75px;
-    
-    
+    font-size:25.75px; 
+}
+
+span.interest
+{
+margin-top:10px;
+margin-bottom:10px;
+margin-right:5px;
+margin-left:10px;
 }
 ​
 </style>
@@ -70,7 +82,15 @@ body {
 				
           <div class="btn-group pull-right">
             <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-              <i class="icon-user"></i> <?php echo $user_id; ?>
+              <i class="icon-user"></i> 
+              <?php 
+ 				if(isset($my_user_name)){
+              		echo $my_user_name;
+              	}
+              	else{
+              		echo "guest";
+              	}
+              ?>
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
@@ -98,14 +118,15 @@ body {
 			
 			foreach($user_rank as  $rank){
 				$user_id = $rank['user_id'];
-				$score = $rank['frequency'];
+				$score = $rank['score'];
 				$user_profile = $user_profiles[$user_id];
 				$user_profile['score'] = $score;
 				$close_location = $users_locations[$user_id];
 				$close_location = location_sort_by_frequency($close_location);
-				$new_location = $users_new_locations[$user_id];
-				$new_location = location_sort_by_frequency($new_location);
-				print_user_information($user_profile,$close_location,$new_location);
+				//$new_location = $users_new_locations[$user_id];
+				//$new_location = location_sort_by_frequency($new_location);
+				$user_interests = isset($user_common_interests[$user_id])? $user_common_interests[$user_id]:null;
+				print_user_information($user_profile,$close_location, $user_interests);
 			}
 		?>
 		
@@ -160,7 +181,7 @@ function print_my_information($profile, $locations){
 	<span class="badge badge-inverse">Places that you went before</span>
 	</div>
 	<hr>
-	<div class="row">';
+	<div class="row-fluid">';
 	
 		
 	echo print_row_locations($locations,0);
@@ -174,7 +195,8 @@ function print_my_information($profile, $locations){
 	</div>';
 }
 
-function print_user_information($profile, $close_location, $new_location){
+function print_user_information($profile, $close_location, $interests){
+	
 	echo '<hr>
 	<div class="row">
 	
@@ -191,14 +213,17 @@ function print_user_information($profile, $close_location, $new_location){
 					<span class="badge badge-inverse">close palces you both went</span>
 					</div>
 					<hr>
-					<div class="row" >';
+					<div class="row-fluid" >';
 					
 						
 					echo print_row_locations($close_location,0);
 					
+					
+					
 					echo '</div>';
+					
 				}
-				
+				/*
 				if(!empty($new_location)){
 					echo	'<div class="row">
 					<span class="badge badge-inverse">palces you may be interested in</span>
@@ -210,7 +235,12 @@ function print_user_information($profile, $close_location, $new_location){
 					
 					echo	'</div>';
 				}		
+				*/
 				
+				echo	'<hr>
+				<div class="row">';
+				echo print_user_interests($interests);
+				echo	'</div>';
 					
 			echo 	'</div>
 			</div>';
@@ -226,6 +256,18 @@ function birthday ($birthday){
 	return $year_diff;
 	}
  
+function print_user_interests($interests){
+	$result = "";
+	if(isset($interests) && !empty($interests)){
+		
+		foreach($interests as $interest){
+			$result = $result. '  <span class="label label-info interest">'.$interest.'   </span>  ';
+		}
+		
+	}
+	
+	return $result;
+}
 
 
 function print_user_profile($profile){
@@ -238,7 +280,7 @@ function print_user_profile($profile){
 	$result = '<div class="row">
 	<div class="thumbnail span1">
 	<a href="http://www.facebook.com/'.$user_id.'">
-	<img class="resize"
+	<img class="resize_profile_pic"
 	src="'.$picture_url.'"
 	alt="">
 	</a>
@@ -278,24 +320,36 @@ function print_user_profile($profile){
 }
 // 5 locations is a row
 function print_row_locations($locations, $start){
-	$result = '<ul class="thumbnails">';
-	
-	for($i=0; $i<5; $i++){
+	//$result = '<ul class="thumbnails">';
+	$result = '<div class="row">';
+	for($i=0; $i<6; $i++){
 		if($start>=sizeof($locations)){
 			break;
 		}else{
-			$result = $result.print_location($locations[$start]);
+			$result = $result.print_location_2($locations[$start]);
 		}
 		$start++;
 	}
+	$result = $result.'</div>';
 	
-	$result = $result. '</ul>';
+	$result = $result.'<div class="row">';
+	for($i=6; $i<12; $i++){
+		if($start>=sizeof($locations)){
+			break;
+		}else{
+			$result = $result.print_location_2($locations[$start]);
+		}
+		$start++;
+	}
+	$result = $result.'</div>';
+	
+	//$result = $result. '</ul>';
 	return $result;
 }
 
 function print_location($location){
 	$location_id = $location['location_id'];
-	$picture_url = 'http://graph.facebook.com/'.$location_id.'/picture?type=large';
+	$picture_url = 'http://graph.facebook.com/'.$location_id.'/picture?type=square';
 	$name = $location['name'];
 	$frequency = $location['frequency'];
 	$address = (isset($location['street'])?$location['street'].' ':'').
@@ -310,7 +364,7 @@ function print_location($location){
 	
 	<a href="http://www.facebook.com/'.$location_id.'">
 	
-	<img class="resize" 
+	<img class="resize_location_pic" 
 	src="'.$picture_url.'"
 	alt="" > 
 	
@@ -318,17 +372,50 @@ function print_location($location){
 	
 	<div class="caption">
 	<p>
-		<span class="label label-important">have been here '.$frequency.' times</span>
+		<span class="label label-warning">'.$frequency.' times</span>
 	</p>
 	<h5>'.$name.'</h5>
 	<h6>'.$address.'</h6>
-	<p>
-	<a href="http://www.facebook.com/'.$location_id.'" class="btn btn-primary">facebook link</a>
-	</p>
 	</div>'.
 	'</div>'.
 	
 	'</li>';
+	return $result;
+}
+
+function print_location_2($location){
+	$location_id = $location['location_id'];
+	$picture_url = 'http://graph.facebook.com/'.$location_id.'/picture?type=square';
+	$name = $location['name'];
+	$frequency = $location['frequency'];
+	$address = (isset($location['street'])?$location['street'].' ':'').
+	(isset($location['city'])?$location['city'].' ':'').
+	(isset($location['state'])?$location['state'].' ':'').
+	(isset($location['country'])?$location['country'].' ':'').
+	(isset($location['zip'])?$location['zip'].' ':'');
+	$result = '<div class="span2">'.
+
+			'
+			<div class="row-fluid">
+			<div class="span6">
+			<a href="http://www.facebook.com/'.$location_id.'">
+
+			<img class="resize_location_pic"
+			src="'.$picture_url.'"
+			alt="" >
+
+			</a>
+			</div>
+
+			<div class="caption">
+			<p>
+			<span class="label label-important">'.$frequency.' times</span>
+			</p>
+			
+			</div>
+			</div>'.
+			'<h5>'.$name.'</h5>'.
+			'</div>';
 	return $result;
 }
 ?>

@@ -42,6 +42,8 @@ class UserFacebookAppRule extends Rule {
 	}
 	
 	
+	
+	
 	public function updateUserAccessToken($data) {
 		$sql = "update user set access_token = '".$data["access_token"] . "' where user_id = ".$data["user_id"];
 	

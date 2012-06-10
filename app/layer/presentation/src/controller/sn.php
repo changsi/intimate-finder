@@ -15,7 +15,7 @@ ob_clean();
 
 require getContextFilePath("sn.service.SNFacebookService");
 require getContextFilePath("user.service.UserService");
-require getContextFilePath("user.service.UserProgressionService");
+require getContextFilePath("user.service.UserFBDownloadProgressionService");
 require getContextFilePath("user.service.UserFriendService");
 require getContextFilePath("location.service.LocationService");
 require getContextFilePath("location.service.UserLocationService");
@@ -27,8 +27,8 @@ $SNFacebookService->setDBDriverForLiveSystem($live_DB_driver);
 $UserService = new UserService();
 $UserService->setDBDriverForLiveSystem($live_DB_driver);
 
-$UserProgressionService = new UserProgressionService();
-$UserProgressionService->setDBDriverForLiveSystem($live_DB_driver);
+$UserFBDownloadProgressionService = new UserFBDownloadProgressionService();
+$UserFBDownloadProgressionService->setDBDriverForLiveSystem($live_DB_driver);
 
 $LocationService = new LocationService();
 $LocationService->setDBDriverForLiveSystem($live_DB_driver);

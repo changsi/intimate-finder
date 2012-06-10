@@ -11,6 +11,7 @@ require getContextFilePath("user.service.UserService");
 require getContextFilePath("user.service.UserFriendService");
 require getContextFilePath("location.service.LocationService");
 require getContextFilePath("location.service.UserLocationService");
+require getContextFilePath("content.service.UserObjectService");
 
 $UserService = new UserService();
 $UserService->setDBDriverForLiveSystem($live_DB_driver);
@@ -24,6 +25,9 @@ $UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
 
 $UserFriendService = new UserFriendService();
 $UserFriendService->setDBDriverForLiveSystem($live_DB_driver);
+
+$UserObjectService = new UserObjectService();
+$UserObjectService->setDBDriverForLiveSystem($live_DB_driver);
 
 require getPresentationControllerFilePath("default");
 

@@ -68,7 +68,16 @@ body {
 				
           <div class="btn-group pull-right">
             <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-              <i class="icon-user"></i> <?php echo $user_id; ?>
+              <i class="icon-user"></i> 
+               <?php 
+              if(isset($my_user_name)){
+              	echo $my_user_name;
+              }
+              else{
+              	echo "guest";
+              }
+              
+              ?>
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">

@@ -1,6 +1,5 @@
 <?php
 require_once getRuleFilePath("facebook_app.UserFriendFacebookAppRule");
-require_once getLibFilePath("io.FileHandler");
 
 class UserFriendService {
 	private $userFriendFacebookAppRule;
