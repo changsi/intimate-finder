@@ -14,6 +14,9 @@ else {
 	$INTERFACE_VERSION = "DESKTOP";
 }
 
+if (!ini_get('display_errors')) {
+	ini_set('display_errors', 1);
+}
 
 $_SESSION["interface_version"] = $INTERFACE_VERSION;
 

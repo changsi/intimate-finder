@@ -8,8 +8,8 @@ class SNFacebookService {
 	private $facebook;
 	
 	public function __construct() {
-		$this->fbconfig['appid' ]     = '382809748430590';
-    		$this->fbconfig['secret']     = 'fb789ce03dd7178aac5905b69a7a7b34';
+		$this->fbconfig['appid' ]     = '125988277527947';
+    		$this->fbconfig['secret']     = '95df4450008e26dc775a96b4dfd7a5d5';
     		$this->fbconfig['baseurl']    = 'http://cgp.com/intimate-finder/app/sn/facebook/login/';
     		$this->facebook = new Facebook(array(
       		'appId'  => 	$this -> fbconfig['appid'],

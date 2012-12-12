@@ -1,0 +1,4 @@
+sudo cp -r /home/changsi/workspace/intimate-finder/app/ /var/www/intimate-finder/
+sudo cp -r /home/changsi/workspace/intimate-finder/resource/ /var/www/intimate-finder/
+sudo cp -r /home/changsi/workspace/intimate-finder/bootstrap /var/www/intimate-finder/
+sudo cp -r /home/changsi/workspace/intimate-finder/data/ /var/www/intimate-finder/

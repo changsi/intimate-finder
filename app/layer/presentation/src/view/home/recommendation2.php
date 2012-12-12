@@ -114,19 +114,11 @@ margin-left:10px;
 	<div class="container">
 
 		<?php 
-			print_my_information($my_profile,$my_locations);
-			
-			foreach($user_rank as  $rank){
-				$user_id = $rank['user_id'];
-				$score = $rank['score'];
-				$user_profile = $user_profiles[$user_id];
-				$user_profile['score'] = $score;
-				$close_location = $users_locations[$user_id];
-				$close_location = location_sort_by_frequency($close_location);
-				//$new_location = $users_new_locations[$user_id];
-				//$new_location = location_sort_by_frequency($new_location);
-				$user_interests = isset($user_common_interests[$user_id])? $user_common_interests[$user_id]:null;
-				print_user_information($user_profile,$close_location, $user_interests);
+			//print_my_information($my_profile,$my_locations);
+			$loop_num = sizeof($locations)/12;
+			for($i=0; $i<$loop_num; $i++){
+				
+				print_user_information(null,$locations, $i*12);
 			}
 		?>
 		
@@ -165,13 +157,13 @@ margin-left:10px;
 
 <?php 
 
-function print_my_information($profile, $locations){
+function print_my_information($profile, $locations, $start){
 	echo '<div class="row">
 	
 	<div class="span2">';
 	//$user_profile = array('user_id'=>100001504551254, 'birth_date'=>'1987-06-21', 'gender'=>'0', 'name'=>'Si Chang');
 	
-	echo print_user_profile($profile);
+	//echo print_user_profile($profile);
 	
 	echo '</div>
 	
@@ -195,19 +187,19 @@ function print_my_information($profile, $locations){
 	</div>';
 }
 
-function print_user_information($profile, $close_location, $interests){
+function print_user_information($profile, $close_location, $start){
 	
 	echo '<hr>
-	<div class="row">
+	<div class="row">';
 	
-	<div class="span2">';
+	//<div class="span2">';
 	//$user_profile = array('user_id'=>100001504551254, 'birth_date'=>'1987-06-21', 'gender'=>'0', 'name'=>'Si Chang');
 	
-	echo print_user_profile($profile);
+	//echo print_user_profile($profile);
 	
-	echo '</div>
+	//echo '</div>
 	
-				<div class="span10">';
+	echo     '<div class="span12">';
 				if(!empty($close_location)){
 					echo	'<div class="row">
 					<span class="badge badge-inverse">close palces you both went</span>
@@ -216,7 +208,7 @@ function print_user_information($profile, $close_location, $interests){
 					<div class="row-fluid" >';
 					
 						
-					echo print_row_locations($close_location,0);
+					echo print_row_locations($close_location,$start);
 					
 					
 					
@@ -237,10 +229,10 @@ function print_user_information($profile, $close_location, $interests){
 				}		
 				*/
 				
-				echo	'<hr>
+				/* echo	'<hr>
 				<div class="row">';
 				echo print_user_interests($interests);
-				echo	'</div>';
+				echo	'</div>'; */
 					
 			echo 	'</div>
 			</div>';
@@ -348,15 +340,15 @@ function print_row_locations($locations, $start){
 }
 
 function print_location($location){
-	$location_id = $location['location_id'];
+	$location_id = $location['info']['location_id'];
 	$picture_url = 'http://graph.facebook.com/'.$location_id.'/picture?type=square';
-	$name = $location['name'];
-	$frequency = $location['frequency'];
-	$address = (isset($location['street'])?$location['street'].' ':'').
-				(isset($location['city'])?$location['city'].' ':'').
-				(isset($location['state'])?$location['state'].' ':'').
-				(isset($location['country'])?$location['country'].' ':'').
-				(isset($location['zip'])?$location['zip'].' ':'');
+	$name = $location['info']['name'];
+	$frequency = $location['count'];
+	$address = (isset($location['info']['street'])?$location['info']['street'].' ':'').
+				(isset($location['info']['city'])?$location['info']['city'].' ':'').
+				(isset($location['info']['state'])?$location['info']['state'].' ':'').
+				(isset($location['info']['country'])?$location['info']['country'].' ':'').
+				(isset($location['info']['zip'])?$location['info']['zip'].' ':'');
 	$result = '<li class="span2">'.
 	
 	'<div class="thumbnail">
@@ -384,15 +376,15 @@ function print_location($location){
 }
 
 function print_location_2($location){
-	$location_id = $location['location_id'];
+	$location_id = $location['info']['location_id'];
 	$picture_url = 'http://graph.facebook.com/'.$location_id.'/picture?type=square';
-	$name = $location['name'];
-	$frequency = $location['frequency'];
-	$address = (isset($location['street'])?$location['street'].' ':'').
-	(isset($location['city'])?$location['city'].' ':'').
-	(isset($location['state'])?$location['state'].' ':'').
-	(isset($location['country'])?$location['country'].' ':'').
-	(isset($location['zip'])?$location['zip'].' ':'');
+	$name = $location['info']['name'];
+	$frequency = $location['count'];
+	$address = (isset($location['info']['street'])?$location['info']['street'].' ':'').
+	(isset($location['info']['city'])?$location['info']['city'].' ':'').
+	(isset($location['info']['state'])?$location['info']['state'].' ':'').
+	(isset($location['info']['country'])?$location['info']['country'].' ':'').
+	(isset($location['info']['zip'])?$location['info']['zip'].' ':'');
 	$result = '<div class="span2">'.
 
 			'

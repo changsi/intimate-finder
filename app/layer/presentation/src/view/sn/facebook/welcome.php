@@ -147,7 +147,7 @@ body {
 						?> 
 						
 						</a>
-						<a class="btn btn-primary btn-large" href="/intimate-finder/app/home/recommendation"> Show My Recommendation </a>
+						<a class="btn btn-primary btn-large" href="/intimate-finder/app/home/recommendation2"> Show My Recommendation </a>
 					</p>
 				
 			</div>
@@ -159,7 +159,7 @@ body {
 		<hr>
 
 		<footer>
-			<p>© Si Chang, Enyu Wang, Yue Cao 2012</p>
+			<p>© Si Chang 2012</p>
 		</footer>
 
 	</div>

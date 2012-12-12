@@ -22,7 +22,6 @@ $LocationService->setDBDriverForLiveSystem($live_DB_driver);
 $UserLocationService = new UserLocationService();
 $UserLocationService->setDBDriverForLiveSystem($live_DB_driver);
 
-
 $UserFriendService = new UserFriendService();
 $UserFriendService->setDBDriverForLiveSystem($live_DB_driver);
 

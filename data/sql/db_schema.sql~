@@ -71,7 +71,7 @@ CREATE TABLE `user_activity` (
   `activity_id` bigint unsigned NOT NULL DEFAULT '0',
   `location_id` bigint unsigned NOT NULL DEFAULT '0',
   `create_date` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
-  PRIMARY KEY (`user_id`, `activity_id`)
+  PRIMARY KEY (`user_id, activity_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 

@@ -12,6 +12,11 @@ class UserFriendFacebookAppRule extends Rule {
 		return $this->setData($sql);
 	}
 	
+	public function getUserFriends($data) {
+		$sql = "select user_id_to from user_friend where user_id_from ='".$data['user_id_from']."'";
+		return $this->getData($sql);
+	}
+	
 	
 }
 ?>

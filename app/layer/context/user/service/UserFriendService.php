@@ -17,5 +17,9 @@ class UserFriendService {
 	public function insertUserFriend($data){
 		return $this->userFriendFacebookAppRule->insertUserFriend($data);
 	}
+	
+	public function getUserFriends($data){
+		return $this->userFriendFacebookAppRule->getUserFriends($data);
+	}
 }
 ?>

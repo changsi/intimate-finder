@@ -232,7 +232,7 @@ body {
 		<hr>
 
 		<footer>
-			<p>© Si Chang, Enyu Wang, Yue Cao 2012</p>
+			<p>© Si Chang 2012</p>
 		</footer>
 
 	</div>
